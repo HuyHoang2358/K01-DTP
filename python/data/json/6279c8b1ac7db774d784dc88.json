@@ -1,0 +1,142 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6279c8b1ac7db774d784dc88",
+        "name": "Cung Th\u1ec3 thao d\u01b0\u1edbi n\u01b0\u1edbc M\u1ef9 \u0110\u00ecnh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76858840179885,
+            "lat": 21.022099959518524
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -5.8,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76864310843757,
+                "lat": 21.021892310714648
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.7692460011059,
+                    "lat": 21.022379327826215
+                },
+                {
+                    "lng": 105.7692504922627,
+                    "lat": 21.021768225521342
+                },
+                {
+                    "lng": 105.7687044108938,
+                    "lat": 21.021781879506946
+                },
+                {
+                    "lng": 105.76870178447177,
+                    "lat": 21.021756464662275
+                },
+                {
+                    "lng": 105.76859983993694,
+                    "lat": 21.021751831872905
+                },
+                {
+                    "lng": 105.7685954609978,
+                    "lat": 21.021816847801418
+                },
+                {
+                    "lng": 105.76790740782104,
+                    "lat": 21.02182207377902
+                },
+                {
+                    "lng": 105.76790740311401,
+                    "lat": 21.022144195345362
+                },
+                {
+                    "lng": 105.76841368620165,
+                    "lat": 21.02214941707669
+                },
+                {
+                    "lng": 105.76841321652523,
+                    "lat": 21.022190896032626
+                },
+                {
+                    "lng": 105.76852784687895,
+                    "lat": 21.02219044018416
+                },
+                {
+                    "lng": 105.7685285817638,
+                    "lat": 21.02218988071627
+                },
+                {
+                    "lng": 105.76859183326792,
+                    "lat": 21.02219084479458
+                },
+                {
+                    "lng": 105.7685948954657,
+                    "lat": 21.022354712405274
+                },
+                {
+                    "lng": 105.76859379488474,
+                    "lat": 21.022414376625093
+                },
+                {
+                    "lng": 105.76871169308089,
+                    "lat": 21.022414859761895
+                },
+                {
+                    "lng": 105.76871448190792,
+                    "lat": 21.022383037902856
+                }
+            ],
+            "height": 20,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "sports_center"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "sports_center": "Trung t\u00e2m th\u1ec3 d\u1ee5c th\u1ec3 thao, nh\u00e0 thi \u0111\u1ea5u"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

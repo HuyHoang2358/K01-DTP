@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "612cb1bd2f30391a8a27b24f",
+        "name": "Showroom Eurowindow Multi Complex",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80349692141039,
+            "lat": 21.013570348176106
+        },
+        "scale": 1,
+        "bearing": 43,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18.5,
+            "bearing": -39.53333445787428,
+            "tilt": 48.58333274722099,
+            "target": {
+                "lng": 105.80319897748421,
+                "lat": 21.01346801291902
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "612cb1af2f30391a8a27b24a.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/612cb1af2f30391a8a27b24a.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80354503709673,
+                    "lat": 21.01361526393355
+                },
+                {
+                    "lng": 105.80354503706775,
+                    "lat": 21.01352543240514
+                },
+                {
+                    "lng": 105.80344880575302,
+                    "lat": 21.01352543240514
+                },
+                {
+                    "lng": 105.80344880572405,
+                    "lat": 21.01361526393355
+                },
+                {
+                    "lng": 105.80354503709673,
+                    "lat": 21.01361526393355
+                }
+            ],
+            "height": null,
+            "textureName": "612cb1b02f30391a8a27b24c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/612cb1b02f30391a8a27b24c.jpg"
+        },
+        "types": [
+            "coworking_space"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Duy H\u01b0ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "27 "
+            }
+        ],
+        "startDate": 1384275600000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "coworking_space": "V\u0103n ph\u00f2ng cho thu\u00ea"
+        },
+        "metadata": null,
+        "address": "27  Tr\u1ea7n Duy H\u01b0ng, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

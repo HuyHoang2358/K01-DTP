@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "612d977d2f30391a8a27b25e",
+        "name": "Vimeco CT4 Tower",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79352808472737,
+            "lat": 21.009261561486596
+        },
+        "scale": 1,
+        "bearing": -53,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18.25,
+            "bearing": 250.065478378603,
+            "tilt": 65,
+            "target": {
+                "lng": 105.79304318614373,
+                "lat": 21.009300999279617
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "62eb47e631332f97a73f0a85.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/62eb47e631332f97a73f0a85.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79357619902392,
+                    "lat": 21.009306477244042
+                },
+                {
+                    "lng": 105.79357619899496,
+                    "lat": 21.00921664571563
+                },
+                {
+                    "lng": 105.79347997045979,
+                    "lat": 21.00921664571563
+                },
+                {
+                    "lng": 105.79347997043082,
+                    "lat": 21.009306477244042
+                },
+                {
+                    "lng": 105.79357619902392,
+                    "lat": 21.009306477244042
+                }
+            ],
+            "height": null,
+            "textureName": "62eb47e731332f97a73f0a87.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/62eb47e731332f97a73f0a87.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "P. Nguy\u1ec5n Ch\u00e1nh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "L\u00f4 H1"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "L\u00f4 H1 P. Nguy\u1ec5n Ch\u00e1nh, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

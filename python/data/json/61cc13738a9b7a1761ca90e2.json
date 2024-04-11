@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61cc13738a9b7a1761ca90e2",
+        "name": "Ha Dong Metro Station - Ray",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.77994719731583,
+            "lat": 20.974024796194087
+        },
+        "scale": 1.05,
+        "bearing": 36.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -3.0371132295292376,
+            "tilt": 68.25,
+            "target": {
+                "lng": 105.77547808151928,
+                "lat": 20.970754074002073
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61cc13608a9b7a1761ca90dd.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cc13608a9b7a1761ca90dd.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.77999530026005,
+                    "lat": 20.974069711951543
+                },
+                {
+                    "lng": 105.77999530023114,
+                    "lat": 20.973979880423133
+                },
+                {
+                    "lng": 105.77989909440055,
+                    "lat": 20.973979880423133
+                },
+                {
+                    "lng": 105.77989909437163,
+                    "lat": 20.974069711951543
+                },
+                {
+                    "lng": 105.77999530026005,
+                    "lat": 20.974069711951543
+                }
+            ],
+            "height": null,
+            "textureName": "61cc13618a9b7a1761ca90df.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cc13618a9b7a1761ca90df.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u1ebft Ki\u00eau"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Quang Trung"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "Quang Trung, Ph\u01b0\u1eddng Y\u1ebft Ki\u00eau, Qu\u1eadn H\u00e0 \u0110\u00f4ng, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

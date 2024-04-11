@@ -1,0 +1,338 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5bc6bddd7b07300ff00cd710",
+        "name": "\u0110\u1ea1i h\u1ecdc Duy T\u00e2n",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845ea814a9df9d67e62a5",
+                "location": {
+                    "lng": 108.222886,
+                    "lat": 16.074645
+                },
+                "address": "3 Quang Trung, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u 1, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "\u0110\u1ea1i h\u1ecdc Duy T\u00e2n",
+                "objectId": "5bc6bddd7b07300ff00cd710",
+                "description": " &nbsp; ",
+                "types": [
+                    "university",
+                    "education"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "university",
+                        "name": "Tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc",
+                        "group": "education"
+                    },
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    }
+                ],
+                "mainType": "university",
+                "mainTypeInfos": {
+                    "id": "university",
+                    "name": "Tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc",
+                    "group": "education"
+                },
+                "auxiliaryTypes": [
+                    "education"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "3"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "university",
+                        "name": "Tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc",
+                        "description": "",
+                        "minZoom": 13,
+                        "group": "education",
+                        "minRank": 1000000,
+                        "maxRank": 2000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "education",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5bc6bddd7b07300ff00cd710",
+                    "name": "\u0110\u1ea1i h\u1ecdc Duy T\u00e2n",
+                    "location": {
+                        "lng": 108.2229342534772,
+                        "lat": 16.074650732465997
+                    },
+                    "scale": 1,
+                    "bearing": 7,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": -63.22443792752311,
+                        "tilt": 70.5,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5bc6bddd7b07300ff00cd710",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5bc6bddd7b07300ff00cd710",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.223032,
+                                "lat": 16.074987
+                            },
+                            {
+                                "lng": 108.223155,
+                                "lat": 16.074381
+                            },
+                            {
+                                "lng": 108.222617,
+                                "lat": 16.074909
+                            },
+                            {
+                                "lng": 108.22274,
+                                "lat": 16.074303
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "d7efb86a939d4c5886d4f11a076bed8b.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/d7efb86a939d4c5886d4f11a076bed8b.jpg"
+                    },
+                    "types": [
+                        "university"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "H\u1ea3i Ch\u00e2u 1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Quang Trung",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Quang Trung, H\u1ea3i Ch\u00e2u 1, H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1539751389437,
+                    "updatedDate": 1623224198446
+                },
+                "tags": null,
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.222886,
+                        16.074645
+                    ]
+                },
+                "rank": {
+                    "value": 1000000
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.2229342534772,
+            "lat": 16.074650732465997
+        },
+        "scale": 1,
+        "bearing": 7,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -63.22443792752311,
+            "tilt": 70.5,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5bc6bddd7b07300ff00cd710",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5bc6bddd7b07300ff00cd710",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.223032,
+                    "lat": 16.074987
+                },
+                {
+                    "lng": 108.223155,
+                    "lat": 16.074381
+                },
+                {
+                    "lng": 108.222617,
+                    "lat": 16.074909
+                },
+                {
+                    "lng": 108.22274,
+                    "lat": 16.074303
+                }
+            ],
+            "height": 0,
+            "textureName": "d7efb86a939d4c5886d4f11a076bed8b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/d7efb86a939d4c5886d4f11a076bed8b.jpg"
+        },
+        "types": [
+            "university"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "H\u1ea3i Ch\u00e2u 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Quang Trung"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "university": "Tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc"
+        },
+        "metadata": null,
+        "address": "Quang Trung, H\u1ea3i Ch\u00e2u 1, H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng"
+    }
+}

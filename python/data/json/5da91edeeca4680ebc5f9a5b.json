@@ -1,0 +1,71 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5da91edeeca4680ebc5f9a5b",
+        "name": "Linh Anh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22906023439435,
+            "lat": 16.079223496236125
+        },
+        "scale": 1,
+        "bearing": -90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -100.87330620010988,
+            "tilt": 81,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5da932b555912f0eccc03fd9.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5da932b555912f0eccc03fd9.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 0,
+            "textureName": "5da932b555912f0eccc03fdb.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5da932b555912f0eccc03fdb.jpg"
+        },
+        "types": [
+            "cafe"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "cafe": "C\u00e0 ph\u00ea"
+        },
+        "metadata": null,
+        "address": "N\u1ea1i Hi\u00ean \u0110\u00f4ng, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

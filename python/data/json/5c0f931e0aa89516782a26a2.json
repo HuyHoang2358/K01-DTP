@@ -1,0 +1,93 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c0f931e0aa89516782a26a2",
+        "name": "S\u00e2n Coopmart",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.18702463403946,
+            "lat": 16.066136171448775
+        },
+        "scale": 1.3,
+        "bearing": 4,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -12.12319509135783,
+            "tilt": 76.45000165700912,
+            "target": {
+                "lng": 108.18699236823211,
+                "lat": 16.066155775301773
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c0f931e0aa89516782a26a2",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c0f931e0aa89516782a26a2",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.187006,
+                    "lat": 16.06643
+                },
+                {
+                    "lng": 108.187064,
+                    "lat": 16.065905
+                },
+                {
+                    "lng": 108.186794,
+                    "lat": 16.066409
+                },
+                {
+                    "lng": 108.186852,
+                    "lat": 16.065884
+                }
+            ],
+            "height": 0,
+            "textureName": "04d2c72b7c4e4a56a629a90244019433.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/04d2c72b7c4e4a56a629a90244019433.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 17,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Thanh Kh\u00ea"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Thanh Kh\u00ea \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
+            }
+        ],
+        "startDate": 1291161600000,
+        "endDate": 4102358400000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Thanh Kh\u00ea \u0110\u00f4ng, Thanh Kh\u00ea, \u0110\u00e0 N\u1eb5ng"
+    }
+}

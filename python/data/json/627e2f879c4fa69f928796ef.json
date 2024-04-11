@@ -1,0 +1,98 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e2f879c4fa69f928796ef",
+        "name": "Hoa H\u1ed3ng Ngo\u1ea1i H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7598592504574,
+            "lat": 21.02200612802417
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21.75,
+            "bearing": 23.00000000000002,
+            "tilt": 15,
+            "target": {
+                "lng": 105.75990790907625,
+                "lat": 21.022019018665617
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.75980668506264,
+                    "lat": 21.022073636562126
+                },
+                {
+                    "lng": 105.75990219656956,
+                    "lat": 21.022070988246227
+                },
+                {
+                    "lng": 105.7598991982203,
+                    "lat": 21.02198107847353
+                },
+                {
+                    "lng": 105.75987057262091,
+                    "lat": 21.021981479722882
+                },
+                {
+                    "lng": 105.75986936951898,
+                    "lat": 21.021964352295356
+                },
+                {
+                    "lng": 105.75980748075199,
+                    "lat": 21.02196523284489
+                }
+            ],
+            "height": 12,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "florist"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "florist": "C\u1eeda h\u00e0ng hoa/c\u00e2y c\u1ea3nh"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

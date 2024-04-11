@@ -1,0 +1,95 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff6d2389ed19823c2a9d059",
+        "name": "Chung c\u01b0 A6A",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78691316443019,
+            "lat": 21.015989343760964
+        },
+        "scale": 1,
+        "bearing": -142,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.75,
+            "bearing": -206.91438809924105,
+            "tilt": 4.49999812245369,
+            "target": {
+                "lng": 105.78695729441779,
+                "lat": 21.01580450357858
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff6d2329ed19823c2a9d057.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff6d2329ed19823c2a9d057.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78696128089693,
+                    "lat": 21.016034259518406
+                },
+                {
+                    "lng": 105.78696128086794,
+                    "lat": 21.015944427989993
+                },
+                {
+                    "lng": 105.78686504799244,
+                    "lat": 21.015944427989993
+                },
+                {
+                    "lng": 105.78686504796345,
+                    "lat": 21.016034259518406
+                },
+                {
+                    "lng": 105.78696128089693,
+                    "lat": 21.016034259518406
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff6d23279d2dd5e3be164f9.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff6d23279d2dd5e3be164f9.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "M\u1ea1c Th\u00e1i T\u1ed5"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "M\u1ea1c Th\u00e1i T\u1ed5, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

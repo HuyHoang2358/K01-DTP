@@ -1,0 +1,343 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fa8e4f6725e0328e8e1ffa4",
+        "name": "Kh\u00e1ch s\u1ea1n The Chi",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c24e2c2e7d438384b94b0",
+                "location": {
+                    "lng": 105.8498049,
+                    "lat": 21.028372299999997
+                },
+                "address": "13-15 P. Nh\u00e0 Chung, H\u00e0ng Tr\u1ed1ng, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Kh\u00e1ch s\u1ea1n The Chi",
+                "objectId": "5fa8e4f6725e0328e8e1ffa4",
+                "description": "13-15 Nh\u00e0 Chung, H\u00e0ng Tr\u1ed1ng, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "P"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "13-15"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Nh\u00e0 Chung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5fa8e4f6725e0328e8e1ffa4",
+                    "name": "Kh\u00e1ch s\u1ea1n The Chi",
+                    "location": {
+                        "lng": 105.84983137282421,
+                        "lat": 21.02842111240544
+                    },
+                    "scale": 1,
+                    "bearing": -68,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 101.39528941897045,
+                        "tilt": 72,
+                        "target": {
+                            "lng": 105.85017651453984,
+                            "lat": 21.028379048855882
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5fa8e4df86a8b557d9138c90.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fa8e4df86a8b557d9138c90.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84987949330335,
+                                "lat": 21.02846602816288
+                            },
+                            {
+                                "lng": 105.84987949327433,
+                                "lat": 21.028376196634465
+                            },
+                            {
+                                "lng": 105.8497832523741,
+                                "lat": 21.028376196634465
+                            },
+                            {
+                                "lng": 105.84978325234508,
+                                "lat": 21.02846602816288
+                            },
+                            {
+                                "lng": 105.84987949330335,
+                                "lat": 21.02846602816288
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5fa8e4e0725e0328e8e1ffa1.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fa8e4e0725e0328e8e1ffa1.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ph\u1ed1 Nh\u00e0 Chung",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "8th",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1604904182716,
+                    "updatedDate": 1623224248690
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "02437192939",
+                "website": "thechihotel.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8498049,
+                        21.028372299999997
+                    ]
+                },
+                "rank": {
+                    "value": 1004
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84983137282421,
+            "lat": 21.02842111240544
+        },
+        "scale": 1,
+        "bearing": -68,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 101.39528941897045,
+            "tilt": 72,
+            "target": {
+                "lng": 105.85017651453984,
+                "lat": 21.028379048855882
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fa8e4df86a8b557d9138c90.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fa8e4df86a8b557d9138c90.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84987949330335,
+                    "lat": 21.02846602816288
+                },
+                {
+                    "lng": 105.84987949327433,
+                    "lat": 21.028376196634465
+                },
+                {
+                    "lng": 105.8497832523741,
+                    "lat": 21.028376196634465
+                },
+                {
+                    "lng": 105.84978325234508,
+                    "lat": 21.02846602816288
+                },
+                {
+                    "lng": 105.84987949330335,
+                    "lat": 21.02846602816288
+                }
+            ],
+            "height": 1,
+            "textureName": "5fa8e4e0725e0328e8e1ffa1.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fa8e4e0725e0328e8e1ffa1.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ed1 Nh\u00e0 Chung"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "8th"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,338 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fa8c8b7725e0328e8e1ff96",
+        "name": "Hanoi Paradise center Hotel & spa",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c23e0c2e7d438384a783e",
+                "location": {
+                    "lng": 105.856108,
+                    "lat": 21.0306621
+                },
+                "address": "22 H\u00e0ng V\u00f4i, L\u00fd Th\u00e1i T\u1ed5, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Hanoi Paradise center Hotel & spa",
+                "objectId": "5fa8c8b7725e0328e8e1ff96",
+                "description": "22 H\u00e0ng V\u00f4i, L\u00fd Th\u00e1i T\u1ed5, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "hotel",
+                    "lodging"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    }
+                ],
+                "mainType": "hotel",
+                "mainTypeInfos": {
+                    "id": "hotel",
+                    "name": "Kh\u00e1ch s\u1ea1n",
+                    "group": "lodging"
+                },
+                "auxiliaryTypes": [
+                    "lodging"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "22"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "H\u00e0ng V\u00f4i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/proxy/_OH_1NaHiClScp5Ig9AJ7hcKqv_bVXY-Wfkacp7yXFDIv_7iBTB5JbmZlo2IoB716Su1R0_yG9OOF8MyFat9vuxLE6gDRrMm4PkaTyp43MJRNeH4PPGJJUHHAiKh1tp2_xnQFXIOloM9aYLl_vvwNsM_VEhJmyc=w167-h92-k-no",
+                        "name": null,
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "lodging",
+                        "minRank": 100000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5fa8c8b7725e0328e8e1ff96",
+                    "name": "Hanoi Paradise center Hotel & spa",
+                    "location": {
+                        "lng": 105.855861,
+                        "lat": 21.030456
+                    },
+                    "scale": 1,
+                    "bearing": 206,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": 184.5723976866393,
+                        "tilt": 66,
+                        "target": {
+                            "lng": 105.85601205652964,
+                            "lat": 21.03046985887294
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5fa8c8a8732a301747db26a7.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fa8c8a8732a301747db26a7.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85590912113618,
+                                "lat": 21.03050091575744
+                            },
+                            {
+                                "lng": 105.85590912110717,
+                                "lat": 21.030411084229026
+                            },
+                            {
+                                "lng": 105.85581287889282,
+                                "lat": 21.030411084229026
+                            },
+                            {
+                                "lng": 105.85581287886382,
+                                "lat": 21.03050091575744
+                            },
+                            {
+                                "lng": 105.85590912113618,
+                                "lat": 21.03050091575744
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5fa8c8a9725e0328e8e1ff94.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fa8c8a9725e0328e8e1ff94.jpg"
+                    },
+                    "types": [],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1604896951168,
+                    "updatedDate": 1623224248689
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3939 3418",
+                "website": "http://www.hanoiparadisecenter.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.856108,
+                        21.0306621
+                    ]
+                },
+                "rank": {
+                    "value": 100000
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.855861,
+            "lat": 21.030456
+        },
+        "scale": 1,
+        "bearing": 206,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 184.5723976866393,
+            "tilt": 66,
+            "target": {
+                "lng": 105.85601205652964,
+                "lat": 21.03046985887294
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fa8c8a8732a301747db26a7.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fa8c8a8732a301747db26a7.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85590912113618,
+                    "lat": 21.03050091575744
+                },
+                {
+                    "lng": 105.85590912110717,
+                    "lat": 21.030411084229026
+                },
+                {
+                    "lng": 105.85581287889282,
+                    "lat": 21.030411084229026
+                },
+                {
+                    "lng": 105.85581287886382,
+                    "lat": 21.03050091575744
+                },
+                {
+                    "lng": 105.85590912113618,
+                    "lat": 21.03050091575744
+                }
+            ],
+            "height": 1,
+            "textureName": "5fa8c8a9725e0328e8e1ff94.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fa8c8a9725e0328e8e1ff94.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": null,
+        "typeInfos": {},
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

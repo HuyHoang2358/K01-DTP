@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e2ffe9c4fa69f928796f6",
+        "name": "Ikaro - vaivintage.com Nguy\u00ean li\u1ec7u l\u00e0m Handmade",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.75902543677019,
+            "lat": 21.021769325210457
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 23.00000000000002,
+            "tilt": 15,
+            "target": {
+                "lng": 105.75904306294484,
+                "lat": 21.021771433034786
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.75892376677518,
+                    "lat": 21.02179942126797
+                },
+                {
+                    "lng": 105.75912496975366,
+                    "lat": 21.02180213625158
+                },
+                {
+                    "lng": 105.75912649934122,
+                    "lat": 21.021738704378762
+                },
+                {
+                    "lng": 105.75892651121069,
+                    "lat": 21.021737038943513
+                }
+            ],
+            "height": 24,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "clothing_store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 16 \u0110\u1ed7 Xu\u00e2n H\u1ee3p"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "clothing_store": "C\u1eeda h\u00e0ng \u00e1o qu\u1ea7n"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 16 \u0110\u1ed7 Xu\u00e2n H\u1ee3p, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

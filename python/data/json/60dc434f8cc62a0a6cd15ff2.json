@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60dc434f8cc62a0a6cd15ff2",
+        "name": "C\u1eeda H\u00e0ng V\u00e0ng B\u1ea1c Kim Kh\u00e1nh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85207993667842,
+            "lat": 21.033798309180426
+        },
+        "scale": 1,
+        "bearing": -99,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": 125.60940364685463,
+            "tilt": 37,
+            "target": {
+                "lng": 105.8520693558284,
+                "lat": 21.033834238342962
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60dc433d8cc62a0a6cd15fed.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60dc433d8cc62a0a6cd15fed.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85212805889397,
+                    "lat": 21.03384322493786
+                },
+                {
+                    "lng": 105.85212805886496,
+                    "lat": 21.033753393409455
+                },
+                {
+                    "lng": 105.85203181449188,
+                    "lat": 21.033753393409455
+                },
+                {
+                    "lng": 105.85203181446288,
+                    "lat": 21.03384322493786
+                },
+                {
+                    "lng": 105.85212805889397,
+                    "lat": 21.03384322493786
+                }
+            ],
+            "height": null,
+            "textureName": "60dc433d8cc62a0a6cd15fef.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60dc433d8cc62a0a6cd15fef.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ea1c"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110inh Li\u1ec7t"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

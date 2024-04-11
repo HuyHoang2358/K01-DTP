@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff57b3a79d2dd5e3be15415",
+        "name": "Vinhomes West Point",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7855970192594,
+            "lat": 21.011649855245096
+        },
+        "scale": 1,
+        "bearing": 37,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 5.1509275001683275,
+            "tilt": 31.5,
+            "target": {
+                "lng": 105.78562423198025,
+                "lat": 21.011430076873836
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff57b2b9ed19823c2a9beb6.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff57b2b9ed19823c2a9beb6.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78565653242039,
+                    "lat": 21.011705126704573
+                },
+                {
+                    "lng": 105.78565653239141,
+                    "lat": 21.011615295176163
+                },
+                {
+                    "lng": 105.785560302309,
+                    "lat": 21.011615295176163
+                },
+                {
+                    "lng": 105.78556030228002,
+                    "lat": 21.011705126704573
+                },
+                {
+                    "lng": 105.78565653242039,
+                    "lat": 21.011705126704573
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff57b2b79d2dd5e3be15413.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff57b2b79d2dd5e3be15413.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u00f9ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "Ph\u1ea1m H\u00f9ng, Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

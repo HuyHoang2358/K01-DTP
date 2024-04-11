@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60c02c4946969f2a688796d5",
+        "name": "Bistro - Food & Drink - DJ 1900",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85196724477521,
+            "lat": 21.035093206215777
+        },
+        "scale": 1.1,
+        "bearing": 107,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -89.15609457054177,
+            "tilt": 57,
+            "target": {
+                "lng": 105.85190292502715,
+                "lat": 21.03490182049403
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c9a2701eeae9229c6fc26e.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c9a2701eeae9229c6fc26e.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85201536740898,
+                    "lat": 21.035138121973215
+                },
+                {
+                    "lng": 105.85201536737998,
+                    "lat": 21.0350482904448
+                },
+                {
+                    "lng": 105.85191912217043,
+                    "lat": 21.0350482904448
+                },
+                {
+                    "lng": 105.85191912214142,
+                    "lat": 21.035138121973215
+                },
+                {
+                    "lng": 105.85201536740898,
+                    "lat": 21.035138121973215
+                }
+            ],
+            "height": null,
+            "textureName": "60c9a2711eeae9229c6fc275.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c9a2711eeae9229c6fc275.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

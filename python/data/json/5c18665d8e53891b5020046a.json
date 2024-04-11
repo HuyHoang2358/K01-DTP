@@ -1,0 +1,353 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c18665d8e53891b5020046a",
+        "name": "C\u00f4ng Vi\u00ean Ng\u1eafm C\u1ea3nh S\u00f4ng H\u00e0n",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845ea814a9df9d67e62f6",
+                "location": {
+                    "lng": 108.224347,
+                    "lat": 16.077084
+                },
+                "address": "B\u1ea1ch \u0110\u1eb1ng, H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng, 8511 B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "C\u00f4ng Vi\u00ean Ng\u1eafm C\u1ea3nh S\u00f4ng H\u00e0n",
+                "objectId": "5c18665d8e53891b5020046a",
+                "description": " &nbsp; ",
+                "types": [
+                    "park",
+                    "sports"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "park",
+                        "name": "C\u00f4ng vi\u00ean/khu v\u1ef1c \u0111i b\u1ed9 th\u01b0 gi\u00e3n",
+                        "group": "sports"
+                    },
+                    {
+                        "id": "sports",
+                        "name": "Li\u00ean quan \u0111\u1ebfn th\u1ec3 d\u1ee5c th\u1ec3 thao",
+                        "group": "sports"
+                    }
+                ],
+                "mainType": "park",
+                "mainTypeInfos": {
+                    "id": "park",
+                    "name": "C\u00f4ng vi\u00ean/khu v\u1ef1c \u0111i b\u1ed9 th\u01b0 gi\u00e3n",
+                    "group": "sports"
+                },
+                "auxiliaryTypes": [
+                    "sports"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "sports",
+                        "name": "Li\u00ean quan \u0111\u1ebfn th\u1ec3 d\u1ee5c th\u1ec3 thao",
+                        "group": "sports"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "B\u1ea1ch \u0110\u1eb1ng, H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "8511"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "B\u1ea1ch \u0110\u1eb1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 1291136400000,
+                "endDate": 4099741200000,
+                "placeTypes": [
+                    {
+                        "id": "park",
+                        "name": "C\u00f4ng vi\u00ean/khu v\u1ef1c \u0111i b\u1ed9 th\u01b0 gi\u00e3n",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "sports",
+                        "minRank": 1000000,
+                        "maxRank": 3000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "sports",
+                        "name": "Li\u00ean quan \u0111\u1ebfn th\u1ec3 d\u1ee5c th\u1ec3 thao",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "sports",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5c18665d8e53891b5020046a",
+                    "name": "C\u00f4ng Vi\u00ean Ng\u1eafm C\u1ea3nh S\u00f4ng H\u00e0n",
+                    "location": {
+                        "lng": 108.224347,
+                        "lat": 16.077084
+                    },
+                    "scale": 1,
+                    "bearing": -59,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 6.028648648648966,
+                        "tilt": 28.7378640776699,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5c18665d8e53891b5020046a",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c18665d8e53891b5020046a",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.224911,
+                                "lat": 16.076775
+                            },
+                            {
+                                "lng": 108.224461,
+                                "lat": 16.076515
+                            },
+                            {
+                                "lng": 108.224433,
+                                "lat": 16.077539
+                            },
+                            {
+                                "lng": 108.223983,
+                                "lat": 16.077279
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "27012d3a9dae4004b59f0ef5b68ebb39.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/27012d3a9dae4004b59f0ef5b68ebb39.jpg"
+                    },
+                    "types": [
+                        "park"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 1291136400000,
+                    "endDate": 4099741200000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "B\u1ea1ch \u0110\u1eb1ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1545128141174,
+                    "updatedDate": 1623224212422
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.224347,
+                        16.077084
+                    ]
+                },
+                "rank": {
+                    "value": 1000026
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.224347,
+            "lat": 16.077084
+        },
+        "scale": 1,
+        "bearing": -59,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 6.028648648648966,
+            "tilt": 28.7378640776699,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c18665d8e53891b5020046a",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c18665d8e53891b5020046a",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.224911,
+                    "lat": 16.076775
+                },
+                {
+                    "lng": 108.224461,
+                    "lat": 16.076515
+                },
+                {
+                    "lng": 108.224433,
+                    "lat": 16.077539
+                },
+                {
+                    "lng": 108.223983,
+                    "lat": 16.077279
+                }
+            ],
+            "height": 0,
+            "textureName": "27012d3a9dae4004b59f0ef5b68ebb39.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/27012d3a9dae4004b59f0ef5b68ebb39.jpg"
+        },
+        "types": [
+            "park"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "B\u1ea1ch \u0110\u1eb1ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 1291136400000,
+        "endDate": 4099741200000,
+        "source": null,
+        "typeInfos": {
+            "park": "C\u00f4ng vi\u00ean/khu v\u1ef1c \u0111i b\u1ed9 th\u01b0 gi\u00e3n"
+        },
+        "metadata": null,
+        "address": "B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

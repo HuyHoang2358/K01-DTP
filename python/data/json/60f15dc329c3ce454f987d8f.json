@@ -1,0 +1,358 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60f15dc329c3ce454f987d8f",
+        "name": "H\u1ed3ng H\u00e0 Center",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60dd398cf81cb14bc8a68dcf",
+                "location": {
+                    "lng": 105.854419,
+                    "lat": 21.0217509
+                },
+                "address": "hong na center, 25 P. L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Phan Chu Trinh, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i 100000, Vi\u1ec7t Nam",
+                "name": "H\u1ed3ng H\u00e0 Center",
+                "objectId": "60f15dc329c3ce454f987d8f",
+                "description": " 25 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t ,  Phan Chu Trinh ,  Ho\u00e0n Ki\u1ebfm ,  H\u00e0 N\u1ed9i ,  Vi\u1ec7t Nam ",
+                "types": [
+                    "real_estate_agency",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "real_estate_agency",
+                        "name": "Kinh doanh b\u1ea5t \u0111\u1ed9ng s\u1ea3n",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "real_estate_agency",
+                "mainTypeInfos": {
+                    "id": "real_estate_agency",
+                    "name": "Kinh doanh b\u1ea5t \u0111\u1ed9ng s\u1ea3n",
+                    "group": "establishment"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "hong na center"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "25"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "L\u00fd Th\u01b0\u1eddng Ki\u1ec7t"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Phan Chu Trinh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "real_estate_agency",
+                        "name": "Kinh doanh b\u1ea5t \u0111\u1ed9ng s\u1ea3n",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60f15dc329c3ce454f987d8f",
+                    "name": "H\u1ed3ng H\u00e0 Center",
+                    "location": {
+                        "lng": 105.85445263512162,
+                        "lat": 21.02164437308383
+                    },
+                    "scale": 1.2,
+                    "bearing": -108,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -211.08015595245666,
+                        "tilt": 71.25,
+                        "target": {
+                            "lng": 105.85483794755783,
+                            "lat": 21.02178836443453
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60f15dbb29c3ce454f987d8a.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f15dbb29c3ce454f987d8a.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85450075341318,
+                                "lat": 21.02168928884127
+                            },
+                            {
+                                "lng": 105.85450075338419,
+                                "lat": 21.02159945731286
+                            },
+                            {
+                                "lng": 105.85440451685906,
+                                "lat": 21.02159945731286
+                            },
+                            {
+                                "lng": 105.85440451683006,
+                                "lat": 21.02168928884127
+                            },
+                            {
+                                "lng": 105.85450075341318,
+                                "lat": 21.02168928884127
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "60f15dbc29c3ce454f987d8c.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f15dbc29c3ce454f987d8c.jpg"
+                    },
+                    "types": [
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Phan Chu Trinh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ng\u00f4 Quy\u1ec1n",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1626430915310,
+                    "updatedDate": 1626430915310
+                },
+                "tags": [],
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.854419,
+                        21.0217509
+                    ]
+                },
+                "rank": {
+                    "value": 1234
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85445263512162,
+            "lat": 21.02164437308383
+        },
+        "scale": 1.2,
+        "bearing": -108,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -211.08015595245666,
+            "tilt": 71.25,
+            "target": {
+                "lng": 105.85483794755783,
+                "lat": 21.02178836443453
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60f15dbb29c3ce454f987d8a.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f15dbb29c3ce454f987d8a.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85450075341318,
+                    "lat": 21.02168928884127
+                },
+                {
+                    "lng": 105.85450075338419,
+                    "lat": 21.02159945731286
+                },
+                {
+                    "lng": 105.85440451685906,
+                    "lat": 21.02159945731286
+                },
+                {
+                    "lng": 105.85440451683006,
+                    "lat": 21.02168928884127
+                },
+                {
+                    "lng": 105.85450075341318,
+                    "lat": 21.02168928884127
+                }
+            ],
+            "height": null,
+            "textureName": "60f15dbc29c3ce454f987d8c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f15dbc29c3ce454f987d8c.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Phan Chu Trinh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f4 Quy\u1ec1n"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

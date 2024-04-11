@@ -1,0 +1,372 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fb5e1e688977d3476acbb49",
+        "name": "Classy Holiday Hotel & Spa",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c242ec2e7d438384aa6ac",
+                "location": {
+                    "lng": 105.8024973,
+                    "lat": 21.0393361
+                },
+                "address": "20 Ng\u00f5 118 Nguy\u1ec5n Kh\u00e1nh To\u00e0n, Quan Hoa, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i 100000, Vi\u1ec7t Nam",
+                "name": "Classy Holiday Hotel & Spa",
+                "objectId": "5fb5e1e688977d3476acbb49",
+                "description": "49 L\u00e3n \u00d4ng, H\u00e0ng B\u1ed3, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i 00000, Vi\u1ec7t Nam",
+                "types": [
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "20 Ng\u00f5 118"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Nguy\u1ec5n Kh\u00e1nh To\u00e0n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Quan Hoa"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://lh5.googleusercontent.com/proxy/iY3YMs0cV60yVQ21XQXEtNf0OxkjQ_7eC2mxTP-aTgS5tOhVYbWZJTsbGIRjqgjP3Cj9hsDd9wMiCy1MoK0VlMim0vDXDyiOE4tPk64EMiqWZf2pBNIVui-4ZJOnMSpliLRr1qYdGWPdom-a5vG8GDzbmikSawo=w80-h120-k-no",
+                        "name": null,
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5fb5e1e688977d3476acbb49",
+                    "name": "Classy Holiday Hotel & Spa",
+                    "location": {
+                        "lng": 105.848655,
+                        "lat": 21.035201
+                    },
+                    "scale": 1,
+                    "bearing": 172,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -150.08526603815594,
+                        "tilt": 60.5,
+                        "target": {
+                            "lng": 105.84855922319048,
+                            "lat": 21.034961491671744
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5fb5e1a67591db406eff7999.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb5e1a67591db406eff7999.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.8487031226686,
+                                "lat": 21.03524591575744
+                            },
+                            {
+                                "lng": 105.84870312263958,
+                                "lat": 21.03515608422903
+                            },
+                            {
+                                "lng": 105.84860687736041,
+                                "lat": 21.03515608422903
+                            },
+                            {
+                                "lng": 105.84860687733139,
+                                "lat": 21.03524591575744
+                            },
+                            {
+                                "lng": 105.8487031226686,
+                                "lat": 21.03524591575744
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5fb5e1a872a5c52114cdc68b.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb5e1a872a5c52114cdc68b.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ed3",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "L\u00e3n \u00d4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "49",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1605755366229,
+                    "updatedDate": 1623224249111
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3923 1199",
+                "website": "http://www.classyholidayhotel.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8024973,
+                        21.0393361
+                    ]
+                },
+                "rank": {
+                    "value": 1003
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.848655,
+            "lat": 21.035201
+        },
+        "scale": 1,
+        "bearing": 172,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -150.08526603815594,
+            "tilt": 60.5,
+            "target": {
+                "lng": 105.84855922319048,
+                "lat": 21.034961491671744
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fb5e1a67591db406eff7999.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb5e1a67591db406eff7999.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8487031226686,
+                    "lat": 21.03524591575744
+                },
+                {
+                    "lng": 105.84870312263958,
+                    "lat": 21.03515608422903
+                },
+                {
+                    "lng": 105.84860687736041,
+                    "lat": 21.03515608422903
+                },
+                {
+                    "lng": 105.84860687733139,
+                    "lat": 21.03524591575744
+                },
+                {
+                    "lng": 105.8487031226686,
+                    "lat": 21.03524591575744
+                }
+            ],
+            "height": 1,
+            "textureName": "5fb5e1a872a5c52114cdc68b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb5e1a872a5c52114cdc68b.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ed3"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00e3n \u00d4ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "49"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": null,
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

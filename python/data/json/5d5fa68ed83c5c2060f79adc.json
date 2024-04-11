@@ -1,0 +1,333 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5d5fa68ed83c5c2060f79adc",
+        "name": "Tr\u01b0\u1eddng m\u1ea7m non Hello Kitty",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5d5fa6e5d83c5c2060f79adf",
+                "location": {
+                    "lng": 108.18256194867,
+                    "lat": 16.067577054183
+                },
+                "address": "375 Tr\u1ea7n Cao V\u00e2n, Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng, Qu\u1eadn Thanh Kh\u00ea, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Tr\u01b0\u1eddng m\u1ea7m non Hello Kitty",
+                "objectId": "5d5fa68ed83c5c2060f79adc",
+                "description": null,
+                "types": [
+                    "preschool",
+                    "education"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "preschool",
+                        "name": "Tr\u01b0\u1eddng m\u1ea7m non, m\u1eabu gi\u00e1o",
+                        "group": "education"
+                    },
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    }
+                ],
+                "mainType": "preschool",
+                "mainTypeInfos": {
+                    "id": "preschool",
+                    "name": "Tr\u01b0\u1eddng m\u1ea7m non, m\u1eabu gi\u00e1o",
+                    "group": "education"
+                },
+                "auxiliaryTypes": [
+                    "education"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "375"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n Cao V\u00e2n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Thanh Kh\u00ea"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5d5fa6e5d83c5c2060f79add.jpg",
+                        "name": "5d5fa6e5d83c5c2060f79add.jpg",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "preschool",
+                        "name": "Tr\u01b0\u1eddng m\u1ea7m non, m\u1eabu gi\u00e1o",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "education",
+                        "minRank": 100000,
+                        "maxRank": 2000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "education",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5d5fa68ed83c5c2060f79adc",
+                    "name": "Tr\u01b0\u1eddng m\u1ea7m non Hello Kitty",
+                    "location": {
+                        "lng": 108.1825619486703,
+                        "lat": 16.06757705418346
+                    },
+                    "scale": 1,
+                    "bearing": -150,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 0,
+                        "tilt": 40,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "58e3033363e6ef43947b647e",
+                        "objName": "58e3033363e6ef43947b647e",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/58e3033363e6ef43947b647e",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": null,
+                        "height": 1,
+                        "textureName": "a8c18a5ff32b4d1e875527cb8e32e750.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/a8c18a5ff32b4d1e875527cb8e32e750.jpg"
+                    },
+                    "types": [
+                        "college"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n Cao V\u00e2n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Thanh Kh\u00ea",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Tr\u1ea7n Cao V\u00e2n, Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng, Qu\u1eadn Thanh Kh\u00ea, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "d9842deb-64ba-4331-afa4-a4313a3631a5",
+                        "displayName": ""
+                    },
+                    "updatedBy": {
+                        "userId": "d9842deb-64ba-4331-afa4-a4313a3631a5",
+                        "displayName": ""
+                    },
+                    "createdDate": 1566549646461,
+                    "updatedDate": 1623224218727
+                },
+                "tags": null,
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.18256194867,
+                        16.067577054183
+                    ]
+                },
+                "rank": {
+                    "value": 1000000
+                },
+                "metadata": null,
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5d5fa6e5d83c5c2060f79add.jpg",
+                        "name": "5d5fa6e5d83c5c2060f79add.jpg",
+                        "typeFile": "Image",
+                        "description": "66b6b8e6-fe5f-473b-b846-dc160c9112b6.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "d9842deb-64ba-4331-afa4-a4313a3631a5",
+                            "displayName": ""
+                        },
+                        "createdDate": 1566549733237
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 108.1825619486703,
+            "lat": 16.06757705418346
+        },
+        "scale": 1,
+        "bearing": -150,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 0,
+            "tilt": 40,
+            "target": null
+        },
+        "model": {
+            "id": "58e3033363e6ef43947b647e",
+            "name": "Nh\u00e0 \u1ede 04",
+            "objName": "58e3033363e6ef43947b647e",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/58e3033363e6ef43947b647e",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "a8c18a5ff32b4d1e875527cb8e32e750.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/a8c18a5ff32b4d1e875527cb8e32e750.jpg"
+        },
+        "types": [
+            "college"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Cao V\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Kh\u00ea"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": null,
+        "typeInfos": {
+            "college": "Tr\u01b0\u1eddng cao \u0111\u1eb3ng, trung c\u1ea5p, tr\u01b0\u1eddng ngh\u1ec1"
+        },
+        "metadata": null,
+        "address": "Tr\u1ea7n Cao V\u00e2n, Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng, Qu\u1eadn Thanh Kh\u00ea, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

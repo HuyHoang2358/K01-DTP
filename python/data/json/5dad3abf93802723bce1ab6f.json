@@ -1,0 +1,83 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5dad3abf93802723bce1ab6f",
+        "name": "VnK24 Mart",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.23040233177073,
+            "lat": 16.06294865349129
+        },
+        "scale": 1,
+        "bearing": -83,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -68.33586560759207,
+            "tilt": 77.5,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5dad3abf85034211c0dae0a2.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5dad3abf85034211c0dae0a2.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "5dad3abf85034211c0dae0a0.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5dad3abf85034211c0dae0a0.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i T\u00e2y"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "507"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "507 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i T\u00e2y, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

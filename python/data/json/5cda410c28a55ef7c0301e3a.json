@@ -1,0 +1,81 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5cda410c28a55ef7c0301e3a",
+        "name": "Aroi Dessert Cafe",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22479994284504,
+            "lat": 16.06775487046788
+        },
+        "scale": 1,
+        "bearing": 85,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": 99.11265960866702,
+            "tilt": 59.5,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5cda410c28a55ef7c0301e36.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cda410c28a55ef7c0301e36.obj",
+            "color": null,
+            "type": null,
+            "coordinates": null,
+            "height": 10,
+            "textureName": "5cda410c28a55ef7c0301e38.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cda410c28a55ef7c0301e38.jpg"
+        },
+        "types": [
+            "cafe"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Th\u00e1i H\u1ecdc"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u 1"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 957114000000,
+        "endDate": 4081251600000,
+        "source": null,
+        "typeInfos": {
+            "cafe": "C\u00e0 ph\u00ea"
+        },
+        "metadata": null,
+        "address": "Nguy\u1ec5n Th\u00e1i H\u1ecdc, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u 1, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

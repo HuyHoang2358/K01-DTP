@@ -1,0 +1,82 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f2ac19efbcd7b6dfb4c9f7f",
+        "name": "Covid02 - 1596637243855",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22795045629385,
+            "lat": 16.088725813130708
+        },
+        "scale": 2,
+        "bearing": -55,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": 95.07943691375618,
+            "tilt": 37.5,
+            "target": {
+                "lng": 108.22795045629385,
+                "lat": 16.088725813130708
+            }
+        },
+        "model": {
+            "id": "5f2a253cd2ceb82bca99adf9",
+            "name": "Covid02",
+            "objName": "5f2a253bd2ceb82bca99adf5.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f2a253bd2ceb82bca99adf5.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.2279972029621,
+                    "lat": 16.088770728889834
+                },
+                {
+                    "lng": 108.22799720294095,
+                    "lat": 16.088680897361428
+                },
+                {
+                    "lng": 108.22790370964677,
+                    "lat": 16.088680897361428
+                },
+                {
+                    "lng": 108.22790370962562,
+                    "lat": 16.088770728889834
+                },
+                {
+                    "lng": 108.2279972029621,
+                    "lat": 16.088770728889834
+                }
+            ],
+            "height": 20,
+            "textureName": "5f2a253bd2ceb82bca99adf4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f2a253bd2ceb82bca99adf4.jpg"
+        },
+        "types": [
+            "decoration"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "decoration": "C\u00e1c \u0111\u1ed1i t\u01b0\u1ee3ng 3D \u0111\u1ec3 trang tr\u00ed"
+        },
+        "metadata": null,
+        "address": "S\u01a1n Tr\u00e0"
+    }
+}

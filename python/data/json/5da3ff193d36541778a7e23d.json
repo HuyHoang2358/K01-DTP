@@ -1,0 +1,293 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5da3ff193d36541778a7e23d",
+        "name": "185 Foot Massage",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5d47db4dc741bd041ca56972",
+                "location": {
+                    "lng": 108.2289892,
+                    "lat": 16.0781544
+                },
+                "address": "185 \u0110. Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i B\u1eafc, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng 550000, Vi\u1ec7t Nam",
+                "name": "185 Foot Massage",
+                "objectId": "5da3ff193d36541778a7e23d",
+                "description": "185 Foot Massage",
+                "types": [
+                    "establishment",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "establishment",
+                "mainTypeInfos": {
+                    "id": "establishment",
+                    "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                    "group": "establishment"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "185"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5da3ff193d36541778a7e23d",
+                    "name": "185 Foot Massage",
+                    "location": {
+                        "lng": 108.2291000491972,
+                        "lat": 16.07813902365494
+                    },
+                    "scale": 1,
+                    "bearing": -90,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -74.58834420264813,
+                        "tilt": 84,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5da3ff19cf1bfa0548c67679.jpg",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5da3ff19cf1bfa0548c67679.jpg",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": null,
+                        "height": 1,
+                        "textureName": "5da3ff18cf1bfa0548c67677.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5da3ff18cf1bfa0548c67677.jpg"
+                    },
+                    "types": [
+                        "spa"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "An H\u1ea3i B\u1eafc",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1571028710077,
+                    "updatedDate": 1623224220327
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.2289892,
+                        16.0781544
+                    ]
+                },
+                "rank": {
+                    "value": 1000003
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.2291000491972,
+            "lat": 16.07813902365494
+        },
+        "scale": 1,
+        "bearing": -90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -74.58834420264813,
+            "tilt": 84,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5da3ff19cf1bfa0548c67679.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5da3ff19cf1bfa0548c67679.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "5da3ff18cf1bfa0548c67677.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5da3ff18cf1bfa0548c67677.jpg"
+        },
+        "types": [
+            "spa"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i B\u1eafc"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "spa": "D\u1ecbch v\u1ee5 Spa/massage"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5dad140093802723bce1ab4d",
+        "name": "Pyby",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.23029349259446,
+            "lat": 16.063799919127618
+        },
+        "scale": 1,
+        "bearing": -82,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -103.43796380397217,
+            "tilt": 57,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5dad1e8093802723bce1ab52.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5dad1e8093802723bce1ab52.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 0,
+            "textureName": "5dad1e8093802723bce1ab54.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5dad1e8093802723bce1ab54.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i T\u00e2y"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "An H\u1ea3i T\u00e2y, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

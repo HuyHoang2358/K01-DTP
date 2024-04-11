@@ -1,0 +1,90 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "611646c0ab07de671fd1dbb7",
+        "name": "B\u1ec3 b\u01a1i Thanh Xu\u00e2n",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79665795734161,
+            "lat": 21.001194132556236
+        },
+        "scale": 1,
+        "bearing": -52,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -61.60000169277194,
+            "tilt": 0,
+            "target": {
+                "lng": 105.79665795734161,
+                "lat": 21.00119413255625
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "611646b8ab07de671fd1dbb2.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/611646b8ab07de671fd1dbb2.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79670606903699,
+                    "lat": 21.00123904831369
+                },
+                {
+                    "lng": 105.79670606900802,
+                    "lat": 21.001149216785276
+                },
+                {
+                    "lng": 105.7966098456752,
+                    "lat": 21.001149216785276
+                },
+                {
+                    "lng": 105.79660984564624,
+                    "lat": 21.00123904831369
+                },
+                {
+                    "lng": 105.79670606903699,
+                    "lat": 21.00123904831369
+                }
+            ],
+            "height": null,
+            "textureName": "611646b9ab07de671fd1dbb4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/611646b9ab07de671fd1dbb4.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            }
+        ],
+        "startDate": 1567962000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

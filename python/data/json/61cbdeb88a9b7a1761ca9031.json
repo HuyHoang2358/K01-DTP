@@ -1,0 +1,833 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61cbdeb88a9b7a1761ca9031",
+        "name": "Ga Th\u01b0\u1ee3ng \u0110\u00ecnh",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "609c03b234025a4d53ebaa26",
+                "location": {
+                    "lng": 105.81253919999999,
+                    "lat": 20.997913
+                },
+                "address": "222 \u0110. Nguy\u1ec5n Tr\u00e3i, Thanh Xu\u00e2n Trung, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Ga Metro Th\u01b0\u1ee3ng \u0110\u00ecnh",
+                "objectId": "61cbdeb88a9b7a1761ca9031",
+                "description": null,
+                "types": [],
+                "typeInfos": null,
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "222"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Nguy\u1ec5n Tr\u00e3i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Thanh Xu\u00e2n Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Thanh Xu\u00e2n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": null,
+                "otherPlaceInObjects": [
+                    {
+                        "id": "609c02d334025a4d53eb9cd8",
+                        "location": {
+                            "lng": 105.81238549999999,
+                            "lat": 20.9978449
+                        },
+                        "address": "220 \u0110. Nguy\u1ec5n Tr\u00e3i, Thanh Xu\u00e2n Trung, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                        "name": "Nh\u00e0 ga Th\u01b0\u1ee3ng \u0110\u00ecnh",
+                        "objectId": "61cbdeb88a9b7a1761ca9031",
+                        "description": null,
+                        "types": [
+                            "point",
+                            "other"
+                        ],
+                        "typeInfos": null,
+                        "tags": [],
+                        "addressComponents": [
+                            {
+                                "types": [
+                                    "housenumber"
+                                ],
+                                "name": "220"
+                            },
+                            {
+                                "types": [
+                                    "street"
+                                ],
+                                "name": "Nguy\u1ec5n Tr\u00e3i"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_4"
+                                ],
+                                "name": "Ph\u01b0\u1eddng Thanh Xu\u00e2n Trung"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_3"
+                                ],
+                                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_2"
+                                ],
+                                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_1"
+                                ],
+                                "name": "Vi\u1ec7t Nam"
+                            }
+                        ],
+                        "photos": [],
+                        "startDate": null,
+                        "endDate": null,
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                105.81238549999999,
+                                20.9978449
+                            ]
+                        },
+                        "rank": {
+                            "value": 0
+                        },
+                        "phoneNumber": null,
+                        "website": "http://hanoimetro.net.vn/",
+                        "businessHours": [],
+                        "isDeleted": null,
+                        "object": null,
+                        "metadata": [],
+                        "mediaFiles": null,
+                        "ratingReport": null,
+                        "createdBy": {
+                            "userId": "5ee20471a3a6ae49e19e0088",
+                            "displayName": "Ngh\u0129a Nguy\u1ec5n"
+                        },
+                        "updatedBy": {
+                            "userId": "5ee20471a3a6ae49e19e0088",
+                            "displayName": "Nguy\u1ec5n Ngh\u0129a"
+                        },
+                        "createdDate": 1622404488805,
+                        "updatedDate": 1653388032816
+                    }
+                ],
+                "object": {
+                    "id": "61cbdeb88a9b7a1761ca9031",
+                    "name": "Ga Th\u01b0\u1ee3ng \u0110\u00ecnh",
+                    "location": {
+                        "lng": 105.81228910076311,
+                        "lat": 20.997775305001028
+                    },
+                    "scale": 1,
+                    "bearing": 35,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": -57.00343923338151,
+                        "tilt": 67.75,
+                        "target": {
+                            "lng": 105.81150626837149,
+                            "lat": 20.998001245884538
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "61cbdea28a9b7a1761ca902c.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cbdea28a9b7a1761ca902c.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.8123372113565,
+                                "lat": 20.997820220758477
+                            },
+                            {
+                                "lng": 105.81233721132757,
+                                "lat": 20.997730389230064
+                            },
+                            {
+                                "lng": 105.81224099019866,
+                                "lat": 20.997730389230064
+                            },
+                            {
+                                "lng": 105.81224099016973,
+                                "lat": 20.997820220758477
+                            },
+                            {
+                                "lng": 105.8123372113565,
+                                "lat": 20.997820220758477
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "61cbdea28a9b7a1761ca902e.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cbdea28a9b7a1761ca902e.jpg"
+                    },
+                    "types": [
+                        "train_station"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Thanh Xu\u00e2n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Th\u01b0\u1ee3ng \u0110\u00ecnh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Nguy\u1ec5n Tr\u00e3i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "222",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1640750776160,
+                    "updatedDate": 1640750888037
+                },
+                "tags": [],
+                "phoneNumber": null,
+                "website": "http://hanoimetro.net.vn/",
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.81253919999999,
+                        20.997913
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            },
+            {
+                "id": "609c02d334025a4d53eb9cd8",
+                "location": {
+                    "lng": 105.81238549999999,
+                    "lat": 20.9978449
+                },
+                "address": "220 \u0110. Nguy\u1ec5n Tr\u00e3i, Thanh Xu\u00e2n Trung, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Nh\u00e0 ga Th\u01b0\u1ee3ng \u0110\u00ecnh",
+                "objectId": "61cbdeb88a9b7a1761ca9031",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "220"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Nguy\u1ec5n Tr\u00e3i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Thanh Xu\u00e2n Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Thanh Xu\u00e2n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [
+                    {
+                        "id": "609c03b234025a4d53ebaa26",
+                        "location": {
+                            "lng": 105.81253919999999,
+                            "lat": 20.997913
+                        },
+                        "address": "222 \u0110. Nguy\u1ec5n Tr\u00e3i, Thanh Xu\u00e2n Trung, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                        "name": "Ga Metro Th\u01b0\u1ee3ng \u0110\u00ecnh",
+                        "objectId": "61cbdeb88a9b7a1761ca9031",
+                        "description": null,
+                        "types": [],
+                        "typeInfos": null,
+                        "tags": [],
+                        "addressComponents": [
+                            {
+                                "types": [
+                                    "housenumber"
+                                ],
+                                "name": "222"
+                            },
+                            {
+                                "types": [
+                                    "street"
+                                ],
+                                "name": "Nguy\u1ec5n Tr\u00e3i"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_4"
+                                ],
+                                "name": "Ph\u01b0\u1eddng Thanh Xu\u00e2n Trung"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_3"
+                                ],
+                                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_2"
+                                ],
+                                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_1"
+                                ],
+                                "name": "Vi\u1ec7t Nam"
+                            }
+                        ],
+                        "photos": [],
+                        "startDate": null,
+                        "endDate": null,
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                105.81253919999999,
+                                20.997913
+                            ]
+                        },
+                        "rank": {
+                            "value": 0
+                        },
+                        "phoneNumber": null,
+                        "website": "http://hanoimetro.net.vn/",
+                        "businessHours": [
+                            {
+                                "open": {
+                                    "day": 4,
+                                    "time": "0500"
+                                },
+                                "close": {
+                                    "day": 4,
+                                    "time": "2200"
+                                }
+                            },
+                            {
+                                "open": {
+                                    "day": 5,
+                                    "time": "0500"
+                                },
+                                "close": {
+                                    "day": 5,
+                                    "time": "2200"
+                                }
+                            },
+                            {
+                                "open": {
+                                    "day": 6,
+                                    "time": "0500"
+                                },
+                                "close": {
+                                    "day": 6,
+                                    "time": "2200"
+                                }
+                            },
+                            {
+                                "open": {
+                                    "day": 0,
+                                    "time": "0500"
+                                },
+                                "close": {
+                                    "day": 0,
+                                    "time": "2200"
+                                }
+                            },
+                            {
+                                "open": {
+                                    "day": 1,
+                                    "time": "0500"
+                                },
+                                "close": {
+                                    "day": 1,
+                                    "time": "2200"
+                                }
+                            },
+                            {
+                                "open": {
+                                    "day": 2,
+                                    "time": "0500"
+                                },
+                                "close": {
+                                    "day": 2,
+                                    "time": "2200"
+                                }
+                            },
+                            {
+                                "open": {
+                                    "day": 3,
+                                    "time": "0500"
+                                },
+                                "close": {
+                                    "day": 3,
+                                    "time": "2200"
+                                }
+                            }
+                        ],
+                        "isDeleted": null,
+                        "object": null,
+                        "metadata": [],
+                        "mediaFiles": null,
+                        "ratingReport": null,
+                        "createdBy": {
+                            "userId": "5ee20471a3a6ae49e19e0088",
+                            "displayName": "Ngh\u0129a Nguy\u1ec5n"
+                        },
+                        "updatedBy": {
+                            "userId": "5ee20471a3a6ae49e19e0088",
+                            "displayName": "Nguy\u1ec5n Ngh\u0129a"
+                        },
+                        "createdDate": 1622404503226,
+                        "updatedDate": 1653388041179
+                    }
+                ],
+                "object": {
+                    "id": "61cbdeb88a9b7a1761ca9031",
+                    "name": "Ga Th\u01b0\u1ee3ng \u0110\u00ecnh",
+                    "location": {
+                        "lng": 105.81228910076311,
+                        "lat": 20.997775305001028
+                    },
+                    "scale": 1,
+                    "bearing": 35,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": -57.00343923338151,
+                        "tilt": 67.75,
+                        "target": {
+                            "lng": 105.81150626837149,
+                            "lat": 20.998001245884538
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "61cbdea28a9b7a1761ca902c.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cbdea28a9b7a1761ca902c.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.8123372113565,
+                                "lat": 20.997820220758477
+                            },
+                            {
+                                "lng": 105.81233721132757,
+                                "lat": 20.997730389230064
+                            },
+                            {
+                                "lng": 105.81224099019866,
+                                "lat": 20.997730389230064
+                            },
+                            {
+                                "lng": 105.81224099016973,
+                                "lat": 20.997820220758477
+                            },
+                            {
+                                "lng": 105.8123372113565,
+                                "lat": 20.997820220758477
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "61cbdea28a9b7a1761ca902e.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cbdea28a9b7a1761ca902e.jpg"
+                    },
+                    "types": [
+                        "train_station"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Thanh Xu\u00e2n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Th\u01b0\u1ee3ng \u0110\u00ecnh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Nguy\u1ec5n Tr\u00e3i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "222",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1640750776160,
+                    "updatedDate": 1640750888037
+                },
+                "tags": [],
+                "phoneNumber": null,
+                "website": "http://hanoimetro.net.vn/",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.81238549999999,
+                        20.9978449
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.81228910076311,
+            "lat": 20.997775305001028
+        },
+        "scale": 1,
+        "bearing": 35,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -57.00343923338151,
+            "tilt": 67.75,
+            "target": {
+                "lng": 105.81150626837149,
+                "lat": 20.998001245884538
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61cbdea28a9b7a1761ca902c.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cbdea28a9b7a1761ca902c.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8123372113565,
+                    "lat": 20.997820220758477
+                },
+                {
+                    "lng": 105.81233721132757,
+                    "lat": 20.997730389230064
+                },
+                {
+                    "lng": 105.81224099019866,
+                    "lat": 20.997730389230064
+                },
+                {
+                    "lng": 105.81224099016973,
+                    "lat": 20.997820220758477
+                },
+                {
+                    "lng": 105.8123372113565,
+                    "lat": 20.997820220758477
+                }
+            ],
+            "height": null,
+            "textureName": "61cbdea28a9b7a1761ca902e.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cbdea28a9b7a1761ca902e.jpg"
+        },
+        "types": [
+            "train_station"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u01b0\u1ee3ng \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Tr\u00e3i"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "222"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "train_station": "Ga t\u00e0u l\u1eeda"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

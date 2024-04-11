@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "600655069b70fd6b371f7aa8",
+        "name": "B\u1ec7nh vi\u1ec7n K",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.84608869183472,
+            "lat": 21.02691575162936
+        },
+        "scale": 1,
+        "bearing": -108,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -196.90272181678196,
+            "tilt": 78,
+            "target": {
+                "lng": 105.84620324106042,
+                "lat": 21.02667972439438
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "600654fb461fac04fec5b975.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/600654fb461fac04fec5b975.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84613681182783,
+                    "lat": 21.026960667386803
+                },
+                {
+                    "lng": 105.84613681179883,
+                    "lat": 21.02687083585839
+                },
+                {
+                    "lng": 105.84604057187062,
+                    "lat": 21.02687083585839
+                },
+                {
+                    "lng": 105.8460405718416,
+                    "lat": 21.026960667386803
+                },
+                {
+                    "lng": 105.84613681182783,
+                    "lat": 21.026960667386803
+                }
+            ],
+            "height": 1,
+            "textureName": "600654fce49e7b2263a056a0.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/600654fce49e7b2263a056a0.jpg"
+        },
+        "types": [
+            "hospital"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00f4ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Th\u1ee3 Nhu\u1ed9m"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "43"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hospital": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf"
+        },
+        "metadata": null,
+        "address": "43 Th\u1ee3 Nhu\u1ed9m, Ph\u01b0\u1eddng H\u00e0ng B\u00f4ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

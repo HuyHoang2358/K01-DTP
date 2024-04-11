@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff57a659ed19823c2a9beb5",
+        "name": "Vi\u1ec7n Quy Ho\u1ea1ch X\u00e2y D\u1ef1ng H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7896026245,
+            "lat": 21.0142165565
+        },
+        "scale": 1,
+        "bearing": 35,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.4929,
+            "bearing": -35.123044637923954,
+            "tilt": 10.4999980032444,
+            "target": {
+                "lng": 105.7894459734497,
+                "lat": 21.013995588695188
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff57a529ed19823c2a9beb3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff57a529ed19823c2a9beb3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7896507403948,
+                    "lat": 21.01426147225744
+                },
+                {
+                    "lng": 105.78965074036583,
+                    "lat": 21.014171640729028
+                },
+                {
+                    "lng": 105.78955450863418,
+                    "lat": 21.014171640729028
+                },
+                {
+                    "lng": 105.78955450860519,
+                    "lat": 21.01426147225744
+                },
+                {
+                    "lng": 105.7896507403948,
+                    "lat": 21.01426147225744
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff57a52380f725a8751c769.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff57a52380f725a8751c769.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Ch\u00e1nh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "79"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "79 Nguy\u1ec5n Ch\u00e1nh, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

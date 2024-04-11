@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6093be2210b9793609a90d27",
+        "name": "UBND qu\u1eadn Thanh Kh\u00ea",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.19103668765064,
+            "lat": 16.070470583448994
+        },
+        "scale": 1,
+        "bearing": 176,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -167.79275035425644,
+            "tilt": 77,
+            "target": {
+                "lng": 108.19088743605963,
+                "lat": 16.069969423315058
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6093be149bca8a5b2a64f15b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6093be149bca8a5b2a64f15b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.19108343002584,
+                    "lat": 16.07051549920813
+                },
+                {
+                    "lng": 108.19108343000472,
+                    "lat": 16.070425667679718
+                },
+                {
+                    "lng": 108.19098994529655,
+                    "lat": 16.070425667679718
+                },
+                {
+                    "lng": 108.19098994527543,
+                    "lat": 16.07051549920813
+                },
+                {
+                    "lng": 108.19108343002584,
+                    "lat": 16.07051549920813
+                }
+            ],
+            "height": 1,
+            "textureName": "6093be1413454c447c4ce8f8.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6093be1413454c447c4ce8f8.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Kh\u00ea"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Xu\u00e2n H\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Cao V\u00e2n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "503"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

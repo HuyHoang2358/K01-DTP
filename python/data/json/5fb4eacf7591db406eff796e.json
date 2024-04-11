@@ -1,0 +1,323 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fb4eacf7591db406eff796e",
+        "name": "Damsels Hanoi Boutique Hotel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f16bf45c1befd1908305f6c",
+                "location": {
+                    "lng": 105.85232257858019,
+                    "lat": 21.03297619147726
+                },
+                "address": "Ph\u01b0\u1eddng H\u00e0ng B\u1ea1c, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Damsels Hanoi Boutique Hotel",
+                "objectId": "5fb4eacf7591db406eff796e",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ea1c"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5fb4eacf7591db406eff796e",
+                    "name": "Damsels Hanoi Boutique Hotel",
+                    "location": {
+                        "lng": 105.852343,
+                        "lat": 21.0329
+                    },
+                    "scale": 1,
+                    "bearing": 179,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -145.4661143102122,
+                        "tilt": 76.5,
+                        "target": {
+                            "lng": 105.85201944702398,
+                            "lat": 21.032651292830643
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5fb4eabc7591db406eff796a.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb4eabc7591db406eff796a.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85239112192544,
+                                "lat": 21.03294491575744
+                            },
+                            {
+                                "lng": 105.85239112189642,
+                                "lat": 21.03285508422903
+                            },
+                            {
+                                "lng": 105.85229487810359,
+                                "lat": 21.03285508422903
+                            },
+                            {
+                                "lng": 105.85229487807457,
+                                "lat": 21.03294491575744
+                            },
+                            {
+                                "lng": 105.85239112192544,
+                                "lat": 21.03294491575744
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5fb4eabc7591db406eff796c.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb4eabc7591db406eff796c.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ea1c",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Gia Ng\u01b0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "37",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1605692111311,
+                    "updatedDate": 1623224249111
+                },
+                "tags": null,
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.85232257858019,
+                        21.03297619147726
+                    ]
+                },
+                "rank": {
+                    "value": 1002.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.852343,
+            "lat": 21.0329
+        },
+        "scale": 1,
+        "bearing": 179,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -145.4661143102122,
+            "tilt": 76.5,
+            "target": {
+                "lng": 105.85201944702398,
+                "lat": 21.032651292830643
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fb4eabc7591db406eff796a.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb4eabc7591db406eff796a.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85239112192544,
+                    "lat": 21.03294491575744
+                },
+                {
+                    "lng": 105.85239112189642,
+                    "lat": 21.03285508422903
+                },
+                {
+                    "lng": 105.85229487810359,
+                    "lat": 21.03285508422903
+                },
+                {
+                    "lng": 105.85229487807457,
+                    "lat": 21.03294491575744
+                },
+                {
+                    "lng": 105.85239112192544,
+                    "lat": 21.03294491575744
+                }
+            ],
+            "height": 1,
+            "textureName": "5fb4eabc7591db406eff796c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb4eabc7591db406eff796c.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ea1c"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Gia Ng\u01b0"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "37"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

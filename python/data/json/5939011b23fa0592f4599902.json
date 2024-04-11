@@ -1,0 +1,313 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5939011b23fa0592f4599902",
+        "name": "C\u00e0 ph\u00ea Memory",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e5814a9df9d67e5bba",
+                "location": {
+                    "lng": 108.225065,
+                    "lat": 16.072951
+                },
+                "address": "07 B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u 1, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "C\u00e0 ph\u00ea Memory",
+                "objectId": "5939011b23fa0592f4599902",
+                "description": " &nbsp; ",
+                "types": [
+                    "cafe",
+                    "food_service"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "cafe",
+                        "name": "C\u00e0 ph\u00ea",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    }
+                ],
+                "mainType": "cafe",
+                "mainTypeInfos": {
+                    "id": "cafe",
+                    "name": "C\u00e0 ph\u00ea",
+                    "group": "food_service"
+                },
+                "auxiliaryTypes": [
+                    "food_service"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "07"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "B\u1ea1ch \u0110\u1eb1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "cafe",
+                        "name": "C\u00e0 ph\u00ea",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "food_service",
+                        "minRank": 500000,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "food_service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5939011b23fa0592f4599902",
+                    "name": "C\u00e0 ph\u00ea Memory",
+                    "location": {
+                        "lng": 108.22510006204061,
+                        "lat": 16.072828396846887
+                    },
+                    "scale": 1,
+                    "bearing": -79,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 32.5507302782975,
+                        "tilt": 43,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "",
+                        "objName": "5ce51438ad0539ad6ced169f.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ce51438ad0539ad6ced169f.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [],
+                        "height": 0,
+                        "textureName": "5ce51439ad0539ad6ced16a1.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ce51439ad0539ad6ced16a1.jpg"
+                    },
+                    "types": [
+                        "cafe"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": 974998800000,
+                    "endDate": 4099568400000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "B\u1ea1ch \u0110\u1eb1ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u 1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "582546120ec6af4457a68494",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Nguy\u1ec5n V\u0103n Th\u00e0nh"
+                    },
+                    "createdDate": 1496908059880,
+                    "updatedDate": 1623224148167
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.225065,
+                        16.072951
+                    ]
+                },
+                "rank": {
+                    "value": 1000108
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22510006204061,
+            "lat": 16.072828396846887
+        },
+        "scale": 1,
+        "bearing": -79,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 32.5507302782975,
+            "tilt": 43,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5ce51438ad0539ad6ced169f.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ce51438ad0539ad6ced169f.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [],
+            "height": 0,
+            "textureName": "5ce51439ad0539ad6ced16a1.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ce51439ad0539ad6ced16a1.jpg"
+        },
+        "types": [
+            "cafe"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "B\u1ea1ch \u0110\u1eb1ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u 1"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 974998800000,
+        "endDate": 4099568400000,
+        "source": null,
+        "typeInfos": {
+            "cafe": "C\u00e0 ph\u00ea"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

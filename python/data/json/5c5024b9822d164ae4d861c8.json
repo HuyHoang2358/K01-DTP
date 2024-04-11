@@ -1,0 +1,98 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c5024b9822d164ae4d861c8",
+        "name": "Nh\u00e0 B\u00ean L\u1ebb 97_105",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.828466,
+            "lat": 21.00725
+        },
+        "scale": 1,
+        "bearing": 153,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 205.8065007448972,
+            "tilt": 58.836206526081604,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c5024b9822d164ae4d861c8",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c5024b9822d164ae4d861c8",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.828285,
+                    "lat": 21.007226
+                },
+                {
+                    "lng": 105.828381,
+                    "lat": 21.007401
+                },
+                {
+                    "lng": 105.828551,
+                    "lat": 21.007099
+                },
+                {
+                    "lng": 105.828647,
+                    "lat": 21.007274
+                }
+            ],
+            "height": 0,
+            "textureName": "0971e8adf1ff4c67ab58889ded2bcadc.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/0971e8adf1ff4c67ab58889ded2bcadc.jpg"
+        },
+        "types": [
+            "house"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ch\u00f9a B\u1ed9c"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Li\u1ec7t"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 946659600000,
+        "endDate": 2524582800000,
+        "source": null,
+        "typeInfos": {
+            "house": "Nh\u00e0 ri\u00eang"
+        },
+        "metadata": null,
+        "address": "Ch\u00f9a B\u1ed9c, Ph\u01b0\u1eddng Trung Li\u1ec7t, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam"
+    }
+}

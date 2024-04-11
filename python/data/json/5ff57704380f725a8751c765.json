@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff57704380f725a8751c765",
+        "name": "To\u00e0 Vimeco Ph\u1ea1m H\u00f9ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79031309554273,
+            "lat": 21.00859623747054
+        },
+        "scale": 1,
+        "bearing": 36,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18.98,
+            "bearing": -42.790264336570445,
+            "tilt": 0,
+            "target": {
+                "lng": 105.79031696003352,
+                "lat": 21.008600910118204
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff576fe9ed19823c2a9be26.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff576fe9ed19823c2a9be26.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7903612096247,
+                    "lat": 21.008641153227984
+                },
+                {
+                    "lng": 105.79036120959574,
+                    "lat": 21.00855132169957
+                },
+                {
+                    "lng": 105.79026498148973,
+                    "lat": 21.00855132169957
+                },
+                {
+                    "lng": 105.79026498146075,
+                    "lat": 21.008641153227984
+                },
+                {
+                    "lng": 105.7903612096247,
+                    "lat": 21.008641153227984
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff576fe79d2dd5e3be153c1.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff576fe79d2dd5e3be153c1.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u00f9ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "P. 14.6"
+            }
+        ],
+        "startDate": 1215450000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "P. 14.6 Ph\u1ea1m H\u00f9ng, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

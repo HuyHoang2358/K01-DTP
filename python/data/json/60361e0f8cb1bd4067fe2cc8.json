@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60361e0f8cb1bd4067fe2cc8",
+        "name": "Tr\u01b0\u1eddng THPT chuy\u00ean H\u00e0 N\u1ed9i - Amsterdam",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79838186939139,
+            "lat": 21.007108944003733
+        },
+        "scale": 1,
+        "bearing": -52,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -39.214970855114125,
+            "tilt": 30.00000089406967,
+            "target": {
+                "lng": 105.79720468685638,
+                "lat": 21.00766100237626
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60361e088cb1bd4067fe2cc3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60361e088cb1bd4067fe2cc3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79842998299377,
+                    "lat": 21.00715385976118
+                },
+                {
+                    "lng": 105.79842998296479,
+                    "lat": 21.007064028232765
+                },
+                {
+                    "lng": 105.798333755818,
+                    "lat": 21.007064028232765
+                },
+                {
+                    "lng": 105.79833375578903,
+                    "lat": 21.00715385976118
+                },
+                {
+                    "lng": 105.79842998299377,
+                    "lat": 21.00715385976118
+                }
+            ],
+            "height": 1,
+            "textureName": "60361e098cb1bd4067fe2cc5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60361e098cb1bd4067fe2cc5.jpg"
+        },
+        "types": [
+            "high_school"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ho\u00e0ng Minh Gi\u00e1m"
+            }
+        ],
+        "startDate": 1278694800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "high_school": "Tr\u01b0\u1eddng trung h\u1ecdc ph\u1ed5 th\u00f4ng (THPT)"
+        },
+        "metadata": null,
+        "address": "Ho\u00e0ng Minh Gi\u00e1m, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i"
+    }
+}

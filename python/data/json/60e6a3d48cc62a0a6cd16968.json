@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60e6a3d48cc62a0a6cd16968",
+        "name": "Bella Rosa Trendy Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85318043505316,
+            "lat": 21.034750340843573
+        },
+        "scale": 1,
+        "bearing": -174,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -183.1551034552635,
+            "tilt": 83,
+            "target": {
+                "lng": 105.85316049231307,
+                "lat": 21.034688997309562
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60e6a3c38cc62a0a6cd16963.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60e6a3c38cc62a0a6cd16963.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85324634152124,
+                    "lat": 21.034794827326774
+                },
+                {
+                    "lng": 105.85324634149222,
+                    "lat": 21.03470499579836
+                },
+                {
+                    "lng": 105.85315009650445,
+                    "lat": 21.03470499579836
+                },
+                {
+                    "lng": 105.85315009647543,
+                    "lat": 21.034794827326774
+                },
+                {
+                    "lng": 105.85324634152124,
+                    "lat": 21.034794827326774
+                }
+            ],
+            "height": null,
+            "textureName": "60e6a3c48cc62a0a6cd16965.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60e6a3c48cc62a0a6cd16965.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

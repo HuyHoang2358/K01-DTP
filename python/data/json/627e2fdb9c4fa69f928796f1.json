@@ -1,0 +1,90 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e2fdb9c4fa69f928796f1",
+        "name": "Xe n\u00e2ng \u0110\u00f4ng \u0110\u00d4",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7590218981088,
+            "lat": 21.022351062516485
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21.0048,
+            "bearing": 23.00000000000002,
+            "tilt": 15,
+            "target": {
+                "lng": 105.75904090098138,
+                "lat": 21.022346170539997
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.7589457951791,
+                    "lat": 21.022416646882945
+                },
+                {
+                    "lng": 105.75909245709619,
+                    "lat": 21.022416876677852
+                },
+                {
+                    "lng": 105.75909859210088,
+                    "lat": 21.022283309147355
+                },
+                {
+                    "lng": 105.75895074805902,
+                    "lat": 21.022287417357788
+                }
+            ],
+            "height": 8,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "store": "C\u1eeda h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

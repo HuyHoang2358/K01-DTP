@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e32169c4fa69f92879720",
+        "name": "Qu\u1ea7y Thu\u1ed1c Ph\u00fac Ninh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76725263758875,
+            "lat": 21.014439297411556
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 0,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76725464925094,
+                "lat": 21.01443757605923
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76720771049634,
+                    "lat": 21.01448671351031
+                },
+                {
+                    "lng": 105.76727610696537,
+                    "lat": 21.014499232607164
+                },
+                {
+                    "lng": 105.76729622357391,
+                    "lat": 21.014392194294956
+                },
+                {
+                    "lng": 105.7672305093194,
+                    "lat": 21.014379049233796
+                }
+            ],
+            "height": 20,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "pharmacy"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 8 L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "pharmacy": "Nh\u00e0 thu\u1ed1c, qu\u1ea7y thu\u1ed1c"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 8 L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

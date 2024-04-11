@@ -1,0 +1,323 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fa0b6abd1b9e3497f3fa88f",
+        "name": "B\u1ed9 Th\u00f4ng Tin v\u00e0 Truy\u1ec1n Th\u00f4ng",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f16bf45c1befd1908310616",
+                "location": {
+                    "lng": 105.85036078429,
+                    "lat": 21.018550909808
+                },
+                "address": "B\u1ed9 Th\u00f4ng Tin v\u00e0 Truy\u1ec1n Th\u00f4ng,Ph\u01b0\u1eddng B\u00f9i Th\u1ecb Xu\u00e2n,Qu\u1eadn Hai B\u00e0 Tr\u01b0ng,H\u00e0 N\u1ed9i",
+                "name": "B\u1ed9 Th\u00f4ng Tin v\u00e0 Truy\u1ec1n Th\u00f4ng",
+                "objectId": "5fa0b6abd1b9e3497f3fa88f",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "B\u1ed9 Th\u00f4ng Tin v\u00e0 Truy\u1ec1n Th\u00f4ng,Ph\u01b0\u1eddng B\u00f9i Th\u1ecb Xu\u00e2n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Du"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5fa0b6abd1b9e3497f3fa88f",
+                    "name": "B\u1ed9 Th\u00f4ng Tin v\u00e0 Truy\u1ec1n Th\u00f4ng",
+                    "location": {
+                        "lng": 105.850740046667,
+                        "lat": 21.019037044997617
+                    },
+                    "scale": 1,
+                    "bearing": -15,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 13.600000000000007,
+                        "tilt": 66,
+                        "target": {
+                            "lng": 105.85078927859277,
+                            "lat": 21.019209727661362
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5fa0b645bd6b214ec1a4f0ca.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fa0b645bd6b214ec1a4f0ca.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85078816411712,
+                                "lat": 21.019081960755063
+                            },
+                            {
+                                "lng": 105.85078816408814,
+                                "lat": 21.018992129226646
+                            },
+                            {
+                                "lng": 105.85069192924585,
+                                "lat": 21.018992129226646
+                            },
+                            {
+                                "lng": 105.85069192921688,
+                                "lat": 21.019081960755063
+                            },
+                            {
+                                "lng": 105.85078816411712,
+                                "lat": 21.019081960755063
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5fa0b646bd6b214ec1a4f0cc.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fa0b646bd6b214ec1a4f0cc.jpg"
+                    },
+                    "types": [
+                        "committee"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng B\u00f9i Th\u1ecb Xu\u00e2n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Hu\u1ebf",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "8",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1604368043118,
+                    "updatedDate": 1623224248556
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.85036078429,
+                        21.018550909808
+                    ]
+                },
+                "rank": {
+                    "value": 1013
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.850740046667,
+            "lat": 21.019037044997617
+        },
+        "scale": 1,
+        "bearing": -15,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 13.600000000000007,
+            "tilt": 66,
+            "target": {
+                "lng": 105.85078927859277,
+                "lat": 21.019209727661362
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fa0b645bd6b214ec1a4f0ca.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fa0b645bd6b214ec1a4f0ca.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85078816411712,
+                    "lat": 21.019081960755063
+                },
+                {
+                    "lng": 105.85078816408814,
+                    "lat": 21.018992129226646
+                },
+                {
+                    "lng": 105.85069192924585,
+                    "lat": 21.018992129226646
+                },
+                {
+                    "lng": 105.85069192921688,
+                    "lat": 21.019081960755063
+                },
+                {
+                    "lng": 105.85078816411712,
+                    "lat": 21.019081960755063
+                }
+            ],
+            "height": 1,
+            "textureName": "5fa0b646bd6b214ec1a4f0cc.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fa0b646bd6b214ec1a4f0cc.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng B\u00f9i Th\u1ecb Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Hu\u1ebf"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "8"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

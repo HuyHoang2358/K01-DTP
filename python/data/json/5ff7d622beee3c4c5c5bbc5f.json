@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff7d622beee3c4c5c5bbc5f",
+        "name": "Vi\u1ec7n D\u1ea7u Kh\u00ed Vi\u1ec7t Nam",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79345572508413,
+            "lat": 21.01534314342058
+        },
+        "scale": 1,
+        "bearing": 44,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -15.523704140854097,
+            "tilt": 43.333332538604736,
+            "target": {
+                "lng": 105.79345572508413,
+                "lat": 21.01534314342058
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff7d605beee3c4c5c5bbc5d.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff7d605beee3c4c5c5bbc5d.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79350384134239,
+                    "lat": 21.015388059178022
+                },
+                {
+                    "lng": 105.79350384131341,
+                    "lat": 21.015298227649616
+                },
+                {
+                    "lng": 105.79340760885486,
+                    "lat": 21.015298227649616
+                },
+                {
+                    "lng": 105.79340760882589,
+                    "lat": 21.015388059178022
+                },
+                {
+                    "lng": 105.79350384134239,
+                    "lat": 21.015388059178022
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff7d606f75190676b001b46.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff7d606f75190676b001b46.jpg"
+        },
+        "types": [
+            "coworking_space"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Trung K\u00ednh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "167"
+            }
+        ],
+        "startDate": 1278694800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "coworking_space": "V\u0103n ph\u00f2ng cho thu\u00ea"
+        },
+        "metadata": null,
+        "address": "167 Trung K\u00ednh, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

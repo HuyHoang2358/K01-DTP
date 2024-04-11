@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fb5e97f88977d3476acbb4e",
+        "name": "Quoc Hoa Hanoi Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.847699,
+            "lat": 21.03394
+        },
+        "scale": 1,
+        "bearing": 3,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -18.492474889060947,
+            "tilt": 33,
+            "target": {
+                "lng": 105.84772361054439,
+                "lat": 21.034035815597427
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fb5e96b7591db406eff79a6.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb5e96b7591db406eff79a6.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84774712226131,
+                    "lat": 21.03398491575744
+                },
+                {
+                    "lng": 105.8477471222323,
+                    "lat": 21.033895084229027
+                },
+                {
+                    "lng": 105.8476508777677,
+                    "lat": 21.033895084229027
+                },
+                {
+                    "lng": 105.8476508777387,
+                    "lat": 21.03398491575744
+                },
+                {
+                    "lng": 105.84774712226131,
+                    "lat": 21.03398491575744
+                }
+            ],
+            "height": 1,
+            "textureName": "5fb5e96c7591db406eff79a8.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb5e96c7591db406eff79a8.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ed3"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "B\u00e1t \u0110\u00e0n "
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "10 "
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

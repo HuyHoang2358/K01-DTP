@@ -1,0 +1,414 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fb5e5977591db406eff79a4",
+        "name": "Bao Hung Hotel & Apartment",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c24e2c2e7d438384b7bd2",
+                "location": {
+                    "lng": 105.8152174,
+                    "lat": 21.0343395
+                },
+                "address": "2RM8+P3P, Ng. 19 P. Li\u1ec5u Giai, Li\u1ec5u Giai, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Bao Hung Hotel & Apartment",
+                "objectId": "5fb5e5977591db406eff79a4",
+                "description": "18/76 Ph\u1ed1 Tr\u1ea7n Th\u00e1i T\u00f4ng, l\u00e0ng V\u00f2ng, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i 10000, Vi\u1ec7t Nam",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Ng"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "19"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Li\u1ec5u Giai"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Li\u1ec5u Giai"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5fb5e5977591db406eff79a4",
+                    "name": "Bao Hung Hotel & Apartment",
+                    "location": {
+                        "lng": 105.787699,
+                        "lat": 21.033584
+                    },
+                    "scale": 1,
+                    "bearing": 55,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -65.40923999725774,
+                        "tilt": 71,
+                        "target": {
+                            "lng": 105.78741003493572,
+                            "lat": 21.03369910105421
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5fb5e5847591db406eff799f.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb5e5847591db406eff799f.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.78774712214634,
+                                "lat": 21.033628915757436
+                            },
+                            {
+                                "lng": 105.78774712211732,
+                                "lat": 21.033539084229023
+                            },
+                            {
+                                "lng": 105.78765087788268,
+                                "lat": 21.033539084229023
+                            },
+                            {
+                                "lng": 105.78765087785366,
+                                "lat": 21.033628915757436
+                            },
+                            {
+                                "lng": 105.78774712214634,
+                                "lat": 21.033628915757436
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5fb5e5857591db406eff79a1.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb5e5857591db406eff79a1.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ph\u1ed1 Tr\u1ea7n Th\u00e1i T\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "No. 16",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1605756311260,
+                    "updatedDate": 1623224249111
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3581 4666",
+                "website": "http://www.baohungapts.com",
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "0630"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "2230"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "time": "0630"
+                        },
+                        "close": {
+                            "day": 6,
+                            "time": "2230"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "0630"
+                        },
+                        "close": {
+                            "day": 0,
+                            "time": "2230"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "0630"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "2230"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "0630"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "2230"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "0630"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "2230"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "0630"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "2230"
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8152174,
+                        21.0343395
+                    ]
+                },
+                "rank": {
+                    "value": 1002
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.787699,
+            "lat": 21.033584
+        },
+        "scale": 1,
+        "bearing": 55,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -65.40923999725774,
+            "tilt": 71,
+            "target": {
+                "lng": 105.78741003493572,
+                "lat": 21.03369910105421
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fb5e5847591db406eff799f.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb5e5847591db406eff799f.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78774712214634,
+                    "lat": 21.033628915757436
+                },
+                {
+                    "lng": 105.78774712211732,
+                    "lat": 21.033539084229023
+                },
+                {
+                    "lng": 105.78765087788268,
+                    "lat": 21.033539084229023
+                },
+                {
+                    "lng": 105.78765087785366,
+                    "lat": 21.033628915757436
+                },
+                {
+                    "lng": 105.78774712214634,
+                    "lat": 21.033628915757436
+                }
+            ],
+            "height": 1,
+            "textureName": "5fb5e5857591db406eff79a1.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb5e5857591db406eff79a1.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ed1 Tr\u1ea7n Th\u00e1i T\u00f4ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "No. 16"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

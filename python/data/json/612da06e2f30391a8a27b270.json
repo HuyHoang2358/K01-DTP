@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "612da06e2f30391a8a27b270",
+        "name": "Tr\u01b0\u1eddng Ti\u1ec3u h\u1ecdc, THCS & THPT Nguy\u1ec5n Si\u00eau",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79010816843355,
+            "lat": 21.01667699208853
+        },
+        "scale": 1,
+        "bearing": 122,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -41.63341730971375,
+            "tilt": 0,
+            "target": {
+                "lng": 105.79010816843355,
+                "lat": 21.01667699208853
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "612da0572f30391a8a27b26b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/612da0572f30391a8a27b26b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79015628512217,
+                    "lat": 21.016721907845977
+                },
+                {
+                    "lng": 105.79015628509318,
+                    "lat": 21.016632076317563
+                },
+                {
+                    "lng": 105.79006005177393,
+                    "lat": 21.016632076317563
+                },
+                {
+                    "lng": 105.79006005174494,
+                    "lat": 21.016721907845977
+                },
+                {
+                    "lng": 105.79015628512217,
+                    "lat": 21.016721907845977
+                }
+            ],
+            "height": null,
+            "textureName": "612da0582f30391a8a27b26d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/612da0582f30391a8a27b26d.jpg"
+        },
+        "types": [
+            "high_school"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "M\u1ea1c Th\u00e1i T\u1ed5"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "high_school": "Tr\u01b0\u1eddng trung h\u1ecdc ph\u1ed5 th\u00f4ng (THPT)"
+        },
+        "metadata": null,
+        "address": "M\u1ea1c Th\u00e1i T\u1ed5, Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

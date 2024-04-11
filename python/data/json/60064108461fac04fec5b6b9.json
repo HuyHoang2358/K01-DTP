@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60064108461fac04fec5b6b9",
+        "name": "Nh\u00e0 ga C\u00e1t Linh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8272784581917,
+            "lat": 21.02838698973993
+        },
+        "scale": 1,
+        "bearing": 4.75,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -54.9893629060807,
+            "tilt": 72.5,
+            "target": {
+                "lng": 105.82697063679481,
+                "lat": 21.02849820981934
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6007a27be49e7b2263a05ea6.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6007a27be49e7b2263a05ea6.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82732657865982,
+                    "lat": 21.02843190549737
+                },
+                {
+                    "lng": 105.82732657863082,
+                    "lat": 21.028342073968957
+                },
+                {
+                    "lng": 105.8272303377526,
+                    "lat": 21.028342073968957
+                },
+                {
+                    "lng": 105.82723033772359,
+                    "lat": 21.02843190549737
+                },
+                {
+                    "lng": 105.82732657865982,
+                    "lat": 21.02843190549737
+                }
+            ],
+            "height": null,
+            "textureName": "6007a27b9b70fd6b371f7f56.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6007a27b9b70fd6b371f7f56.jpg"
+        },
+        "types": [
+            "train_station"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng C\u00e1t Linh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0o Nam"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "192"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "train_station": "Ga t\u00e0u l\u1eeda"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

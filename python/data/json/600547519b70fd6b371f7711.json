@@ -1,0 +1,393 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "600547519b70fd6b371f7711",
+        "name": "UBND qu\u1eadn H\u00e0 \u0110\u00f4ng",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c251cc2e7d438384bf522",
+                "location": {
+                    "lng": 105.7708482,
+                    "lat": 20.9650088
+                },
+                "address": "\u0110. T\u00f4 Hi\u1ec7u, H\u00e0 C\u1ea7u, H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "UBND qu\u1eadn H\u00e0 \u0110\u00f4ng",
+                "objectId": "600547519b70fd6b371f7711",
+                "description": "\u0110. T\u00f4 Hi\u1ec7u, H\u00e0 C\u1ea7u, H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "park",
+                    "sports"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "park",
+                        "name": "C\u00f4ng vi\u00ean/khu v\u1ef1c \u0111i b\u1ed9 th\u01b0 gi\u00e3n",
+                        "group": "sports"
+                    },
+                    {
+                        "id": "sports",
+                        "name": "Li\u00ean quan \u0111\u1ebfn th\u1ec3 d\u1ee5c th\u1ec3 thao",
+                        "group": "sports"
+                    }
+                ],
+                "mainType": "park",
+                "mainTypeInfos": {
+                    "id": "park",
+                    "name": "C\u00f4ng vi\u00ean/khu v\u1ef1c \u0111i b\u1ed9 th\u01b0 gi\u00e3n",
+                    "group": "sports"
+                },
+                "auxiliaryTypes": [
+                    "sports"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "sports",
+                        "name": "Li\u00ean quan \u0111\u1ebfn th\u1ec3 d\u1ee5c th\u1ec3 thao",
+                        "group": "sports"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "T\u00f4 Hi\u1ec7u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0 C\u1ea7u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://lh5.googleusercontent.com/p/AF1QipMgrbWEOKEORtVAspM1xoSe-spPiIGwHUFMNfL3=w152-h92-k-no",
+                        "name": null,
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "park",
+                        "name": "C\u00f4ng vi\u00ean/khu v\u1ef1c \u0111i b\u1ed9 th\u01b0 gi\u00e3n",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "sports",
+                        "minRank": 1000000,
+                        "maxRank": 3000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "sports",
+                        "name": "Li\u00ean quan \u0111\u1ebfn th\u1ec3 d\u1ee5c th\u1ec3 thao",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "sports",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "600547519b70fd6b371f7711",
+                    "name": "UBND qu\u1eadn H\u00e0 \u0110\u00f4ng",
+                    "location": {
+                        "lng": 105.770766245147,
+                        "lat": 20.965009121405046
+                    },
+                    "scale": 1,
+                    "bearing": 132,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -9.247355016077654,
+                        "tilt": 69.5,
+                        "target": {
+                            "lng": 105.77071123141377,
+                            "lat": 20.965037259572803
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "6005473be49e7b2263a0512a.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6005473be49e7b2263a0512a.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.77081434519039,
+                                "lat": 20.965054037162506
+                            },
+                            {
+                                "lng": 105.77081434516148,
+                                "lat": 20.964964205634093
+                            },
+                            {
+                                "lng": 105.77071814513252,
+                                "lat": 20.964964205634093
+                            },
+                            {
+                                "lng": 105.77071814510363,
+                                "lat": 20.965054037162506
+                            },
+                            {
+                                "lng": 105.77081434519039,
+                                "lat": 20.965054037162506
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "6005473d461fac04fec5b280.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6005473d461fac04fec5b280.jpg"
+                    },
+                    "types": [
+                        "committee"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "H\u00e0 C\u1ea7u",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1610958673286,
+                    "updatedDate": 1623224257415
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3382 5587",
+                "website": "http://www.hadong.hanoi.gov.vn",
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "1700"
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.7708482,
+                        20.9650088
+                    ]
+                },
+                "rank": {
+                    "value": 1000000
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.770766245147,
+            "lat": 20.965009121405046
+        },
+        "scale": 1,
+        "bearing": 132,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -9.247355016077654,
+            "tilt": 69.5,
+            "target": {
+                "lng": 105.77071123141377,
+                "lat": 20.965037259572803
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6005473be49e7b2263a0512a.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6005473be49e7b2263a0512a.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.77081434519039,
+                    "lat": 20.965054037162506
+                },
+                {
+                    "lng": 105.77081434516148,
+                    "lat": 20.964964205634093
+                },
+                {
+                    "lng": 105.77071814513252,
+                    "lat": 20.964964205634093
+                },
+                {
+                    "lng": 105.77071814510363,
+                    "lat": 20.965054037162506
+                },
+                {
+                    "lng": 105.77081434519039,
+                    "lat": 20.965054037162506
+                }
+            ],
+            "height": 1,
+            "textureName": "6005473d461fac04fec5b280.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6005473d461fac04fec5b280.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0 C\u1ea7u"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

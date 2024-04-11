@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff81af6f75190676b002456",
+        "name": "GHTK Building",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78417993101351,
+            "lat": 21.01389495042426
+        },
+        "scale": 1,
+        "bearing": 125,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18.75,
+            "bearing": -55.949145166422014,
+            "tilt": 9.000000268220901,
+            "target": {
+                "lng": 105.78439561241322,
+                "lat": 21.014007609991694
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff81aefbeee3c4c5c5bc1e7.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff81aefbeee3c4c5c5bc1e7.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78422804680457,
+                    "lat": 21.0139398661817
+                },
+                {
+                    "lng": 105.7842280467756,
+                    "lat": 21.013850034653288
+                },
+                {
+                    "lng": 105.78413181525144,
+                    "lat": 21.013850034653288
+                },
+                {
+                    "lng": 105.78413181522245,
+                    "lat": 21.0139398661817
+                },
+                {
+                    "lng": 105.78422804680457,
+                    "lat": 21.0139398661817
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff81af0741cd06e43fb8405.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff81af0741cd06e43fb8405.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u00f9ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "8"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "8 Ph\u1ea1m H\u00f9ng, Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

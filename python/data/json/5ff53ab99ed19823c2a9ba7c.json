@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff53ab99ed19823c2a9ba7c",
+        "name": "CANIFA Big C Th\u0103ng Long",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79306558135153,
+            "lat": 21.00733595272831
+        },
+        "scale": 1,
+        "bearing": 37.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 1.5999999999999899,
+            "tilt": 82.5,
+            "target": {
+                "lng": 105.79280674341385,
+                "lat": 21.0075173508331
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "62eb45b131332f97a73f0a80.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/62eb45b131332f97a73f0a80.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7931136950271,
+                    "lat": 21.007380868485765
+                },
+                {
+                    "lng": 105.79311369499813,
+                    "lat": 21.00729103695735
+                },
+                {
+                    "lng": 105.79301746770494,
+                    "lat": 21.00729103695735
+                },
+                {
+                    "lng": 105.79301746767597,
+                    "lat": 21.007380868485765
+                },
+                {
+                    "lng": 105.7931136950271,
+                    "lat": 21.007380868485765
+                }
+            ],
+            "height": null,
+            "textureName": "62eb45b231332f97a73f0a82.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/62eb45b231332f97a73f0a82.jpg"
+        },
+        "types": [
+            "local_market"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Duy H\u01b0ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "222"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "local_market": "Ch\u1ee3"
+        },
+        "metadata": null,
+        "address": "222 Tr\u1ea7n Duy H\u01b0ng, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

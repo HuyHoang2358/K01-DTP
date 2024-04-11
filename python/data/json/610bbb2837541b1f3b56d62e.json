@@ -1,0 +1,321 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "610bbb2837541b1f3b56d62e",
+        "name": "Kh\u00e1ch S\u1ea1n Capital Garden",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60dd38ddf81cb14bc891c303",
+                "location": {
+                    "lng": 105.8131104,
+                    "lat": 21.0154663
+                },
+                "address": "4 P. Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch, L\u00e1ng H\u1ea1, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Kh\u00e1ch S\u1ea1n Capital Garden",
+                "objectId": "610bbb2837541b1f3b56d62e",
+                "description": " 4 Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch ,  L\u00e1ng H\u1ea1 ,  \u0110\u1ed1ng \u0110a ,  H\u00e0 N\u1ed9i ,  Vi\u1ec7t Nam ",
+                "types": [
+                    "lodging"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "P"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "4"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng L\u00e1ng H\u1ea1"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "610bbb2837541b1f3b56d62e",
+                    "name": "Kh\u00e1ch S\u1ea1n Capital Garden",
+                    "location": {
+                        "lng": 105.81323174500244,
+                        "lat": 21.015540078067787
+                    },
+                    "scale": 1,
+                    "bearing": 57,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -17.314763454120598,
+                        "tilt": 61.5,
+                        "target": {
+                            "lng": 105.813104083738,
+                            "lat": 21.015486963829684
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "610bbb2137541b1f3b56d629.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/610bbb2137541b1f3b56d629.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.81327986132423,
+                                "lat": 21.015584993825232
+                            },
+                            {
+                                "lng": 105.81327986129524,
+                                "lat": 21.01549516229682
+                            },
+                            {
+                                "lng": 105.81318362870964,
+                                "lat": 21.01549516229682
+                            },
+                            {
+                                "lng": 105.81318362868065,
+                                "lat": 21.015584993825232
+                            },
+                            {
+                                "lng": 105.81327986132423,
+                                "lat": 21.015584993825232
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "610bbb2237541b1f3b56d62b.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/610bbb2237541b1f3b56d62b.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng L\u00e1ng H\u1ea1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1628158760875,
+                    "updatedDate": 1628158760875
+                },
+                "tags": [],
+                "phoneNumber": "02438350373",
+                "website": "capitalgardenhotel.com.vn",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8131104,
+                        21.0154663
+                    ]
+                },
+                "rank": {
+                    "value": 1235
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.81323174500244,
+            "lat": 21.015540078067787
+        },
+        "scale": 1,
+        "bearing": 57,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -17.314763454120598,
+            "tilt": 61.5,
+            "target": {
+                "lng": 105.813104083738,
+                "lat": 21.015486963829684
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "610bbb2137541b1f3b56d629.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/610bbb2137541b1f3b56d629.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.81327986132423,
+                    "lat": 21.015584993825232
+                },
+                {
+                    "lng": 105.81327986129524,
+                    "lat": 21.01549516229682
+                },
+                {
+                    "lng": 105.81318362870964,
+                    "lat": 21.01549516229682
+                },
+                {
+                    "lng": 105.81318362868065,
+                    "lat": 21.015584993825232
+                },
+                {
+                    "lng": 105.81327986132423,
+                    "lat": 21.015584993825232
+                }
+            ],
+            "height": null,
+            "textureName": "610bbb2237541b1f3b56d62b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/610bbb2237541b1f3b56d62b.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng L\u00e1ng H\u1ea1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

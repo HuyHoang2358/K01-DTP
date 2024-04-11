@@ -1,0 +1,95 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5db022745bb8830f98dcff49",
+        "name": "C\u00f4ng an ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.229174,
+            "lat": 16.083011
+        },
+        "scale": 1,
+        "bearing": -90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 30.562541420544047,
+            "tilt": 54,
+            "target": {
+                "lng": 108.22913771910618,
+                "lat": 16.08301105918244
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5db0227468789d138cbebd04.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5db0227468789d138cbebd04.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22922074532372,
+                    "lat": 16.083055915759132
+                },
+                {
+                    "lng": 108.22922074530258,
+                    "lat": 16.08296608423072
+                },
+                {
+                    "lng": 108.22912725469743,
+                    "lat": 16.08296608423072
+                },
+                {
+                    "lng": 108.2291272546763,
+                    "lat": 16.083055915759132
+                },
+                {
+                    "lng": 108.22922074532372,
+                    "lat": 16.083055915759132
+                }
+            ],
+            "height": 1,
+            "textureName": "5db0227468789d138cbebd02.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5db0227468789d138cbebd02.jpg"
+        },
+        "types": [
+            "police"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "police": "\u0110\u1ed3n/C\u1ee5c c\u1ea3nh s\u00e1t"
+        },
+        "metadata": null,
+        "address": "N\u1ea1i Hi\u00ean \u0110\u00f4ng, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

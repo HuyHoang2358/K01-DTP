@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "614028762f30391a8a27b9f1",
+        "name": "H\u00e0 \u0110\u00f4 Park View",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79368125565915,
+            "lat": 21.027142775292848
+        },
+        "scale": 1,
+        "bearing": -112,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -144.78950647086762,
+            "tilt": 10.166664958000183,
+            "target": {
+                "lng": 105.79368125565915,
+                "lat": 21.027142775292848
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "614028662f30391a8a27b9ec.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/614028662f30391a8a27b9ec.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79372937572556,
+                    "lat": 21.027187691050283
+                },
+                {
+                    "lng": 105.79372937569656,
+                    "lat": 21.027097859521874
+                },
+                {
+                    "lng": 105.79363313562175,
+                    "lat": 21.027097859521874
+                },
+                {
+                    "lng": 105.79363313559274,
+                    "lat": 21.027187691050283
+                },
+                {
+                    "lng": 105.79372937572556,
+                    "lat": 21.027187691050283
+                }
+            ],
+            "height": null,
+            "textureName": "614028672f30391a8a27b9ee.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/614028672f30391a8a27b9ee.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ed1 Th\u00e0nh Th\u00e1i"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "10 "
+            }
+        ],
+        "startDate": 1418490000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "10  Ph\u1ed1 Th\u00e0nh Th\u00e1i, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

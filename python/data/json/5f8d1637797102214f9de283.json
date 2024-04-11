@@ -1,0 +1,367 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d1637797102214f9de283",
+        "name": "The Oriental Jade Hotel & Spa",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f317b8c6ab94a42b06ea8e3",
+                "location": {
+                    "lng": 105.85017908742151,
+                    "lat": 21.0297069796584
+                },
+                "address": "94 H\u00e0ng Tr\u1ed1ng, Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "The Oriental Jade Hotel & Spa",
+                "objectId": "5f8d1637797102214f9de283",
+                "description": "94 H\u00e0ng Tr\u1ed1ng, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "casino",
+                    "entertainment"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "casino",
+                        "name": "S\u00f2ng b\u00e0i",
+                        "group": "entertainment"
+                    },
+                    {
+                        "id": "entertainment",
+                        "name": "Li\u00ean quan \u0111\u1ebfn vui ch\u01a1i, gi\u1ea3i tr\u00ed",
+                        "group": "entertainment"
+                    }
+                ],
+                "mainType": "casino",
+                "mainTypeInfos": {
+                    "id": "casino",
+                    "name": "S\u00f2ng b\u00e0i",
+                    "group": "entertainment"
+                },
+                "auxiliaryTypes": [
+                    "entertainment"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "entertainment",
+                        "name": "Li\u00ean quan \u0111\u1ebfn vui ch\u01a1i, gi\u1ea3i tr\u00ed",
+                        "group": "entertainment"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "94"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "H\u00e0ng Tr\u1ed1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "casino",
+                        "name": "S\u00f2ng b\u00e0i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "entertainment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "entertainment",
+                        "name": "Li\u00ean quan \u0111\u1ebfn vui ch\u01a1i, gi\u1ea3i tr\u00ed",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "entertainment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8d1637797102214f9de283",
+                    "name": "The Oriental Jade Hotel & Spa",
+                    "location": {
+                        "lng": 105.85000674082488,
+                        "lat": 21.029627106059024
+                    },
+                    "scale": 1,
+                    "bearing": 33,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -111.35217665118705,
+                        "tilt": 60.5,
+                        "target": {
+                            "lng": 105.84982113513965,
+                            "lat": 21.02957126804754
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8d138a1a51f33b9695612e.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d138a1a51f33b9695612e.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85005486169341,
+                                "lat": 21.029672021816463
+                            },
+                            {
+                                "lng": 105.8500548616644,
+                                "lat": 21.029582190288053
+                            },
+                            {
+                                "lng": 105.84995861998536,
+                                "lat": 21.029582190288053
+                            },
+                            {
+                                "lng": 105.84995861995634,
+                                "lat": 21.029672021816463
+                            },
+                            {
+                                "lng": 105.85005486169341,
+                                "lat": 21.029672021816463
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8d138c1a51f33b96956130.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d138c1a51f33b96956130.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "H\u00e0ng Tr\u1ed1ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "71B6",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603081783769,
+                    "updatedDate": 1623224248191
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3936 7777",
+                "website": "http://www.theorientaljadehotel.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.85017908742151,
+                        21.0297069796584
+                    ]
+                },
+                "rank": {
+                    "value": 1003.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85000674082488,
+            "lat": 21.029627106059024
+        },
+        "scale": 1,
+        "bearing": 33,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -111.35217665118705,
+            "tilt": 60.5,
+            "target": {
+                "lng": 105.84982113513965,
+                "lat": 21.02957126804754
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d138a1a51f33b9695612e.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d138a1a51f33b9695612e.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85005486169341,
+                    "lat": 21.029672021816463
+                },
+                {
+                    "lng": 105.8500548616644,
+                    "lat": 21.029582190288053
+                },
+                {
+                    "lng": 105.84995861998536,
+                    "lat": 21.029582190288053
+                },
+                {
+                    "lng": 105.84995861995634,
+                    "lat": 21.029672021816463
+                },
+                {
+                    "lng": 105.85005486169341,
+                    "lat": 21.029672021816463
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d138c1a51f33b96956130.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d138c1a51f33b96956130.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng Tr\u1ed1ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "71B6"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

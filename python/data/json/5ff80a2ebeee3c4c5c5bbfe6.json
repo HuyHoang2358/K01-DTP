@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff80a2ebeee3c4c5c5bbfe6",
+        "name": "Handi Ressco L\u00ea V\u0103n L\u01b0\u01a1ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80322752501922,
+            "lat": 21.003822881010265
+        },
+        "scale": 1,
+        "bearing": -143,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -176.99874401258108,
+            "tilt": 56.5,
+            "target": {
+                "lng": 105.80322752501922,
+                "lat": 21.003822881010265
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff8092dbeee3c4c5c5bbfe2.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff8092dbeee3c4c5c5bbfe2.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80327563756204,
+                    "lat": 21.003867796767715
+                },
+                {
+                    "lng": 105.80327563753308,
+                    "lat": 21.0037779652393
+                },
+                {
+                    "lng": 105.80317941250537,
+                    "lat": 21.0037779652393
+                },
+                {
+                    "lng": 105.8031794124764,
+                    "lat": 21.003867796767715
+                },
+                {
+                    "lng": 105.80327563756204,
+                    "lat": 21.003867796767715
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff8092ebeee3c4c5c5bbfe4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff8092ebeee3c4c5c5bbfe4.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea V\u0103n L\u01b0\u01a1ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "31"
+            }
+        ],
+        "startDate": 1492362000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "31 L\u00ea V\u0103n L\u01b0\u01a1ng, Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

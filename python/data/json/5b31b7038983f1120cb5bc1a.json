@@ -1,0 +1,277 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b31b7038983f1120cb5bc1a",
+        "name": "Vincom Plaza \u0110\u00e0 N\u1eb5ng",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e7814a9df9d67e5e20",
+                "location": {
+                    "lng": 108.230191,
+                    "lat": 16.07157
+                },
+                "address": "496 Ng\u00f4 Quy\u1ec1n, Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Vincom Plaza \u0110\u00e0 N\u1eb5ng",
+                "objectId": "5b31b7038983f1120cb5bc1a",
+                "description": " &nbsp; \n",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "496"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Ng\u00f4 Quy\u1ec1n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 1514739600000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b31b7038983f1120cb5bc1a",
+                    "name": "Vincom Plaza \u0110\u00e0 N\u1eb5ng",
+                    "location": {
+                        "lng": 108.23021294810053,
+                        "lat": 16.071499283666626
+                    },
+                    "scale": 0.9,
+                    "bearing": 92,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 156.61890408505624,
+                        "tilt": 74.5,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "",
+                        "objName": "5d71cfeaf74dba19e4da5651.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5d71cfeaf74dba19e4da5651.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [],
+                        "height": 0,
+                        "textureName": "5d71cfeaf74dba19e4da5653.png",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5d71cfeaf74dba19e4da5653.png"
+                    },
+                    "types": [],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ng\u00f4 Quy\u1ec1n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ng\u00f4 Quy\u1ec1n, Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "d9842deb-64ba-4331-afa4-a4313a3631a5",
+                        "displayName": ""
+                    },
+                    "createdDate": 1529984771320,
+                    "updatedDate": 1623224193002
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.230191,
+                        16.07157
+                    ]
+                },
+                "rank": {
+                    "value": 1000162
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.23021294810053,
+            "lat": 16.071499283666626
+        },
+        "scale": 0.9,
+        "bearing": 92,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 156.61890408505624,
+            "tilt": 74.5,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5d71cfeaf74dba19e4da5651.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5d71cfeaf74dba19e4da5651.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [],
+            "height": 0,
+            "textureName": "5d71cfeaf74dba19e4da5653.png",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5d71cfeaf74dba19e4da5653.png"
+        },
+        "types": [],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f4 Quy\u1ec1n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": null,
+        "typeInfos": {},
+        "metadata": null,
+        "address": "Ng\u00f4 Quy\u1ec1n, Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

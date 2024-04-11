@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6103b28837541b1f3b56d4f8",
+        "name": "Li\u00ean \u0110o\u00e0n Lao \u0110\u1ed9ng Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85160087668936,
+            "lat": 21.03470132565245
+        },
+        "scale": 1,
+        "bearing": 182,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": 177.2184063335715,
+            "tilt": 29.25,
+            "target": {
+                "lng": 105.85159701497327,
+                "lat": 21.034786512931166
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6103b27a37541b1f3b56d4f2.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6103b27a37541b1f3b56d4f2.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85164396646995,
+                    "lat": 21.03473744536691
+                },
+                {
+                    "lng": 105.85164396644093,
+                    "lat": 21.0346476138385
+                },
+                {
+                    "lng": 105.85154772149023,
+                    "lat": 21.0346476138385
+                },
+                {
+                    "lng": 105.85154772146122,
+                    "lat": 21.03473744536691
+                },
+                {
+                    "lng": 105.85164396646995,
+                    "lat": 21.03473744536691
+                }
+            ],
+            "height": null,
+            "textureName": "6103b27c37541b1f3b56d4f4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6103b27c37541b1f3b56d4f4.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

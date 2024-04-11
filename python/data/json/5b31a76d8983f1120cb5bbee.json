@@ -1,0 +1,371 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b31a76d8983f1120cb5bbee",
+        "name": "Vinpearl Condotel Riverfront Da Nang",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e7814a9df9d67e5e1f",
+                "location": {
+                    "lng": 108.229357,
+                    "lat": 16.070912
+                },
+                "address": "341 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Vinpearl Condotel Riverfront Da Nang",
+                "objectId": "5b31a76d8983f1120cb5bbee",
+                "description": " &nbsp; ",
+                "types": [
+                    "restaurant",
+                    "food_service",
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "restaurant",
+                        "name": "Nh\u00e0 h\u00e0ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "restaurant",
+                "mainTypeInfos": {
+                    "id": "restaurant",
+                    "name": "Nh\u00e0 h\u00e0ng",
+                    "group": "food_service"
+                },
+                "auxiliaryTypes": [
+                    "food_service",
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "341"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "restaurant",
+                        "name": "Nh\u00e0 h\u00e0ng",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "food_service",
+                        "minRank": 50000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1665631628283
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "food_service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b31a76d8983f1120cb5bbee",
+                    "name": "Vinpearl Condotel Riverfront Da Nang",
+                    "location": {
+                        "lng": 108.22930131872283,
+                        "lat": 16.070952954436578
+                    },
+                    "scale": 1,
+                    "bearing": 0,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": -70.39848821188126,
+                        "tilt": 64,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "",
+                        "objName": "5d71d189f74dba19e4da5655.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5d71d189f74dba19e4da5655.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [],
+                        "height": 0,
+                        "textureName": "5d71d189f74dba19e4da5657.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5d71d189f74dba19e4da5657.jpg"
+                    },
+                    "types": [
+                        "hotel",
+                        "restaurant"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "An H\u1ea3i B\u1eafc",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1529980781789,
+                    "updatedDate": 1623224193001
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.229357,
+                        16.070912
+                    ]
+                },
+                "rank": {
+                    "value": 1000282.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22930131872283,
+            "lat": 16.070952954436578
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -70.39848821188126,
+            "tilt": 64,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5d71d189f74dba19e4da5655.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5d71d189f74dba19e4da5655.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [],
+            "height": 0,
+            "textureName": "5d71d189f74dba19e4da5657.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5d71d189f74dba19e4da5657.jpg"
+        },
+        "types": [
+            "hotel",
+            "restaurant"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i B\u1eafc"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n",
+            "restaurant": "Nh\u00e0 h\u00e0ng"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

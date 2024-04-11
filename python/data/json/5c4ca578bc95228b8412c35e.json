@@ -1,0 +1,340 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c4ca578bc95228b8412c35e",
+        "name": "C\u1ea7u V\u01b0\u1ee3t \u0110i B\u1ed9",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e8814a9df9d67e5f44",
+                "location": {
+                    "lng": 105.82831,
+                    "lat": 21.007549
+                },
+                "address": "Ch\u00f9a B\u1ed9c, \u0110\u00f4\u0301ng \u0110a, H\u00e0 N\u1ed9i, +844 Ch\u00f9a B\u1ed9c, Ph\u01b0\u1eddng Trung Li\u1ec7t, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "C\u1ea7u V\u01b0\u1ee3t \u0110i B\u1ed9",
+                "objectId": "5c4ca578bc95228b8412c35e",
+                "description": " &nbsp; ",
+                "types": [
+                    "bridge",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "bridge",
+                        "name": "C\u1ea7u",
+                        "group": "other"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "bridge",
+                "mainTypeInfos": {
+                    "id": "bridge",
+                    "name": "C\u1ea7u",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Ch\u00f9a B\u1ed9c"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0110\u00f4ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Trung Li\u1ec7t"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 946659600000,
+                "endDate": 2524582800000,
+                "placeTypes": [
+                    {
+                        "id": "bridge",
+                        "name": "C\u1ea7u",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "other",
+                        "minRank": 500000,
+                        "maxRank": 2000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5c4ca578bc95228b8412c35e",
+                    "name": "C\u1ea7u V\u01b0\u1ee3t \u0110i B\u1ed9",
+                    "location": {
+                        "lng": 105.82831663785004,
+                        "lat": 21.007549828007598
+                    },
+                    "scale": 1,
+                    "bearing": 64,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -136.38260817124572,
+                        "tilt": 59.5,
+                        "target": {
+                            "lng": 105.82835824550736,
+                            "lat": 21.00751290013995
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5c4ca578bc95228b8412c35e",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c4ca578bc95228b8412c35e",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.828308,
+                                "lat": 21.007704
+                            },
+                            {
+                                "lng": 105.828518,
+                                "lat": 21.007608
+                            },
+                            {
+                                "lng": 105.828177,
+                                "lat": 21.007453
+                            },
+                            {
+                                "lng": 105.828387,
+                                "lat": 21.007357
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "b8aa59b90b2247d9a4f23771739cfe3d.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/b8aa59b90b2247d9a4f23771739cfe3d.jpg"
+                    },
+                    "types": [],
+                    "minZoom": 17,
+                    "maxZoom": 17,
+                    "startDate": 946684800000,
+                    "endDate": 2527200000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "\u0110\u1ed1ng \u0110a",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Trung Li\u1ec7t",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ch\u00f9a B\u1ed9c",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ch\u00f9a B\u1ed9c, Trung Li\u1ec7t, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "5bf62a93a1645b1cb404a408",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1548552168364,
+                    "updatedDate": 1623224213421
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.82831,
+                        21.007549
+                    ]
+                },
+                "rank": {
+                    "value": 1000007.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.82831663785004,
+            "lat": 21.007549828007598
+        },
+        "scale": 1,
+        "bearing": 64,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -136.38260817124572,
+            "tilt": 59.5,
+            "target": {
+                "lng": 105.82835824550736,
+                "lat": 21.00751290013995
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c4ca578bc95228b8412c35e",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c4ca578bc95228b8412c35e",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.828308,
+                    "lat": 21.007704
+                },
+                {
+                    "lng": 105.828518,
+                    "lat": 21.007608
+                },
+                {
+                    "lng": 105.828177,
+                    "lat": 21.007453
+                },
+                {
+                    "lng": 105.828387,
+                    "lat": 21.007357
+                }
+            ],
+            "height": 0,
+            "textureName": "b8aa59b90b2247d9a4f23771739cfe3d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/b8aa59b90b2247d9a4f23771739cfe3d.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 17,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "\u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Trung Li\u1ec7t"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ch\u00f9a B\u1ed9c"
+            }
+        ],
+        "startDate": 946684800000,
+        "endDate": 2527200000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "Ch\u00f9a B\u1ed9c, Trung Li\u1ec7t, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i"
+    }
+}

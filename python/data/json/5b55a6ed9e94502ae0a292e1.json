@@ -1,0 +1,312 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b55a6ed9e94502ae0a292e1",
+        "name": "\u0110\u00e0 N\u1eb5ng Plaza",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e7814a9df9d67e5e34",
+                "location": {
+                    "lng": 108.222737,
+                    "lat": 16.079384
+                },
+                "address": "Da Nang Plaza, 06 \u0110\u1eb7ng T\u1eed K\u00ednh, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "\u0110\u00e0 N\u1eb5ng Plaza",
+                "objectId": "5b55a6ed9e94502ae0a292e1",
+                "description": " &nbsp; ",
+                "types": [
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Da Nang Plaza"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "06"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0110\u1eb7ng T\u1eed K\u00ednh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b55a6ed9e94502ae0a292e1",
+                    "name": "\u0110\u00e0 N\u1eb5ng Plaza",
+                    "location": {
+                        "lng": 108.2227223120795,
+                        "lat": 16.07936292019187
+                    },
+                    "scale": 1,
+                    "bearing": 97,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 84.53736914660955,
+                        "tilt": 61,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "",
+                        "objName": "5db11147f1417c176c8f1c2f.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5db11147f1417c176c8f1c2f.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": null,
+                        "height": 0,
+                        "textureName": "5db11147f1417c176c8f1c31.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5db11147f1417c176c8f1c31.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Th\u1ea1ch Thang",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "\u0110\u1eb7ng T\u1eed K\u00ednh",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1532339949328,
+                    "updatedDate": 1623224194621
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.222737,
+                        16.079384
+                    ]
+                },
+                "rank": {
+                    "value": 1000098
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.2227223120795,
+            "lat": 16.07936292019187
+        },
+        "scale": 1,
+        "bearing": 97,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 84.53736914660955,
+            "tilt": 61,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5db11147f1417c176c8f1c2f.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5db11147f1417c176c8f1c2f.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 0,
+            "textureName": "5db11147f1417c176c8f1c31.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5db11147f1417c176c8f1c31.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u1eb7ng T\u1eed K\u00ednh"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d6a3e797102214f9de2ee",
+        "name": "TQT 2 Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.84420792894059,
+            "lat": 21.021030627737076
+        },
+        "scale": 0.9,
+        "bearing": 162,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -121.8149724525185,
+            "tilt": 65,
+            "target": {
+                "lng": 105.8440640088334,
+                "lat": 21.020938991377353
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d6a3864df97299cfcb678.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d6a3864df97299cfcb678.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84425604703407,
+                    "lat": 21.02107554349452
+                },
+                {
+                    "lng": 105.84425604700509,
+                    "lat": 21.02098571196611
+                },
+                {
+                    "lng": 105.8441598108761,
+                    "lat": 21.02098571196611
+                },
+                {
+                    "lng": 105.84415981084713,
+                    "lat": 21.02107554349452
+                },
+                {
+                    "lng": 105.84425604703407,
+                    "lat": 21.02107554349452
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d6a381a51f33b969561af.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d6a381a51f33b969561af.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n B\u00ecnh Tr\u1ecdng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "95"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

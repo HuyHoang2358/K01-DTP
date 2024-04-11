@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d4be0797102214f9de2a2",
+        "name": "Hanoi Canary Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.81456294095545,
+            "lat": 21.034540921878275
+        },
+        "scale": 1,
+        "bearing": 163,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -133.2755389334243,
+            "tilt": 70.5,
+            "target": {
+                "lng": 105.81419708413455,
+                "lat": 21.0342546347052
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d4bcd64df97299cfcb618.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d4bcd64df97299cfcb618.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.81461106341085,
+                    "lat": 21.034585837635706
+                },
+                {
+                    "lng": 105.81461106338183,
+                    "lat": 21.0344960061073
+                },
+                {
+                    "lng": 105.81451481852908,
+                    "lat": 21.0344960061073
+                },
+                {
+                    "lng": 105.81451481850006,
+                    "lat": 21.034585837635706
+                },
+                {
+                    "lng": 105.81461106341085,
+                    "lat": 21.034585837635706
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d4bce797102214f9de2a0.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d4bce797102214f9de2a0.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Li\u1ec5u Giai"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Kim M\u00e3"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "306"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

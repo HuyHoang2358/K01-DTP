@@ -1,0 +1,112 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e295e9c4fa69f92879674",
+        "name": "T\u00f2a nh\u00e0 chung c\u01b0 B3",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76399465949945,
+            "lat": 21.034746682852983
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.75,
+            "bearing": -4.6000000000000005,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76408304864363,
+                "lat": 21.034767694471046
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76397778941566,
+                    "lat": 21.034800858013284
+                },
+                {
+                    "lng": 105.76382616343966,
+                    "lat": 21.034852193685126
+                },
+                {
+                    "lng": 105.76376621073962,
+                    "lat": 21.034693872510474
+                },
+                {
+                    "lng": 105.76398411140292,
+                    "lat": 21.03461615261969
+                },
+                {
+                    "lng": 105.76401148389436,
+                    "lat": 21.034688397480096
+                },
+                {
+                    "lng": 105.76415770119229,
+                    "lat": 21.034644122523346
+                },
+                {
+                    "lng": 105.76422719219289,
+                    "lat": 21.034803160044078
+                },
+                {
+                    "lng": 105.76400662371822,
+                    "lat": 21.03487470594777
+                }
+            ],
+            "height": 48,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 15 H\u00e0m Nghi"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 15 H\u00e0m Nghi, Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

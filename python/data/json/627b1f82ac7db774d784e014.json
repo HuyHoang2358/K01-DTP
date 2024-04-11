@@ -1,0 +1,346 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627b1f82ac7db774d784e014",
+        "name": "Tr\u1ea1m Y t\u1ebf ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60a74a75b4e1e72f1899db06",
+                "location": {
+                    "lng": 105.7712342,
+                    "lat": 21.0194123
+                },
+                "address": "M\u1ef9 \u0110\u00ecnh, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Tr\u1ea1m Y t\u1ebf ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                "objectId": "627b1f82ac7db774d784e014",
+                "description": null,
+                "types": [
+                    "health",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "group": "health"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "health",
+                "mainTypeInfos": {
+                    "id": "health",
+                    "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                    "group": "health"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "M\u1ef9 \u0110\u00ecnh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "health",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "627b1f82ac7db774d784e014",
+                    "name": "Tr\u1ea1m Y t\u1ebf ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                    "location": {
+                        "lng": 105.77121065422193,
+                        "lat": 21.019498116632604
+                    },
+                    "scale": 0.85,
+                    "bearing": 89,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -135.60000000000005,
+                        "tilt": 79.5,
+                        "target": {
+                            "lng": 105.77127337930847,
+                            "lat": 21.019511491636933
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "627b1f6eac7db774d784e00f.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627b1f6eac7db774d784e00f.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.77125877182084,
+                                "lat": 21.019543032390047
+                            },
+                            {
+                                "lng": 105.77125877179186,
+                                "lat": 21.019453200861637
+                            },
+                            {
+                                "lng": 105.771162536652,
+                                "lat": 21.019453200861637
+                            },
+                            {
+                                "lng": 105.77116253662302,
+                                "lat": 21.019543032390047
+                            },
+                            {
+                                "lng": 105.77125877182084,
+                                "lat": 21.019543032390047
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "627b1f6fac7db774d784e011.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627b1f6fac7db774d784e011.jpg"
+                    },
+                    "types": [
+                        "doctor"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1652236162496,
+                    "updatedDate": 1652236162496
+                },
+                "tags": [],
+                "phoneNumber": "+842437965193",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.7712342,
+                        21.0194123
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.77121065422193,
+            "lat": 21.019498116632604
+        },
+        "scale": 0.85,
+        "bearing": 89,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -135.60000000000005,
+            "tilt": 79.5,
+            "target": {
+                "lng": 105.77127337930847,
+                "lat": 21.019511491636933
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "627b1f6eac7db774d784e00f.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627b1f6eac7db774d784e00f.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.77125877182084,
+                    "lat": 21.019543032390047
+                },
+                {
+                    "lng": 105.77125877179186,
+                    "lat": 21.019453200861637
+                },
+                {
+                    "lng": 105.771162536652,
+                    "lat": 21.019453200861637
+                },
+                {
+                    "lng": 105.77116253662302,
+                    "lat": 21.019543032390047
+                },
+                {
+                    "lng": 105.77125877182084,
+                    "lat": 21.019543032390047
+                }
+            ],
+            "height": null,
+            "textureName": "627b1f6fac7db774d784e011.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627b1f6fac7db774d784e011.jpg"
+        },
+        "types": [
+            "doctor"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "doctor": "Ph\u00f2ng kh\u00e1m"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6140221f2f30391a8a27b980",
+        "name": "Peace School Nursery School",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79451642583035,
+            "lat": 21.011374556505416
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.75,
+            "bearing": -40.29609410568244,
+            "tilt": 16.000000476837158,
+            "target": {
+                "lng": 105.79486078781764,
+                "lat": 21.010952709407974
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "614021c32f30391a8a27b97b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/614021c32f30391a8a27b97b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79456454080841,
+                    "lat": 21.011419472262858
+                },
+                {
+                    "lng": 105.79456454077942,
+                    "lat": 21.01132964073445
+                },
+                {
+                    "lng": 105.79446831088127,
+                    "lat": 21.01132964073445
+                },
+                {
+                    "lng": 105.7944683108523,
+                    "lat": 21.011419472262858
+                },
+                {
+                    "lng": 105.79456454080841,
+                    "lat": 21.011419472262858
+                }
+            ],
+            "height": null,
+            "textureName": "614021c42f30391a8a27b97d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/614021c42f30391a8a27b97d.jpg"
+        },
+        "types": [
+            "primary_school"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Ch\u00e1nh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "6"
+            }
+        ],
+        "startDate": 1339434000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "primary_school": "Tr\u01b0\u1eddng ti\u1ec3u h\u1ecdc"
+        },
+        "metadata": null,
+        "address": "6 Nguy\u1ec5n Ch\u00e1nh, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

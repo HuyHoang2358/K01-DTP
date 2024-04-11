@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fdab7e5e768f24f233799da",
+        "name": "Viettel Group",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78517189736198,
+            "lat": 21.02522534587581
+        },
+        "scale": 1,
+        "bearing": -118,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 45.802892451048855,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78517189736198,
+                "lat": 21.02522534587581
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff7c0cdbeee3c4c5c5bb91b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff7c0cdbeee3c4c5c5bb91b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78522001680939,
+                    "lat": 21.02527026163325
+                },
+                {
+                    "lng": 105.78522001678039,
+                    "lat": 21.025180430104836
+                },
+                {
+                    "lng": 105.78512377794357,
+                    "lat": 21.025180430104836
+                },
+                {
+                    "lng": 105.78512377791456,
+                    "lat": 21.02527026163325
+                },
+                {
+                    "lng": 105.78522001680939,
+                    "lat": 21.02527026163325
+                }
+            ],
+            "height": null,
+            "textureName": "5ff7c0cdf75190676b001978.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff7c0cdf75190676b001978.jpg"
+        },
+        "types": [
+            "establishment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Th\u00e1i T\u00f4ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "L\u00f4 D26"
+            }
+        ],
+        "startDate": 1589907600000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "establishment": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i"
+        },
+        "metadata": null,
+        "address": "L\u00f4 D26 Tr\u1ea7n Th\u00e1i T\u00f4ng, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

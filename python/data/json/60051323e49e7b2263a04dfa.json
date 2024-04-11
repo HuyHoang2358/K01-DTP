@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60051323e49e7b2263a04dfa",
+        "name": "Kho b\u1ea1c Nh\u00e0 n\u01b0\u1edbc Vi\u1ec7t Nam",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.83051358534243,
+            "lat": 21.029801441440853
+        },
+        "scale": 1,
+        "bearing": -15,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": 0,
+            "tilt": 59,
+            "target": {
+                "lng": 105.83051358534243,
+                "lat": 21.029801441440853
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60051238e49e7b2263a04df8.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60051238e49e7b2263a04df8.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.83056170626725,
+                    "lat": 21.029846357198284
+                },
+                {
+                    "lng": 105.83056170623823,
+                    "lat": 21.029756525669875
+                },
+                {
+                    "lng": 105.83046546444662,
+                    "lat": 21.029756525669875
+                },
+                {
+                    "lng": 105.83046546441761,
+                    "lat": 21.029846357198284
+                },
+                {
+                    "lng": 105.83056170626725,
+                    "lat": 21.029846357198284
+                }
+            ],
+            "height": 1,
+            "textureName": "60051238461fac04fec5ae61.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60051238461fac04fec5ae61.jpg"
+        },
+        "types": [
+            "bank"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 32 C\u00e1t Linh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "36"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bank": "Ng\u00e2n h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "36 Ng\u00f5 32 C\u00e1t Linh, Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

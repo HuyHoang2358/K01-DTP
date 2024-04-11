@@ -1,0 +1,319 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e6349797102214f9de307",
+        "name": "Parkside Sunline Hotel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f16bf45c1befd190830f075",
+                "location": {
+                    "lng": 105.84744010892,
+                    "lat": 21.008352609012
+                },
+                "address": "Kh\u00e1ch s\u1ea1n Parksid e sunline,Ph\u01b0\u1eddng L\u00ea \u0110\u1ea1i H\u00e0nh,Qu\u1eadn Hai B\u00e0 Tr\u01b0ng,H\u00e0 N\u1ed9i",
+                "name": "Kh\u00e1ch s\u1ea1n Parksid e sunline",
+                "objectId": "5f8e6349797102214f9de307",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Kh\u00e1ch s\u1ea1n Parksid e sunline"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng L\u00ea \u0110\u1ea1i H\u00e0nh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8e6349797102214f9de307",
+                    "name": "Parkside Sunline Hotel",
+                    "location": {
+                        "lng": 105.84737202715343,
+                        "lat": 21.00850234645199
+                    },
+                    "scale": 1,
+                    "bearing": 13,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": 22.200000000000014,
+                        "tilt": 62.5,
+                        "target": {
+                            "lng": 105.84741947180834,
+                            "lat": 21.008678531518857
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8e6339797102214f9de303.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e6339797102214f9de303.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84742014120512,
+                                "lat": 21.008547262209436
+                            },
+                            {
+                                "lng": 105.84742014117616,
+                                "lat": 21.008457430681023
+                            },
+                            {
+                                "lng": 105.8473239131307,
+                                "lat": 21.008457430681023
+                            },
+                            {
+                                "lng": 105.84732391310172,
+                                "lat": 21.008547262209436
+                            },
+                            {
+                                "lng": 105.84742014120512,
+                                "lat": 21.008547262209436
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8e633b797102214f9de305.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e633b797102214f9de305.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng L\u00ea \u0110\u1ea1i H\u00e0nh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Y\u00ean Ph\u1ee5",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "39b",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603167049752,
+                    "updatedDate": 1623224248312
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.84744010892,
+                        21.008352609012
+                    ]
+                },
+                "rank": {
+                    "value": 1001
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84737202715343,
+            "lat": 21.00850234645199
+        },
+        "scale": 1,
+        "bearing": 13,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 22.200000000000014,
+            "tilt": 62.5,
+            "target": {
+                "lng": 105.84741947180834,
+                "lat": 21.008678531518857
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8e6339797102214f9de303.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e6339797102214f9de303.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84742014120512,
+                    "lat": 21.008547262209436
+                },
+                {
+                    "lng": 105.84742014117616,
+                    "lat": 21.008457430681023
+                },
+                {
+                    "lng": 105.8473239131307,
+                    "lat": 21.008457430681023
+                },
+                {
+                    "lng": 105.84732391310172,
+                    "lat": 21.008547262209436
+                },
+                {
+                    "lng": 105.84742014120512,
+                    "lat": 21.008547262209436
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8e633b797102214f9de305.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e633b797102214f9de305.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng L\u00ea \u0110\u1ea1i H\u00e0nh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Y\u00ean Ph\u1ee5"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "39b"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": null,
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

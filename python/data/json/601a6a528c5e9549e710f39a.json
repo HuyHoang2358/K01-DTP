@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "601a6a528c5e9549e710f39a",
+        "name": "Central Point (Central Field)",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79119987115428,
+            "lat": 21.02022740496706
+        },
+        "scale": 1,
+        "bearing": 119,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -38.10644631233215,
+            "tilt": 8.333331316709518,
+            "target": {
+                "lng": 105.79051868589578,
+                "lat": 21.018485119551013
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "601a693aaf31170e56ed10db.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/601a693aaf31170e56ed10db.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79124798898853,
+                    "lat": 21.020272320724505
+                },
+                {
+                    "lng": 105.79124798895954,
+                    "lat": 21.02018248919609
+                },
+                {
+                    "lng": 105.79115175334901,
+                    "lat": 21.02018248919609
+                },
+                {
+                    "lng": 105.79115175332002,
+                    "lat": 21.020272320724505
+                },
+                {
+                    "lng": 105.79124798898853,
+                    "lat": 21.020272320724505
+                }
+            ],
+            "height": 1,
+            "textureName": "601a693b5a42ad7373ce644d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/601a693b5a42ad7373ce644d.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "219"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Trung K\u00ednh"
+            }
+        ],
+        "startDate": 1036170000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "219 Trung K\u00ednh, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

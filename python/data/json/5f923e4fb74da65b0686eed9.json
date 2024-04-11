@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f923e4fb74da65b0686eed9",
+        "name": "Vinhomes Skylake Ph\u1ea1m H\u00f9ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7818418676843,
+            "lat": 21.02014078410295
+        },
+        "scale": 1,
+        "bearing": -143,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17,
+            "bearing": -39.466668009757996,
+            "tilt": 0,
+            "target": {
+                "lng": 105.7818418676843,
+                "lat": 21.020140784102935
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f92802e36b67c491b3c36aa.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f92802e36b67c491b3c36aa.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78188998549062,
+                    "lat": 21.02018569986039
+                },
+                {
+                    "lng": 105.78188998546162,
+                    "lat": 21.020095868331982
+                },
+                {
+                    "lng": 105.781793749907,
+                    "lat": 21.020095868331982
+                },
+                {
+                    "lng": 105.781793749878,
+                    "lat": 21.02018569986039
+                },
+                {
+                    "lng": 105.78188998549062,
+                    "lat": 21.02018569986039
+                }
+            ],
+            "height": null,
+            "textureName": "5f92802fb74da65b0686ef13.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f92802fb74da65b0686ef13.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u00f9ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "50"
+            }
+        ],
+        "startDate": 1555606800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "50 Ph\u1ea1m H\u00f9ng, Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

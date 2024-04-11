@@ -1,0 +1,294 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61cc18e28a9b7a1761ca90e8",
+        "name": "Ga La Kh\u00ea",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "609c3db834025a4d53f07fcb",
+                "location": {
+                    "lng": 105.76678559999999,
+                    "lat": 20.963715
+                },
+                "address": "326 \u0110. Quang Trung, La Kh\u00ea, H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Nh\u00e0 ga La Kh\u00ea",
+                "objectId": "61cc18e28a9b7a1761ca90e8",
+                "description": null,
+                "types": [],
+                "typeInfos": null,
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "326"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng La Kh\u00ea"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": null,
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "61cc18e28a9b7a1761ca90e8",
+                    "name": "Ga La Kh\u00ea",
+                    "location": {
+                        "lng": 105.76668003212183,
+                        "lat": 20.9637930604017
+                    },
+                    "scale": 1,
+                    "bearing": 36,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -8.700000000000003,
+                        "tilt": 72,
+                        "target": {
+                            "lng": 105.766842264395,
+                            "lat": 20.963783829936233
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "61cc18d18a9b7a1761ca90e3.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cc18d18a9b7a1761ca90e3.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.76672813177407,
+                                "lat": 20.963837976159162
+                            },
+                            {
+                                "lng": 105.76672813174518,
+                                "lat": 20.96374814463075
+                            },
+                            {
+                                "lng": 105.7666319324985,
+                                "lat": 20.96374814463075
+                            },
+                            {
+                                "lng": 105.7666319324696,
+                                "lat": 20.963837976159162
+                            },
+                            {
+                                "lng": 105.76672813177407,
+                                "lat": 20.963837976159162
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "61cc18d18a9b7a1761ca90e5.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cc18d18a9b7a1761ca90e5.jpg"
+                    },
+                    "types": [
+                        "train_station"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng La Kh\u00ea",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Quang Trung",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "326",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1640765666457,
+                    "updatedDate": 1640765666457
+                },
+                "tags": [],
+                "phoneNumber": null,
+                "website": "http://hanoimetro.net.vn/",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.76678559999999,
+                        20.963715
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.76668003212183,
+            "lat": 20.9637930604017
+        },
+        "scale": 1,
+        "bearing": 36,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -8.700000000000003,
+            "tilt": 72,
+            "target": {
+                "lng": 105.766842264395,
+                "lat": 20.963783829936233
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61cc18d18a9b7a1761ca90e3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cc18d18a9b7a1761ca90e3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.76672813177407,
+                    "lat": 20.963837976159162
+                },
+                {
+                    "lng": 105.76672813174518,
+                    "lat": 20.96374814463075
+                },
+                {
+                    "lng": 105.7666319324985,
+                    "lat": 20.96374814463075
+                },
+                {
+                    "lng": 105.7666319324696,
+                    "lat": 20.963837976159162
+                },
+                {
+                    "lng": 105.76672813177407,
+                    "lat": 20.963837976159162
+                }
+            ],
+            "height": null,
+            "textureName": "61cc18d18a9b7a1761ca90e5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cc18d18a9b7a1761ca90e5.jpg"
+        },
+        "types": [
+            "train_station"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng La Kh\u00ea"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Quang Trung"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "326"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "train_station": "Ga t\u00e0u l\u1eeda"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

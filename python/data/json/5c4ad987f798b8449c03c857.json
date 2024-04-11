@@ -1,0 +1,98 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c4ad987f798b8449c03c857",
+        "name": "Nh\u00e0 B\u00ean Ch\u1eb5n 74_56",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.825758,
+            "lat": 21.008896
+        },
+        "scale": 1,
+        "bearing": -26,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": 29.04590293418925,
+            "tilt": 72.49137911949653,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c4ad987f798b8449c03c857",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c4ad987f798b8449c03c857",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.825988,
+                    "lat": 21.008877
+                },
+                {
+                    "lng": 105.825916,
+                    "lat": 21.008738
+                },
+                {
+                    "lng": 105.8256,
+                    "lat": 21.009054
+                },
+                {
+                    "lng": 105.825528,
+                    "lat": 21.008915
+                }
+            ],
+            "height": 0,
+            "textureName": "c5dab48d07f34930b3b352552cf639bf.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/c5dab48d07f34930b3b352552cf639bf.jpg"
+        },
+        "types": [
+            "house"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ch\u00f9a B\u1ed9c"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Quang Trung"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 946659600000,
+        "endDate": 2524582800000,
+        "source": null,
+        "typeInfos": {
+            "house": "Nh\u00e0 ri\u00eang"
+        },
+        "metadata": null,
+        "address": "Ch\u00f9a B\u1ed9c, Ph\u01b0\u1eddng Quang Trung, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam"
+    }
+}

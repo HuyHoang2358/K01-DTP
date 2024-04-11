@@ -1,0 +1,303 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5bb18daf45c1b415f0babd77",
+        "name": "Danang Petro Hotel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e8814a9df9d67e5f08",
+                "location": {
+                    "lng": 108.222408,
+                    "lat": 16.075083
+                },
+                "address": "7 Quang Trung, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u 1, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Danang Petro Hotel",
+                "objectId": "5bb18daf45c1b415f0babd77",
+                "description": null,
+                "types": [
+                    "hotel"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "group": "lodging"
+                    }
+                ],
+                "mainType": "hotel",
+                "mainTypeInfos": {
+                    "id": "hotel",
+                    "name": "Kh\u00e1ch s\u1ea1n",
+                    "group": "lodging"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "7"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "lodging",
+                        "minRank": 100000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5bb18daf45c1b415f0babd77",
+                    "name": "Danang Petro Hotel",
+                    "location": {
+                        "lng": 108.22237713978762,
+                        "lat": 16.07507455102113
+                    },
+                    "scale": 1,
+                    "bearing": -169,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": 150.19605943834347,
+                        "tilt": 57,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5bb18daf45c1b415f0babd77",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5bb18daf45c1b415f0babd77",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.222335,
+                                "lat": 16.074892
+                            },
+                            {
+                                "lng": 108.222266,
+                                "lat": 16.075234
+                            },
+                            {
+                                "lng": 108.22255,
+                                "lat": 16.074932
+                            },
+                            {
+                                "lng": 108.222481,
+                                "lat": 16.075274
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "740212363e524063931c8184c5949c9a.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/740212363e524063931c8184c5949c9a.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "H\u1ea3i Ch\u00e2u 1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Quang Trung",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1538362799471,
+                    "updatedDate": 1623224198323
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.222408,
+                        16.075083
+                    ]
+                },
+                "rank": {
+                    "value": 100000
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22237713978762,
+            "lat": 16.07507455102113
+        },
+        "scale": 1,
+        "bearing": -169,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 150.19605943834347,
+            "tilt": 57,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5bb18daf45c1b415f0babd77",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5bb18daf45c1b415f0babd77",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.222335,
+                    "lat": 16.074892
+                },
+                {
+                    "lng": 108.222266,
+                    "lat": 16.075234
+                },
+                {
+                    "lng": 108.22255,
+                    "lat": 16.074932
+                },
+                {
+                    "lng": 108.222481,
+                    "lat": 16.075274
+                }
+            ],
+            "height": 0,
+            "textureName": "740212363e524063931c8184c5949c9a.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/740212363e524063931c8184c5949c9a.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "H\u1ea3i Ch\u00e2u 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Quang Trung"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

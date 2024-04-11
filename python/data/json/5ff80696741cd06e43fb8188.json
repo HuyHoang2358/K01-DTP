@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff80696741cd06e43fb8188",
+        "name": "T\u00f2a nh\u00e0 VPTM HUD Tower",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80111779132187,
+            "lat": 21.002099617400006
+        },
+        "scale": 1,
+        "bearing": 125,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": 74.2587656789911,
+            "tilt": 59.5,
+            "target": {
+                "lng": 105.80111779132187,
+                "lat": 21.002099617400006
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff80685beee3c4c5c5bbfde.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff80685beee3c4c5c5bbfde.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80116590330913,
+                    "lat": 21.002144533157452
+                },
+                {
+                    "lng": 105.80116590328018,
+                    "lat": 21.002054701629042
+                },
+                {
+                    "lng": 105.80106967936358,
+                    "lat": 21.002054701629042
+                },
+                {
+                    "lng": 105.80106967933462,
+                    "lat": 21.002144533157452
+                },
+                {
+                    "lng": 105.80116590330913,
+                    "lat": 21.002144533157452
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff80686beee3c4c5c5bbfe0.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff80686beee3c4c5c5bbfe0.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea V\u0103n L\u01b0\u01a1ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "37"
+            }
+        ],
+        "startDate": 1404666000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "37 L\u00ea V\u0103n L\u01b0\u01a1ng, Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

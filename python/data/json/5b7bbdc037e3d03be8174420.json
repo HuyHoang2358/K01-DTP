@@ -1,0 +1,351 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b7bbdc037e3d03be8174420",
+        "name": "B\u1ec7nh vi\u1ec7n Ung b\u01b0\u1edbu \u0110\u00e0 N\u1eb5ng",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e8814a9df9d67e5ed4",
+                "location": {
+                    "lng": 108.164105,
+                    "lat": 16.069838
+                },
+                "address": "Ho\u00e0ng Trung Th\u00f4ng, Ph\u01b0\u1eddng H\u00f2a Minh, Qu\u1eadn Li\u00ean Chi\u1ec3u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "B\u1ec7nh vi\u1ec7n Ung b\u01b0\u1edbu \u0110\u00e0 N\u1eb5ng",
+                "objectId": "5b7bbdc037e3d03be8174420",
+                "description": " &nbsp; ",
+                "types": [
+                    "hospital",
+                    "health"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "hospital",
+                        "name": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf",
+                        "group": "health"
+                    },
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "group": "health"
+                    }
+                ],
+                "mainType": "hospital",
+                "mainTypeInfos": {
+                    "id": "hospital",
+                    "name": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf",
+                    "group": "health"
+                },
+                "auxiliaryTypes": [
+                    "health"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "group": "health"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Ho\u00e0ng Trung Th\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00f2a Minh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "hospital",
+                        "name": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "health",
+                        "minRank": 1000000,
+                        "maxRank": 2500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "health",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b7bbdc037e3d03be8174420",
+                    "name": "B\u1ec7nh vi\u1ec7n Ung b\u01b0\u1edbu \u0110\u00e0 N\u1eb5ng",
+                    "location": {
+                        "lng": 108.16380296426311,
+                        "lat": 16.06960052107123
+                    },
+                    "scale": 1,
+                    "bearing": 146,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 18,
+                        "bearing": -141.81517296341033,
+                        "tilt": 71,
+                        "target": {
+                            "lng": 108.16357077960969,
+                            "lat": 16.069090370230555
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5b7bbdc037e3d03be8174420",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b7bbdc037e3d03be8174420",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.16303,
+                                "lat": 16.069696
+                            },
+                            {
+                                "lng": 108.163839,
+                                "lat": 16.070849
+                            },
+                            {
+                                "lng": 108.164371,
+                                "lat": 16.068827
+                            },
+                            {
+                                "lng": 108.16518,
+                                "lat": 16.06998
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "867071006ab744f4ac1b4d7c96519c82.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/867071006ab744f4ac1b4d7c96519c82.jpg"
+                    },
+                    "types": [
+                        "hospital"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 17,
+                    "startDate": 975060000000,
+                    "endDate": 4099629600000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ho\u00e0ng Trung Th\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00f2a Minh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ho\u00e0ng Trung Th\u00f4ng, Ph\u01b0\u1eddng H\u00f2a Minh, Qu\u1eadn Li\u00ean Chi\u1ec3u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1534836160475,
+                    "updatedDate": 1623224196815
+                },
+                "tags": null,
+                "phoneNumber": "+842363717717",
+                "website": "",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.164105,
+                        16.069838
+                    ]
+                },
+                "rank": {
+                    "value": 1000000
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.16380296426311,
+            "lat": 16.06960052107123
+        },
+        "scale": 1,
+        "bearing": 146,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -141.81517296341033,
+            "tilt": 71,
+            "target": {
+                "lng": 108.16357077960969,
+                "lat": 16.069090370230555
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5b7bbdc037e3d03be8174420",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b7bbdc037e3d03be8174420",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.16303,
+                    "lat": 16.069696
+                },
+                {
+                    "lng": 108.163839,
+                    "lat": 16.070849
+                },
+                {
+                    "lng": 108.164371,
+                    "lat": 16.068827
+                },
+                {
+                    "lng": 108.16518,
+                    "lat": 16.06998
+                }
+            ],
+            "height": 0,
+            "textureName": "867071006ab744f4ac1b4d7c96519c82.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/867071006ab744f4ac1b4d7c96519c82.jpg"
+        },
+        "types": [
+            "hospital"
+        ],
+        "minZoom": 17,
+        "maxZoom": 17,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ho\u00e0ng Trung Th\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00f2a Minh"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 975060000000,
+        "endDate": 4099629600000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hospital": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf"
+        },
+        "metadata": null,
+        "address": "Ho\u00e0ng Trung Th\u00f4ng, Ph\u01b0\u1eddng H\u00f2a Minh, Qu\u1eadn Li\u00ean Chi\u1ec3u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

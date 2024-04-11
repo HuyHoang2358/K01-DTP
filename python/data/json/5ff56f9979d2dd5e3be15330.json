@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff56f9979d2dd5e3be15330",
+        "name": "C5 Vinhomes D'capitale - Tr\u1ea7n Duy H\u01b0ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79474507908702,
+            "lat": 21.00589552568117
+        },
+        "scale": 1,
+        "bearing": 218,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 139.69150172180542,
+            "tilt": 0,
+            "target": {
+                "lng": 105.79474507908702,
+                "lat": 21.00589552568117
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff56f87380f725a8751c6fb.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff56f87380f725a8751c6fb.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79479319229812,
+                    "lat": 21.005940441438614
+                },
+                {
+                    "lng": 105.79479319226915,
+                    "lat": 21.005850609910205
+                },
+                {
+                    "lng": 105.7946969659049,
+                    "lat": 21.005850609910205
+                },
+                {
+                    "lng": 105.79469696587594,
+                    "lat": 21.005940441438614
+                },
+                {
+                    "lng": 105.79479319229812,
+                    "lat": 21.005940441438614
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff56f8979d2dd5e3be1532e.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff56f8979d2dd5e3be1532e.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Duy H\u01b0ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "117"
+            }
+        ],
+        "startDate": 1532710800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "117 Tr\u1ea7n Duy H\u01b0ng, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

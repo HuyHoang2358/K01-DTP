@@ -1,0 +1,94 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61cc1fcd8a9b7a1761ca913f",
+        "name": "Truc duong sat - Ray",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.75826437219774,
+            "lat": 20.950143459213933
+        },
+        "scale": 1,
+        "bearing": 36.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17,
+            "bearing": -7.714747926805291,
+            "tilt": 55.5,
+            "target": {
+                "lng": 105.75573076025526,
+                "lat": 20.952379335753996
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61cc1fb78a9b7a1761ca913a.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cc1fb78a9b7a1761ca913a.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.75831246746142,
+                    "lat": 20.9501883749714
+                },
+                {
+                    "lng": 105.75831246743255,
+                    "lat": 20.950098543442987
+                },
+                {
+                    "lng": 105.75821627696295,
+                    "lat": 20.950098543442987
+                },
+                {
+                    "lng": 105.75821627693408,
+                    "lat": 20.9501883749714
+                },
+                {
+                    "lng": 105.75831246746142,
+                    "lat": 20.9501883749714
+                }
+            ],
+            "height": null,
+            "textureName": "61cc1fb88a9b7a1761ca913c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cc1fb88a9b7a1761ca913c.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa L\u01b0\u01a1ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng Ph\u00fa L\u01b0\u01a1ng, Qu\u1eadn H\u00e0 \u0110\u00f4ng, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

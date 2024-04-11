@@ -1,0 +1,323 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b611d865fb6564870b10ed4",
+        "name": "Da Nang Software Park",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e7814a9df9d67e5e3d",
+                "location": {
+                    "lng": 108.22209,
+                    "lat": 16.075609
+                },
+                "address": "Softech Tower DaNang, 02 Quang Trung, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Da Nang Software Park",
+                "objectId": "5b611d865fb6564870b10ed4",
+                "description": " &nbsp; ",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Softech Tower DaNang"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "02"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b611d865fb6564870b10ed4",
+                    "name": "Da Nang Software Park",
+                    "location": {
+                        "lng": 108.22209,
+                        "lat": 16.075609
+                    },
+                    "scale": 1,
+                    "bearing": 12,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 306.91493506493526,
+                        "tilt": 64.66315334773216,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5b611d865fb6564870b10ed4",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b611d865fb6564870b10ed4",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.222318,
+                                "lat": 16.075792
+                            },
+                            {
+                                "lng": 108.222405,
+                                "lat": 16.075398
+                            },
+                            {
+                                "lng": 108.221826,
+                                "lat": 16.075691
+                            },
+                            {
+                                "lng": 108.221913,
+                                "lat": 16.075297
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "bae3568a09c24b78bc9baa0e53d6d7ed.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/bae3568a09c24b78bc9baa0e53d6d7ed.jpg"
+                    },
+                    "types": [
+                        "point"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 975060000000,
+                    "endDate": 4099629600000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Quang Trung",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Quang Trung, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1533091206524,
+                    "updatedDate": 1623224195383
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.22209,
+                        16.075609
+                    ]
+                },
+                "rank": {
+                    "value": 1000126.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22209,
+            "lat": 16.075609
+        },
+        "scale": 1,
+        "bearing": 12,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 306.91493506493526,
+            "tilt": 64.66315334773216,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5b611d865fb6564870b10ed4",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b611d865fb6564870b10ed4",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.222318,
+                    "lat": 16.075792
+                },
+                {
+                    "lng": 108.222405,
+                    "lat": 16.075398
+                },
+                {
+                    "lng": 108.221826,
+                    "lat": 16.075691
+                },
+                {
+                    "lng": 108.221913,
+                    "lat": 16.075297
+                }
+            ],
+            "height": 0,
+            "textureName": "bae3568a09c24b78bc9baa0e53d6d7ed.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/bae3568a09c24b78bc9baa0e53d6d7ed.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Quang Trung"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 975060000000,
+        "endDate": 4099629600000,
+        "source": null,
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "Quang Trung, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "614049e12f30391a8a27bb94",
+        "name": "Tr\u01b0\u1eddng Ti\u1ec3u h\u1ecdc Th\u0103ng Long Kidsmart",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.794083126484,
+            "lat": 21.03039754902025
+        },
+        "scale": 1,
+        "bearing": -24,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.9983,
+            "bearing": -69.21971878541112,
+            "tilt": 0,
+            "target": {
+                "lng": 105.79416526360538,
+                "lat": 21.03005202187035
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "614047282f30391a8a27bb8f.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/614047282f30391a8a27bb8f.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7941312476013,
+                    "lat": 21.03044246477769
+                },
+                {
+                    "lng": 105.7941312475723,
+                    "lat": 21.030352633249276
+                },
+                {
+                    "lng": 105.79403500539571,
+                    "lat": 21.030352633249276
+                },
+                {
+                    "lng": 105.7940350053667,
+                    "lat": 21.03044246477769
+                },
+                {
+                    "lng": 105.7941312476013,
+                    "lat": 21.03044246477769
+                }
+            ],
+            "height": null,
+            "textureName": "6140472a2f30391a8a27bb91.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6140472a2f30391a8a27bb91.jpg"
+        },
+        "types": [
+            "education"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Th\u1ecd Th\u00e1p"
+            }
+        ],
+        "startDate": 1339434000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "education": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o"
+        },
+        "metadata": null,
+        "address": "Th\u1ecd Th\u00e1p, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

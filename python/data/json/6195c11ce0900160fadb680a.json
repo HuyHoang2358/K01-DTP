@@ -1,0 +1,333 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6195c11ce0900160fadb680a",
+        "name": "Kho b\u1ea1c nh\u00e0 n\u01b0\u1edbc H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "605415036d8d1d156366f013",
+                "location": {
+                    "lng": 105.8408058,
+                    "lat": 21.0060363
+                },
+                "address": "18 Gi\u1ea3i Ph\u00f3ng, Ph\u01b0\u01a1ng Mai, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Kho b\u1ea1c nh\u00e0 n\u01b0\u1edbc H\u00e0 N\u1ed9i",
+                "objectId": "6195c11ce0900160fadb680a",
+                "description": "Kho b\u1ea1c nh\u00e0 n\u01b0\u1edbc H\u00e0 N\u1ed9i",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "18"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Gi\u1ea3i Ph\u00f3ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Ph\u01b0\u01a1ng Mai"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "6195c11ce0900160fadb680a",
+                    "name": "Kho b\u1ea1c nh\u00e0 n\u01b0\u1edbc H\u00e0 N\u1ed9i",
+                    "location": {
+                        "lng": 105.84053198291224,
+                        "lat": 21.006316166230377
+                    },
+                    "scale": 1,
+                    "bearing": 89,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -61.200000000000024,
+                        "tilt": 72.75,
+                        "target": {
+                            "lng": 105.84046908072014,
+                            "lat": 21.006452011920416
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "6195c105e0900160fadb6805.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6195c105e0900160fadb6805.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84058009625896,
+                                "lat": 21.006361081987823
+                            },
+                            {
+                                "lng": 105.84058009623,
+                                "lat": 21.006271250459413
+                            },
+                            {
+                                "lng": 105.84048386959448,
+                                "lat": 21.006271250459413
+                            },
+                            {
+                                "lng": 105.84048386956552,
+                                "lat": 21.006361081987823
+                            },
+                            {
+                                "lng": 105.84058009625896,
+                                "lat": 21.006361081987823
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "6195c106e0900160fadb6807.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6195c106e0900160fadb6807.jpg"
+                    },
+                    "types": [
+                        "bank"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Ph\u01b0\u01a1ng Mai",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Gi\u1ea3i Ph\u00f3ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "18 ",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1637204252408,
+                    "updatedDate": 1637204252408
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8408058,
+                        21.0060363
+                    ]
+                },
+                "rank": {
+                    "value": 0.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84053198291224,
+            "lat": 21.006316166230377
+        },
+        "scale": 1,
+        "bearing": 89,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -61.200000000000024,
+            "tilt": 72.75,
+            "target": {
+                "lng": 105.84046908072014,
+                "lat": 21.006452011920416
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6195c105e0900160fadb6805.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6195c105e0900160fadb6805.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84058009625896,
+                    "lat": 21.006361081987823
+                },
+                {
+                    "lng": 105.84058009623,
+                    "lat": 21.006271250459413
+                },
+                {
+                    "lng": 105.84048386959448,
+                    "lat": 21.006271250459413
+                },
+                {
+                    "lng": 105.84048386956552,
+                    "lat": 21.006361081987823
+                },
+                {
+                    "lng": 105.84058009625896,
+                    "lat": 21.006361081987823
+                }
+            ],
+            "height": null,
+            "textureName": "6195c106e0900160fadb6807.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6195c106e0900160fadb6807.jpg"
+        },
+        "types": [
+            "bank"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u01b0\u01a1ng Mai"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Gi\u1ea3i Ph\u00f3ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "18 "
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bank": "Ng\u00e2n h\u00e0ng"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,383 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60f10f9529c3ce454f987cc1",
+        "name": "Th\u01b0 vi\u1ec7n H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "6061bb86e50c925a74c57834",
+                "location": {
+                    "lng": 105.85076839999999,
+                    "lat": 21.0217651
+                },
+                "address": "54E Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, H\u00e0ng B\u00e0i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Th\u01b0 vi\u1ec7n H\u00e0 N\u1ed9i",
+                "objectId": "60f10f9529c3ce454f987cc1",
+                "description": null,
+                "types": [
+                    "library",
+                    "entertainment",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "library",
+                        "name": "Th\u01b0 vi\u1ec7n",
+                        "group": "entertainment"
+                    },
+                    {
+                        "id": "entertainment",
+                        "name": "Li\u00ean quan \u0111\u1ebfn vui ch\u01a1i, gi\u1ea3i tr\u00ed",
+                        "group": "entertainment"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "library",
+                "mainTypeInfos": {
+                    "id": "library",
+                    "name": "Th\u01b0 vi\u1ec7n",
+                    "group": "entertainment"
+                },
+                "auxiliaryTypes": [
+                    "entertainment",
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "entertainment",
+                        "name": "Li\u00ean quan \u0111\u1ebfn vui ch\u01a1i, gi\u1ea3i tr\u00ed",
+                        "group": "entertainment"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "54E"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "library",
+                        "name": "Th\u01b0 vi\u1ec7n",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "entertainment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "entertainment",
+                        "name": "Li\u00ean quan \u0111\u1ebfn vui ch\u01a1i, gi\u1ea3i tr\u00ed",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "entertainment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60f10f9529c3ce454f987cc1",
+                    "name": "Th\u01b0 vi\u1ec7n H\u00e0 N\u1ed9i",
+                    "location": {
+                        "lng": 105.85067572014981,
+                        "lat": 21.021736376034326
+                    },
+                    "scale": 1,
+                    "bearing": -17,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 55.20000000000003,
+                        "tilt": 75,
+                        "target": {
+                            "lng": 105.85074567364734,
+                            "lat": 21.021762322548227
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60f10f8729c3ce454f987cbc.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f10f8729c3ce454f987cbc.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85072383847105,
+                                "lat": 21.021781291791772
+                            },
+                            {
+                                "lng": 105.85072383844206,
+                                "lat": 21.02169146026336
+                            },
+                            {
+                                "lng": 105.85062760185755,
+                                "lat": 21.02169146026336
+                            },
+                            {
+                                "lng": 105.85062760182855,
+                                "lat": 21.021781291791772
+                            },
+                            {
+                                "lng": 105.85072383847105,
+                                "lat": 21.021781291791772
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "60f10f8729c3ce454f987cbe.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f10f8729c3ce454f987cbe.jpg"
+                    },
+                    "types": [
+                        "library"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1626410901384,
+                    "updatedDate": 1626410901384
+                },
+                "tags": [],
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.85076839999999,
+                        21.0217651
+                    ]
+                },
+                "rank": {
+                    "value": 12345
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85067572014981,
+            "lat": 21.021736376034326
+        },
+        "scale": 1,
+        "bearing": -17,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 55.20000000000003,
+            "tilt": 75,
+            "target": {
+                "lng": 105.85074567364734,
+                "lat": 21.021762322548227
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60f10f8729c3ce454f987cbc.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f10f8729c3ce454f987cbc.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85072383847105,
+                    "lat": 21.021781291791772
+                },
+                {
+                    "lng": 105.85072383844206,
+                    "lat": 21.02169146026336
+                },
+                {
+                    "lng": 105.85062760185755,
+                    "lat": 21.02169146026336
+                },
+                {
+                    "lng": 105.85062760182855,
+                    "lat": 21.021781291791772
+                },
+                {
+                    "lng": 105.85072383847105,
+                    "lat": 21.021781291791772
+                }
+            ],
+            "height": null,
+            "textureName": "60f10f8729c3ce454f987cbe.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f10f8729c3ce454f987cbe.jpg"
+        },
+        "types": [
+            "library"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "library": "Th\u01b0 vi\u1ec7n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

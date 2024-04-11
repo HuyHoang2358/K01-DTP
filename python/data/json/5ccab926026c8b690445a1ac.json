@@ -1,0 +1,81 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ccab926026c8b690445a1ac",
+        "name": "Nh\u00e0 h\u00e0ng Madame L\u00e2n",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.223071,
+            "lat": 16.081401
+        },
+        "scale": 1.3,
+        "bearing": 188,
+        "elevation": 0,
+        "heightScale": 0.6,
+        "camera": {
+            "zoom": 20,
+            "bearing": 274.5142779291553,
+            "tilt": 24.129729729729718,
+            "target": null
+        },
+        "model": {
+            "id": "5a0a4e2c5327c14d286c0539",
+            "name": "Nh\u00e0 H\u00e0ng",
+            "objName": "5a0a4e2c5327c14d286c0539",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5a0a4e2c5327c14d286c0539",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "Restaurant.png",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/Restaurant.png"
+        },
+        "types": [
+            "restaurant"
+        ],
+        "minZoom": 13,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Qu\u00fd C\u00e1p"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 957114000000,
+        "endDate": 2534950800000,
+        "source": null,
+        "typeInfos": {
+            "restaurant": "Nh\u00e0 h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Tr\u1ea7n Qu\u00fd C\u00e1p, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

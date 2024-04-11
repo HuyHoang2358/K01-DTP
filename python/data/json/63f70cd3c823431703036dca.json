@@ -1,0 +1,463 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "63f70cd3c823431703036dca",
+        "name": "C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i CellphoneS Ho\u00e0n Ki\u1ebfm - H\u00e0ng B\u00e0i",
+        "places": [],
+        "placeDetails": [
+            {
+                "id": "60dd3704f81cb14bc85c2737",
+                "location": {
+                    "lng": 105.8530086,
+                    "lat": 21.0236843
+                },
+                "address": "21A P. H\u00e0ng B\u00e0i, P, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i 100000, Vi\u1ec7t Nam",
+                "name": "C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i CellphoneS Ho\u00e0n Ki\u1ebfm - H\u00e0ng B\u00e0i",
+                "objectId": "63f70cd3c823431703036dca",
+                "description": " 21A Ph\u1ed1 H\u00e0ng B\u00e0i ,  P ,  Ho\u00e0n Ki\u1ebfm ,  H\u00e0 N\u1ed9i   100000 ,  Vi\u1ec7t Nam ",
+                "types": [
+                    "cellphone_store",
+                    "point"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "cellphone_store",
+                        "name": "C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng",
+                        "group": "electronics_store"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "cellphone_store",
+                "mainTypeInfos": {
+                    "id": "cellphone_store",
+                    "name": "C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng",
+                    "group": "electronics_store"
+                },
+                "auxiliaryTypes": [
+                    "point"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "P"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "21A"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "H\u00e0ng B\u00e0i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/63f70d00c823431703036dcf.PNG",
+                        "name": "63f70d00c823431703036dcf.PNG",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "cellphone_store",
+                        "name": "C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "electronics_store",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "63f70cd3c823431703036dca",
+                    "name": "C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i CellphoneS Ho\u00e0n Ki\u1ebfm - H\u00e0ng B\u00e0i",
+                    "location": {
+                        "lng": 105.8529558269301,
+                        "lat": 21.023673231152586
+                    },
+                    "scale": 1,
+                    "bearing": -105,
+                    "elevation": 0,
+                    "heightScale": null,
+                    "camera": {
+                        "zoom": 21.25,
+                        "bearing": 108.76829298578528,
+                        "tilt": 86,
+                        "target": {
+                            "lng": 105.8531810042744,
+                            "lat": 21.023640960784128
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "63f70cd3c823431703036dcd.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/63f70cd3c823431703036dcd.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85300394587651,
+                                "lat": 21.023718146910024
+                            },
+                            {
+                                "lng": 105.8530039458475,
+                                "lat": 21.02362831538161
+                            },
+                            {
+                                "lng": 105.85290770801271,
+                                "lat": 21.02362831538161
+                            },
+                            {
+                                "lng": 105.85290770798372,
+                                "lat": 21.023718146910024
+                            },
+                            {
+                                "lng": 105.85300394587651,
+                                "lat": 21.023718146910024
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "63f70cd3c823431703036dcb.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/63f70cbdc823431703036dc7.jpg"
+                    },
+                    "types": [
+                        "cellphone_store",
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "H\u00e0ng B\u00e0i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "21A",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": [],
+                    "address": "21A H\u00e0ng B\u00e0i, Ph\u01b0\u1eddng H\u00e0ng B\u00e0i, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Nguy\u1ec5n Th\u00e0nh"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Nguy\u1ec5n Th\u00e0nh"
+                    },
+                    "createdDate": 1677135059998,
+                    "updatedDate": 1677135059998
+                },
+                "tags": [],
+                "phoneNumber": null,
+                "website": "http://cellphones.com.vn/",
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8530086,
+                        21.0236843
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": null,
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/63f70d00c823431703036dcf.PNG",
+                        "name": "63f70d00c823431703036dcf.PNG",
+                        "typeFile": "Image",
+                        "description": "Capture.PNG",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Nguy\u1ec5n Th\u00e0nh"
+                        },
+                        "createdDate": 1677135104755
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 105.8529558269301,
+            "lat": 21.023673231152586
+        },
+        "scale": 1,
+        "bearing": -105,
+        "elevation": 0,
+        "heightScale": null,
+        "camera": {
+            "zoom": 21.25,
+            "bearing": 108.76829298578528,
+            "tilt": 86,
+            "target": {
+                "lng": 105.8531810042744,
+                "lat": 21.023640960784128
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "63f70cd3c823431703036dcd.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/63f70cd3c823431703036dcd.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85300394587651,
+                    "lat": 21.023718146910024
+                },
+                {
+                    "lng": 105.8530039458475,
+                    "lat": 21.02362831538161
+                },
+                {
+                    "lng": 105.85290770801271,
+                    "lat": 21.02362831538161
+                },
+                {
+                    "lng": 105.85290770798372,
+                    "lat": 21.023718146910024
+                },
+                {
+                    "lng": 105.85300394587651,
+                    "lat": 21.023718146910024
+                }
+            ],
+            "height": null,
+            "textureName": "63f70cd3c823431703036dcb.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/63f70cbdc823431703036dc7.jpg"
+        },
+        "types": [
+            "cellphone_store",
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng B\u00e0i"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "21A"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "cellphone_store": "C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng",
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": [],
+        "address": "21A H\u00e0ng B\u00e0i, Ph\u01b0\u1eddng H\u00e0ng B\u00e0i, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

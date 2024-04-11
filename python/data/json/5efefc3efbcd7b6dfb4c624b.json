@@ -1,0 +1,404 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5efefc3efbcd7b6dfb4c624b",
+        "name": "Super Hotel Candle",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f0d311dfbcd7b6dfb4c6d7f",
+                "location": {
+                    "lng": 105.8185352,
+                    "lat": 21.0358377
+                },
+                "address": "287, 301 \u0110\u1ed9i C\u1ea5n, C\u1ed1ng V\u1ecb, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i 100000, Vi\u1ec7t Nam",
+                "name": "Super Hotel Candle",
+                "objectId": "5efefc3efbcd7b6dfb4c624b",
+                "description": "Super Hotel Candle",
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "establishment",
+                "mainTypeInfos": {
+                    "id": "establishment",
+                    "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                    "group": "establishment"
+                },
+                "auxiliaryTypes": [
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "287"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "301"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0110\u1ed9i C\u1ea5n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng C\u1ed1ng V\u1ecb"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5efefc3efbcd7b6dfb4c624b",
+                    "name": "Super Hotel Candle",
+                    "location": {
+                        "lng": 105.81841688576014,
+                        "lat": 21.03574051508926
+                    },
+                    "scale": 1,
+                    "bearing": 20,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 18,
+                        "bearing": 0.08567106213129749,
+                        "tilt": 81.5,
+                        "target": {
+                            "lng": 105.81854739365224,
+                            "lat": 21.037845489058355
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5efefcc0fbcd7b6dfb4c624c.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5efefcc0fbcd7b6dfb4c624c.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.81846500860301,
+                                "lat": 21.03578543084669
+                            },
+                            {
+                                "lng": 105.818465008574,
+                                "lat": 21.035695599318284
+                            },
+                            {
+                                "lng": 105.81836876294629,
+                                "lat": 21.035695599318284
+                            },
+                            {
+                                "lng": 105.81836876291727,
+                                "lat": 21.03578543084669
+                            },
+                            {
+                                "lng": 105.81846500860301,
+                                "lat": 21.03578543084669
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "5efefcc0fbcd7b6dfb4c624e.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5efefcc0fbcd7b6dfb4c624e.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ba \u0110\u00ecnh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "C\u1ed1ng V\u1ecb ",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": " \u0110\u1ed9i C\u1ea5n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "301",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1593769035701,
+                    "updatedDate": 1623224241057
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8185352,
+                        21.0358377
+                    ]
+                },
+                "rank": {
+                    "value": 31
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.81841688576014,
+            "lat": 21.03574051508926
+        },
+        "scale": 1,
+        "bearing": 20,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": 0.08567106213129749,
+            "tilt": 81.5,
+            "target": {
+                "lng": 105.81854739365224,
+                "lat": 21.037845489058355
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5efefcc0fbcd7b6dfb4c624c.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5efefcc0fbcd7b6dfb4c624c.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.81846500860301,
+                    "lat": 21.03578543084669
+                },
+                {
+                    "lng": 105.818465008574,
+                    "lat": 21.035695599318284
+                },
+                {
+                    "lng": 105.81836876294629,
+                    "lat": 21.035695599318284
+                },
+                {
+                    "lng": 105.81836876291727,
+                    "lat": 21.03578543084669
+                },
+                {
+                    "lng": 105.81846500860301,
+                    "lat": 21.03578543084669
+                }
+            ],
+            "height": null,
+            "textureName": "5efefcc0fbcd7b6dfb4c624e.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5efefcc0fbcd7b6dfb4c624e.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "C\u1ed1ng V\u1ecb "
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": " \u0110\u1ed9i C\u1ea5n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "301"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

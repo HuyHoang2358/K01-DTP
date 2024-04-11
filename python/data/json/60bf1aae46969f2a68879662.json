@@ -1,0 +1,454 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60bf1aae46969f2a68879662",
+        "name": "Olive snacks and drinks",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60641f7a78f66105492bac28",
+                "location": {
+                    "lng": 105.85215,
+                    "lat": 21.034972
+                },
+                "address": "17 T\u1ea1 Hi\u1ec7n, H\u00e0ng Bu\u1ed3m, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Olive snacks and drinks",
+                "objectId": "60bf1aae46969f2a68879662",
+                "description": null,
+                "types": [
+                    "restaurant",
+                    "food_service",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "restaurant",
+                        "name": "Nh\u00e0 h\u00e0ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "restaurant",
+                "mainTypeInfos": {
+                    "id": "restaurant",
+                    "name": "Nh\u00e0 h\u00e0ng",
+                    "group": "food_service"
+                },
+                "auxiliaryTypes": [
+                    "food_service",
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "17"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "T\u1ea1 Hi\u1ec7n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9250f29c3ce454f98805f.jpg",
+                        "name": "60f9250f29c3ce454f98805f.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9251029c3ce454f988060.jpg",
+                        "name": "60f9251029c3ce454f988060.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9251029c3ce454f988062.jpg",
+                        "name": "60f9251029c3ce454f988062.jpg",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "restaurant",
+                        "name": "Nh\u00e0 h\u00e0ng",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "food_service",
+                        "minRank": 50000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1665631628283
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "food_service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60bf1aae46969f2a68879662",
+                    "name": "Olive snacks and drinks",
+                    "location": {
+                        "lng": 105.85215040360458,
+                        "lat": 21.03497158381927
+                    },
+                    "scale": 1.1,
+                    "bearing": -73,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 22,
+                        "bearing": 86.41683852242018,
+                        "tilt": 48,
+                        "target": {
+                            "lng": 105.85210963884495,
+                            "lat": 21.034977024889915
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60bf1a9f46969f2a68879660.obj",
+                        "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60bf1a9f46969f2a68879660.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85220196854297,
+                                "lat": 21.035027284578046
+                            },
+                            {
+                                "lng": 105.85220196851397,
+                                "lat": 21.034937453049633
+                            },
+                            {
+                                "lng": 105.85210572337603,
+                                "lat": 21.034937453049633
+                            },
+                            {
+                                "lng": 105.85210572334702,
+                                "lat": 21.035027284578046
+                            },
+                            {
+                                "lng": 105.85220196854297,
+                                "lat": 21.035027284578046
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "60bf1aa017cf4702bf30dd28.jpg",
+                        "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60bf1aa017cf4702bf30dd28.jpg"
+                    },
+                    "types": [
+                        "drink"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "H\u00e0ng Bu\u1ed3m",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "T\u1ea1 Hi\u1ec7n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "17",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1623136942726,
+                    "updatedDate": 1623224269608
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.85215,
+                        21.034972
+                    ]
+                },
+                "rank": {
+                    "value": 50000
+                },
+                "metadata": [],
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9251029c3ce454f988062.jpg",
+                        "name": "60f9251029c3ce454f988062.jpg",
+                        "typeFile": "Image",
+                        "description": "Loat-pho-am-thuc-xuyen-dem-o-Ha-Noi-lao-dao-vi-dich-tieu-thuong-bo-quan-ve-que-5-1623953141-649-width750height500.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626940688425
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9251029c3ce454f988060.jpg",
+                        "name": "60f9251029c3ce454f988060.jpg",
+                        "typeFile": "Image",
+                        "description": "IMG_20210518_103609.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626940688324
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9250f29c3ce454f98805f.jpg",
+                        "name": "60f9250f29c3ce454f98805f.jpg",
+                        "typeFile": "Image",
+                        "description": "IMG_20210518_103555.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626940688186
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 105.85215040360458,
+            "lat": 21.03497158381927
+        },
+        "scale": 1.1,
+        "bearing": -73,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": 86.41683852242018,
+            "tilt": 48,
+            "target": {
+                "lng": 105.85210963884495,
+                "lat": 21.034977024889915
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60bf1a9f46969f2a68879660.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60bf1a9f46969f2a68879660.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85220196854297,
+                    "lat": 21.035027284578046
+                },
+                {
+                    "lng": 105.85220196851397,
+                    "lat": 21.034937453049633
+                },
+                {
+                    "lng": 105.85210572337603,
+                    "lat": 21.034937453049633
+                },
+                {
+                    "lng": 105.85210572334702,
+                    "lat": 21.035027284578046
+                },
+                {
+                    "lng": 105.85220196854297,
+                    "lat": 21.035027284578046
+                }
+            ],
+            "height": 1,
+            "textureName": "60bf1aa017cf4702bf30dd28.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60bf1aa017cf4702bf30dd28.jpg"
+        },
+        "types": [
+            "drink"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "17"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "drink": "Gi\u1ea3i kh\u00e1t, qu\u00e1n n\u01b0\u1edbc, sinh t\u1ed1"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

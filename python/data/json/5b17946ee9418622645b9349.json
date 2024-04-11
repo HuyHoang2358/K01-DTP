@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b17946ee9418622645b9349",
+        "name": "Vinmart",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.220091,
+            "lat": 16.080011
+        },
+        "scale": 1,
+        "bearing": 7,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 73.33250000000008,
+            "tilt": 0,
+            "target": null
+        },
+        "model": {
+            "id": "59e46cdfbd68405e8823912a",
+            "name": "Shop",
+            "objName": "59e46cdfbd68405e8823912a",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/59e46cdfbd68405e8823912a",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.220141,
+                    "lat": 16.080096
+                },
+                {
+                    "lng": 108.220161,
+                    "lat": 16.07994
+                },
+                {
+                    "lng": 108.220021,
+                    "lat": 16.080082
+                },
+                {
+                    "lng": 108.220041,
+                    "lat": 16.079926
+                }
+            ],
+            "height": 1,
+            "textureName": "shop.png",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/shop.png"
+        },
+        "types": [
+            "grocery_store",
+            "shop",
+            "point"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00fd Th\u01b0\u1eddng Ki\u1ec7t"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 975060000000,
+        "endDate": 4099629600000,
+        "source": null,
+        "typeInfos": {
+            "grocery_store": "C\u1eeda h\u00e0ng t\u1ea1p h\u00f3a",
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

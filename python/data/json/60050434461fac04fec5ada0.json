@@ -1,0 +1,392 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60050434461fac04fec5ada0",
+        "name": "B\u1ed9 Y T\u1ebf Vi\u1ec7t Nam",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f0d13898818486e20350d0b",
+                "location": {
+                    "lng": 105.8247123531412,
+                    "lat": 21.02883206070983
+                },
+                "address": "138A N\u00fai Tr\u00fac, Ph\u01b0\u1eddng Kim M\u00e3, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "B\u1ed9 Y T\u1ebf Vi\u1ec7t Nam",
+                "objectId": "60050434461fac04fec5ada0",
+                "description": "B\u1ed9 Y T\u1ebf Vi\u1ec7t Nam",
+                "types": [
+                    "government",
+                    "establishment",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "government",
+                        "name": "Li\u00ean quan \u0111\u1ebfn ch\u00ednh quy\u1ec1n, \u0111\u1ecba ph\u01b0\u01a1ng",
+                        "group": "government"
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "government",
+                "mainTypeInfos": {
+                    "id": "government",
+                    "name": "Li\u00ean quan \u0111\u1ebfn ch\u00ednh quy\u1ec1n, \u0111\u1ecba ph\u01b0\u01a1ng",
+                    "group": "government"
+                },
+                "auxiliaryTypes": [
+                    "establishment",
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "138A N\u00fai Tr\u00fac"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Kim M\u00e3"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "government",
+                        "name": "Li\u00ean quan \u0111\u1ebfn ch\u00ednh quy\u1ec1n, \u0111\u1ecba ph\u01b0\u01a1ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "government",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60050434461fac04fec5ada0",
+                    "name": "B\u1ed9 Y T\u1ebf Vi\u1ec7t Nam",
+                    "location": {
+                        "lng": 105.82463569188755,
+                        "lat": 21.0289418596
+                    },
+                    "scale": 1,
+                    "bearing": -143,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": -14.400000000000007,
+                        "tilt": 82.5,
+                        "target": {
+                            "lng": 105.82446320892407,
+                            "lat": 21.029618164949245
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "600504289b70fd6b371f7256.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/600504289b70fd6b371f7256.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.82468381253481,
+                                "lat": 21.02898677535744
+                            },
+                            {
+                                "lng": 105.82468381250581,
+                                "lat": 21.028896943829025
+                            },
+                            {
+                                "lng": 105.82458757126929,
+                                "lat": 21.028896943829025
+                            },
+                            {
+                                "lng": 105.82458757124029,
+                                "lat": 21.02898677535744
+                            },
+                            {
+                                "lng": 105.82468381253481,
+                                "lat": 21.02898677535744
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "60050428461fac04fec5ad9e.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60050428461fac04fec5ad9e.jpg"
+                    },
+                    "types": [
+                        "health"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ba \u0110\u00ecnh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Kim M\u00e3",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "N\u00fai Tr\u00fac",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "138A",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1610941492806,
+                    "updatedDate": 1623224257027
+                },
+                "tags": null,
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8247123531412,
+                        21.02883206070983
+                    ]
+                },
+                "rank": {
+                    "value": 5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.82463569188755,
+            "lat": 21.0289418596
+        },
+        "scale": 1,
+        "bearing": -143,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -14.400000000000007,
+            "tilt": 82.5,
+            "target": {
+                "lng": 105.82446320892407,
+                "lat": 21.029618164949245
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "600504289b70fd6b371f7256.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/600504289b70fd6b371f7256.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82468381253481,
+                    "lat": 21.02898677535744
+                },
+                {
+                    "lng": 105.82468381250581,
+                    "lat": 21.028896943829025
+                },
+                {
+                    "lng": 105.82458757126929,
+                    "lat": 21.028896943829025
+                },
+                {
+                    "lng": 105.82458757124029,
+                    "lat": 21.02898677535744
+                },
+                {
+                    "lng": 105.82468381253481,
+                    "lat": 21.02898677535744
+                }
+            ],
+            "height": 1,
+            "textureName": "60050428461fac04fec5ad9e.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60050428461fac04fec5ad9e.jpg"
+        },
+        "types": [
+            "health"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Kim M\u00e3"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "N\u00fai Tr\u00fac"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "138A"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "health": "S\u1ee9c kh\u1ecfe, y t\u1ebf"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

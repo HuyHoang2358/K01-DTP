@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60e7c33a29c3ce454f98799e",
+        "name": "Linh Fashion",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85145491529835,
+            "lat": 21.034885231156963
+        },
+        "scale": 1.1,
+        "bearing": 2,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": 9.684471840493995,
+            "tilt": 59,
+            "target": {
+                "lng": 105.85143399430642,
+                "lat": 21.034886749556623
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60e7c33029c3ce454f987999.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60e7c33029c3ce454f987999.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85150303786496,
+                    "lat": 21.0349301469144
+                },
+                {
+                    "lng": 105.85150303783595,
+                    "lat": 21.03484031538599
+                },
+                {
+                    "lng": 105.85140679276076,
+                    "lat": 21.03484031538599
+                },
+                {
+                    "lng": 105.85140679273175,
+                    "lat": 21.0349301469144
+                },
+                {
+                    "lng": 105.85150303786496,
+                    "lat": 21.0349301469144
+                }
+            ],
+            "height": null,
+            "textureName": "60e7c33029c3ce454f98799b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60e7c33029c3ce454f98799b.jpg"
+        },
+        "types": [
+            "clothing_store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "clothing_store": "C\u1eeda h\u00e0ng \u00e1o qu\u1ea7n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

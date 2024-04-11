@@ -1,0 +1,346 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "610bb84937541b1f3b56d61a",
+        "name": "Diamond Legend Hotel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60dd386af81cb14bc883af8c",
+                "location": {
+                    "lng": 105.8471945,
+                    "lat": 21.0369827
+                },
+                "address": "59 H\u00e0ng C\u00f3t, H\u00e0ng M\u00e3, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i 100000, Vi\u1ec7t Nam",
+                "name": "Diamond Legend Hotel",
+                "objectId": "610bb84937541b1f3b56d61a",
+                "description": " 59 H\u00e0ng C\u00f3t ,  H\u00e0ng M\u00e3 ,  Ho\u00e0n Ki\u1ebfm ,  H\u00e0 N\u1ed9i   100000 ,  Vi\u1ec7t Nam ",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "59"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "H\u00e0ng C\u00f3t"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng M\u00e3"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "610bb84937541b1f3b56d61a",
+                    "name": "Diamond Legend Hotel",
+                    "location": {
+                        "lng": 105.84725539066949,
+                        "lat": 21.03683856473613
+                    },
+                    "scale": 1,
+                    "bearing": -89,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 40.931240582124445,
+                        "tilt": 32.5,
+                        "target": {
+                            "lng": 105.84731487867258,
+                            "lat": 21.036839793470836
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "610bb84237541b1f3b56d615.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/610bb84237541b1f3b56d615.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84730012771398,
+                                "lat": 21.036913060535543
+                            },
+                            {
+                                "lng": 105.84730012768496,
+                                "lat": 21.03682322900713
+                            },
+                            {
+                                "lng": 105.84720388132877,
+                                "lat": 21.03682322900713
+                            },
+                            {
+                                "lng": 105.84720388129975,
+                                "lat": 21.036913060535543
+                            },
+                            {
+                                "lng": 105.84730012771398,
+                                "lat": 21.036913060535543
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "610bb84237541b1f3b56d617.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/610bb84237541b1f3b56d617.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "65",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "H\u00e0ng C\u00f3t",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "H\u00e0ng M\u00e3",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1628158025395,
+                    "updatedDate": 1628158179131
+                },
+                "tags": [],
+                "phoneNumber": "02438282626",
+                "website": "diamondlegendhotel.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8471945,
+                        21.0369827
+                    ]
+                },
+                "rank": {
+                    "value": 1245
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84725539066949,
+            "lat": 21.03683856473613
+        },
+        "scale": 1,
+        "bearing": -89,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 40.931240582124445,
+            "tilt": 32.5,
+            "target": {
+                "lng": 105.84731487867258,
+                "lat": 21.036839793470836
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "610bb84237541b1f3b56d615.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/610bb84237541b1f3b56d615.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84730012771398,
+                    "lat": 21.036913060535543
+                },
+                {
+                    "lng": 105.84730012768496,
+                    "lat": 21.03682322900713
+                },
+                {
+                    "lng": 105.84720388132877,
+                    "lat": 21.03682322900713
+                },
+                {
+                    "lng": 105.84720388129975,
+                    "lat": 21.036913060535543
+                },
+                {
+                    "lng": 105.84730012771398,
+                    "lat": 21.036913060535543
+                }
+            ],
+            "height": null,
+            "textureName": "610bb84237541b1f3b56d617.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/610bb84237541b1f3b56d617.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "65"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng C\u00f3t"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "H\u00e0ng M\u00e3"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

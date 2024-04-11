@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "613fff592f30391a8a27b924",
+        "name": "G3D Trung Y\u00ean",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79919160873496,
+            "lat": 21.01920276890081
+        },
+        "scale": 1,
+        "bearing": 32,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18.25,
+            "bearing": -30.133334231376644,
+            "tilt": 0,
+            "target": {
+                "lng": 105.79917402576062,
+                "lat": 21.020257791456466
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "613fff402f30391a8a27b91f.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/613fff402f30391a8a27b91f.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79923972623857,
+                    "lat": 21.01924768465825
+                },
+                {
+                    "lng": 105.79923972620958,
+                    "lat": 21.019157853129837
+                },
+                {
+                    "lng": 105.79914349126035,
+                    "lat": 21.019157853129837
+                },
+                {
+                    "lng": 105.79914349123136,
+                    "lat": 21.01924768465825
+                },
+                {
+                    "lng": 105.79923972623857,
+                    "lat": 21.01924768465825
+                }
+            ],
+            "height": null,
+            "textureName": "613fff422f30391a8a27b921.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/613fff422f30391a8a27b921.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "V\u0169 Ph\u1ea1m H\u00e0m"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "11"
+            }
+        ],
+        "startDate": 1244480400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "11 V\u0169 Ph\u1ea1m H\u00e0m, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

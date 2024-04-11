@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60e6b2758cc62a0a6cd169a6",
+        "name": "HOANG NAM TOURIST",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85366665490426,
+            "lat": 21.03479044260763
+        },
+        "scale": 1.15,
+        "bearing": -180,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -169.79375808341146,
+            "tilt": 70,
+            "target": {
+                "lng": 105.85362720632293,
+                "lat": 21.034646409713062
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60e6b25d8cc62a0a6cd169a1.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60e6b25d8cc62a0a6cd169a1.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85371477744026,
+                    "lat": 21.03483535836507
+                },
+                {
+                    "lng": 105.85371477741124,
+                    "lat": 21.034745526836655
+                },
+                {
+                    "lng": 105.85361853239728,
+                    "lat": 21.034745526836655
+                },
+                {
+                    "lng": 105.85361853236826,
+                    "lat": 21.03483535836507
+                },
+                {
+                    "lng": 105.85371477744026,
+                    "lat": 21.03483535836507
+                }
+            ],
+            "height": null,
+            "textureName": "60e6b25e8cc62a0a6cd169a3.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60e6b25e8cc62a0a6cd169a3.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff815b8f75190676b00234e",
+        "name": "Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc Lao \u0111\u1ed9ng - X\u00e3 h\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80235435450538,
+            "lat": 21.01222999585285
+        },
+        "scale": 1,
+        "bearing": 123,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.25,
+            "bearing": -43.18321402726563,
+            "tilt": 0,
+            "target": {
+                "lng": 105.80144635851173,
+                "lat": 21.010934140230475
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff815aebeee3c4c5c5bc09b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff815aebeee3c4c5c5bc09b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80240246975936,
+                    "lat": 21.012274911610298
+                },
+                {
+                    "lng": 105.80240246973038,
+                    "lat": 21.012185080081885
+                },
+                {
+                    "lng": 105.80230623928037,
+                    "lat": 21.012185080081885
+                },
+                {
+                    "lng": 105.80230623925141,
+                    "lat": 21.012274911610298
+                },
+                {
+                    "lng": 105.80240246975936,
+                    "lat": 21.012274911610298
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff815aef75190676b00234c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff815aef75190676b00234c.jpg"
+        },
+        "types": [
+            "university"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Duy H\u01b0ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "43"
+            }
+        ],
+        "startDate": 952621200000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "university": "Tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc"
+        },
+        "metadata": null,
+        "address": "43 Tr\u1ea7n Duy H\u01b0ng, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

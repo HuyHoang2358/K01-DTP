@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff6c35e79d2dd5e3be164b4",
+        "name": "B10C Nguy\u1ec5n Ch\u00e1nh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79036869235307,
+            "lat": 21.01275157648081
+        },
+        "scale": 1,
+        "bearing": 37,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -29.019958501302977,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78992079303185,
+                "lat": 21.01264847145603
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff6c351380f725a8751da0b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff6c351380f725a8751da0b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7904168077753,
+                    "lat": 21.012796492238255
+                },
+                {
+                    "lng": 105.79041680774631,
+                    "lat": 21.012706660709842
+                },
+                {
+                    "lng": 105.79032057695983,
+                    "lat": 21.012706660709842
+                },
+                {
+                    "lng": 105.79032057693084,
+                    "lat": 21.012796492238255
+                },
+                {
+                    "lng": 105.7904168077753,
+                    "lat": 21.012796492238255
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff6c3529ed19823c2a9cf4b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff6c3529ed19823c2a9cf4b.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110inh N\u00fap"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "B10A"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "B10A \u0110inh N\u00fap, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,459 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "641bb3c7b24e2b506c33bf5c",
+        "name": "OCB: CN Trung Vi\u1ec7t",
+        "places": [],
+        "placeDetails": [
+            {
+                "id": "631b0208b0216e76388eca71",
+                "location": {
+                    "lng": 108.2212715,
+                    "lat": 16.0752276
+                },
+                "address": "34-36 \u0110\u01b0\u1eddng Quang Trung - Ph\u01b0\u1eddng Th\u1ea1ch Thang - Qu\u1eadn H\u1ea3i Ch\u00e2u - \u0110\u00e0 N\u1eb5ng",
+                "name": "OCB: CN TRUNG VI\u1ec6T",
+                "objectId": "641bb3c7b24e2b506c33bf5c",
+                "description": "OCB: CN TRUNG VI\u1ec6T",
+                "types": [
+                    "bank",
+                    "point"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "group": "finance"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "bank",
+                "mainTypeInfos": {
+                    "id": "bank",
+                    "name": "Ng\u00e2n h\u00e0ng",
+                    "group": "finance"
+                },
+                "auxiliaryTypes": [
+                    "point"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "34-36"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/641baec1b24e2b506c33bf44.png",
+                        "name": "641baec1b24e2b506c33bf44.png",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/641baec3b24e2b506c33bf45.jpg",
+                        "name": "641baec3b24e2b506c33bf45.jpg",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "finance",
+                        "minRank": 50000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "641bb3c7b24e2b506c33bf5c",
+                    "name": "OCB: CN Trung Vi\u1ec7t",
+                    "location": {
+                        "lng": 108.22128946381883,
+                        "lat": 16.07520051172706
+                    },
+                    "scale": 1,
+                    "bearing": 13,
+                    "elevation": 0,
+                    "heightScale": null,
+                    "camera": {
+                        "zoom": 20.3245,
+                        "bearing": -18.800000000000022,
+                        "tilt": 9,
+                        "target": {
+                            "lng": 108.22127112108251,
+                            "lat": 16.075195791027255
+                        }
+                    },
+                    "model": {
+                        "id": "5832b2710d6f5b0e1ce45817",
+                        "objName": "5e7c6bbe4bc3cf1de4a871dc.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5e7c6bbe4bc3cf1de4a871dc.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.22133620730584,
+                                "lat": 16.075245427486195
+                            },
+                            {
+                                "lng": 108.22133620728471,
+                                "lat": 16.07515559595778
+                            },
+                            {
+                                "lng": 108.22124272035295,
+                                "lat": 16.07515559595778
+                            },
+                            {
+                                "lng": 108.22124272033183,
+                                "lat": 16.075245427486195
+                            },
+                            {
+                                "lng": 108.22133620730584,
+                                "lat": 16.075245427486195
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5e7c6bbe4bc3cf1de4a871e0.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7c6bbe4bc3cf1de4a871e0.jpg"
+                    },
+                    "types": [
+                        "bank",
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "34 - 36 Quang Trung",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": [],
+                    "address": "34 - 36 Quang Trung, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "d4a0bae7-91bb-4288-a34a-8636e7fb5556",
+                        "displayName": "cuong pham hung"
+                    },
+                    "updatedBy": {
+                        "userId": "d4a0bae7-91bb-4288-a34a-8636e7fb5556",
+                        "displayName": "cuong pham hung"
+                    },
+                    "createdDate": 1679537095915,
+                    "updatedDate": 1679537095915
+                },
+                "tags": [
+                    "ocb",
+                    "read-link"
+                ],
+                "phoneNumber": "02363 887 899",
+                "website": "https://www.ocb.com.vn/",
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": null
+                        },
+                        "close": {
+                            "day": 0,
+                            "time": null
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.2212715,
+                        16.0752276
+                    ]
+                },
+                "rank": {
+                    "value": 50000
+                },
+                "metadata": null,
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/641baec3b24e2b506c33bf45.jpg",
+                        "name": "641baec3b24e2b506c33bf45.jpg",
+                        "typeFile": "Image",
+                        "description": "OCB_1.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "d4a0bae7-91bb-4288-a34a-8636e7fb5556",
+                            "displayName": "cuong pham hung"
+                        },
+                        "createdDate": 1679535812412
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/641baec1b24e2b506c33bf44.png",
+                        "name": "641baec1b24e2b506c33bf44.png",
+                        "typeFile": "Image",
+                        "description": "OCB_2.png",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "d4a0bae7-91bb-4288-a34a-8636e7fb5556",
+                            "displayName": "cuong pham hung"
+                        },
+                        "createdDate": 1679535811075
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 108.22128946381883,
+            "lat": 16.07520051172706
+        },
+        "scale": 1,
+        "bearing": 13,
+        "elevation": 0,
+        "heightScale": null,
+        "camera": {
+            "zoom": 20.3245,
+            "bearing": -18.800000000000022,
+            "tilt": 9,
+            "target": {
+                "lng": 108.22127112108251,
+                "lat": 16.075195791027255
+            }
+        },
+        "model": {
+            "id": "5832b2710d6f5b0e1ce45817",
+            "name": "Ng\u00e2n H\u00e0ng",
+            "objName": "5e7c6bbe4bc3cf1de4a871dc.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5e7c6bbe4bc3cf1de4a871dc.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22133620730584,
+                    "lat": 16.075245427486195
+                },
+                {
+                    "lng": 108.22133620728471,
+                    "lat": 16.07515559595778
+                },
+                {
+                    "lng": 108.22124272035295,
+                    "lat": 16.07515559595778
+                },
+                {
+                    "lng": 108.22124272033183,
+                    "lat": 16.075245427486195
+                },
+                {
+                    "lng": 108.22133620730584,
+                    "lat": 16.075245427486195
+                }
+            ],
+            "height": 1,
+            "textureName": "5e7c6bbe4bc3cf1de4a871e0.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7c6bbe4bc3cf1de4a871e0.jpg"
+        },
+        "types": [
+            "bank",
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "34 - 36 Quang Trung"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bank": "Ng\u00e2n h\u00e0ng",
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": [],
+        "address": "34 - 36 Quang Trung, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+    }
+}

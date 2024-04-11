@@ -1,0 +1,94 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f76e083f99eaa1ee061fd51",
+        "name": "Tr\u1ee5 \u0110\u00e8n \u0110\u00f4i - 1601626183944",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.18685517922182,
+            "lat": 16.066115481928094
+        },
+        "scale": 1.25,
+        "bearing": 2,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -4.319293700335526,
+            "tilt": 9.900000214576721,
+            "target": {
+                "lng": 108.18685517922182,
+                "lat": 16.066115481928094
+            }
+        },
+        "model": {
+            "id": "5bf767c407a01d0a843d929e",
+            "name": "Tr\u1ee5 \u0110\u00e8n \u0110\u00f4i",
+            "objName": "5e7da2ebc628c80de0564288.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5e7da2ebc628c80de0564288.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.18690192057366,
+                    "lat": 16.066160397687224
+                },
+                {
+                    "lng": 108.18690192055256,
+                    "lat": 16.066070566158814
+                },
+                {
+                    "lng": 108.18680843789109,
+                    "lat": 16.066070566158814
+                },
+                {
+                    "lng": 108.18680843786998,
+                    "lat": 16.066160397687224
+                },
+                {
+                    "lng": 108.18690192057366,
+                    "lat": 16.066160397687224
+                }
+            ],
+            "height": 1,
+            "textureName": "5e7da2ebc628c80de056428a.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7da2ebc628c80de056428a.jpg"
+        },
+        "types": [
+            "decoration"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": " 478"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Kh\u00ea"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "decoration": "C\u00e1c \u0111\u1ed1i t\u01b0\u1ee3ng 3D \u0111\u1ec3 trang tr\u00ed"
+        },
+        "metadata": null,
+        "address": "478 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Qu\u1eadn Thanh Kh\u00ea"
+    }
+}

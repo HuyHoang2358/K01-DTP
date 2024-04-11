@@ -1,0 +1,341 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c468e845b570fbd88fdd1df",
+        "name": "Agriban Nam H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845ea814a9df9d67e6328",
+                "location": {
+                    "lng": 105.828801,
+                    "lat": 21.007525
+                },
+                "address": "10 Ch\u00f9a B\u1ed9c, Ph\u01b0\u1eddng Quang Trung, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Agriban Nam H\u00e0 N\u1ed9i",
+                "objectId": "5c468e845b570fbd88fdd1df",
+                "description": " &nbsp; ",
+                "types": [
+                    "bank",
+                    "finance"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "group": "finance"
+                    },
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "group": "finance"
+                    }
+                ],
+                "mainType": "bank",
+                "mainTypeInfos": {
+                    "id": "bank",
+                    "name": "Ng\u00e2n h\u00e0ng",
+                    "group": "finance"
+                },
+                "auxiliaryTypes": [
+                    "finance"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "group": "finance"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "10 Ch\u00f9a B\u1ed9c"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Quang Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 946659600000,
+                "endDate": 2524582800000,
+                "placeTypes": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "finance",
+                        "minRank": 50000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "finance",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5c468e845b570fbd88fdd1df",
+                    "name": "Agriban Nam H\u00e0 N\u1ed9i",
+                    "location": {
+                        "lng": 105.828801,
+                        "lat": 21.007525
+                    },
+                    "scale": 1,
+                    "bearing": -26,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 22,
+                        "bearing": 32.304866498941074,
+                        "tilt": 43.260775286717596,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5c468e845b570fbd88fdd1df",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c468e845b570fbd88fdd1df",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.829078,
+                                "lat": 21.007506
+                            },
+                            {
+                                "lng": 105.828982,
+                                "lat": 21.007323
+                            },
+                            {
+                                "lng": 105.828738,
+                                "lat": 21.007661
+                            },
+                            {
+                                "lng": 105.828642,
+                                "lat": 21.007478
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "5609c3aa33e446cca5528532355efb37.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5609c3aa33e446cca5528532355efb37.jpg"
+                    },
+                    "types": [
+                        "bank"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 946659600000,
+                    "endDate": 2524582800000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ch\u00f9a B\u1ed9c",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Quang Trung",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ch\u00f9a B\u1ed9c, Ph\u01b0\u1eddng Quang Trung, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1548153076925,
+                    "updatedDate": 1623224212912
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.828801,
+                        21.007525
+                    ]
+                },
+                "rank": {
+                    "value": 1000005
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.828801,
+            "lat": 21.007525
+        },
+        "scale": 1,
+        "bearing": -26,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": 32.304866498941074,
+            "tilt": 43.260775286717596,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c468e845b570fbd88fdd1df",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c468e845b570fbd88fdd1df",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.829078,
+                    "lat": 21.007506
+                },
+                {
+                    "lng": 105.828982,
+                    "lat": 21.007323
+                },
+                {
+                    "lng": 105.828738,
+                    "lat": 21.007661
+                },
+                {
+                    "lng": 105.828642,
+                    "lat": 21.007478
+                }
+            ],
+            "height": 0,
+            "textureName": "5609c3aa33e446cca5528532355efb37.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5609c3aa33e446cca5528532355efb37.jpg"
+        },
+        "types": [
+            "bank"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ch\u00f9a B\u1ed9c"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Quang Trung"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 946659600000,
+        "endDate": 2524582800000,
+        "source": null,
+        "typeInfos": {
+            "bank": "Ng\u00e2n h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Ch\u00f9a B\u1ed9c, Ph\u01b0\u1eddng Quang Trung, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam"
+    }
+}

@@ -1,0 +1,376 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e54f31a51f33b969561bb",
+        "name": "Splendid Star Grand Hotel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c24e2c2e7d438384b9711",
+                "location": {
+                    "lng": 105.848724,
+                    "lat": 21.029131
+                },
+                "address": "14 Th\u1ecd X\u01b0\u01a1ng, H\u00e0ng Tr\u1ed1ng, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Splendid Star Grand Hotel",
+                "objectId": "5f8e54f31a51f33b969561bb",
+                "description": "14 Th\u1ecd X\u01b0\u01a1ng, H\u00e0ng Tr\u1ed1ng, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "14"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Th\u1ecd X\u01b0\u01a1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://lh5.googleusercontent.com/p/AF1QipPQGLIUqGxdmAb_gpZrGodQ00N5p8PDENnTR5D5=w138-h92-k-no",
+                        "name": null,
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8e54f31a51f33b969561bb",
+                    "name": "Splendid Star Grand Hotel",
+                    "location": {
+                        "lng": 105.84867523350727,
+                        "lat": 21.029222803868976
+                    },
+                    "scale": 1,
+                    "bearing": 27,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 6.958665941701649,
+                        "tilt": 75,
+                        "target": {
+                            "lng": 105.8487527482702,
+                            "lat": 21.029601114545034
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8e54c064df97299cfcb689.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e54c064df97299cfcb689.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84872335424524,
+                                "lat": 21.029267719626414
+                            },
+                            {
+                                "lng": 105.84872335421625,
+                                "lat": 21.029177888098005
+                            },
+                            {
+                                "lng": 105.84862711279828,
+                                "lat": 21.029177888098005
+                            },
+                            {
+                                "lng": 105.84862711276928,
+                                "lat": 21.029267719626414
+                            },
+                            {
+                                "lng": 105.84872335424524,
+                                "lat": 21.029267719626414
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8e54c264df97299cfcb68b.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e54c264df97299cfcb68b.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Th\u1ecd X\u01b0\u01a1ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "08",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603163379837,
+                    "updatedDate": 1623224248311
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3938 1436",
+                "website": "http://www.Th\u00eam trang web",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.848724,
+                        21.029131
+                    ]
+                },
+                "rank": {
+                    "value": 1001.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84867523350727,
+            "lat": 21.029222803868976
+        },
+        "scale": 1,
+        "bearing": 27,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 6.958665941701649,
+            "tilt": 75,
+            "target": {
+                "lng": 105.8487527482702,
+                "lat": 21.029601114545034
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8e54c064df97299cfcb689.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e54c064df97299cfcb689.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84872335424524,
+                    "lat": 21.029267719626414
+                },
+                {
+                    "lng": 105.84872335421625,
+                    "lat": 21.029177888098005
+                },
+                {
+                    "lng": 105.84862711279828,
+                    "lat": 21.029177888098005
+                },
+                {
+                    "lng": 105.84862711276928,
+                    "lat": 21.029267719626414
+                },
+                {
+                    "lng": 105.84872335424524,
+                    "lat": 21.029267719626414
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8e54c264df97299cfcb68b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e54c264df97299cfcb68b.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Th\u1ecd X\u01b0\u01a1ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "08"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

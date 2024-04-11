@@ -1,0 +1,385 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5d51286bd0d5581a50c6847a",
+        "name": "IotLink RD Center",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5d1ea748fda98a4e5cbb6ab4",
+                "location": {
+                    "lng": 108.22899787373933,
+                    "lat": 16.07584446978045
+                },
+                "address": "271 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i B\u1eafc, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "C\u00f4ng ty TNHH IOTLink - Tr\u1ee5 s\u1edf R&D \u0110\u00e0 N\u1eb5ng",
+                "objectId": "5d51286bd0d5581a50c6847a",
+                "description": " IOTLink \u0111\u01b0\u1ee3c th\u00e0nh l\u1eadp v\u00e0o th\u00e1ng 7/2016, k\u1ebf th\u1eeba th\u00e0nh qu\u1ea3 nghi\u00ean c\u1ee9u nhi\u1ec1u n\u0103m c\u1ee7a CEO Link v\u00e0 Deki Connect c\u00f9ng s\u1ef1 h\u1ed7 tr\u1ee3 c\u00f4ng ngh\u1ec7 c\u1ee7a c\u00e1c t\u1eadp \u0111o\u00e0n c\u00f4ng ngh\u1ec7 l\u1edbn tr\u00ean th\u1ebf gi\u1edbi, x\u00e2y d\u1ef1ng th\u00e0nh ph\u00f4\u0301 th\u00f4ng minh tr\u1ef1c tuy\u1ebfn v\u1edbi nhi\u1ec1u \u1ee9ng d\u1ee5ng \u0111\u01b0\u1ee3c t\u00edch h\u1ee3p ph\u1ee5c v\u1ee5 qu\u1ea3n l\u00fd nh\u00e0 n\u01b0\u1edbc, ph\u1ee5c v\u1ee5 s\u1ea3n xu\u1ea5t kinh doanh cho doanh nghi\u1ec7p v\u1edbi ng\u01b0\u1eddi d\u00e2n tr\u00ean n\u1ec1n t\u1ea3ng 3D va\u0300 Internet k\u1ebft n\u1ed1i v\u1ea1n v\u1eadt h\u01b0\u1edbng t\u1edbi m\u1ed9t th\u00e0nh ph\u1ed1 sinh \u0111\u1ed9ng tr\u1ef1c tuy\u1ebfn trong t\u01b0\u01a1ng lai. \n  M\u1ed9t s\u1ed1 \u0111\u1eb7c \u0111i\u1ec3m n\u1ed5i b\u1eadt : \n \n IOT Link \u0111ang s\u1edf h\u1eefu m\u1ed9t c\u00f4ng ngh\u1ec7 \u0111\u1ed9c \u0111\u00e1o, v\u1edbi tham v\u1ecdng h\u01b0\u1edbng t\u1edbi nhi\u1ec1u \u0111\u1ed1i t\u01b0\u1ee3ng kh\u00e1ch h\u00e0ng Ch\u00ednh ph\u1ee7 v\u00e0 Doanh nghi\u1ec7p. \n Sau nhi\u1ec1u n\u0103m nghi\u00ean c\u1ee9u C\u00f4ng ngh\u1ec7, IOT Link \u0111\u00e3 c\u00f3 k\u1ebf ho\u1ea1ch ra m\u1eaft c\u00f4ng ngh\u1ec7 v\u00e0 k\u1ebf ho\u1ea1ch kinh doanh t\u1eadp trung m\u1ea1nh m\u1ebd v\u00e0o n\u0103m 2019. \n L\u00e3nh \u0111\u1ea1o IOT Link l\u00e0 nh\u1eefng ng\u01b0\u1eddi c\u00f3 b\u1ec1 d\u00e0y kinh nghi\u1ec7m v\u1ec1 C\u00f4ng ngh\u1ec7, Kinh doanh v\u00e0 K\u1ebft n\u1ed1i Doanh nghi\u1ec7p, Ch\u00ednh ph\u1ee7. \n IOT Link \u0111ang \u0111\u01b0\u1ee3c s\u1ef1 h\u1ed7 tr\u1ee3 m\u1ea1nh m\u1ebd v\u1ec1 C\u00f4ng ngh\u1ec7 c\u1ee7a c\u00e1c t\u1eadp \u0111o\u00e0n c\u00f4ng ngh\u1ec7 l\u1edbn tr\u00ean th\u1ebf gi\u1edbi. \n \n",
+                "types": [
+                    "establishment",
+                    "point"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "establishment",
+                "mainTypeInfos": {
+                    "id": "establishment",
+                    "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                    "group": "establishment"
+                },
+                "auxiliaryTypes": [
+                    "point"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "271"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/6082859c10b9793609a894e9.jpg",
+                        "name": "6082859c10b9793609a894e9.jpg",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": 1617210000000,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5d51286bd0d5581a50c6847a",
+                    "name": "IotLink RD Center",
+                    "location": {
+                        "lng": 108.229092889317,
+                        "lat": 16.0758522156333
+                    },
+                    "scale": 1,
+                    "bearing": -89,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 88.92758562641178,
+                        "tilt": 86.5,
+                        "target": {
+                            "lng": 108.22976095661356,
+                            "lat": 16.07586107801075
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60652bdd0618007e00182a27.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60652bdd0618007e00182a27.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.22913963295721,
+                                "lat": 16.075897131392438
+                            },
+                            {
+                                "lng": 108.2291396329361,
+                                "lat": 16.075807299864024
+                            },
+                            {
+                                "lng": 108.22904614569791,
+                                "lat": 16.075807299864024
+                            },
+                            {
+                                "lng": 108.22904614567679,
+                                "lat": 16.075897131392438
+                            },
+                            {
+                                "lng": 108.22913963295721,
+                                "lat": 16.075897131392438
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "60652bde6d8d1d1563aba743.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60652bde6d8d1d1563aba743.jpg"
+                    },
+                    "types": [
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Nguy\u1ec5n V\u0103n Th\u00e0nh"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Nguy\u1ec5n V\u0103n Th\u00e0nh"
+                    },
+                    "createdDate": 1565599851848,
+                    "updatedDate": 1623224218727
+                },
+                "tags": [],
+                "phoneNumber": "+842363811678",
+                "website": "http://iotlink.com.vn/",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.22899787373933,
+                        16.07584446978045
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": null,
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/6082859c10b9793609a894e9.jpg",
+                        "name": "6082859c10b9793609a894e9.jpg",
+                        "typeFile": "Image",
+                        "description": "C8D308A2-FAEA-420A-9A2E-20998AE417EE.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "6a2e243f-fb91-4bb3-9b78-fe09dde174f6",
+                            "displayName": "Ng\u1ecdc Trung"
+                        },
+                        "createdDate": 1619166621104
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 108.229092889317,
+            "lat": 16.0758522156333
+        },
+        "scale": 1,
+        "bearing": -89,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 88.92758562641178,
+            "tilt": 86.5,
+            "target": {
+                "lng": 108.22976095661356,
+                "lat": 16.07586107801075
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60652bdd0618007e00182a27.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60652bdd0618007e00182a27.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22913963295721,
+                    "lat": 16.075897131392438
+                },
+                {
+                    "lng": 108.2291396329361,
+                    "lat": 16.075807299864024
+                },
+                {
+                    "lng": 108.22904614569791,
+                    "lat": 16.075807299864024
+                },
+                {
+                    "lng": 108.22904614567679,
+                    "lat": 16.075897131392438
+                },
+                {
+                    "lng": 108.22913963295721,
+                    "lat": 16.075897131392438
+                }
+            ],
+            "height": null,
+            "textureName": "60652bde6d8d1d1563aba743.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60652bde6d8d1d1563aba743.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

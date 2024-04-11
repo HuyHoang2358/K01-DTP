@@ -1,0 +1,300 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b714e0c2ed4231294204db2",
+        "name": "C\u1ea7u v\u01b0\u1ee3t Ng\u00e3 ba Hu\u1ebf",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c89d4ba95f3d0aabc3df19e",
+                "location": {
+                    "lng": 108.1788509,
+                    "lat": 16.0620805
+                },
+                "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, H\u00f2a Kh\u00ea, Thanh Kh\u00ea, \u0110\u00e0 N\u1eb5ng 550000 Ng\u00e3 Ba Hu\u1ebf, Ph\u01b0\u1eddng Thanh Kh\u00ea T\u00e2y, Qu\u1eadn Thanh Kh\u00ea, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "C\u1ea7u v\u01b0\u1ee3t Ng\u00e3 Ba Hu\u1ebf",
+                "objectId": "5b714e0c2ed4231294204db2",
+                "description": "C\u1ea7u v\u01b0\u1ee3t Ng\u00e3 Ba Hu\u1ebf",
+                "types": [
+                    "establishment",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "establishment",
+                "mainTypeInfos": {
+                    "id": "establishment",
+                    "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                    "group": "establishment"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "H\u00f2a Kh\u00ea, Thanh Kh\u00ea, \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea T\u00e2y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Thanh Kh\u00ea"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b714e0c2ed4231294204db2",
+                    "name": "C\u1ea7u v\u01b0\u1ee3t Ng\u00e3 ba Hu\u1ebf",
+                    "location": {
+                        "lng": 108.17885846501144,
+                        "lat": 16.06201729350809
+                    },
+                    "scale": 1.03,
+                    "bearing": 38.5,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 217.18079019073534,
+                        "tilt": 0,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "",
+                        "objName": "5d70cd99d2436a19e4ce0b61.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5d70cd99d2436a19e4ce0b61.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [],
+                        "height": 0,
+                        "textureName": "5d70cd99d2436a19e4ce0b63.png",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5d70cd99d2436a19e4ce0b63.png"
+                    },
+                    "types": [],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Thanh Kh\u00ea",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Thanh Kh\u00ea T\u00e2y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ng\u00e3 Ba Hu\u1ebf",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ng\u00e3 Ba Hu\u1ebf, Thanh Kh\u00ea T\u00e2y, Thanh Kh\u00ea, \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1534152204653,
+                    "updatedDate": 1623224196179
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.1788509,
+                        16.0620805
+                    ]
+                },
+                "rank": {
+                    "value": 1000073
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.17885846501144,
+            "lat": 16.06201729350809
+        },
+        "scale": 1.03,
+        "bearing": 38.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 217.18079019073534,
+            "tilt": 0,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5d70cd99d2436a19e4ce0b61.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5d70cd99d2436a19e4ce0b61.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [],
+            "height": 0,
+            "textureName": "5d70cd99d2436a19e4ce0b63.png",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5d70cd99d2436a19e4ce0b63.png"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Thanh Kh\u00ea"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Thanh Kh\u00ea T\u00e2y"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00e3 Ba Hu\u1ebf"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "Ng\u00e3 Ba Hu\u1ebf, Thanh Kh\u00ea T\u00e2y, Thanh Kh\u00ea, \u0110\u00e0 N\u1eb5ng"
+    }
+}

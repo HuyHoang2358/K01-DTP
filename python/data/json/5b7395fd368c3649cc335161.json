@@ -1,0 +1,272 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b7395fd368c3649cc335161",
+        "name": "Chung C\u01b0 Vicoland A1",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e7814a9df9d67e5e9b",
+                "location": {
+                    "lng": 108.229966,
+                    "lat": 16.08879
+                },
+                "address": "141 Nguy\u1ec5n Trung Tr\u1ef1c, Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Chung C\u01b0 Vicoland A1",
+                "objectId": "5b7395fd368c3649cc335161",
+                "description": " &nbsp; ",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "141"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Nguy\u1ec5n Trung Tr\u1ef1c"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b7395fd368c3649cc335161",
+                    "name": "Chung C\u01b0 Vicoland A1",
+                    "location": {
+                        "lng": 108.22989881128422,
+                        "lat": 16.088801630357693
+                    },
+                    "scale": 0.6,
+                    "bearing": 90,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 1.4937500000000457,
+                        "tilt": 38.5270413573701,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "58259dcdafaa6a101c47fd29",
+                        "objName": "5e7d67ce4bc3cf1de4a87200.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5e7d67ce4bc3cf1de4a87200.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [],
+                        "height": 1,
+                        "textureName": "5e7d67cf4bc3cf1de4a87204.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7d67cf4bc3cf1de4a87204.jpg"
+                    },
+                    "types": [
+                        "apartments"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "N\u1ea1i Hi\u00ean \u0110\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Nguy\u1ec5n Trung Tr\u1ef1c",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Nguy\u1ec5n Trung Tr\u1ef1c, N\u1ea1i Hi\u00ean \u0110\u00f4ng, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "5b6bb512f2258810b82d60c3",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1534301693354,
+                    "updatedDate": 1623224196535
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.229966,
+                        16.08879
+                    ]
+                },
+                "rank": {
+                    "value": 1000003.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22989881128422,
+            "lat": 16.088801630357693
+        },
+        "scale": 0.6,
+        "bearing": 90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 1.4937500000000457,
+            "tilt": 38.5270413573701,
+            "target": null
+        },
+        "model": {
+            "id": "58259dcdafaa6a101c47fd29",
+            "name": "Chung C\u01b0 12 T\u1ea7ng",
+            "objName": "5e7d67ce4bc3cf1de4a87200.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5e7d67ce4bc3cf1de4a87200.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [],
+            "height": 1,
+            "textureName": "5e7d67cf4bc3cf1de4a87204.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7d67cf4bc3cf1de4a87204.jpg"
+        },
+        "types": [
+            "apartments"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Trung Tr\u1ef1c"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "Nguy\u1ec5n Trung Tr\u1ef1c, N\u1ea1i Hi\u00ean \u0110\u00f4ng, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

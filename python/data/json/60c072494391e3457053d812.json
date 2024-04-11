@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60c072494391e3457053d812",
+        "name": "Daisy Spa",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8519686112869,
+            "lat": 21.034245936715365
+        },
+        "scale": 0.95,
+        "bearing": 83,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -69.43554243453649,
+            "tilt": 51.5,
+            "target": {
+                "lng": 105.85185565180797,
+                "lat": 21.034268317098324
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c0724146969f2a6887972c.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c0724146969f2a6887972c.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85201101301966,
+                    "lat": 21.034272738144146
+                },
+                {
+                    "lng": 105.85201101299064,
+                    "lat": 21.034182906615737
+                },
+                {
+                    "lng": 105.85191476834012,
+                    "lat": 21.034182906615737
+                },
+                {
+                    "lng": 105.85191476831112,
+                    "lat": 21.034272738144146
+                },
+                {
+                    "lng": 105.85201101301966,
+                    "lat": 21.034272738144146
+                }
+            ],
+            "height": 1,
+            "textureName": "60c0724217cf4702bf30de92.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c0724217cf4702bf30de92.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [],
+                "name": "H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            },
+            {
+                "types": [],
+                "name": "24A"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

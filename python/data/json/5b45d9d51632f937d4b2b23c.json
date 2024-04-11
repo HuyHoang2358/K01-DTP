@@ -1,0 +1,1369 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b45d9d51632f937d4b2b23c",
+        "name": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e7814a9df9d67e5e29",
+                "location": {
+                    "lng": 108.229568,
+                    "lat": 16.064145
+                },
+                "address": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng",
+                "objectId": "5b45d9d51632f937d4b2b23c",
+                "description": " &nbsp; ",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [
+                    {
+                        "id": "5ca6c36c5019daec9c66a4bc",
+                        "location": {
+                            "lng": 108.2299008,
+                            "lat": 16.0640035
+                        },
+                        "address": "\u0110. Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i Trung, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng 550000, Vi\u1ec7t Nam",
+                        "name": "Marina DHC Restaurant & Cafe",
+                        "objectId": "5b45d9d51632f937d4b2b23c",
+                        "description": "Marina DHC Restaurant & Cafe",
+                        "types": [
+                            "restaurant",
+                            "establishment",
+                            "food_service",
+                            "point",
+                            "other"
+                        ],
+                        "typeInfos": null,
+                        "tags": null,
+                        "addressComponents": [
+                            {
+                                "types": [
+                                    "extra"
+                                ],
+                                "name": "An H\u1ea3i Trung"
+                            },
+                            {
+                                "types": [
+                                    "street"
+                                ],
+                                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_4"
+                                ],
+                                "name": "Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_3"
+                                ],
+                                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_2"
+                                ],
+                                "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_1"
+                                ],
+                                "name": "Vi\u1ec7t Nam"
+                            }
+                        ],
+                        "photos": [],
+                        "startDate": null,
+                        "endDate": null,
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                108.2299008,
+                                16.0640035
+                            ]
+                        },
+                        "rank": {
+                            "value": 1000123
+                        },
+                        "phoneNumber": null,
+                        "website": null,
+                        "businessHours": null,
+                        "isDeleted": null,
+                        "object": null,
+                        "metadata": null,
+                        "mediaFiles": null,
+                        "ratingReport": null,
+                        "createdBy": {
+                            "userId": "5ee20471a3a6ae49e19e0088",
+                            "displayName": "Ngh\u0129a Nguy\u1ec5n"
+                        },
+                        "updatedBy": {
+                            "userId": "eac21a18-552c-46b7-b11a-e0fb88e9c3c5",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1622470440172,
+                        "updatedDate": 1675764437512
+                    },
+                    {
+                        "id": "5d47db4dc741bd041ca56978",
+                        "location": {
+                            "lng": 108.2295692,
+                            "lat": 16.0642204
+                        },
+                        "address": "\u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i Trung, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng 550000 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                        "name": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng - Add zalo s\u1edf h\u1eefu map",
+                        "objectId": "5b45d9d51632f937d4b2b23c",
+                        "description": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng - Add zalo s\u1edf h\u1eefu map",
+                        "types": [
+                            "establishment",
+                            "point",
+                            "other"
+                        ],
+                        "typeInfos": null,
+                        "tags": null,
+                        "addressComponents": [
+                            {
+                                "types": [
+                                    "extra"
+                                ],
+                                "name": "An H\u1ea3i Trung, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+                            },
+                            {
+                                "types": [
+                                    "street"
+                                ],
+                                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_4"
+                                ],
+                                "name": "Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_3"
+                                ],
+                                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_2"
+                                ],
+                                "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_1"
+                                ],
+                                "name": "Vi\u1ec7t Nam"
+                            }
+                        ],
+                        "photos": [],
+                        "startDate": null,
+                        "endDate": null,
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                108.2295692,
+                                16.0642204
+                            ]
+                        },
+                        "rank": {
+                            "value": 1000073.5
+                        },
+                        "phoneNumber": null,
+                        "website": null,
+                        "businessHours": null,
+                        "isDeleted": null,
+                        "object": null,
+                        "metadata": null,
+                        "mediaFiles": null,
+                        "ratingReport": null,
+                        "createdBy": {
+                            "userId": "5ee20471a3a6ae49e19e0088",
+                            "displayName": "Ngh\u0129a Nguy\u1ec5n"
+                        },
+                        "updatedBy": {
+                            "userId": "eac21a18-552c-46b7-b11a-e0fb88e9c3c5",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1622287019447,
+                        "updatedDate": 1675764441567
+                    }
+                ],
+                "object": {
+                    "id": "5b45d9d51632f937d4b2b23c",
+                    "name": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng",
+                    "location": {
+                        "lng": 108.22959869656785,
+                        "lat": 16.06417276871383
+                    },
+                    "scale": 1,
+                    "bearing": 3,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 4.178775865549543,
+                        "tilt": 0,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5cbee9f8b2908d770489f513",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cbee9f8b2908d770489f513",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.229765,
+                                "lat": 16.064709
+                            },
+                            {
+                                "lng": 108.229906,
+                                "lat": 16.063602
+                            },
+                            {
+                                "lng": 108.229238,
+                                "lat": 16.064646
+                            },
+                            {
+                                "lng": 108.229379,
+                                "lat": 16.06354
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5cbee9f8b2908d770489f514.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cbee9f8b2908d770489f514.jpg"
+                    },
+                    "types": [
+                        "atm"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "An H\u1ea3i T\u00e2y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i T\u00e2y, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1531304405106,
+                    "updatedDate": 1623224193709
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.229568,
+                        16.064145
+                    ]
+                },
+                "rank": {
+                    "value": 1000177.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            },
+            {
+                "id": "5ca6c36c5019daec9c66a4bc",
+                "location": {
+                    "lng": 108.2299008,
+                    "lat": 16.0640035
+                },
+                "address": "\u0110. Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i Trung, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng 550000, Vi\u1ec7t Nam",
+                "name": "Marina DHC Restaurant & Cafe",
+                "objectId": "5b45d9d51632f937d4b2b23c",
+                "description": "Marina DHC Restaurant & Cafe",
+                "types": [
+                    "restaurant",
+                    "establishment",
+                    "food_service",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "restaurant",
+                        "name": "Nh\u00e0 h\u00e0ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "restaurant",
+                "mainTypeInfos": {
+                    "id": "restaurant",
+                    "name": "Nh\u00e0 h\u00e0ng",
+                    "group": "food_service"
+                },
+                "auxiliaryTypes": [
+                    "establishment",
+                    "food_service",
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "An H\u1ea3i Trung"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "restaurant",
+                        "name": "Nh\u00e0 h\u00e0ng",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "food_service",
+                        "minRank": 50000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1665631628283
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "food_service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [
+                    {
+                        "id": "5c9845e7814a9df9d67e5e29",
+                        "location": {
+                            "lng": 108.229568,
+                            "lat": 16.064145
+                        },
+                        "address": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                        "name": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng",
+                        "objectId": "5b45d9d51632f937d4b2b23c",
+                        "description": " &nbsp; ",
+                        "types": [
+                            "point",
+                            "other"
+                        ],
+                        "typeInfos": null,
+                        "tags": null,
+                        "addressComponents": [
+                            {
+                                "types": [
+                                    "street"
+                                ],
+                                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_4"
+                                ],
+                                "name": "Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_3"
+                                ],
+                                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_2"
+                                ],
+                                "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_1"
+                                ],
+                                "name": "Vi\u1ec7t Nam"
+                            }
+                        ],
+                        "photos": [],
+                        "startDate": 975060000000,
+                        "endDate": 4099629600000,
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                108.229568,
+                                16.064145
+                            ]
+                        },
+                        "rank": {
+                            "value": 1000177.5
+                        },
+                        "phoneNumber": null,
+                        "website": null,
+                        "businessHours": null,
+                        "isDeleted": null,
+                        "object": null,
+                        "metadata": null,
+                        "mediaFiles": null,
+                        "ratingReport": null,
+                        "createdBy": {
+                            "userId": "5ee20471a3a6ae49e19e0088",
+                            "displayName": "Ngh\u0129a Nguy\u1ec5n"
+                        },
+                        "updatedBy": {
+                            "userId": "eac21a18-552c-46b7-b11a-e0fb88e9c3c5",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1622286726365,
+                        "updatedDate": 1675764435755
+                    },
+                    {
+                        "id": "5d47db4dc741bd041ca56978",
+                        "location": {
+                            "lng": 108.2295692,
+                            "lat": 16.0642204
+                        },
+                        "address": "\u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i Trung, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng 550000 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                        "name": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng - Add zalo s\u1edf h\u1eefu map",
+                        "objectId": "5b45d9d51632f937d4b2b23c",
+                        "description": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng - Add zalo s\u1edf h\u1eefu map",
+                        "types": [
+                            "establishment",
+                            "point",
+                            "other"
+                        ],
+                        "typeInfos": null,
+                        "tags": null,
+                        "addressComponents": [
+                            {
+                                "types": [
+                                    "extra"
+                                ],
+                                "name": "An H\u1ea3i Trung, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+                            },
+                            {
+                                "types": [
+                                    "street"
+                                ],
+                                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_4"
+                                ],
+                                "name": "Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_3"
+                                ],
+                                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_2"
+                                ],
+                                "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_1"
+                                ],
+                                "name": "Vi\u1ec7t Nam"
+                            }
+                        ],
+                        "photos": [],
+                        "startDate": null,
+                        "endDate": null,
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                108.2295692,
+                                16.0642204
+                            ]
+                        },
+                        "rank": {
+                            "value": 1000073.5
+                        },
+                        "phoneNumber": null,
+                        "website": null,
+                        "businessHours": null,
+                        "isDeleted": null,
+                        "object": null,
+                        "metadata": null,
+                        "mediaFiles": null,
+                        "ratingReport": null,
+                        "createdBy": {
+                            "userId": "5ee20471a3a6ae49e19e0088",
+                            "displayName": "Ngh\u0129a Nguy\u1ec5n"
+                        },
+                        "updatedBy": {
+                            "userId": "eac21a18-552c-46b7-b11a-e0fb88e9c3c5",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1622287019447,
+                        "updatedDate": 1675764441567
+                    }
+                ],
+                "object": {
+                    "id": "5b45d9d51632f937d4b2b23c",
+                    "name": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng",
+                    "location": {
+                        "lng": 108.22959869656785,
+                        "lat": 16.06417276871383
+                    },
+                    "scale": 1,
+                    "bearing": 3,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 4.178775865549543,
+                        "tilt": 0,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5cbee9f8b2908d770489f513",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cbee9f8b2908d770489f513",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.229765,
+                                "lat": 16.064709
+                            },
+                            {
+                                "lng": 108.229906,
+                                "lat": 16.063602
+                            },
+                            {
+                                "lng": 108.229238,
+                                "lat": 16.064646
+                            },
+                            {
+                                "lng": 108.229379,
+                                "lat": 16.06354
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5cbee9f8b2908d770489f514.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cbee9f8b2908d770489f514.jpg"
+                    },
+                    "types": [
+                        "atm"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "An H\u1ea3i T\u00e2y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i T\u00e2y, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1531304405106,
+                    "updatedDate": 1623224193709
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.2299008,
+                        16.0640035
+                    ]
+                },
+                "rank": {
+                    "value": 1000123
+                },
+                "metadata": null,
+                "mediaFiles": []
+            },
+            {
+                "id": "5d47db4dc741bd041ca56978",
+                "location": {
+                    "lng": 108.2295692,
+                    "lat": 16.0642204
+                },
+                "address": "\u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i Trung, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng 550000 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng - Add zalo s\u1edf h\u1eefu map",
+                "objectId": "5b45d9d51632f937d4b2b23c",
+                "description": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng - Add zalo s\u1edf h\u1eefu map",
+                "types": [
+                    "establishment",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "establishment",
+                "mainTypeInfos": {
+                    "id": "establishment",
+                    "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                    "group": "establishment"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "An H\u1ea3i Trung, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [
+                    {
+                        "id": "5c9845e7814a9df9d67e5e29",
+                        "location": {
+                            "lng": 108.229568,
+                            "lat": 16.064145
+                        },
+                        "address": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                        "name": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng",
+                        "objectId": "5b45d9d51632f937d4b2b23c",
+                        "description": " &nbsp; ",
+                        "types": [
+                            "point",
+                            "other"
+                        ],
+                        "typeInfos": null,
+                        "tags": null,
+                        "addressComponents": [
+                            {
+                                "types": [
+                                    "street"
+                                ],
+                                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_4"
+                                ],
+                                "name": "Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_3"
+                                ],
+                                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_2"
+                                ],
+                                "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_1"
+                                ],
+                                "name": "Vi\u1ec7t Nam"
+                            }
+                        ],
+                        "photos": [],
+                        "startDate": 975060000000,
+                        "endDate": 4099629600000,
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                108.229568,
+                                16.064145
+                            ]
+                        },
+                        "rank": {
+                            "value": 1000177.5
+                        },
+                        "phoneNumber": null,
+                        "website": null,
+                        "businessHours": null,
+                        "isDeleted": null,
+                        "object": null,
+                        "metadata": null,
+                        "mediaFiles": null,
+                        "ratingReport": null,
+                        "createdBy": {
+                            "userId": "5ee20471a3a6ae49e19e0088",
+                            "displayName": "Ngh\u0129a Nguy\u1ec5n"
+                        },
+                        "updatedBy": {
+                            "userId": "eac21a18-552c-46b7-b11a-e0fb88e9c3c5",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1622286726365,
+                        "updatedDate": 1675764435755
+                    },
+                    {
+                        "id": "5ca6c36c5019daec9c66a4bc",
+                        "location": {
+                            "lng": 108.2299008,
+                            "lat": 16.0640035
+                        },
+                        "address": "\u0110. Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i Trung, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng 550000, Vi\u1ec7t Nam",
+                        "name": "Marina DHC Restaurant & Cafe",
+                        "objectId": "5b45d9d51632f937d4b2b23c",
+                        "description": "Marina DHC Restaurant & Cafe",
+                        "types": [
+                            "restaurant",
+                            "establishment",
+                            "food_service",
+                            "point",
+                            "other"
+                        ],
+                        "typeInfos": null,
+                        "tags": null,
+                        "addressComponents": [
+                            {
+                                "types": [
+                                    "extra"
+                                ],
+                                "name": "An H\u1ea3i Trung"
+                            },
+                            {
+                                "types": [
+                                    "street"
+                                ],
+                                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_4"
+                                ],
+                                "name": "Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_3"
+                                ],
+                                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_2"
+                                ],
+                                "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_1"
+                                ],
+                                "name": "Vi\u1ec7t Nam"
+                            }
+                        ],
+                        "photos": [],
+                        "startDate": null,
+                        "endDate": null,
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                108.2299008,
+                                16.0640035
+                            ]
+                        },
+                        "rank": {
+                            "value": 1000123
+                        },
+                        "phoneNumber": null,
+                        "website": null,
+                        "businessHours": null,
+                        "isDeleted": null,
+                        "object": null,
+                        "metadata": null,
+                        "mediaFiles": null,
+                        "ratingReport": null,
+                        "createdBy": {
+                            "userId": "5ee20471a3a6ae49e19e0088",
+                            "displayName": "Ngh\u0129a Nguy\u1ec5n"
+                        },
+                        "updatedBy": {
+                            "userId": "eac21a18-552c-46b7-b11a-e0fb88e9c3c5",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1622470440172,
+                        "updatedDate": 1675764437512
+                    }
+                ],
+                "object": {
+                    "id": "5b45d9d51632f937d4b2b23c",
+                    "name": "B\u1ebfn Du Thuy\u1ec1n \u0110\u00e0 N\u1eb5ng",
+                    "location": {
+                        "lng": 108.22959869656785,
+                        "lat": 16.06417276871383
+                    },
+                    "scale": 1,
+                    "bearing": 3,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 4.178775865549543,
+                        "tilt": 0,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5cbee9f8b2908d770489f513",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cbee9f8b2908d770489f513",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.229765,
+                                "lat": 16.064709
+                            },
+                            {
+                                "lng": 108.229906,
+                                "lat": 16.063602
+                            },
+                            {
+                                "lng": 108.229238,
+                                "lat": 16.064646
+                            },
+                            {
+                                "lng": 108.229379,
+                                "lat": 16.06354
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5cbee9f8b2908d770489f514.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cbee9f8b2908d770489f514.jpg"
+                    },
+                    "types": [
+                        "atm"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "An H\u1ea3i T\u00e2y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i T\u00e2y, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1531304405106,
+                    "updatedDate": 1623224193709
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.2295692,
+                        16.0642204
+                    ]
+                },
+                "rank": {
+                    "value": 1000073.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22959869656785,
+            "lat": 16.06417276871383
+        },
+        "scale": 1,
+        "bearing": 3,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 4.178775865549543,
+            "tilt": 0,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5cbee9f8b2908d770489f513",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cbee9f8b2908d770489f513",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.229765,
+                    "lat": 16.064709
+                },
+                {
+                    "lng": 108.229906,
+                    "lat": 16.063602
+                },
+                {
+                    "lng": 108.229238,
+                    "lat": 16.064646
+                },
+                {
+                    "lng": 108.229379,
+                    "lat": 16.06354
+                }
+            ],
+            "height": 1,
+            "textureName": "5cbee9f8b2908d770489f514.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cbee9f8b2908d770489f514.jpg"
+        },
+        "types": [
+            "atm"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i T\u00e2y"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "atm": "ATM"
+        },
+        "metadata": null,
+        "address": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, An H\u1ea3i T\u00e2y, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

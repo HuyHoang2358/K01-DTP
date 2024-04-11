@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627dbe169c4fa69f92879367",
+        "name": "Th\u1ebf Gi\u1edbi Di \u0110\u1ed9ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76920645747748,
+            "lat": 21.013903525054317
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20.75,
+            "bearing": 0.4,
+            "tilt": 0.5,
+            "target": {
+                "lng": 105.76919527279966,
+                "lat": 21.013900801311422
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76917157131533,
+                    "lat": 21.013931111652553
+                },
+                {
+                    "lng": 105.76924175139135,
+                    "lat": 21.013929909546093
+                },
+                {
+                    "lng": 105.76924053084639,
+                    "lat": 21.01387557193911
+                },
+                {
+                    "lng": 105.76917197635686,
+                    "lat": 21.013877507079513
+                }
+            ],
+            "height": 4,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "cellphone_store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "cellphone_store": "C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng"
+        },
+        "metadata": null,
+        "address": "L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

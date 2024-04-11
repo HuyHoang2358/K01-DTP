@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fc8a5fa3dfa9711059b0617",
+        "name": "Serene Boutique Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8473699098621,
+            "lat": 21.0351601170634
+        },
+        "scale": 1,
+        "bearing": 83,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -65.60000000000001,
+            "tilt": 76,
+            "target": {
+                "lng": 105.84659889712687,
+                "lat": 21.035433310029372
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fc8a5eb468e88165638e3b5.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fc8a5eb468e88165638e3b5.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8474180325175,
+                    "lat": 21.035205032820837
+                },
+                {
+                    "lng": 105.84741803248848,
+                    "lat": 21.035115201292424
+                },
+                {
+                    "lng": 105.84732178723573,
+                    "lat": 21.035115201292424
+                },
+                {
+                    "lng": 105.84732178720671,
+                    "lat": 21.035205032820837
+                },
+                {
+                    "lng": 105.8474180325175,
+                    "lat": 21.035205032820837
+                }
+            ],
+            "height": 1,
+            "textureName": "5fc8a5ece406c451bf64d70b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fc8a5ece406c451bf64d70b.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ed3"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng G\u00e0"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "12"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

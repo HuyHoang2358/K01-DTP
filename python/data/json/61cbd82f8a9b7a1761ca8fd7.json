@@ -1,0 +1,333 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61cbd82f8a9b7a1761ca8fd7",
+        "name": "Ga Th\u00e1i H\u00e0",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60dd3884f81cb14bc886abbe",
+                "location": {
+                    "lng": 105.8189053,
+                    "lat": 21.0144388
+                },
+                "address": "B1 Trung Li\u1ec7t, Ph\u01b0\u1eddng Trung Li\u1ec7t, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Metro H\u00e0 N\u1ed9i - Ga Th\u00e1i H\u00e0",
+                "objectId": "61cbd82f8a9b7a1761ca8fd7",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "B1"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Trung Li\u1ec7t"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Trung Li\u1ec7t"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "61cbd82f8a9b7a1761ca8fd7",
+                    "name": "Ga Th\u00e1i H\u00e0",
+                    "location": {
+                        "lng": 105.8193685915906,
+                        "lat": 21.014488074798507
+                    },
+                    "scale": 1,
+                    "bearing": 22,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -49.15472844016493,
+                        "tilt": 0.75,
+                        "target": {
+                            "lng": 105.81934036478594,
+                            "lat": 21.01418464071665
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "61cbd81e8a9b7a1761ca8fd2.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cbd81e8a9b7a1761ca8fd2.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.819416707573,
+                                "lat": 21.014532990555953
+                            },
+                            {
+                                "lng": 105.81941670754402,
+                                "lat": 21.01444315902754
+                            },
+                            {
+                                "lng": 105.81932047563718,
+                                "lat": 21.01444315902754
+                            },
+                            {
+                                "lng": 105.81932047560821,
+                                "lat": 21.014532990555953
+                            },
+                            {
+                                "lng": 105.819416707573,
+                                "lat": 21.014532990555953
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "61cbd81f8a9b7a1761ca8fd4.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cbd81f8a9b7a1761ca8fd4.jpg"
+                    },
+                    "types": [
+                        "train_station"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Trung Li\u1ec7t",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ho\u00e0ng C\u1ea7u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "19",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1640749103226,
+                    "updatedDate": 1640749103226
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8189053,
+                        21.0144388
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.8193685915906,
+            "lat": 21.014488074798507
+        },
+        "scale": 1,
+        "bearing": 22,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -49.15472844016493,
+            "tilt": 0.75,
+            "target": {
+                "lng": 105.81934036478594,
+                "lat": 21.01418464071665
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61cbd81e8a9b7a1761ca8fd2.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cbd81e8a9b7a1761ca8fd2.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.819416707573,
+                    "lat": 21.014532990555953
+                },
+                {
+                    "lng": 105.81941670754402,
+                    "lat": 21.01444315902754
+                },
+                {
+                    "lng": 105.81932047563718,
+                    "lat": 21.01444315902754
+                },
+                {
+                    "lng": 105.81932047560821,
+                    "lat": 21.014532990555953
+                },
+                {
+                    "lng": 105.819416707573,
+                    "lat": 21.014532990555953
+                }
+            ],
+            "height": null,
+            "textureName": "61cbd81f8a9b7a1761ca8fd4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cbd81f8a9b7a1761ca8fd4.jpg"
+        },
+        "types": [
+            "train_station"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Li\u1ec7t"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ho\u00e0ng C\u1ea7u"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "19"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "train_station": "Ga t\u00e0u l\u1eeda"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

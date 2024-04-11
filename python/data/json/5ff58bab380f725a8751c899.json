@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff58bab380f725a8751c899",
+        "name": "25T2",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80131999967779,
+            "lat": 21.006591855486462
+        },
+        "scale": 1,
+        "bearing": 36,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -25.745514745223765,
+            "tilt": 0,
+            "target": {
+                "lng": 105.80131999967779,
+                "lat": 21.006591855486462
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff58b979ed19823c2a9bf43.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff58b979ed19823c2a9bf43.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80142009391051,
+                    "lat": 21.006683538605664
+                },
+                {
+                    "lng": 105.80142009388155,
+                    "lat": 21.00659370707725
+                },
+                {
+                    "lng": 105.80132386703808,
+                    "lat": 21.00659370707725
+                },
+                {
+                    "lng": 105.8013238670091,
+                    "lat": 21.006683538605664
+                },
+                {
+                    "lng": 105.80142009391051,
+                    "lat": 21.006683538605664
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff58b97380f725a8751c896.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff58b97380f725a8751c896.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea V\u0103n L\u01b0\u01a1ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "P.1102"
+            }
+        ],
+        "startDate": 1323536400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "P.1102 L\u00ea V\u0103n L\u01b0\u01a1ng, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

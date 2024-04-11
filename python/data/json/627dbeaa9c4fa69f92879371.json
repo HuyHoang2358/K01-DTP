@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627dbeaa9c4fa69f92879371",
+        "name": "IUIUshop",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76772409827967,
+            "lat": 21.013020172501896
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": 0,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76772466411506,
+                "lat": 21.01299457854786
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76766520510608,
+                    "lat": 21.013069214101478
+                },
+                {
+                    "lng": 105.76769365428669,
+                    "lat": 21.01308702634391
+                },
+                {
+                    "lng": 105.76778140629068,
+                    "lat": 21.012970111418824
+                },
+                {
+                    "lng": 105.76775612743523,
+                    "lat": 21.012954338143373
+                }
+            ],
+            "height": 12,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00e1ch 8/43 L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "store": "C\u1eeda h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Ng\u00e1ch 8/43 L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

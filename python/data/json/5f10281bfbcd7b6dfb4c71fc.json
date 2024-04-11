@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f10281bfbcd7b6dfb4c71fc",
+        "name": "Sheraton Hanoi Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.83143206751203,
+            "lat": 21.059876577607284
+        },
+        "scale": 1,
+        "bearing": 31,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17,
+            "bearing": -192.1230444030631,
+            "tilt": 86.25,
+            "target": {
+                "lng": 105.83270041653945,
+                "lat": 21.05491977409576
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f10281afbcd7b6dfb4c71f8.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f10281afbcd7b6dfb4c71f8.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.83142542768223,
+                    "lat": 21.059886323130172
+                },
+                {
+                    "lng": 105.83142542765317,
+                    "lat": 21.05979649160176
+                },
+                {
+                    "lng": 105.83132916644486,
+                    "lat": 21.05979649160176
+                },
+                {
+                    "lng": 105.8313291664158,
+                    "lat": 21.059886323130172
+                },
+                {
+                    "lng": 105.83142542768223,
+                    "lat": 21.059886323130172
+                }
+            ],
+            "height": 1,
+            "textureName": "5f10281bfbcd7b6dfb4c71fa.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f10281bfbcd7b6dfb4c71fa.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn T\u00e2y H\u1ed3"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Qu\u1ea3ng An"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 44"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "Sheraton Hotel, K5"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "594c75bfcbc4876d74b5d1a6",
+        "name": "Nh\u00e0 \u1ede 01",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8002337,
+            "lat": 20.9960338
+        },
+        "scale": 1,
+        "bearing": -54,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": null,
+        "model": {
+            "id": "5879a5da7fa30d7bc0191718",
+            "name": "Nh\u00e0 \u1ede 01",
+            "objName": "5879a5da7fa30d7bc0191718",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5879a5da7fa30d7bc0191718",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "ef3082d33aec4f04942c95685da07c63.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/ef3082d33aec4f04942c95685da07c63.jpg"
+        },
+        "types": null,
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Khu\u1ea5t Duy Ti\u1ebfn"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 975060000000,
+        "endDate": 4099629600000,
+        "source": null,
+        "typeInfos": null,
+        "metadata": null,
+        "address": "Khu\u1ea5t Duy Ti\u1ebfn, Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam"
+    }
+}

@@ -1,0 +1,328 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60c081eb46969f2a68879757",
+        "name": "V\u00e0ng B\u1ea1c Th\u00e0nh Nh\u00e2n",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60fe288e29c3ce454f98838a",
+                "location": {
+                    "lng": 105.851974,
+                    "lat": 21.034097
+                },
+                "address": "30 T\u1ea1 Hi\u1ec7n, H\u00e0ng Bu\u1ed3m, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "V\u00e0ng B\u1ea1c Th\u00e0nh Nh\u00e2n",
+                "objectId": "60c081eb46969f2a68879757",
+                "description": null,
+                "types": [
+                    "jewelry_store"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "jewelry_store",
+                        "name": "C\u1eeda h\u00e0ng trang s\u1ee9c",
+                        "group": "store"
+                    }
+                ],
+                "mainType": "jewelry_store",
+                "mainTypeInfos": {
+                    "id": "jewelry_store",
+                    "name": "C\u1eeda h\u00e0ng trang s\u1ee9c",
+                    "group": "store"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "30"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "T\u1ea1 Hi\u1ec7n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60fe288e29c3ce454f988386.jpg",
+                        "name": "60fe288e29c3ce454f988386.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60fe288e29c3ce454f988388.jpg",
+                        "name": "60fe288e29c3ce454f988388.jpg",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "jewelry_store",
+                        "name": "C\u1eeda h\u00e0ng trang s\u1ee9c",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "store",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60c081eb46969f2a68879757",
+                    "name": "V\u00e0ng B\u1ea1c Th\u00e0nh Nh\u00e2n",
+                    "location": {
+                        "lng": 105.85197397142008,
+                        "lat": 21.034097276965426
+                    },
+                    "scale": 0.95,
+                    "bearing": 82,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 22,
+                        "bearing": -83.48346719759279,
+                        "tilt": 51,
+                        "target": {
+                            "lng": 105.8519921035733,
+                            "lat": 21.034107038109248
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60c081e34391e3457053d899.obj",
+                        "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c081e34391e3457053d899.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85201927830957,
+                                "lat": 21.034107197939132
+                            },
+                            {
+                                "lng": 105.85201927828055,
+                                "lat": 21.03401736641072
+                            },
+                            {
+                                "lng": 105.85192303373697,
+                                "lat": 21.03401736641072
+                            },
+                            {
+                                "lng": 105.85192303370793,
+                                "lat": 21.034107197939132
+                            },
+                            {
+                                "lng": 105.85201927830957,
+                                "lat": 21.034107197939132
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "60c081e44391e3457053d89b.jpg",
+                        "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c081e44391e3457053d89b.jpg"
+                    },
+                    "types": [
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [],
+                            "name": "H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ea1c",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1623228907593,
+                    "updatedDate": 1623228907593
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.851974,
+                        21.034097
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60fe288e29c3ce454f988388.jpg",
+                        "name": "60fe288e29c3ce454f988388.jpg",
+                        "typeFile": "Image",
+                        "description": "60fe288829c3ce454f988382.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1627269262926
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60fe288e29c3ce454f988386.jpg",
+                        "name": "60fe288e29c3ce454f988386.jpg",
+                        "typeFile": "Image",
+                        "description": "60fe288829c3ce454f988381.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1627269262823
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 105.85197397142008,
+            "lat": 21.034097276965426
+        },
+        "scale": 0.95,
+        "bearing": 82,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -83.48346719759279,
+            "tilt": 51,
+            "target": {
+                "lng": 105.8519921035733,
+                "lat": 21.034107038109248
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c081e34391e3457053d899.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c081e34391e3457053d899.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85201927830957,
+                    "lat": 21.034107197939132
+                },
+                {
+                    "lng": 105.85201927828055,
+                    "lat": 21.03401736641072
+                },
+                {
+                    "lng": 105.85192303373697,
+                    "lat": 21.03401736641072
+                },
+                {
+                    "lng": 105.85192303370793,
+                    "lat": 21.034107197939132
+                },
+                {
+                    "lng": 105.85201927830957,
+                    "lat": 21.034107197939132
+                }
+            ],
+            "height": 1,
+            "textureName": "60c081e44391e3457053d89b.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c081e44391e3457053d89b.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ea1c"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

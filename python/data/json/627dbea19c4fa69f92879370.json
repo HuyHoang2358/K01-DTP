@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627dbea19c4fa69f92879370",
+        "name": "Tr\u01b0\u1eddng Ti\u1ec3u h\u1ecdc Ph\u00fa \u0110\u00f4 1",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7696532018313,
+            "lat": 21.01279753285924
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21.25,
+            "bearing": 0.4,
+            "tilt": 0.5,
+            "target": {
+                "lng": 105.76957983588483,
+                "lat": 21.012852489219654
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76934749739593,
+                    "lat": 21.012638395710255
+                },
+                {
+                    "lng": 105.76940083033838,
+                    "lat": 21.01256381572756
+                },
+                {
+                    "lng": 105.76996224047247,
+                    "lat": 21.012955754697487
+                },
+                {
+                    "lng": 105.76990223911844,
+                    "lat": 21.013032165301652
+                }
+            ],
+            "height": 12,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "primary_school"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00e1ch 8/11 L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "primary_school": "Tr\u01b0\u1eddng ti\u1ec3u h\u1ecdc"
+        },
+        "metadata": null,
+        "address": "Ng\u00e1ch 8/11 L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

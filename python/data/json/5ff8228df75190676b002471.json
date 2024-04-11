@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff8228df75190676b002471",
+        "name": "VNPT-Net",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.77998903424225,
+            "lat": 21.019164552320163
+        },
+        "scale": 1,
+        "bearing": 125,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -46.79999883174903,
+            "tilt": 17.49999862909317,
+            "target": {
+                "lng": 105.77998903424219,
+                "lat": 21.019164552320177
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff82285f75190676b00246f.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff82285f75190676b00246f.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78003715173352,
+                    "lat": 21.0192094680776
+                },
+                {
+                    "lng": 105.78003715170453,
+                    "lat": 21.019119636549192
+                },
+                {
+                    "lng": 105.77994091677996,
+                    "lat": 21.019119636549192
+                },
+                {
+                    "lng": 105.77994091675099,
+                    "lat": 21.0192094680776
+                },
+                {
+                    "lng": 105.78003715173352,
+                    "lat": 21.0192094680776
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff82285741cd06e43fb8428.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff82285741cd06e43fb8428.jpg"
+        },
+        "types": [
+            "coworking_space"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u00f9ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "S\u1ed1 30"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "M\u1ef9 \u0110\u00ecnh 2"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "coworking_space": "V\u0103n ph\u00f2ng cho thu\u00ea"
+        },
+        "metadata": null,
+        "address": "S\u1ed1 30 Ph\u1ea1m H\u00f9ng, M\u1ef9 \u0110\u00ecnh 2, Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

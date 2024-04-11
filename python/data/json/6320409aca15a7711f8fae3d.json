@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6320409aca15a7711f8fae3d",
+        "name": "\u0110\u01b0\u1eddng cao t\u1ed1c tr\u00ean cao V\u00e0nh \u0111ai 3",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80295589196072,
+            "lat": 20.991774369699982
+        },
+        "scale": 1.07,
+        "bearing": 35.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17.75,
+            "bearing": -162.94945734146447,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78608454010237,
+                "lat": 21.022280662170072
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "63204088ca15a7711f8fae38.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/63204088ca15a7711f8fae38.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80300400062043,
+                    "lat": 20.99181928545743
+                },
+                {
+                    "lng": 105.80300400059149,
+                    "lat": 20.991729453929022
+                },
+                {
+                    "lng": 105.80290778332996,
+                    "lat": 20.991729453929022
+                },
+                {
+                    "lng": 105.80290778330102,
+                    "lat": 20.99181928545743
+                },
+                {
+                    "lng": 105.80300400062043,
+                    "lat": 20.99181928545743
+                }
+            ],
+            "height": null,
+            "textureName": "63204089ca15a7711f8fae3a.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/63204089ca15a7711f8fae3a.jpg"
+        },
+        "types": [
+            "bridge"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Thanh Xu\u00e2n Trung"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u01b0\u1eddng cao t\u1ed1c V\u00e0nh \u0111ai 3"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bridge": "C\u1ea7u"
+        },
+        "metadata": null,
+        "address": "\u0110\u01b0\u1eddng cao t\u1ed1c V\u00e0nh \u0111ai 3, Ph\u01b0\u1eddng Thanh Xu\u00e2n Trung, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

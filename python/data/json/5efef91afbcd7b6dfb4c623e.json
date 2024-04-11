@@ -1,0 +1,330 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5efef91afbcd7b6dfb4c623e",
+        "name": "Somerset Grand Hanoi",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f02d58c83f9cd6af0b2870d",
+                "location": {
+                    "lng": 105.84606866201494,
+                    "lat": 21.025627628909632
+                },
+                "address": "49  Hai B\u00e0 Tr\u01b0ng, Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ho\u00e0n Ki\u1ebfm , H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Somerset Grand Hanoi",
+                "objectId": "5efef91afbcd7b6dfb4c623e",
+                "description": null,
+                "types": [
+                    "hotel"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "group": "lodging"
+                    }
+                ],
+                "mainType": "hotel",
+                "mainTypeInfos": {
+                    "id": "hotel",
+                    "name": "Kh\u00e1ch s\u1ea1n",
+                    "group": "lodging"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "49"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Hai B\u00e0 Tr\u01b0ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "lodging",
+                        "minRank": 100000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5efef91afbcd7b6dfb4c623e",
+                    "name": "Somerset Grand Hanoi",
+                    "location": {
+                        "lng": 105.84599506023437,
+                        "lat": 21.02568712304253
+                    },
+                    "scale": 1,
+                    "bearing": 163,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": -177.91992447546684,
+                        "tilt": 49,
+                        "target": {
+                            "lng": 105.84601704299696,
+                            "lat": 21.02562437310483
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5efef919fbcd7b6dfb4c623a.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5efef919fbcd7b6dfb4c623a.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84611678159222,
+                                "lat": 21.025672544667074
+                            },
+                            {
+                                "lng": 105.84611678156321,
+                                "lat": 21.02558271313866
+                            },
+                            {
+                                "lng": 105.84602054246668,
+                                "lat": 21.02558271313866
+                            },
+                            {
+                                "lng": 105.84602054243767,
+                                "lat": 21.025672544667074
+                            },
+                            {
+                                "lng": 105.84611678159222,
+                                "lat": 21.025672544667074
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5efef91afbcd7b6dfb4c623c.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5efef91afbcd7b6dfb4c623c.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Hai B\u00e0 Tr\u01b0ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "49",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "3636d28e-4bc7-4e17-8c51-a3daf8d3ca05",
+                        "displayName": "Tr\u1ea7n Anh Trung"
+                    },
+                    "createdDate": 1593768238357,
+                    "updatedDate": 1623224241057
+                },
+                "tags": null,
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.84606866201494,
+                        21.025627628909632
+                    ]
+                },
+                "rank": {
+                    "value": 100000
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84599506023437,
+            "lat": 21.02568712304253
+        },
+        "scale": 1,
+        "bearing": 163,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -177.91992447546684,
+            "tilt": 49,
+            "target": {
+                "lng": 105.84601704299696,
+                "lat": 21.02562437310483
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5efef919fbcd7b6dfb4c623a.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5efef919fbcd7b6dfb4c623a.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84611678159222,
+                    "lat": 21.025672544667074
+                },
+                {
+                    "lng": 105.84611678156321,
+                    "lat": 21.02558271313866
+                },
+                {
+                    "lng": 105.84602054246668,
+                    "lat": 21.02558271313866
+                },
+                {
+                    "lng": 105.84602054243767,
+                    "lat": 21.025672544667074
+                },
+                {
+                    "lng": 105.84611678159222,
+                    "lat": 21.025672544667074
+                }
+            ],
+            "height": 1,
+            "textureName": "5efef91afbcd7b6dfb4c623c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5efef91afbcd7b6dfb4c623c.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Hai B\u00e0 Tr\u01b0ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "49"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

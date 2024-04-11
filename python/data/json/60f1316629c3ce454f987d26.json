@@ -1,0 +1,326 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60f1316629c3ce454f987d26",
+        "name": "C\u1eeda H\u00e0ng An Ph\u01b0\u1edbc Pierre Cardin",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60a74bc3b4e1e72f189a8763",
+                "location": {
+                    "lng": 105.84940909999999,
+                    "lat": 21.018638
+                },
+                "address": "69 B\u00e0 Tri\u1ec7u, B\u00f9i Th\u1ecb Xu\u00e2n, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "C\u1eeda H\u00e0ng An Ph\u01b0\u1edbc Pierre Cardin",
+                "objectId": "60f1316629c3ce454f987d26",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "B\u00f9i Th\u1ecb Xu\u00e2n"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "69"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "B\u00e0 Tri\u1ec7u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Du"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60f1316629c3ce454f987d26",
+                    "name": "C\u1eeda H\u00e0ng An Ph\u01b0\u1edbc Pierre Cardin",
+                    "location": {
+                        "lng": 105.849476360376,
+                        "lat": 21.018576349766263
+                    },
+                    "scale": 1,
+                    "bearing": -10,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": 146.0999999999999,
+                        "tilt": 78,
+                        "target": {
+                            "lng": 105.84973444057874,
+                            "lat": 21.018441784433328
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60f1316029c3ce454f987d21.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f1316029c3ce454f987d21.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84952447767746,
+                                "lat": 21.018621265523713
+                            },
+                            {
+                                "lng": 105.84952447764847,
+                                "lat": 21.0185314339953
+                            },
+                            {
+                                "lng": 105.84942824310353,
+                                "lat": 21.0185314339953
+                            },
+                            {
+                                "lng": 105.84942824307454,
+                                "lat": 21.018621265523713
+                            },
+                            {
+                                "lng": 105.84952447767746,
+                                "lat": 21.018621265523713
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "60f1316029c3ce454f987d23.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f1316029c3ce454f987d23.jpg"
+                    },
+                    "types": [
+                        "clothing_store"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Du",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Nguy\u1ec5n Du",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1626419558572,
+                    "updatedDate": 1626419558572
+                },
+                "tags": [],
+                "phoneNumber": "+842439449285",
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.84940909999999,
+                        21.018638
+                    ]
+                },
+                "rank": {
+                    "value": 12345
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.849476360376,
+            "lat": 21.018576349766263
+        },
+        "scale": 1,
+        "bearing": -10,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 146.0999999999999,
+            "tilt": 78,
+            "target": {
+                "lng": 105.84973444057874,
+                "lat": 21.018441784433328
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60f1316029c3ce454f987d21.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f1316029c3ce454f987d21.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84952447767746,
+                    "lat": 21.018621265523713
+                },
+                {
+                    "lng": 105.84952447764847,
+                    "lat": 21.0185314339953
+                },
+                {
+                    "lng": 105.84942824310353,
+                    "lat": 21.0185314339953
+                },
+                {
+                    "lng": 105.84942824307454,
+                    "lat": 21.018621265523713
+                },
+                {
+                    "lng": 105.84952447767746,
+                    "lat": 21.018621265523713
+                }
+            ],
+            "height": null,
+            "textureName": "60f1316029c3ce454f987d23.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f1316029c3ce454f987d23.jpg"
+        },
+        "types": [
+            "clothing_store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Du"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Du"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "clothing_store": "C\u1eeda h\u00e0ng \u00e1o qu\u1ea7n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

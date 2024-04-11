@@ -1,0 +1,661 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e588a64df97299cfcb692",
+        "name": " Essence Hanoi Hotel & Spa",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c24e2c2e7d438384b9551",
+                "location": {
+                    "lng": 105.779443,
+                    "lat": 21.0435856
+                },
+                "address": "1 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Mai D\u1ecbch, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i 700000, Vi\u1ec7t Nam",
+                "name": "Boutique Luxury Hotel",
+                "objectId": "5f8e588a64df97299cfcb692",
+                "description": "   Essence Hanoi Hotel &amp; Spa  n\u1eb1m trong Khu Ph\u1ed1 C\u1ed5 H\u00e0 N\u1ed9i s\u1ea7m u\u1ea5t,  Essence Hanoi Hotel &amp; Spa  cung c\u1ea5p c\u00e1c ph\u00f2ng ngh\u1ec9 s\u00e1ng s\u1ee7a v\u1edbi Wi-Fi mi\u1ec5n ph\u00ed. Kh\u00e1ch s\u1ea1n c\u00f3 qu\u00e1n c\u00e0 ph\u00ea, trung t\u00e2m spa v\u00e0 nh\u00e0 h\u00e0ng ngay trong khu\u00f4n vi\u00ean.  \n",
+                "types": [
+                    "point",
+                    "lodging",
+                    "other",
+                    "establishment"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "lodging",
+                    "other",
+                    "establishment"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "1"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Ph\u1ea1m V\u0103n \u0110\u1ed3ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Mai D\u1ecbch"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420229c3ce454f9880f9.jpg",
+                        "name": "60f9420229c3ce454f9880f9.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420229c3ce454f9880fa.jpg",
+                        "name": "60f9420229c3ce454f9880fa.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420229c3ce454f9880fc.jpg",
+                        "name": "60f9420229c3ce454f9880fc.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420229c3ce454f9880fe.jpeg",
+                        "name": "60f9420229c3ce454f9880fe.jpeg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f988100.jpeg",
+                        "name": "60f9420329c3ce454f988100.jpeg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f988102.jpg",
+                        "name": "60f9420329c3ce454f988102.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f988104.jpeg",
+                        "name": "60f9420329c3ce454f988104.jpeg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f988106.jpg",
+                        "name": "60f9420329c3ce454f988106.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f988108.jpg",
+                        "name": "60f9420329c3ce454f988108.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f98810a.jpg",
+                        "name": "60f9420329c3ce454f98810a.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f98810c.jpg",
+                        "name": "60f9420329c3ce454f98810c.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f98810e.jpg",
+                        "name": "60f9420329c3ce454f98810e.jpg",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8e588a64df97299cfcb692",
+                    "name": " Essence Hanoi Hotel & Spa",
+                    "location": {
+                        "lng": 105.85207535196326,
+                        "lat": 21.034526678132693
+                    },
+                    "scale": 1,
+                    "bearing": 81.5,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -20.18112459769498,
+                        "tilt": 63,
+                        "target": {
+                            "lng": 105.85199624792875,
+                            "lat": 21.03462128068624
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60c037e246969f2a688796d7.obj",
+                        "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c037e246969f2a688796d7.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85212347441406,
+                                "lat": 21.03457159389013
+                            },
+                            {
+                                "lng": 105.85212347438505,
+                                "lat": 21.034481762361718
+                            },
+                            {
+                                "lng": 105.85202722954148,
+                                "lat": 21.034481762361718
+                            },
+                            {
+                                "lng": 105.85202722951247,
+                                "lat": 21.03457159389013
+                            },
+                            {
+                                "lng": 105.85212347441406,
+                                "lat": 21.03457159389013
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "60c037e44391e3457053d800.jpg",
+                        "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c037e44391e3457053d800.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "T\u1ea1 Hi\u1ec7n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "22",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603164298508,
+                    "updatedDate": 1623224248311
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "0775 775 588",
+                "website": null,
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.779443,
+                        21.0435856
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [
+                    {
+                        "id": "60fa38fd29c3ce454f98814e",
+                        "type": "article",
+                        "name": "Essence Hanoi Hotel & Spa - Booking.com",
+                        "content": "<p style=\"text-align:left;\"><span style=\"color: rgb(38,38,38);font-size: 18px;font-family: Arial;\"><strong><ins>Essence Hanoi Hotel &amp; Spa</ins></strong></span></p>\n<p style=\"text-align:left;\"><span style=\"color: rgb(38,38,38);font-size: 14px;font-family: Arial;\"> 22 Ta Hien Street, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, Ha\u0300 N\u00f4\u0323i, Vi\u00ea\u0323t Nam</span></p>\n<img src=\"https://f19-zpg.zdn.vn/6335212269800021009/04de1d41152ae274bb3b.jpg\" alt=\"undefined\" style=\"height: auto;width: auto\"/>\n<p style=\"text-align:left;\"><span style=\"font-size: 16px;\"><strong>Ngay trung t\u00e2m Ha\u0300 N\u00f4\u0323i</strong></span></p>\n<p style=\"text-align:left;\"><span style=\"font-size: 16px;\">N\u1eb1m trong Khu Ph\u1ed1 C\u1ed5 H\u00e0 N\u1ed9i s\u1ea7m u\u1ea5t, Essence Hanoi Hotel &amp; Spa cung c\u1ea5p c\u00e1c ph\u00f2ng ngh\u1ec9 s\u00e1ng s\u1ee7a v\u1edbi Wi-Fi mi\u1ec5n ph\u00ed. Kh\u00e1ch s\u1ea1n c\u00f3 qu\u00e1n c\u00e0 ph\u00ea, trung t\u00e2m spa v\u00e0 nh\u00e0 h\u00e0ng ngay trong khu\u00f4n vi\u00ean.</span></p>\n<p style=\"text-align:left;\"><span style=\"font-size: 16px;\">T\u1ea5t c\u1ea3 c\u00e1c ph\u00f2ng ngh\u1ec9 trang nh\u00e3 \u1edf \u0111\u00e2y c\u00f3 \u0111\u1ed3 n\u1ed9i th\u1ea5t b\u1eb1ng g\u1ed7, m\u00e1y \u0111i\u1ec1u h\u00f2a, k\u00e9t an to\u00e0n c\u00e1 nh\u00e2n v\u00e0 b\u00e0n l\u00e0m vi\u1ec7c. TV truy\u1ec1n h\u00ecnh c\u00e1p m\u00e0n h\u00ecnh ph\u1eb3ng, t\u1ee7 l\u1ea1nh mini v\u00e0 \u1ea5m \u0111un n\u01b0\u1edbc \u0111i\u1ec7n c\u0169ng \u0111\u01b0\u1ee3c trang b\u1ecb trong ph\u00f2ng. M\u1ed7i ph\u00f2ng \u0111\u1ec1u \u0111i k\u00e8m ph\u00f2ng t\u1eafm ri\u00eang v\u1edbi ti\u1ec7n nghi v\u00f2i sen, m\u00e1y s\u1ea5y t\u00f3c, \u0111\u1ed3 v\u1ec7 sinh c\u00e1 nh\u00e2n mi\u1ec5n ph\u00ed v\u00e0 d\u00e9p.</span></p>\n<p style=\"text-align:left;\"><span style=\"font-size: 16px;\">Du kh\u00e1ch c\u00f3 th\u1ec3 th\u01b0 gi\u00e3n v\u1edbi li\u1ec7u ph\u00e1p m\u00e1t-xa nh\u1eb9 nh\u00e0ng t\u1ea1i spa. Kh\u00e1ch s\u1ea1n c\u0169ng c\u00f3 l\u1ec5 t\u00e2n l\u00e0m vi\u1ec7c 24 gi\u1edd v\u00e0 b\u00e0n \u0111\u1eb7t tour, n\u01a1i du kh\u00e1ch c\u00f3 th\u1ec3 y\u00eau c\u1ea7u thu x\u1ebfp c\u00e1c chuy\u1ebfn du l\u1ecbch. D\u1ecbch v\u1ee5 gi\u1eb7t l\u00e0 v\u00e0 \u0103n u\u1ed1ng t\u1ea1i ph\u00f2ng c\u0169ng \u0111\u01b0\u1ee3c cung c\u1ea5p cho kh\u00e1ch.</span></p>\n<p style=\"text-align:left;\"><span style=\"font-size: 16px;\">Du kh\u00e1ch ch\u1ec9 c\u1ea7n \u0111i b\u1ed9 trong v\u00f2ng 5 ph\u00fat l\u00e0 t\u1edbi H\u1ed3 Ho\u00e0n Ki\u1ebfm v\u00e0 Ch\u1ee3 \u0110\u1ed3ng Xu\u00e2n trong khi Nh\u00e0 Th\u1edd L\u1edbn v\u00e0 Nh\u00e0 H\u00e1t L\u1edbn H\u00e0 N\u1ed9i \u0111\u1ec1u ch\u1ec9 c\u00e1ch \u0111\u00f3 10 ph\u00fat l\u00e1i xe. S\u00e2n bay qu\u1ed1c t\u1ebf N\u1ed9i B\u00e0i n\u1eb1m trong b\u00e1n k\u00ednh 45 ph\u00fat l\u00e1i xe t\u1eeb ch\u1ed7 ngh\u1ec9 n\u00e0y.</span></p>\n<p style=\"text-align:left;\"><span style=\"font-size: 16px;\">Nh\u00e0 h\u00e0ng Essence ph\u1ee5c v\u1ee5 \u1ea9m th\u1ef1c Vi\u1ec7t Nam \u0111\u1ec3 \u0111\u00e1p \u1ee9ng kh\u1ea9u v\u1ecb c\u1ee7a du kh\u00e1ch.</span></p>\n<p style=\"text-align:left;\"><span style=\"font-size: 16px;\">\u0110\u00e2y l\u00e0 khu v\u1ef1c \u1edf Ha\u0300 N\u00f4\u0323i m\u00e0 kh\u00e1ch y\u00eau th\u00edch, theo c\u00e1c \u0111\u00e1nh gi\u00e1 \u0111\u1ed9c l\u1eadp.</span></p>\n<p style=\"text-align:left;\"><span style=\"font-size: 16px;\">C\u00e1c c\u1eb7p \u0111\u00f4i cho bi\u1ebft v\u1ecb tr\u00ed r\u1ea5t t\u1ed1t, \u0111\u01b0\u1ee3c \u0111\u00e1nh gi\u00e1 <strong>9,7</strong></span></p>\n<p style=\"text-align:left;\"><span style=\"font-size: 16px;\">Ch\u00fang t\u00f4i s\u1eed d\u1ee5ng ng\u00f4n ng\u1eef c\u1ee7a b\u1ea1n!</span></p>\n<p style=\"text-align:left;\"><span style=\"font-size: 16px;\"><strong>Essence Hanoi Hotel &amp; Spa \u0111\u00e3 ch\u00e0o \u0111\u00f3n kh\u00e1ch Booking.com t\u1eeb Ng\u00e0y 13 Th\u00e1ng 9 N\u0103m 2011.</strong></span></p>\n",
+                        "order": 1
+                    },
+                    {
+                        "id": "60fa38fd29c3ce454f98814f",
+                        "type": "article",
+                        "name": "Top 5 kh\u00e1ch s\u1ea1n h\u00e0ng \u0111\u1ea7u trong d\u1ecbch v\u1ee5 spa cao c\u1ea5p \u1edf H\u00e0 N\u1ed9i - Kinh nghi\u1ec7m \u0111i tour",
+                        "content": "<p style=\"text-align:left;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 18px;font-family: Arial;\"><strong><ins>Top 5 kh\u00e1ch s\u1ea1n h\u00e0ng \u0111\u1ea7u trong d\u1ecbch v\u1ee5 spa cao c\u1ea5p \u1edf H\u00e0 N\u1ed9i</ins></strong></span></p>\n<p style=\"text-align:left;\"><span style=\"color: rgb(0,0,0);font-size: 14px;\"><strong><em>Kh\u00e1ch s\u1ea1n kh\u00f4ng ch\u1ec9 l\u00e0 n\u01a1i ti\u1ebfp \u0111\u00f3n c\u00e1c \u0111o\u00e0n kh\u00e1ch t\u1edbi c\u00f4ng t\u00e1c, t\u1edbi d\u1ef1 h\u1ed9i th\u1ea3o hay du kh\u00e1ch \u0111i tham quan t\u1edbi ngh\u1ec9 ng\u01a1i m\u00e0 kh\u00e1ch s\u1ea1n c\u00f2n l\u00e0 n\u01a1i gi\u1ea3i tr\u00ed, th\u01b0 gi\u00e3n c\u1ee7a du kh\u00e1ch. Ch\u00ednh v\u00ec v\u1eady, m\u1ed7i kh\u00e1ch s\u1ea1n lu\u00f4n \u0111\u1ea7u t\u01b0 nh\u1eefng d\u1ecbch v\u1ee5 ph\u1ee5c v\u1ee5 du kh\u00e1ch t\u1ed1t nh\u1ea5t. Spa l\u00e0 m\u1ed9t trong nh\u1eefng d\u1ecbch v\u1ee5 \u0111\u01b0\u1ee3c du kh\u00e1ch \u0111\u00e1nh gi\u00e1 cao. Du kh\u00e1ch s\u1ebd l\u1ef1a ch\u1ecdn kh\u00e1ch s\u1ea1n n\u00e0o \u0111\u1ec3 c\u00f4ng t\u00e1c, \u0111\u1ec3 ngh\u1ec9 ng\u01a1i, \u0111\u1ec3 t\u1eadn h\u01b0\u1edfng d\u1ecbch v\u1ee5 spa t\u1ed1t nh\u1ea5t? Sau \u0111\u00e2y, Kinhnghiemditour s\u1ebd \u0111i\u1ec3m qua top 5 kh\u00e1ch s\u1ea1n c\u00f3 d\u1ecbch v\u1ee5 spa cao c\u1ea5p \u1edf H\u00e0 N\u1ed9i, gi\u00fap du kh\u00e1ch c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn \u0111\u00fang \u0111\u1eafn nh\u1ea5t.</em></strong></span></p>\n<h2 style=\"text-align:left;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Arial;\"><strong>IV. ESSENCE HANOI HOTEL (H\u00c0 N\u1ed8I VI\u1ec6T NAM)</strong></span></h2>\n<h2><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Arial;\">Kh\u00e1ch s\u1ea1n Essence n\u1eb1m tr\u00ean \u0111\u01b0\u1eddng T\u1ea1 Hi\u1ec1n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, c\u00e1ch b\u1ebfn xe Gia L\u00e2m kho\u1ea3ng 3,7km, c\u00e1ch h\u1ed3 Ho\u00e0n Ki\u1ebfm v\u00e0 ch\u1ee3 \u0110\u1ed3ng Xu\u00e2n kho\u1ea3ng 5 ph\u00fat \u0111i b\u1ed9. D\u1eebng ch\u00e2n ngh\u1ec9 ng\u01a1i \u1edf kh\u00e1ch s\u1ea1n 3 sao Essence l\u00e0 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o c\u1ee7a du kh\u00e1ch khi du l\u1ecbch, c\u00f4ng t\u00e1c t\u1ea1i H\u00e0 N\u1ed9i.</span></h2>\n<div style=\"text-align:none;\"><img src=\"https://pix10.agoda.net/hotelImages/281833/-1/c5e61434c2e9a3ce54958536c4add832.jpg?s=1024x768\" alt=\"undefined\" style=\"height: 523px;width: 705px\"/></div>\n<p style=\"text-align:center;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Arial;\"><em>S\u1ea3nh kh\u00e1ch s\u1ea1n Essence \u2013 \u1ea2nh: s\u01b0u t\u1ea7m</em></span></p>\n<p style=\"text-align:left;\">&nbsp;<span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Arial;\">Kh\u00e1ch s\u1ea1n c\u00f3 ki\u1ebfn tr\u00fac c\u1ed5 \u0111i\u1ec3n, nh\u1eb9 nh\u00e0ng v\u1edbi s\u00e0n g\u1ed7 v\u00e0 \u00e1nh s\u00e1ng d\u1ecbu nh\u1eb9. Kh\u00e1ch s\u1ea1n \u0111\u01b0\u1ee3c trang b\u1ecb \u0111\u1ea7y \u0111\u1ee7 n\u1ed9i th\u1ea5t sang tr\u1ecdng, c\u00f3 wifi, c\u00f3 \u0111i\u1ec1u ho\u00e0, ph\u00f2ng t\u1eafm \u1ea5m c\u00fang\u2026 Kh\u00e1ch s\u1ea1n \u0111\u01b0\u1ee3c b\u1ea7u ch\u1ecdn n\u1eb1m trong top 21 kh\u00e1ch s\u1ea1n c\u00f3 c\u00e1c d\u1ecbch v\u1ee5 t\u1ed1t nh\u1ea5t Th\u1ebf gi\u1edbi.</span></p>\n<p style=\"text-align:left;\"></p>\n<div style=\"text-align:none;\"><img src=\"https://kconceptvn.com/wp-content/uploads/2020/04/hotel-photography-chup-anh-khach-san-resort-khach-san-essence-ha-noi-hotel-spa-22-ta-hien-09.jpg\" alt=\"undefined\" style=\"height: 523px;width: 705px\"/></div>\n<p style=\"text-align:left;\"></p>\n<p style=\"text-align:center;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Arial;\"><em>Ki\u1ebfn tr\u00fac c\u1ed5 \u0111i\u1ec3n sang tr\u1ecdng \u2013 \u1ea2nh: s\u01b0u t\u1ea7m</em></span>&nbsp;</p>\n<p style=\"text-align:left;\"></p>\n<img src=\"https://cdn.sudospaces.com/kinhnghiemditour-com/home/knditour/web/kinhnghiemditour.com/public_html/2020/01/9-khach-san-ha-noi-mytour-19.jpg\" alt=\"Ph\u00f2ng ngh\u1ec9 cho du kh\u00e1ch\" style=\"height: auto;width: \"/>\n<p style=\"text-align:center;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Arial;\"><em>Ph\u00f2ng ngh\u1ec9 cho du kh\u00e1ch \u2013 \u1ea2nh: s\u01b0u t\u1ea7m</em></span></p>\n<p style=\"text-align:left;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Arial;\">Kh\u00e1ch s\u1ea1n c\u00f3 ph\u00f2ng spa hi\u1ec7n \u0111\u1ea1i, tao nh\u00e3, sang tr\u1ecdng. Ph\u00f2ng tr\u1ecb li\u1ec7u \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf hi\u1ec7n \u0111\u1ea1i. Ph\u01b0\u01a1ng th\u1ee9c tr\u1ecb li\u1ec7u c\u1ee7a spa d\u1ef1a tr\u00ean nguy\u00ean t\u1eafc \u0111\u1ec3 c\u00e2n b\u1eb1ng cu\u1ed9c s\u1ed1ng, k\u1ebft h\u1ee3p gi\u1eefa m\u00e0u s\u1eafc, \u00e2m thanh v\u00e0 \u00e1nh s\u00e1ng. Du kh\u00e1ch s\u1ebd c\u1ea3m th\u1ea5y v\u00f4 c\u00f9ng s\u1ea3ng kho\u00e1i v\u00e0 th\u01b0 th\u00e1i.</span></p>\n<p style=\"text-align:left;\"></p>\n<img src=\"https://cdn.sudospaces.com/kinhnghiemditour-com/home/knditour/web/kinhnghiemditour.com/public_html/2020/01/9-khach-san-ha-noi-mytour-20.jpg\" alt=\"Ph\u00f2ng Spa gi\u00fap qu\u00fd kh\u00e1ch c\u00f3 nh\u1eefng ph\u00fat gi\u00e2y th\u01b0 gi\u00e3n tho\u1ea3i m\u00e1i\" style=\"height: auto;width: \"/>\n<p style=\"text-align:center;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Arial;\"><em>Ph\u00f2ng Spa gi\u00fap qu\u00fd kh\u00e1ch c\u00f3 nh\u1eefng ph\u00fat gi\u00e2y th\u01b0 gi\u00e3n tho\u1ea3i m\u00e1i \u2013 \u1ea2nh: s\u01b0u t\u1ea7m</em></span></p>\n<img src=\"https://cdn.sudospaces.com/kinhnghiemditour-com/home/knditour/web/kinhnghiemditour.com/public_html/2020/01/9-khach-san-ha-noi-mytour-21.jpg\" alt=\"N\u1ed9i th\u1ea5t c\u00e1c ph\u00f2ng t\u1ea1i kh\u00e1ch s\u1ea1n ch\u1ee7 y\u1ebfu l\u00e0m t\u1eeb g\u1ed7\" style=\"height: auto;width: \"/>\n<p style=\"text-align:center;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Arial;\"><em>N\u1ed9i th\u1ea5t c\u00e1c ph\u00f2ng t\u1ea1i kh\u00e1ch s\u1ea1n ch\u1ee7 y\u1ebfu l\u00e0m t\u1eeb g\u1ed7 \u2013 \u1ea2nh: s\u01b0u t\u1ea7m</em></span></p>\n<p style=\"text-align:left;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Arial;\">Di\u1ec7n t\u00edch ph\u00f2ng x\u00f4ng h\u01a1i, massage v\u1eeba \u0111\u1ee7, kh\u00f4ng gian mang l\u1ea1i cho du kh\u00e1ch c\u1ea3m gi\u00e1c v\u1eeba ri\u00eang t\u01b0 v\u1eeba an to\u00e0n v\u00e0 c\u00f3 th\u1ec3 tho\u1ea3i m\u00e1i t\u1eadn h\u01b0\u1edfng nh\u1eefng ph\u00fat gi\u00e2y th\u01b0 gi\u00e3n tuy\u1ec7t v\u1eddi.</span>&nbsp;</p>\n",
+                        "order": 2
+                    },
+                    {
+                        "id": "60fa38fd29c3ce454f988150",
+                        "type": "link",
+                        "name": "Website Essence Hanoi Hotel & Spa",
+                        "content": "http://www.essencehanoihotel.com",
+                        "order": 1
+                    },
+                    {
+                        "id": "60fa38fd29c3ce454f988151",
+                        "type": "popup",
+                        "name": "ESSENCE HANOI HOTEL",
+                        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k92A2mkugD8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                        "order": 1
+                    },
+                    {
+                        "id": "60fa38fd29c3ce454f988152",
+                        "type": "videoEmbed",
+                        "name": "Essence Hanoi Hotel & Spa - Hanoi - Viet Nam",
+                        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/G-tNo2DiSDQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                        "order": 1
+                    },
+                    {
+                        "id": "60fa38fd29c3ce454f988153",
+                        "type": "videoEmbed",
+                        "name": "KH\u00c1CH S\u1ea0N ESSENCE HANOI HOTEL & SPA | CH\u1ee4P \u1ea2NH KH\u00c1CH S\u1ea0N PH\u1ed0 C\u1ed4| KCONCEPT STUDIO",
+                        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CMJumQHnRYE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                        "order": 2
+                    }
+                ],
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f98810e.jpg",
+                        "name": "60f9420329c3ce454f98810e.jpg",
+                        "typeFile": "Image",
+                        "description": "20048015-64835275783aaa0e7635e590a30f5452.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948099652
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f98810c.jpg",
+                        "name": "60f9420329c3ce454f98810c.jpg",
+                        "typeFile": "Image",
+                        "description": "20048015-210cb452c684142e7420e0332b651327.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948099585
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f98810a.jpg",
+                        "name": "60f9420329c3ce454f98810a.jpg",
+                        "typeFile": "Image",
+                        "description": "6078331_HSNHTw8SMk6mOC2VKS1Gs9IC_81IBMhie7JWSoCsNXo.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948099503
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f988108.jpg",
+                        "name": "60f9420329c3ce454f988108.jpg",
+                        "typeFile": "Image",
+                        "description": "foody-mobile-edh2-jpg-929-635513166885964810.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948099402
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f988106.jpg",
+                        "name": "60f9420329c3ce454f988106.jpg",
+                        "typeFile": "Image",
+                        "description": "293530873.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948099368
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f988104.jpeg",
+                        "name": "60f9420329c3ce454f988104.jpeg",
+                        "typeFile": "Image",
+                        "description": "67807992-c82d09c00fa6f113a73f63cdf2950dec.jpeg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948099293
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f988102.jpg",
+                        "name": "60f9420329c3ce454f988102.jpg",
+                        "typeFile": "Image",
+                        "description": "10234080_xXy1Uo7PO4YezSY1xqe3qs8nhT_qoaoE79212ei9Fto.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948099238
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420329c3ce454f988100.jpeg",
+                        "name": "60f9420329c3ce454f988100.jpeg",
+                        "typeFile": "Image",
+                        "description": "10026396-840x460-FIT_AND_TRIM-41da0e6e250619741895320ddfa0f027.jpeg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948099160
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420229c3ce454f9880fe.jpeg",
+                        "name": "60f9420229c3ce454f9880fe.jpeg",
+                        "typeFile": "Image",
+                        "description": "67807992-c6c6eb503e0614852b8de087f5594b4d.jpeg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948099066
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420229c3ce454f9880fc.jpg",
+                        "name": "60f9420229c3ce454f9880fc.jpg",
+                        "typeFile": "Image",
+                        "description": "1594938583.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948098909
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420229c3ce454f9880fa.jpg",
+                        "name": "60f9420229c3ce454f9880fa.jpg",
+                        "typeFile": "Image",
+                        "description": "4324021_xcnfYQC-Tjfbwxqn-3iRWf-50uJPkCkX6DEuZEEI6mI.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948098818
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f9420229c3ce454f9880f9.jpg",
+                        "name": "60f9420229c3ce454f9880f9.jpg",
+                        "typeFile": "Image",
+                        "description": "khach-san-essence-ha-noi-canh-quan-2-hotel24h.net.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626948098679
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 105.85207535196326,
+            "lat": 21.034526678132693
+        },
+        "scale": 1,
+        "bearing": 81.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -20.18112459769498,
+            "tilt": 63,
+            "target": {
+                "lng": 105.85199624792875,
+                "lat": 21.03462128068624
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c037e246969f2a688796d7.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c037e246969f2a688796d7.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85212347441406,
+                    "lat": 21.03457159389013
+                },
+                {
+                    "lng": 105.85212347438505,
+                    "lat": 21.034481762361718
+                },
+                {
+                    "lng": 105.85202722954148,
+                    "lat": 21.034481762361718
+                },
+                {
+                    "lng": 105.85202722951247,
+                    "lat": 21.03457159389013
+                },
+                {
+                    "lng": 105.85212347441406,
+                    "lat": 21.03457159389013
+                }
+            ],
+            "height": null,
+            "textureName": "60c037e44391e3457053d800.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c037e44391e3457053d800.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "22"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

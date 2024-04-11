@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e2d6f9c4fa69f928796e7",
+        "name": "C\u01a1m B\u00e9o 1985",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7596435355927,
+            "lat": 21.021337109841035
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20.2505,
+            "bearing": 23.40000000000002,
+            "tilt": 16,
+            "target": {
+                "lng": 105.75965419690948,
+                "lat": 21.02135750911968
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.75967570986563,
+                    "lat": 21.021438787383346
+                },
+                {
+                    "lng": 105.75961207184605,
+                    "lat": 21.021437695786915
+                },
+                {
+                    "lng": 105.75961020588534,
+                    "lat": 21.02123662733071
+                },
+                {
+                    "lng": 105.75967615477379,
+                    "lat": 21.02123532886317
+                }
+            ],
+            "height": 24,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "eatery"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 16 \u0110\u1ed7 Xu\u00e2n H\u1ee3p"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "eatery": "Qu\u00e1n \u0103n"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 16 \u0110\u1ed7 Xu\u00e2n H\u1ee3p, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

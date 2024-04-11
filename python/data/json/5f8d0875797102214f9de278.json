@@ -1,0 +1,103 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d0875797102214f9de278",
+        "name": "Lotte Center H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.81254506348705,
+            "lat": 21.032307272432632
+        },
+        "scale": 1,
+        "bearing": -14.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17,
+            "bearing": -37.20000000000001,
+            "tilt": 65,
+            "target": {
+                "lng": 105.81254506348705,
+                "lat": 21.032307272432632
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d085964df97299cfcb5f2.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d085964df97299cfcb5f2.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.81259318522106,
+                    "lat": 21.03235218819007
+                },
+                {
+                    "lng": 105.81259318519204,
+                    "lat": 21.032262356661658
+                },
+                {
+                    "lng": 105.81249694178206,
+                    "lat": 21.032262356661658
+                },
+                {
+                    "lng": 105.81249694175304,
+                    "lat": 21.03235218819007
+                },
+                {
+                    "lng": 105.81259318522106,
+                    "lat": 21.03235218819007
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d085a1a51f33b9695611e.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d085a1a51f33b9695611e.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng C\u1ed1ng V\u1ecb"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u00e0o T\u1ea5n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "6th"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "6th \u0110\u00e0o T\u1ea5n, Ph\u01b0\u1eddng C\u1ed1ng V\u1ecb, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

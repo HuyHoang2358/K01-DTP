@@ -1,0 +1,72 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5eb8be8e1128d113bc24ab47",
+        "name": "MarinaComplex03Mirror - 1589164238734",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22465248487009,
+            "lat": 16.093964781487216
+        },
+        "scale": 1,
+        "bearing": -68,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -83.86883036434584,
+            "tilt": 37.5,
+            "target": {
+                "lng": 108.22465248487009,
+                "lat": 16.093964781487216
+            }
+        },
+        "model": {
+            "id": "5b1a40151c21e330bca3ede8",
+            "name": "MarinaComplex03Mirror",
+            "objName": "5e7877dcc17b6c0a38b16580.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5e7877dcc17b6c0a38b16580.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [],
+            "height": 1,
+            "textureName": "5e7877dcc17b6c0a38b16582.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7877dcc17b6c0a38b16582.jpg"
+        },
+        "types": [
+            "apartments"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            }
+        ],
+        "startDate": 1643648400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "N\u1ea1i Hi\u00ean \u0110\u00f4ng, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

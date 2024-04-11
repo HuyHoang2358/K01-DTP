@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d1a0b797102214f9de287",
+        "name": "Somerset West Point Hanoi",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.82609678976809,
+            "lat": 21.066576759974595
+        },
+        "scale": 1,
+        "bearing": 120,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -116.80000000000004,
+            "tilt": 69,
+            "target": {
+                "lng": 105.82623427502284,
+                "lat": 21.06658736526964
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff2afd779d2dd5e3be138c3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff2afd779d2dd5e3be138c3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82614492258041,
+                    "lat": 21.066621675732023
+                },
+                {
+                    "lng": 105.82614492255135,
+                    "lat": 21.06653184420361
+                },
+                {
+                    "lng": 105.82604865698484,
+                    "lat": 21.06653184420361
+                },
+                {
+                    "lng": 105.82604865695578,
+                    "lat": 21.066621675732023
+                },
+                {
+                    "lng": 105.82614492258041,
+                    "lat": 21.066621675732023
+                }
+            ],
+            "height": null,
+            "textureName": "5ff2afd89ed19823c2a99ca3.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff2afd89ed19823c2a99ca3.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn T\u00e2y H\u1ed3"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Qu\u1ea3ng An"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Xu\u00e2n Di\u1ec7u"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "2"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

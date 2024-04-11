@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e32a79c4fa69f9287972f",
+        "name": "Th\u1ebf Gi\u1edbi T\u00f3c MR",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76762629579416,
+            "lat": 21.014480114358093
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 0,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76762019690767,
+                "lat": 21.014488843574057
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76760507744694,
+                    "lat": 21.014539203721853
+                },
+                {
+                    "lng": 105.76761266389514,
+                    "lat": 21.014417926675506
+                },
+                {
+                    "lng": 105.76764869952387,
+                    "lat": 21.014421467612507
+                },
+                {
+                    "lng": 105.76763874231068,
+                    "lat": 21.014541859422508
+                }
+            ],
+            "height": 16,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "hair_care"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 8 L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hair_care": "Hi\u1ec7u l\u00e0m t\u00f3c/nails"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 8 L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ffd1f9d461fac04fec5752b",
+        "name": "To\u00e0 nh\u00e0 Li\u00ean c\u01a1 B\u1ed9 Lao \u0111\u1ed9ng - Th\u01b0\u01a1ng binh v\u00e0 X\u00e3 h\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7847834744934,
+            "lat": 21.02616912741034
+        },
+        "scale": 1,
+        "bearing": 182,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.5,
+            "bearing": -6.632605606299944,
+            "tilt": 0,
+            "target": {
+                "lng": 105.7849242237329,
+                "lat": 21.026463757472328
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ffd1f8be49e7b2263a00d74.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ffd1f8be49e7b2263a00d74.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78481307988115,
+                    "lat": 21.026304071757437
+                },
+                {
+                    "lng": 105.78481307985214,
+                    "lat": 21.026214240229024
+                },
+                {
+                    "lng": 105.78471684034785,
+                    "lat": 21.026214240229024
+                },
+                {
+                    "lng": 105.78471684031886,
+                    "lat": 21.026304071757437
+                },
+                {
+                    "lng": 105.78481307988115,
+                    "lat": 21.026304071757437
+                }
+            ],
+            "height": 1,
+            "textureName": "5ffd1f8d9b70fd6b371f364b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ffd1f8d9b70fd6b371f364b.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u00f4n Th\u1ea5t Thuy\u1ebft"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "Ng\u00f5 7 "
+            }
+        ],
+        "startDate": 1384275600000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 7  T\u00f4n Th\u1ea5t Thuy\u1ebft, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

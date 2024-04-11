@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "614966f32f30391a8a27c6e0",
+        "name": "C\u1ea7u T\u00f4 L\u1ecbch",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80486879063324,
+            "lat": 21.01545224094383
+        },
+        "scale": 1,
+        "bearing": 45.45,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 229.27317108052935,
+            "tilt": 77.25,
+            "target": {
+                "lng": 105.80594789217963,
+                "lat": 21.01646240813149
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "614966d12f30391a8a27c6db.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/614966d12f30391a8a27c6db.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80493225097294,
+                    "lat": 21.01550442477898
+                },
+                {
+                    "lng": 105.80493225094395,
+                    "lat": 21.01541459325057
+                },
+                {
+                    "lng": 105.80483601841031,
+                    "lat": 21.01541459325057
+                },
+                {
+                    "lng": 105.80483601838134,
+                    "lat": 21.01550442477898
+                },
+                {
+                    "lng": 105.80493225097294,
+                    "lat": 21.01550442477898
+                }
+            ],
+            "height": null,
+            "textureName": "614966d22f30391a8a27c6dd.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/614966d22f30391a8a27c6dd.jpg"
+        },
+        "types": [
+            "bridge"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng L\u00e1ng Th\u01b0\u1ee3ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Trung H\u00f2a"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bridge": "C\u1ea7u"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

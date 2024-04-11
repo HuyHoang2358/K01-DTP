@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60c034534391e3457053d7ff",
+        "name": "Bia Lan B\u00e9o - Oanh Ph\u1edf g\u00e0 - Th\u00e1i s\u01a1n Stone",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85209103992503,
+            "lat": 21.034624322962827
+        },
+        "scale": 1.2,
+        "bearing": 82,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": 0,
+            "tilt": 59,
+            "target": {
+                "lng": 105.85209103992503,
+                "lat": 21.034624322962827
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c0343f4391e3457053d7fd.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c0343f4391e3457053d7fd.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8521404156437,
+                    "lat": 21.03467041304331
+                },
+                {
+                    "lng": 105.85214041561468,
+                    "lat": 21.034580581514902
+                },
+                {
+                    "lng": 105.85204417070729,
+                    "lat": 21.034580581514902
+                },
+                {
+                    "lng": 105.85204417067827,
+                    "lat": 21.03467041304331
+                },
+                {
+                    "lng": 105.8521404156437,
+                    "lat": 21.03467041304331
+                }
+            ],
+            "height": 1,
+            "textureName": "60c0344117cf4702bf30de46.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c0344117cf4702bf30de46.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "20"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

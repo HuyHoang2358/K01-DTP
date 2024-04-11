@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e31339c4fa69f92879707",
+        "name": "Cafe Thu Nhung",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76945480604182,
+            "lat": 21.01190543305735
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -5.4,
+            "tilt": 0.5,
+            "target": {
+                "lng": 105.76951305671057,
+                "lat": 21.011922907264186
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76942562244261,
+                    "lat": 21.011901832303423
+                },
+                {
+                    "lng": 105.76946282689312,
+                    "lat": 21.011929954258136
+                },
+                {
+                    "lng": 105.76948420151649,
+                    "lat": 21.011908572278273
+                },
+                {
+                    "lng": 105.76944657331507,
+                    "lat": 21.01188137338957
+                }
+            ],
+            "height": 12,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "cafe"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00e1ch 56/2 L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "cafe": "C\u00e0 ph\u00ea"
+        },
+        "metadata": null,
+        "address": "Ng\u00e1ch 56/2 L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

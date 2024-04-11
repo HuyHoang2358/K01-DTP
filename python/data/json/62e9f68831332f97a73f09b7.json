@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "62e9f68831332f97a73f09b7",
+        "name": "H\u00e0 Th\u00e0nh Plaza",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.82043025631202,
+            "lat": 21.00873903144638
+        },
+        "scale": 0.8,
+        "bearing": -53,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.5,
+            "bearing": -39.000000083446494,
+            "tilt": 0,
+            "target": {
+                "lng": 105.82006401271646,
+                "lat": 21.008203833872837
+            }
+        },
+        "model": {
+            "id": "58259debafaa6a101c47fd2a",
+            "name": "Chung C\u01b0 30 T\u1ea7ng",
+            "objName": "58259debafaa6a101c47fd2a",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/58259debafaa6a101c47fd2a",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82047837044006,
+                    "lat": 21.008783947203828
+                },
+                {
+                    "lng": 105.8204783704111,
+                    "lat": 21.008694115675418
+                },
+                {
+                    "lng": 105.82038214221296,
+                    "lat": 21.008694115675418
+                },
+                {
+                    "lng": 105.82038214218399,
+                    "lat": 21.008783947203828
+                },
+                {
+                    "lng": 105.82047837044006,
+                    "lat": 21.008783947203828
+                }
+            ],
+            "height": 1,
+            "textureName": "5e7d66b7c628c80de056425a.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7d66b7c628c80de056425a.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Li\u1ec7t"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Th\u00e1i Th\u1ecbnh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "102"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "102 Th\u00e1i Th\u1ecbnh, Ph\u01b0\u1eddng Trung Li\u1ec7t, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

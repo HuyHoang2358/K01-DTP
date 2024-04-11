@@ -1,0 +1,427 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61bafe89917f81226af95139",
+        "name": "Cartier H\u00e0 N\u1ed9i - Tr\u00e0ng Ti\u1ec1n Plaza",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60dd398cf81cb14bc8a740e2",
+                "location": {
+                    "lng": 105.85319919999999,
+                    "lat": 21.024699899999998
+                },
+                "address": "Plaza, 24 P. Hai B\u00e0 Tr\u01b0ng, Tr\u00e0ng Ti\u1ec1n, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Cartier H\u00e0 N\u1ed9i - Tr\u00e0ng Ti\u1ec1n Plaza",
+                "objectId": "61bafe89917f81226af95139",
+                "description": null,
+                "types": [
+                    "jewelry_store",
+                    "store"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "jewelry_store",
+                        "name": "C\u1eeda h\u00e0ng trang s\u1ee9c",
+                        "group": "store"
+                    },
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "group": "store"
+                    }
+                ],
+                "mainType": "jewelry_store",
+                "mainTypeInfos": {
+                    "id": "jewelry_store",
+                    "name": "C\u1eeda h\u00e0ng trang s\u1ee9c",
+                    "group": "store"
+                },
+                "auxiliaryTypes": [
+                    "store"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "group": "store"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Plaza"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "24"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Hai B\u00e0 Tr\u01b0ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Tr\u00e0ng Ti\u1ec1n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "jewelry_store",
+                        "name": "C\u1eeda h\u00e0ng trang s\u1ee9c",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "store",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "store",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "61bafe89917f81226af95139",
+                    "name": "Cartier H\u00e0 N\u1ed9i - Tr\u00e0ng Ti\u1ec1n Plaza",
+                    "location": {
+                        "lng": 105.85335534948354,
+                        "lat": 21.024741948977834
+                    },
+                    "scale": 1,
+                    "bearing": -103,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 63.599999999999994,
+                        "tilt": 69.75,
+                        "target": {
+                            "lng": 105.85393038546437,
+                            "lat": 21.025361747103634
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "61bafe78917f81226af95134.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61bafe78917f81226af95134.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85340346877491,
+                                "lat": 21.024786864735276
+                            },
+                            {
+                                "lng": 105.8534034687459,
+                                "lat": 21.02469703320686
+                            },
+                            {
+                                "lng": 105.85330723022118,
+                                "lat": 21.02469703320686
+                            },
+                            {
+                                "lng": 105.85330723019217,
+                                "lat": 21.024786864735276
+                            },
+                            {
+                                "lng": 105.85340346877491,
+                                "lat": 21.024786864735276
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "61bafe79917f81226af95136.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61bafe79917f81226af95136.jpg"
+                    },
+                    "types": [
+                        "shopping_mall"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Tr\u00e0ng Ti\u1ec1n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "H\u00e0ng B\u00e0i",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1639644809204,
+                    "updatedDate": 1639644809204
+                },
+                "tags": [],
+                "phoneNumber": "02439367131",
+                "website": "stores.cartier.com",
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "0930"
+                        },
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "0930"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "2130"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "0930"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "2130"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "0930"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "2130"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "0930"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "2130"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "0930"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "time": "0930"
+                        },
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.85319919999999,
+                        21.024699899999998
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85335534948354,
+            "lat": 21.024741948977834
+        },
+        "scale": 1,
+        "bearing": -103,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 63.599999999999994,
+            "tilt": 69.75,
+            "target": {
+                "lng": 105.85393038546437,
+                "lat": 21.025361747103634
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61bafe78917f81226af95134.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61bafe78917f81226af95134.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85340346877491,
+                    "lat": 21.024786864735276
+                },
+                {
+                    "lng": 105.8534034687459,
+                    "lat": 21.02469703320686
+                },
+                {
+                    "lng": 105.85330723022118,
+                    "lat": 21.02469703320686
+                },
+                {
+                    "lng": 105.85330723019217,
+                    "lat": 21.024786864735276
+                },
+                {
+                    "lng": 105.85340346877491,
+                    "lat": 21.024786864735276
+                }
+            ],
+            "height": null,
+            "textureName": "61bafe79917f81226af95136.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61bafe79917f81226af95136.jpg"
+        },
+        "types": [
+            "shopping_mall"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Tr\u00e0ng Ti\u1ec1n"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng B\u00e0i"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "shopping_mall": "Trung t\u00e2m mua s\u1eafm"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

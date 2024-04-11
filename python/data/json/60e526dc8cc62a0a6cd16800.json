@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60e526dc8cc62a0a6cd16800",
+        "name": "Blue Hanoi Inn City Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79538110386642,
+            "lat": 21.010737906519495
+        },
+        "scale": 1,
+        "bearing": -158,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 185.33768308413428,
+            "tilt": 66,
+            "target": {
+                "lng": 105.79540103569248,
+                "lat": 21.01067614197502
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60e526ce8cc62a0a6cd167fb.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60e526ce8cc62a0a6cd167fb.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79542921863913,
+                    "lat": 21.01078282227694
+                },
+                {
+                    "lng": 105.79542921861015,
+                    "lat": 21.010692990748527
+                },
+                {
+                    "lng": 105.7953329891227,
+                    "lat": 21.010692990748527
+                },
+                {
+                    "lng": 105.79533298909372,
+                    "lat": 21.01078282227694
+                },
+                {
+                    "lng": 105.79542921863913,
+                    "lat": 21.01078282227694
+                }
+            ],
+            "height": null,
+            "textureName": "60e526ce8cc62a0a6cd167fd.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60e526ce8cc62a0a6cd167fd.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 123 Trung K\u00ednh"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

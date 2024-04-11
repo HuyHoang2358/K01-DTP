@@ -1,0 +1,103 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff81ca8741cd06e43fb840b",
+        "name": "B\u1ea3o hi\u1ec3m ti\u1ec1n g\u1eedi Vi\u1ec7t Nam Tr\u1ee5 s\u1edf ch\u00ednh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7830631497,
+            "lat": 21.0296051129
+        },
+        "scale": 1,
+        "bearing": -9,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18.75,
+            "bearing": 26.829032606968035,
+            "tilt": 42,
+            "target": {
+                "lng": 105.7824782743204,
+                "lat": 21.02978599039328
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff81c9bf75190676b00246c.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff81c9bf75190676b00246c.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78311127056142,
+                    "lat": 21.02965002865744
+                },
+                {
+                    "lng": 105.78311127053242,
+                    "lat": 21.02956019712903
+                },
+                {
+                    "lng": 105.7830150288676,
+                    "lat": 21.02956019712903
+                },
+                {
+                    "lng": 105.78301502883858,
+                    "lat": 21.02965002865744
+                },
+                {
+                    "lng": 105.78311127056142,
+                    "lat": 21.02965002865744
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff81c9b741cd06e43fb8408.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff81c9b741cd06e43fb8408.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Duy T\u00e2n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "11"
+            }
+        ],
+        "startDate": 1477933200000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "11 Duy T\u00e2n, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

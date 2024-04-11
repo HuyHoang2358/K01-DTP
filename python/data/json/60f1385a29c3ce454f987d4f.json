@@ -1,0 +1,397 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60f1385a29c3ce454f987d4f",
+        "name": "ILA - Ph\u1ed1 Hu\u1ebf",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60dd37f2f81cb14bc876c72b",
+                "location": {
+                    "lng": 105.85176639999999,
+                    "lat": 21.019584
+                },
+                "address": "6-8B P. Hu\u1ebf, H\u00e0ng B\u00e0i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "ILA - Ph\u1ed1 Hu\u1ebf",
+                "objectId": "60f1385a29c3ce454f987d4f",
+                "description": " 6-8B Ph\u1ed1 Hu\u1ebf ,  H\u00e0ng B\u00e0i ,  Ho\u00e0n Ki\u1ebfm ,  H\u00e0 N\u1ed9i ,  Vi\u1ec7t Nam ",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "P. Hu\u1ebf"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "6-8B"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "H\u00e0ng B\u00e0i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60f1385a29c3ce454f987d4f",
+                    "name": "ILA - Ph\u1ed1 Hu\u1ebf",
+                    "location": {
+                        "lng": 105.85169007461366,
+                        "lat": 21.019649406568032
+                    },
+                    "scale": 1,
+                    "bearing": 76,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -103.2051328331382,
+                        "tilt": 75,
+                        "target": {
+                            "lng": 105.85167147415365,
+                            "lat": 21.019425036419253
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60f1385329c3ce454f987d4a.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f1385329c3ce454f987d4a.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.8517381922614,
+                                "lat": 21.019694322325474
+                            },
+                            {
+                                "lng": 105.8517381922324,
+                                "lat": 21.01960449079706
+                            },
+                            {
+                                "lng": 105.85164195699491,
+                                "lat": 21.01960449079706
+                            },
+                            {
+                                "lng": 105.85164195696592,
+                                "lat": 21.019694322325474
+                            },
+                            {
+                                "lng": 105.8517381922614,
+                                "lat": 21.019694322325474
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "60f1385429c3ce454f987d4c.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f1385429c3ce454f987d4c.jpg"
+                    },
+                    "types": [
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ng\u00f5 10 Hu\u1ebf",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1626421338375,
+                    "updatedDate": 1626421338376
+                },
+                "tags": [],
+                "phoneNumber": "02473036119",
+                "website": "https://ila.edu.vn/",
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 6,
+                            "time": "0700"
+                        },
+                        "close": {
+                            "day": 6,
+                            "time": "1900"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "0700"
+                        },
+                        "close": {
+                            "day": 0,
+                            "time": "1900"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.85176639999999,
+                        21.019584
+                    ]
+                },
+                "rank": {
+                    "value": 1234
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85169007461366,
+            "lat": 21.019649406568032
+        },
+        "scale": 1,
+        "bearing": 76,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -103.2051328331382,
+            "tilt": 75,
+            "target": {
+                "lng": 105.85167147415365,
+                "lat": 21.019425036419253
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60f1385329c3ce454f987d4a.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f1385329c3ce454f987d4a.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8517381922614,
+                    "lat": 21.019694322325474
+                },
+                {
+                    "lng": 105.8517381922324,
+                    "lat": 21.01960449079706
+                },
+                {
+                    "lng": 105.85164195699491,
+                    "lat": 21.01960449079706
+                },
+                {
+                    "lng": 105.85164195696592,
+                    "lat": 21.019694322325474
+                },
+                {
+                    "lng": 105.8517381922614,
+                    "lat": 21.019694322325474
+                }
+            ],
+            "height": null,
+            "textureName": "60f1385429c3ce454f987d4c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f1385429c3ce454f987d4c.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 10 Hu\u1ebf"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

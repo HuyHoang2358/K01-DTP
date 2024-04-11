@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627dbe269c4fa69f92879368",
+        "name": "C\u00f4ng Ty CTP Land",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76935376122334,
+            "lat": 21.01377202145293
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20.75,
+            "bearing": 0,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76932844291184,
+                "lat": 21.013776115619535
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76929654582648,
+                    "lat": 21.013800308407355
+                },
+                {
+                    "lng": 105.76940499591666,
+                    "lat": 21.013793608866507
+                },
+                {
+                    "lng": 105.76941297018806,
+                    "lat": 21.013742990103708
+                },
+                {
+                    "lng": 105.76930053296218,
+                    "lat": 21.01375117843415
+                }
+            ],
+            "height": 12,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "establishment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "establishment": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i"
+        },
+        "metadata": null,
+        "address": "L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

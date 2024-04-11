@@ -1,0 +1,351 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ccac13c026c8b690445a1b1",
+        "name": "Bamboo Green Riverside Hotel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5ccac13c026c8b690445a1b2",
+                "location": {
+                    "lng": 108.224925,
+                    "lat": 16.071256
+                },
+                "address": "68 B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u 1, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Bamboo Green Riverside Hotel",
+                "objectId": "5ccac13c026c8b690445a1b1",
+                "description": " &nbsp; ",
+                "types": [
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "68"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "B\u1ea1ch \u0110\u1eb1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 957114000000,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5ccac13c026c8b690445a1b1",
+                    "name": "Bamboo Green Riverside Hotel",
+                    "location": {
+                        "lng": 108.22493328893893,
+                        "lat": 16.071220313175203
+                    },
+                    "scale": 1,
+                    "bearing": 97,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": 95.84171328087515,
+                        "tilt": 1,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5ccac1beac159c2bc41c8994",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ccac1beac159c2bc41c8994",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.224822,
+                                "lat": 16.071418
+                            },
+                            {
+                                "lng": 108.225045,
+                                "lat": 16.071406
+                            },
+                            {
+                                "lng": 108.224805,
+                                "lat": 16.071106
+                            },
+                            {
+                                "lng": 108.225028,
+                                "lat": 16.071094
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5ccac1beac159c2bc41c8995.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ccac1beac159c2bc41c8995.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": 957139200000,
+                    "endDate": 2537568000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "B\u1ea1ch \u0110\u1eb1ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "68",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "68 B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "582546120ec6af4457a68494",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Nguy\u1ec5n Th\u00e0nh"
+                    },
+                    "createdDate": 1556791612914,
+                    "updatedDate": 1676598146084
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.224925,
+                        16.071256
+                    ]
+                },
+                "rank": {
+                    "value": 1000014.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22493328893893,
+            "lat": 16.071220313175203
+        },
+        "scale": 1,
+        "bearing": 97,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 95.84171328087515,
+            "tilt": 1,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ccac1beac159c2bc41c8994",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ccac1beac159c2bc41c8994",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.224822,
+                    "lat": 16.071418
+                },
+                {
+                    "lng": 108.225045,
+                    "lat": 16.071406
+                },
+                {
+                    "lng": 108.224805,
+                    "lat": 16.071106
+                },
+                {
+                    "lng": 108.225028,
+                    "lat": 16.071094
+                }
+            ],
+            "height": 1,
+            "textureName": "5ccac1beac159c2bc41c8995.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ccac1beac159c2bc41c8995.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "B\u1ea1ch \u0110\u1eb1ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "68"
+            }
+        ],
+        "startDate": 957139200000,
+        "endDate": 2537568000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": "68 B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+    }
+}

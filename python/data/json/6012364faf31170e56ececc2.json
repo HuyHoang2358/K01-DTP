@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6012364faf31170e56ececc2",
+        "name": "Vincom Center Ba Trieu",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.84974981556525,
+            "lat": 21.011244046752083
+        },
+        "scale": 1,
+        "bearing": -2,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -22.562551363502518,
+            "tilt": 76.5,
+            "target": {
+                "lng": 105.84915452030161,
+                "lat": 21.012788713394126
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60123838af31170e56ececc3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60123838af31170e56ececc3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84979793050121,
+                    "lat": 21.01128896250953
+                },
+                {
+                    "lng": 105.84979793047223,
+                    "lat": 21.011199130981115
+                },
+                {
+                    "lng": 105.84970170065827,
+                    "lat": 21.011199130981115
+                },
+                {
+                    "lng": 105.8497017006293,
+                    "lat": 21.01128896250953
+                },
+                {
+                    "lng": 105.84979793050121,
+                    "lat": 21.01128896250953
+                }
+            ],
+            "height": null,
+            "textureName": "60123839af31170e56ececc5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60123839af31170e56ececc5.jpg"
+        },
+        "types": [
+            "shopping_mall"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng L\u00ea \u0110\u1ea1i H\u00e0nh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "B\u00f9i Th\u1ecb Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "L1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "shopping_mall": "Trung t\u00e2m mua s\u1eafm"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

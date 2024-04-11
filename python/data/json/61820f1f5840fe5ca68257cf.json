@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61820f1f5840fe5ca68257cf",
+        "name": "Yolo center",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22919378539825,
+            "lat": 16.085521456526735
+        },
+        "scale": 1,
+        "bearing": -88,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17,
+            "bearing": 48,
+            "tilt": 76.5,
+            "target": {
+                "lng": 108.23000238737114,
+                "lat": 16.086244338753257
+            }
+        },
+        "model": {
+            "id": "5832bd3f0d6f5b0e1ce45821",
+            "name": "Trung T\u00e2mTh\u1ec3 Thao",
+            "objName": "5e7c3520c628c80de0564201.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5e7c3520c628c80de0564201.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22924053131253,
+                    "lat": 16.085566372285864
+                },
+                {
+                    "lng": 108.22924053129138,
+                    "lat": 16.08547654075745
+                },
+                {
+                    "lng": 108.22914703950511,
+                    "lat": 16.08547654075745
+                },
+                {
+                    "lng": 108.22914703948396,
+                    "lat": 16.085566372285864
+                },
+                {
+                    "lng": 108.22924053131253,
+                    "lat": 16.085566372285864
+                }
+            ],
+            "height": 1,
+            "textureName": "5e7c3520c628c80de0564203.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7c3520c628c80de0564203.jpg"
+        },
+        "types": [
+            "sports_center"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "sports_center": "Trung t\u00e2m th\u1ec3 d\u1ee5c th\u1ec3 thao, nh\u00e0 thi \u0111\u1ea5u"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

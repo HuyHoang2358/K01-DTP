@@ -1,0 +1,401 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60f13a0e29c3ce454f987d55",
+        "name": "Vietinbank CN H\u00e0 N\u1ed9i - PGD 55 B\u00e0 Tri\u1ec7u",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "609c117134025a4d53ecdea7",
+                "location": {
+                    "lng": 105.8499051,
+                    "lat": 21.019958199999998
+                },
+                "address": "55 B\u00e0 Tri\u1ec7u, Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Vietinbank CN H\u00e0 N\u1ed9i - PGD 55 B\u00e0 Tri\u1ec7u",
+                "objectId": "60f13a0e29c3ce454f987d55",
+                "description": null,
+                "types": [
+                    "bank",
+                    "finance"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "group": "finance"
+                    },
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "group": "finance"
+                    }
+                ],
+                "mainType": "bank",
+                "mainTypeInfos": {
+                    "id": "bank",
+                    "name": "Ng\u00e2n h\u00e0ng",
+                    "group": "finance"
+                },
+                "auxiliaryTypes": [
+                    "finance"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "group": "finance"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "55"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "B\u00e0 Tri\u1ec7u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "finance",
+                        "minRank": 50000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "finance",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60f13a0e29c3ce454f987d55",
+                    "name": "Vietinbank CN H\u00e0 N\u1ed9i - PGD 55 B\u00e0 Tri\u1ec7u",
+                    "location": {
+                        "lng": 105.84997050750917,
+                        "lat": 21.019945416807218
+                    },
+                    "scale": 1,
+                    "bearing": -108,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -243.19680251898524,
+                        "tilt": 80.25,
+                        "target": {
+                            "lng": 105.85009513844342,
+                            "lat": 21.019978780471586
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60f13a0629c3ce454f987d50.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f13a0629c3ce454f987d50.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85001862525242,
+                                "lat": 21.01999033256466
+                            },
+                            {
+                                "lng": 105.85001862522343,
+                                "lat": 21.019900501036247
+                            },
+                            {
+                                "lng": 105.8499223897949,
+                                "lat": 21.019900501036247
+                            },
+                            {
+                                "lng": 105.84992238976591,
+                                "lat": 21.01999033256466
+                            },
+                            {
+                                "lng": 105.85001862525242,
+                                "lat": 21.01999033256466
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "60f13a0729c3ce454f987d52.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f13a0729c3ce454f987d52.jpg"
+                    },
+                    "types": [
+                        "bank"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ng\u00f5 32 Tr\u1ea7n Qu\u1ed1c To\u1ea3n",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1626421774912,
+                    "updatedDate": 1626421774912
+                },
+                "tags": [],
+                "phoneNumber": null,
+                "website": "vietinbank.vn",
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8499051,
+                        21.019958199999998
+                    ]
+                },
+                "rank": {
+                    "value": 50001
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84997050750917,
+            "lat": 21.019945416807218
+        },
+        "scale": 1,
+        "bearing": -108,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -243.19680251898524,
+            "tilt": 80.25,
+            "target": {
+                "lng": 105.85009513844342,
+                "lat": 21.019978780471586
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60f13a0629c3ce454f987d50.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f13a0629c3ce454f987d50.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85001862525242,
+                    "lat": 21.01999033256466
+                },
+                {
+                    "lng": 105.85001862522343,
+                    "lat": 21.019900501036247
+                },
+                {
+                    "lng": 105.8499223897949,
+                    "lat": 21.019900501036247
+                },
+                {
+                    "lng": 105.84992238976591,
+                    "lat": 21.01999033256466
+                },
+                {
+                    "lng": 105.85001862525242,
+                    "lat": 21.01999033256466
+                }
+            ],
+            "height": null,
+            "textureName": "60f13a0729c3ce454f987d52.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f13a0729c3ce454f987d52.jpg"
+        },
+        "types": [
+            "bank"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 32 Tr\u1ea7n Qu\u1ed1c To\u1ea3n"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bank": "Ng\u00e2n h\u00e0ng"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

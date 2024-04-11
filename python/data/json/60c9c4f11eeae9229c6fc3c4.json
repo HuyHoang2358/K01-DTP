@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60c9c4f11eeae9229c6fc3c4",
+        "name": "Local",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8520522938349,
+            "lat": 21.034862007961806
+        },
+        "scale": 1.2,
+        "bearing": 107,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -91.46816996279294,
+            "tilt": 50.5,
+            "target": {
+                "lng": 105.85201639364796,
+                "lat": 21.0348326294986
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c9c4ea1eeae9229c6fc3bf.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c9c4ea1eeae9229c6fc3bf.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85210041639401,
+                    "lat": 21.034906923719248
+                },
+                {
+                    "lng": 105.85210041636499,
+                    "lat": 21.03481709219083
+                },
+                {
+                    "lng": 105.85200417130481,
+                    "lat": 21.03481709219083
+                },
+                {
+                    "lng": 105.85200417127578,
+                    "lat": 21.034906923719248
+                },
+                {
+                    "lng": 105.85210041639401,
+                    "lat": 21.034906923719248
+                }
+            ],
+            "height": null,
+            "textureName": "60c9c4eb1eeae9229c6fc3c1.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c9c4eb1eeae9229c6fc3c1.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

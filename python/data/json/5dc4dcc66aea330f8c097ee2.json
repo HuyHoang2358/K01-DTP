@@ -1,0 +1,95 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5dc4dcc66aea330f8c097ee2",
+        "name": "B\u1ea3o T\u00e0ng H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.786249127397,
+            "lat": 21.0099592001982
+        },
+        "scale": 1,
+        "bearing": -143,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -178.11251757057818,
+            "tilt": 1.3333312571048737,
+            "target": {
+                "lng": 105.78624912739701,
+                "lat": 21.009959200198182
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5dc4dcc68a491811d46b4b45.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5dc4dcc68a491811d46b4b45.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78629724191855,
+                    "lat": 21.010004115955642
+                },
+                {
+                    "lng": 105.78629724188959,
+                    "lat": 21.009914284427232
+                },
+                {
+                    "lng": 105.78620101290443,
+                    "lat": 21.009914284427232
+                },
+                {
+                    "lng": 105.78620101287545,
+                    "lat": 21.010004115955642
+                },
+                {
+                    "lng": 105.78629724191855,
+                    "lat": 21.010004115955642
+                }
+            ],
+            "height": 1,
+            "textureName": "5dc4dcc58a491811d46b4b43.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5dc4dcc58a491811d46b4b43.jpg"
+        },
+        "types": [
+            "museum"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u00f9ng"
+            }
+        ],
+        "startDate": 1323536400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "museum": "B\u1ea3o t\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Ph\u1ea1m H\u00f9ng, Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i"
+    }
+}

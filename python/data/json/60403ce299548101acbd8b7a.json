@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60403ce299548101acbd8b7a",
+        "name": "C\u1ea7u V\u0129nh Tuy",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.88295369696942,
+            "lat": 21.011160400216994
+        },
+        "scale": 1,
+        "bearing": 46,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": 96.9492320169229,
+            "tilt": 76,
+            "target": {
+                "lng": 105.88300426197449,
+                "lat": 21.009551939782533
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60403d5ecf92ed3c41f5baff.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60403d5ecf92ed3c41f5baff.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8830018118784,
+                    "lat": 21.01120531597444
+                },
+                {
+                    "lng": 105.88300181184943,
+                    "lat": 21.011115484446027
+                },
+                {
+                    "lng": 105.88290558208942,
+                    "lat": 21.011115484446027
+                },
+                {
+                    "lng": 105.88290558206046,
+                    "lat": 21.01120531597444
+                },
+                {
+                    "lng": 105.8830018118784,
+                    "lat": 21.01120531597444
+                }
+            ],
+            "height": null,
+            "textureName": "60403d5f99548101acbd8b7b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60403d5f99548101acbd8b7b.jpg"
+        },
+        "types": [
+            "bridge"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Long Bi\u00ean"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Long Bi\u00ean"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "C\u1ea7u V\u0129nh Tuy"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "31"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bridge": "C\u1ea7u"
+        },
+        "metadata": null,
+        "address": "31 C\u1ea7u V\u0129nh Tuy, Ph\u01b0\u1eddng Long Bi\u00ean, Qu\u1eadn Long Bi\u00ean, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

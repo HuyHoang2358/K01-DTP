@@ -1,0 +1,94 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fa39b92d1b9e3497f3fa8d1",
+        "name": "C\u1ea7u V\u01b0\u1ee3t \u0110i B\u1ed9 - 1604557678913",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.82500437999505,
+            "lat": 21.010448864462276
+        },
+        "scale": 1.25,
+        "bearing": -29,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 132.17824663419717,
+            "tilt": 0,
+            "target": {
+                "lng": 105.82500437999505,
+                "lat": 21.010448864462276
+            }
+        },
+        "model": {
+            "id": "5eb38b7db449c20acc4c1d65",
+            "name": "C\u1ea7u V\u01b0\u1ee3t \u0110i B\u1ed9",
+            "objName": "5eb38b7cae52ce194c826e57.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5eb38b7cae52ce194c826e57.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82505249467452,
+                    "lat": 21.010493780219722
+                },
+                {
+                    "lng": 105.82505249464556,
+                    "lat": 21.01040394869131
+                },
+                {
+                    "lng": 105.82495626534454,
+                    "lat": 21.01040394869131
+                },
+                {
+                    "lng": 105.82495626531558,
+                    "lat": 21.010493780219722
+                },
+                {
+                    "lng": 105.82505249467452,
+                    "lat": 21.010493780219722
+                }
+            ],
+            "height": 0,
+            "textureName": "5eb38b7dae52ce194c826e5b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5eb38b7dae52ce194c826e5b.jpg"
+        },
+        "types": [
+            "decoration"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "169"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u00e2y S\u01a1n"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "decoration": "C\u00e1c \u0111\u1ed1i t\u01b0\u1ee3ng 3D \u0111\u1ec3 trang tr\u00ed"
+        },
+        "metadata": null,
+        "address": "169 T\u00e2y S\u01a1n, Qu\u1eadn \u0110\u1ed1ng \u0110a"
+    }
+}

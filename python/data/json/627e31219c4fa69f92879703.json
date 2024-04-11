@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e31219c4fa69f92879703",
+        "name": "Si\u00eau Th\u1ecb Mini CK+ Mart",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76906776265803,
+            "lat": 21.011911679865193
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21.5,
+            "bearing": -5.4,
+            "tilt": 0.5,
+            "target": {
+                "lng": 105.76906168831181,
+                "lat": 21.011892782061665
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76902578706722,
+                    "lat": 21.011880500428674
+                },
+                {
+                    "lng": 105.76906905030006,
+                    "lat": 21.011961286920766
+                },
+                {
+                    "lng": 105.76911099741261,
+                    "lat": 21.011942284372395
+                },
+                {
+                    "lng": 105.76906521585221,
+                    "lat": 21.011862647738937
+                }
+            ],
+            "height": 8,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "local_market"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00e1ch 8/11 L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "local_market": "Ch\u1ee3"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

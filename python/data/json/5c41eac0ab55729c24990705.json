@@ -1,0 +1,351 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c41eac0ab55729c24990705",
+        "name": "Hanel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845ea814a9df9d67e6321",
+                "location": {
+                    "lng": 105.830921,
+                    "lat": 21.006718
+                },
+                "address": "2 Ch\u00f9a B\u1ed9c, Ph\u01b0\u1eddng Trung T\u1ef1, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Hanel",
+                "objectId": "5c41eac0ab55729c24990705",
+                "description": " &nbsp; ",
+                "types": [
+                    "bank",
+                    "finance"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "group": "finance"
+                    },
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "group": "finance"
+                    }
+                ],
+                "mainType": "bank",
+                "mainTypeInfos": {
+                    "id": "bank",
+                    "name": "Ng\u00e2n h\u00e0ng",
+                    "group": "finance"
+                },
+                "auxiliaryTypes": [
+                    "finance"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "group": "finance"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "2 Ch\u00f9a B\u1ed9c"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Trung T\u1ef1"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 1546275600000,
+                "endDate": 2524582800000,
+                "placeTypes": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "finance",
+                        "minRank": 50000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "finance",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5c41eac0ab55729c24990705",
+                    "name": "Hanel",
+                    "location": {
+                        "lng": 105.83100227187242,
+                        "lat": 21.006684280815406
+                    },
+                    "scale": 1,
+                    "bearing": -26,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -21.600196813974144,
+                        "tilt": 66,
+                        "target": {
+                            "lng": 105.83086975274855,
+                            "lat": 21.006727758010058
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5c41eac0ab55729c24990705",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c41eac0ab55729c24990705",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.831123,
+                                "lat": 21.006873
+                            },
+                            {
+                                "lng": 105.831123,
+                                "lat": 21.006515
+                            },
+                            {
+                                "lng": 105.830746,
+                                "lat": 21.006873
+                            },
+                            {
+                                "lng": 105.830746,
+                                "lat": 21.006515
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "ad2386f3abb04b39b954d97d595b822e.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/ad2386f3abb04b39b954d97d595b822e.jpg"
+                    },
+                    "types": [
+                        "bank"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 17,
+                    "startDate": 1546275600000,
+                    "endDate": 2524582800000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ch\u00f9a B\u1ed9c",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Trung T\u1ef1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ch\u00f9a B\u1ed9c, Ph\u01b0\u1eddng Trung T\u1ef1, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5bf62a93a1645b1cb404a408",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1547849008343,
+                    "updatedDate": 1623224212668
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.830921,
+                        21.006718
+                    ]
+                },
+                "rank": {
+                    "value": 1000004
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.83100227187242,
+            "lat": 21.006684280815406
+        },
+        "scale": 1,
+        "bearing": -26,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -21.600196813974144,
+            "tilt": 66,
+            "target": {
+                "lng": 105.83086975274855,
+                "lat": 21.006727758010058
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c41eac0ab55729c24990705",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c41eac0ab55729c24990705",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.831123,
+                    "lat": 21.006873
+                },
+                {
+                    "lng": 105.831123,
+                    "lat": 21.006515
+                },
+                {
+                    "lng": 105.830746,
+                    "lat": 21.006873
+                },
+                {
+                    "lng": 105.830746,
+                    "lat": 21.006515
+                }
+            ],
+            "height": 0,
+            "textureName": "ad2386f3abb04b39b954d97d595b822e.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/ad2386f3abb04b39b954d97d595b822e.jpg"
+        },
+        "types": [
+            "bank"
+        ],
+        "minZoom": 17,
+        "maxZoom": 17,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ch\u00f9a B\u1ed9c"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung T\u1ef1"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 1546275600000,
+        "endDate": 2524582800000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bank": "Ng\u00e2n h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Ch\u00f9a B\u1ed9c, Ph\u01b0\u1eddng Trung T\u1ef1, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam"
+    }
+}

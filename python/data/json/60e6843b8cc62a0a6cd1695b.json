@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60e6843b8cc62a0a6cd1695b",
+        "name": "Hanoi Nostalgia Hotel & Spa",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85308330605051,
+            "lat": 21.034735138251975
+        },
+        "scale": 0.95,
+        "bearing": -170,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -187.50755369721904,
+            "tilt": 74.5,
+            "target": {
+                "lng": 105.85313234142772,
+                "lat": 21.034625509866853
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60e6842b8cc62a0a6cd16956.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60e6842b8cc62a0a6cd16956.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85314046884967,
+                    "lat": 21.03477945733608
+                },
+                {
+                    "lng": 105.85314046882064,
+                    "lat": 21.03468962580767
+                },
+                {
+                    "lng": 105.8530442238428,
+                    "lat": 21.03468962580767
+                },
+                {
+                    "lng": 105.85304422381378,
+                    "lat": 21.03477945733608
+                },
+                {
+                    "lng": 105.85314046884967,
+                    "lat": 21.03477945733608
+                }
+            ],
+            "height": null,
+            "textureName": "60e6842c8cc62a0a6cd16958.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60e6842c8cc62a0a6cd16958.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,464 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "610ce429ab07de671fd1db22",
+        "name": "Medallion Hanoi Hotel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60dd37b9f81cb14bc86f5110",
+                "location": {
+                    "lng": 105.8531555,
+                    "lat": 21.0360245
+                },
+                "address": "11 P. M\u00e3 M\u00e2y, H\u00e0ng Bu\u1ed3m, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Medallion Hanoi Hotel",
+                "objectId": "610ce429ab07de671fd1db22",
+                "description": " 11 Ph\u1ed1 M\u00e3 M\u00e2y ,  H\u00e0ng Bu\u1ed3m ,  Ho\u00e0n Ki\u1ebfm ,  H\u00e0 N\u1ed9i ,  Vi\u1ec7t Nam ",
+                "types": [
+                    "restaurant",
+                    "travel_agent",
+                    "lodging",
+                    "establishment",
+                    "food_service",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "restaurant",
+                        "name": "Nh\u00e0 h\u00e0ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "travel_agent",
+                        "name": "\u0110\u1ea1i l\u00fd du l\u1ecbch/v\u00e9 m\u00e1y bay",
+                        "group": "service"
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "restaurant",
+                "mainTypeInfos": {
+                    "id": "restaurant",
+                    "name": "Nh\u00e0 h\u00e0ng",
+                    "group": "food_service"
+                },
+                "auxiliaryTypes": [
+                    "travel_agent",
+                    "lodging",
+                    "establishment",
+                    "food_service",
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "travel_agent",
+                        "name": "\u0110\u1ea1i l\u00fd du l\u1ecbch/v\u00e9 m\u00e1y bay",
+                        "group": "service"
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "11 P. M\u00e3 M\u00e2y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "restaurant",
+                        "name": "Nh\u00e0 h\u00e0ng",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "food_service",
+                        "minRank": 50000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1665631628283
+                    },
+                    {
+                        "id": "travel_agent",
+                        "name": "\u0110\u1ea1i l\u00fd du l\u1ecbch/v\u00e9 m\u00e1y bay",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "food_service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "610ce429ab07de671fd1db22",
+                    "name": "Medallion Hanoi Hotel",
+                    "location": {
+                        "lng": 105.85317075912099,
+                        "lat": 21.036109145741435
+                    },
+                    "scale": 1,
+                    "bearing": -22,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": 54.28768223324126,
+                        "tilt": 75,
+                        "target": {
+                            "lng": 105.85357984589908,
+                            "lat": 21.036410307842484
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "610ce423ab07de671fd1db1d.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/610ce423ab07de671fd1db1d.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85321888208291,
+                                "lat": 21.03615406149887
+                            },
+                            {
+                                "lng": 105.8532188820539,
+                                "lat": 21.036064229970457
+                            },
+                            {
+                                "lng": 105.85312263618806,
+                                "lat": 21.036064229970457
+                            },
+                            {
+                                "lng": 105.85312263615904,
+                                "lat": 21.03615406149887
+                            },
+                            {
+                                "lng": 105.85321888208291,
+                                "lat": 21.03615406149887
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "610ce423ab07de671fd1db1f.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/610ce423ab07de671fd1db1f.jpg"
+                    },
+                    "types": [],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ph\u1ed1 M\u00e3 M\u00e2y",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1628234793364,
+                    "updatedDate": 1628234793364
+                },
+                "tags": [],
+                "phoneNumber": "024 3926 1302",
+                "website": null,
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8531555,
+                        21.0360245
+                    ]
+                },
+                "rank": {
+                    "value": 50000
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85317075912099,
+            "lat": 21.036109145741435
+        },
+        "scale": 1,
+        "bearing": -22,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 54.28768223324126,
+            "tilt": 75,
+            "target": {
+                "lng": 105.85357984589908,
+                "lat": 21.036410307842484
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "610ce423ab07de671fd1db1d.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/610ce423ab07de671fd1db1d.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85321888208291,
+                    "lat": 21.03615406149887
+                },
+                {
+                    "lng": 105.8532188820539,
+                    "lat": 21.036064229970457
+                },
+                {
+                    "lng": 105.85312263618806,
+                    "lat": 21.036064229970457
+                },
+                {
+                    "lng": 105.85312263615904,
+                    "lat": 21.03615406149887
+                },
+                {
+                    "lng": 105.85321888208291,
+                    "lat": 21.03615406149887
+                }
+            ],
+            "height": null,
+            "textureName": "610ce423ab07de671fd1db1f.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/610ce423ab07de671fd1db1f.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ed1 M\u00e3 M\u00e2y"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": null
+    }
+}

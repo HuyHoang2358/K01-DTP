@@ -1,0 +1,93 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff831c5f75190676b00249d",
+        "name": "Athena Luxury",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22737803520761,
+            "lat": 16.090526879412195
+        },
+        "scale": 1,
+        "bearing": -44,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 56.666498530466036,
+            "tilt": 67.5,
+            "target": {
+                "lng": 108.22745981474145,
+                "lat": 16.090734827537545
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff83158beee3c4c5c5bc2f5.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff83158beee3c4c5c5bc2f5.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.2274247822997,
+                    "lat": 16.09057179517133
+                },
+                {
+                    "lng": 108.22742478227856,
+                    "lat": 16.09048196364291
+                },
+                {
+                    "lng": 108.22733128813665,
+                    "lat": 16.09048196364291
+                },
+                {
+                    "lng": 108.22733128811551,
+                    "lat": 16.09057179517133
+                },
+                {
+                    "lng": 108.2274247822997,
+                    "lat": 16.09057179517133
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff83159741cd06e43fb8492.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff83159741cd06e43fb8492.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            }
+        ],
+        "startDate": 1672506000000,
+        "endDate": 4073561999999,
+        "source": null,
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "N\u1ea1i Hi\u00ean \u0110\u00f4ng, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

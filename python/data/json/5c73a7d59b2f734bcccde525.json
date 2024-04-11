@@ -1,0 +1,94 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c73a7d59b2f734bcccde525",
+        "name": "Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc S\u01b0 Ph\u1ea1m - \u0110\u1ea1i h\u1ecdc \u0110\u00e0 N\u1eb5ng -C1C2C3",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.15980142796667,
+            "lat": 16.060835519448062
+        },
+        "scale": 1,
+        "bearing": -34,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -83.4610985408709,
+            "tilt": 59.5,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c73a7d59b2f734bcccde525",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c73a7d59b2f734bcccde525",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.160333,
+                    "lat": 16.061081
+                },
+                {
+                    "lng": 108.15969,
+                    "lat": 16.060165
+                },
+                {
+                    "lng": 108.159862,
+                    "lat": 16.061387
+                },
+                {
+                    "lng": 108.159219,
+                    "lat": 16.060471
+                }
+            ],
+            "height": 0,
+            "textureName": "fca28567f5614ca089d0acd066ae3abf.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/fca28567f5614ca089d0acd066ae3abf.jpg"
+        },
+        "types": [
+            "university"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Li\u00ean Chi\u1ec3u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "H\u00f2a Kh\u00e1nh Nam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Kh\u1eafc Nhu"
+            }
+        ],
+        "startDate": 949363200000,
+        "endDate": 2529619200000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "university": "Tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc"
+        },
+        "metadata": null,
+        "address": "Nguy\u1ec5n Kh\u1eafc Nhu, H\u00f2a Kh\u00e1nh Nam, Li\u00ean Chi\u1ec3u, \u0110\u00e0 N\u1eb5ng"
+    }
+}

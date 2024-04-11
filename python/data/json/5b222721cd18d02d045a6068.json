@@ -1,0 +1,341 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b222721cd18d02d045a6068",
+        "name": "Chung c\u01b0 Blue House A",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e7814a9df9d67e5e0a",
+                "location": {
+                    "lng": 108.228122,
+                    "lat": 16.092451
+                },
+                "address": "H\u1ed3 S\u0129 T\u00e2n, Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Chung c\u01b0 Blue House A",
+                "objectId": "5b222721cd18d02d045a6068",
+                "description": " D\u01b0\u0323 a\u0301n g\u00f4\u0300m 3 kh\u00f4\u0301i nha\u0300 chung c\u01b0 A, B, C cao 12 \u2013 18 t\u00e2\u0300ng v\u01a1\u0301i t\u00f4\u0309ng c\u00f4\u0323ng g\u00e2\u0300n 1.000 c\u0103n h\u00f4\u0323. Ngoa\u0300i ra co\u0300n co\u0301 kh\u00f4\u0301i nha\u0300 c\u00f4ng c\u00f4\u0323ng, nha\u0300 tre\u0309, c\u00f4ng vi\u00ean c\u00e2y xanh, \u0111\u01b0\u01a1\u0300ng giao th\u00f4ng n\u00f4\u0323i b\u00f4\u0323, t\u01b0\u01a1\u0300ng ra\u0300o c\u00f4\u0309ng ngo\u0303\u2026 Di\u00ea\u0323n ti\u0301ch bi\u0300nh qu\u00e2n m\u00f4\u0303i c\u0103n h\u00f4\u0323 chung c\u01b0 ta\u0323i d\u01b0\u0323 a\u0301n Blue House An Trung 2 h\u01a1n 53m2, g\u00f4\u0300m 1 pho\u0300ng kha\u0301ch, 2 pho\u0300ng ngu\u0309, t\u01b0\u0300 1 \u2013 2 pho\u0300ng v\u00ea\u0323 sinh, b\u00ea\u0301p, gi\u00ea\u0301ng tr\u01a1\u0300i\u2026Hi\u00ea\u0323n kh\u00f4\u0301i nha\u0300 C cu\u0309a d\u01b0\u0323 a\u0301n na\u0300y \u0111ang thi c\u00f4ng hoa\u0300n thi\u00ea\u0323n \u0111\u00ea\u0309 ba\u0300n giao cho kha\u0301ch ha\u0300ng \u0111\u01b0a va\u0300o s\u01b0\u0309 du\u0323ng ngay trong n\u0103m nay ",
+                "types": [
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "H\u1ed3 S\u0129 T\u00e2n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b222721cd18d02d045a6068",
+                    "name": "Chung c\u01b0 Blue House A",
+                    "location": {
+                        "lng": 108.228122,
+                        "lat": 16.092451
+                    },
+                    "scale": 1,
+                    "bearing": 47,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 18,
+                        "bearing": -0.001,
+                        "tilt": 57.1,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5b222721cd18d02d045a6068",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b222721cd18d02d045a6068",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.228233,
+                                "lat": 16.092838
+                            },
+                            {
+                                "lng": 108.228515,
+                                "lat": 16.092586
+                            },
+                            {
+                                "lng": 108.227728,
+                                "lat": 16.092317
+                            },
+                            {
+                                "lng": 108.22801,
+                                "lat": 16.092065
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "1e9e08e3c7404d8690b1a2b14634aa3a.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/1e9e08e3c7404d8690b1a2b14634aa3a.jpg"
+                    },
+                    "types": [
+                        "apartments"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 975060000000,
+                    "endDate": 4099629600000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "H\u1ed3 S\u0129 T\u00e2n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "H\u1ed3 S\u0129 T\u00e2n, Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5bfca4d3bfc3191b04f60935",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1528964897709,
+                    "updatedDate": 1623224191682
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.228122,
+                        16.092451
+                    ]
+                },
+                "rank": {
+                    "value": 1000062
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.228122,
+            "lat": 16.092451
+        },
+        "scale": 1,
+        "bearing": 47,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -0.001,
+            "tilt": 57.1,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5b222721cd18d02d045a6068",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b222721cd18d02d045a6068",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.228233,
+                    "lat": 16.092838
+                },
+                {
+                    "lng": 108.228515,
+                    "lat": 16.092586
+                },
+                {
+                    "lng": 108.227728,
+                    "lat": 16.092317
+                },
+                {
+                    "lng": 108.22801,
+                    "lat": 16.092065
+                }
+            ],
+            "height": 0,
+            "textureName": "1e9e08e3c7404d8690b1a2b14634aa3a.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/1e9e08e3c7404d8690b1a2b14634aa3a.jpg"
+        },
+        "types": [
+            "apartments"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u1ed3 S\u0129 T\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 975060000000,
+        "endDate": 4099629600000,
+        "source": null,
+        "typeInfos": {},
+        "metadata": null,
+        "address": "H\u1ed3 S\u0129 T\u00e2n, Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

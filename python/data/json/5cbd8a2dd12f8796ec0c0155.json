@@ -1,0 +1,98 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5cbd8a2dd12f8796ec0c0155",
+        "name": "Danang Souvenirs & Cafe",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.223717,
+            "lat": 16.077966
+        },
+        "scale": 1,
+        "bearing": 6,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 266.4267839029772,
+            "tilt": 20.196078431372527,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5cbd992f0b607d0930843583",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cbd992f0b607d0930843583",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.223897,
+                    "lat": 16.078133
+                },
+                {
+                    "lng": 108.223934,
+                    "lat": 16.077838
+                },
+                {
+                    "lng": 108.223609,
+                    "lat": 16.078099
+                },
+                {
+                    "lng": 108.223646,
+                    "lat": 16.077804
+                }
+            ],
+            "height": 1,
+            "textureName": "5cbd992f0b607d0930843584.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cbd992f0b607d0930843584.jpg"
+        },
+        "types": [
+            "cafe"
+        ],
+        "minZoom": 13,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00fd T\u1ef1 Tr\u1ecdng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 954522000000,
+        "endDate": 2532358800000,
+        "source": null,
+        "typeInfos": {
+            "cafe": "C\u00e0 ph\u00ea"
+        },
+        "metadata": null,
+        "address": "L\u00fd T\u1ef1 Tr\u1ecdng, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

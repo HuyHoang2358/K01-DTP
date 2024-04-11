@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e314f9c4fa69f9287970a",
+        "name": "Tr\u1ea1m Y T\u1ebf Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.77076577635084,
+            "lat": 21.010016266184156
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20.5,
+            "bearing": -5.4,
+            "tilt": 0.5,
+            "target": {
+                "lng": 105.77072852174501,
+                "lat": 21.010101004939205
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.77061341559966,
+                    "lat": 21.010099671154038
+                },
+                {
+                    "lng": 105.7707230881137,
+                    "lat": 21.010178761149902
+                },
+                {
+                    "lng": 105.77091479575154,
+                    "lat": 21.009931933513457
+                },
+                {
+                    "lng": 105.77081180593848,
+                    "lat": 21.009854698919227
+                }
+            ],
+            "height": 8,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "doctor"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ch\u00e2u V\u0103n Li\u00eam"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "doctor": "Ph\u00f2ng kh\u00e1m"
+        },
+        "metadata": null,
+        "address": "Ch\u00e2u V\u0103n Li\u00eam, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

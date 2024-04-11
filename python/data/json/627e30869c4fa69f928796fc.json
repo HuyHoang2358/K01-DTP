@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e30869c4fa69f928796fc",
+        "name": "Ch\u00f9a Tr\u1ea1i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7687913542125,
+            "lat": 21.011858204371713
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -5.4,
+            "tilt": 0.5,
+            "target": {
+                "lng": 105.76880905067253,
+                "lat": 21.011858524849615
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76878043199082,
+                    "lat": 21.01188163262252
+                },
+                {
+                    "lng": 105.76885701788842,
+                    "lat": 21.0118503416721
+                },
+                {
+                    "lng": 105.76883653923056,
+                    "lat": 21.011813042604118
+                },
+                {
+                    "lng": 105.7687332009848,
+                    "lat": 21.011852617695183
+                },
+                {
+                    "lng": 105.76874958096784,
+                    "lat": 21.01189338726465
+                }
+            ],
+            "height": 4,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "pagoda"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00e1ch 8/11 L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "pagoda": "Ch\u00f9a"
+        },
+        "metadata": null,
+        "address": "Ng\u00e1ch 8/11 L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

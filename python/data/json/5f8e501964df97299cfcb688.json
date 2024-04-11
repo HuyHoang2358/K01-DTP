@@ -1,0 +1,369 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e501964df97299cfcb688",
+        "name": "HOTELLECARNOT",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c24e2c2e7d438384b9553",
+                "location": {
+                    "lng": 105.846532,
+                    "lat": 21.0397199
+                },
+                "address": "3A Phan \u0110\u00ecnh Ph\u00f9ng, H\u00e0ng M\u00e3, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "HOTELLECARNOT",
+                "objectId": "5f8e501964df97299cfcb688",
+                "description": "3A Phan \u0110\u00ecnh Ph\u00f9ng, H\u00e0ng M\u00e3, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "3A"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Phan \u0110\u00ecnh Ph\u00f9ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng M\u00e3"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8e501964df97299cfcb688",
+                    "name": "HOTELLECARNOT",
+                    "location": {
+                        "lng": 105.84655081559288,
+                        "lat": 21.03963773041309
+                    },
+                    "scale": 1,
+                    "bearing": 170,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -120.02029982873162,
+                        "tilt": 75.5,
+                        "target": {
+                            "lng": 105.84624098913775,
+                            "lat": 21.039521085293373
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8e500264df97299cfcb685.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e500264df97299cfcb685.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84659893969473,
+                                "lat": 21.03968264617053
+                            },
+                            {
+                                "lng": 105.84659893966571,
+                                "lat": 21.03959281464212
+                            },
+                            {
+                                "lng": 105.84650269152006,
+                                "lat": 21.03959281464212
+                            },
+                            {
+                                "lng": 105.84650269149104,
+                                "lat": 21.03968264617053
+                            },
+                            {
+                                "lng": 105.84659893969473,
+                                "lat": 21.03968264617053
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8e50031a51f33b969561b5.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e50031a51f33b969561b5.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ba \u0110\u00ecnh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Qu\u00e1n Th\u00e1nh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "H\u00e0ng C\u00f3t",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "3A",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603162137143,
+                    "updatedDate": 1623224248311
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3927 1888",
+                "website": "http://www.hotellecarnot.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.846532,
+                        21.0397199
+                    ]
+                },
+                "rank": {
+                    "value": 1002.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84655081559288,
+            "lat": 21.03963773041309
+        },
+        "scale": 1,
+        "bearing": 170,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -120.02029982873162,
+            "tilt": 75.5,
+            "target": {
+                "lng": 105.84624098913775,
+                "lat": 21.039521085293373
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8e500264df97299cfcb685.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e500264df97299cfcb685.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84659893969473,
+                    "lat": 21.03968264617053
+                },
+                {
+                    "lng": 105.84659893966571,
+                    "lat": 21.03959281464212
+                },
+                {
+                    "lng": 105.84650269152006,
+                    "lat": 21.03959281464212
+                },
+                {
+                    "lng": 105.84650269149104,
+                    "lat": 21.03968264617053
+                },
+                {
+                    "lng": 105.84659893969473,
+                    "lat": 21.03968264617053
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8e50031a51f33b969561b5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e50031a51f33b969561b5.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Qu\u00e1n Th\u00e1nh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng C\u00f3t"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "3A"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

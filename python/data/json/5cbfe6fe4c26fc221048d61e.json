@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5cbfe6fe4c26fc221048d61e",
+        "name": "Mimosa Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22912475844498,
+            "lat": 16.074719352124916
+        },
+        "scale": 1,
+        "bearing": -90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 91.35892921703498,
+            "tilt": 84.5,
+            "target": {
+                "lng": 108.22971124848505,
+                "lat": 16.07468965773812
+            }
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5cd935fe3520bb46ec393970.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cd935fe3520bb46ec393970.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22917150181887,
+                    "lat": 16.07476426788405
+                },
+                {
+                    "lng": 108.22917150179775,
+                    "lat": 16.074674436355636
+                },
+                {
+                    "lng": 108.22907801509221,
+                    "lat": 16.074674436355636
+                },
+                {
+                    "lng": 108.22907801507111,
+                    "lat": 16.07476426788405
+                },
+                {
+                    "lng": 108.22917150181887,
+                    "lat": 16.07476426788405
+                }
+            ],
+            "height": 0,
+            "textureName": "5cd935fe3520bb46ec393972.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cd935fe3520bb46ec393972.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 954547200000,
+        "endDate": 2534889600000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

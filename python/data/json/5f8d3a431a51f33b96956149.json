@@ -1,0 +1,350 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d3a431a51f33b96956149",
+        "name": "The Lapis Hotel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c2439c2e7d438384af837",
+                "location": {
+                    "lng": 105.8300433,
+                    "lat": 21.2054656
+                },
+                "address": "\u0301S\u1ed1, 8B \u0110. V\u00f5 Nguy\u00ean Gi\u00e1p, Th\u00e1i Ph\u00f9, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Hanoi Airport Hotel & Travel",
+                "objectId": "5f8d3a431a51f33b96956149",
+                "description": "21 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Phan Chu Trinh, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "S\u1ed1"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "8B"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "V\u00f5 Nguy\u00ean Gi\u00e1p"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "X\u00e3 Mai \u0110\u00ecnh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Huy\u1ec7n S\u00f3c S\u01a1n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://lh4.googleusercontent.com/proxy/qIlfOomcE41hm7n4lYM_KXV8BXV5epbahSNOwJuGueii8AlSwJWod78KYbRDgxymdJmHZwcIO-6sIxc7DR0PHCB7Ytv68BVFhTz3BIMHoDB_t0DDq_b40c8s5EPssghfNH3ifQLsVlWiQziFTgFu8u2sUg94O6s=w80-h120-k-no",
+                        "name": null,
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8d3a431a51f33b96956149",
+                    "name": "The Lapis Hotel",
+                    "location": {
+                        "lng": 105.85593177555614,
+                        "lat": 21.019687074821093
+                    },
+                    "scale": 1,
+                    "bearing": 162,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": -130.05484154519118,
+                        "tilt": 77,
+                        "target": {
+                            "lng": 105.85522749807642,
+                            "lat": 21.01907695779066
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8d3a2c1a51f33b96956147.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d3a2c1a51f33b96956147.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85597989321603,
+                                "lat": 21.019731990578535
+                            },
+                            {
+                                "lng": 105.85597989318704,
+                                "lat": 21.019642159050118
+                            },
+                            {
+                                "lng": 105.85588365792525,
+                                "lat": 21.019642159050118
+                            },
+                            {
+                                "lng": 105.85588365789626,
+                                "lat": 21.019731990578535
+                            },
+                            {
+                                "lng": 105.85597989321603,
+                                "lat": 21.019731990578535
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8d3a2c64df97299cfcb608.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d3a2c64df97299cfcb608.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Phan Chu Trinh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "21",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603091011811,
+                    "updatedDate": 1623224248191
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "0943999287",
+                "website": null,
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8300433,
+                        21.2054656
+                    ]
+                },
+                "rank": {
+                    "value": 1009
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85593177555614,
+            "lat": 21.019687074821093
+        },
+        "scale": 1,
+        "bearing": 162,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -130.05484154519118,
+            "tilt": 77,
+            "target": {
+                "lng": 105.85522749807642,
+                "lat": 21.01907695779066
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d3a2c1a51f33b96956147.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d3a2c1a51f33b96956147.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85597989321603,
+                    "lat": 21.019731990578535
+                },
+                {
+                    "lng": 105.85597989318704,
+                    "lat": 21.019642159050118
+                },
+                {
+                    "lng": 105.85588365792525,
+                    "lat": 21.019642159050118
+                },
+                {
+                    "lng": 105.85588365789626,
+                    "lat": 21.019731990578535
+                },
+                {
+                    "lng": 105.85597989321603,
+                    "lat": 21.019731990578535
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d3a2c64df97299cfcb608.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d3a2c64df97299cfcb608.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Phan Chu Trinh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "21"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

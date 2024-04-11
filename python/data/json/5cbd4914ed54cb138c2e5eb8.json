@@ -1,0 +1,353 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5cbd4914ed54cb138c2e5eb8",
+        "name": "Babylon Cafe",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5cbd4914ed54cb138c2e5eb9",
+                "location": {
+                    "lng": 108.2241,
+                    "lat": 16.075931
+                },
+                "address": "Babylon coffee, B\u1ea1ch \u0110\u1eb1ng, H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng, 8511 B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Babylon Cafe",
+                "objectId": "5cbd4914ed54cb138c2e5eb8",
+                "description": " &nbsp; ",
+                "types": [
+                    "cafe",
+                    "food_service"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "cafe",
+                        "name": "C\u00e0 ph\u00ea",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    }
+                ],
+                "mainType": "cafe",
+                "mainTypeInfos": {
+                    "id": "cafe",
+                    "name": "C\u00e0 ph\u00ea",
+                    "group": "food_service"
+                },
+                "auxiliaryTypes": [
+                    "food_service"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Babylon coffee, B\u1ea1ch \u0110\u1eb1ng, H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "8511"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "B\u1ea1ch \u0110\u1eb1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 954522000000,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "cafe",
+                        "name": "C\u00e0 ph\u00ea",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "food_service",
+                        "minRank": 500000,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "food_service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5cbd4914ed54cb138c2e5eb8",
+                    "name": "Babylon Cafe",
+                    "location": {
+                        "lng": 108.22408631441283,
+                        "lat": 16.07595428191641
+                    },
+                    "scale": 1,
+                    "bearing": 10,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 62.185220070544105,
+                        "tilt": 66.5,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5cbd4916a82dfa69aca1f1fe",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cbd4916a82dfa69aca1f1fe",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.224138,
+                                "lat": 16.076155
+                            },
+                            {
+                                "lng": 108.224209,
+                                "lat": 16.075728
+                            },
+                            {
+                                "lng": 108.223526,
+                                "lat": 16.076062
+                            },
+                            {
+                                "lng": 108.223596,
+                                "lat": 16.075635
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5cbd4916a82dfa69aca1f1ff.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cbd4916a82dfa69aca1f1ff.jpg"
+                    },
+                    "types": [
+                        "cafe"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": 954547200000,
+                    "endDate": 2534889600000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "B\u1ea1ch \u0110\u1eb1ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "582546120ec6af4457a68494",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "d9842deb-64ba-4331-afa4-a4313a3631a5",
+                        "displayName": ""
+                    },
+                    "createdDate": 1555908886477,
+                    "updatedDate": 1623224217333
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.2241,
+                        16.075931
+                    ]
+                },
+                "rank": {
+                    "value": 1000046.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22408631441283,
+            "lat": 16.07595428191641
+        },
+        "scale": 1,
+        "bearing": 10,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 62.185220070544105,
+            "tilt": 66.5,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5cbd4916a82dfa69aca1f1fe",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cbd4916a82dfa69aca1f1fe",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.224138,
+                    "lat": 16.076155
+                },
+                {
+                    "lng": 108.224209,
+                    "lat": 16.075728
+                },
+                {
+                    "lng": 108.223526,
+                    "lat": 16.076062
+                },
+                {
+                    "lng": 108.223596,
+                    "lat": 16.075635
+                }
+            ],
+            "height": 1,
+            "textureName": "5cbd4916a82dfa69aca1f1ff.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cbd4916a82dfa69aca1f1ff.jpg"
+        },
+        "types": [
+            "cafe"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "B\u1ea1ch \u0110\u1eb1ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 954547200000,
+        "endDate": 2534889600000,
+        "source": null,
+        "typeInfos": {
+            "cafe": "C\u00e0 ph\u00ea"
+        },
+        "metadata": null,
+        "address": "B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60e525998cc62a0a6cd167fa",
+        "name": "Inearth Hotel Hanoi",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78715238435609,
+            "lat": 21.032618646862943
+        },
+        "scale": 1,
+        "bearing": 58,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 333.18084249870935,
+            "tilt": 47,
+            "target": {
+                "lng": 105.78703511247635,
+                "lat": 21.032662844060784
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60e5258a8cc62a0a6cd167f5.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60e5258a8cc62a0a6cd167f5.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78720050619067,
+                    "lat": 21.032663562620378
+                },
+                {
+                    "lng": 105.78720050616165,
+                    "lat": 21.03257373109197
+                },
+                {
+                    "lng": 105.78710426255054,
+                    "lat": 21.03257373109197
+                },
+                {
+                    "lng": 105.78710426252152,
+                    "lat": 21.032663562620378
+                },
+                {
+                    "lng": 105.78720050619067,
+                    "lat": 21.032663562620378
+                }
+            ],
+            "height": null,
+            "textureName": "60e5258b8cc62a0a6cd167f7.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60e5258b8cc62a0a6cd167f7.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ed1 D\u1ecbch V\u1ecdng H\u1eadu"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

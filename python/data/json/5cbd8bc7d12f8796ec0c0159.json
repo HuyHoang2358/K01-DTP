@@ -1,0 +1,90 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5cbd8bc7d12f8796ec0c0159",
+        "name": "Trung t\u00e2m V\u0103n h\u00f3a Tp \u0110\u00e0 N\u1eb5ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22371354586141,
+            "lat": 16.078259540526687
+        },
+        "scale": 1,
+        "bearing": 6,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 89.53372987872179,
+            "tilt": 67.078431372549,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5cbd99130b607d093084357f",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cbd99130b607d093084357f",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.223859,
+                    "lat": 16.078468
+                },
+                {
+                    "lng": 108.223903,
+                    "lat": 16.078065
+                },
+                {
+                    "lng": 108.223535,
+                    "lat": 16.078435
+                },
+                {
+                    "lng": 108.223579,
+                    "lat": 16.078032
+                }
+            ],
+            "height": 1,
+            "textureName": "5cbd99130b607d0930843580.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cbd99130b607d0930843580.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "B\u1ea1ch \u0110\u1eb1ng"
+            }
+        ],
+        "startDate": 954547200000,
+        "endDate": 2534889600000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "B\u1ea1ch \u0110\u1eb1ng, Th\u1ea1ch Thang, H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng"
+    }
+}

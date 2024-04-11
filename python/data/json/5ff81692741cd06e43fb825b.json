@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff81692741cd06e43fb825b",
+        "name": "Trung Yen Plaza",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80183126929609,
+            "lat": 21.01384971514257
+        },
+        "scale": 1,
+        "bearing": 42,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18.7465,
+            "bearing": -150.45348688323938,
+            "tilt": 32.000000953674316,
+            "target": {
+                "lng": 105.80211682306953,
+                "lat": 21.013429776445705
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff8168a741cd06e43fb8259.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff8168a741cd06e43fb8259.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80187938507255,
+                    "lat": 21.013894630900015
+                },
+                {
+                    "lng": 105.80187938504356,
+                    "lat": 21.013804799371602
+                },
+                {
+                    "lng": 105.8017831535486,
+                    "lat": 21.013804799371602
+                },
+                {
+                    "lng": 105.80178315351962,
+                    "lat": 21.013894630900015
+                },
+                {
+                    "lng": 105.80187938507255,
+                    "lat": 21.013894630900015
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff8168abeee3c4c5c5bc09d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff8168abeee3c4c5c5bc09d.jpg"
+        },
+        "types": [
+            "shopping_mall"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Trung H\u00f2a"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "1"
+            }
+        ],
+        "startDate": 1384275600000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "shopping_mall": "Trung t\u00e2m mua s\u1eafm"
+        },
+        "metadata": null,
+        "address": "1 Trung H\u00f2a, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

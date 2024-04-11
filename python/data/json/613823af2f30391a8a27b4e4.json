@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "613823af2f30391a8a27b4e4",
+        "name": "T\u00f2a Nh\u00e0 F4 Trung K\u00ednh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79377333344229,
+            "lat": 21.017885662970258
+        },
+        "scale": 0.85,
+        "bearing": 120,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 35.532292009141656,
+            "tilt": 46.416666239500046,
+            "target": {
+                "lng": 105.79377333344229,
+                "lat": 21.017885662970258
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6138239f2f30391a8a27b4df.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6138239f2f30391a8a27b4df.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79382145052088,
+                    "lat": 21.0179305787277
+                },
+                {
+                    "lng": 105.79382145049189,
+                    "lat": 21.017840747199287
+                },
+                {
+                    "lng": 105.79372521639269,
+                    "lat": 21.017840747199287
+                },
+                {
+                    "lng": 105.79372521636368,
+                    "lat": 21.0179305787277
+                },
+                {
+                    "lng": 105.79382145052088,
+                    "lat": 21.0179305787277
+                }
+            ],
+            "height": null,
+            "textureName": "613823a02f30391a8a27b4e1.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/613823a02f30391a8a27b4e1.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Trung K\u00ednh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "145"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "145 Trung K\u00ednh, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

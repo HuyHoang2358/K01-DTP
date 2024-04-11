@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ffd0d50e49e7b2263a00c48",
+        "name": "Chung C\u01b0 BRG Park Residence 25 L\u00ea V\u0103n L\u01b0\u01a1ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80478335775575,
+            "lat": 21.004733449438802
+        },
+        "scale": 0.87,
+        "bearing": 127,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -38.68106995967517,
+            "tilt": 24.333332300186157,
+            "target": {
+                "lng": 105.80498017487845,
+                "lat": 21.004983101783385
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ffd0ab9461fac04fec57442.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ffd0ab9461fac04fec57442.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80483147059215,
+                    "lat": 21.00477836519625
+                },
+                {
+                    "lng": 105.80483147056319,
+                    "lat": 21.00468853366784
+                },
+                {
+                    "lng": 105.80473524494832,
+                    "lat": 21.00468853366784
+                },
+                {
+                    "lng": 105.80473524491936,
+                    "lat": 21.00477836519625
+                },
+                {
+                    "lng": 105.80483147059215,
+                    "lat": 21.00477836519625
+                }
+            ],
+            "height": 1,
+            "textureName": "5ffd0abb9b70fd6b371f356e.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ffd0abb9b70fd6b371f356e.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nh\u00e2n H\u00f2a"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "t\u1ea7ng 5"
+            }
+        ],
+        "startDate": 1481821200000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "t\u1ea7ng 5 Nh\u00e2n H\u00f2a, Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

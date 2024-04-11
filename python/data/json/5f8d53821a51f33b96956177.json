@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d53821a51f33b96956177",
+        "name": "Shining Central Hotel & Spa",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85532298508718,
+            "lat": 21.031667247246844
+        },
+        "scale": 1,
+        "bearing": -7,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -16.098460000457038,
+            "tilt": 67,
+            "target": {
+                "lng": 105.85519371523968,
+                "lat": 21.031791494311246
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d53761a51f33b96956175.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d53761a51f33b96956175.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8553711066145,
+                    "lat": 21.031712163004283
+                },
+                {
+                    "lng": 105.8553711065855,
+                    "lat": 21.03162233147587
+                },
+                {
+                    "lng": 105.85527486358889,
+                    "lat": 21.03162233147587
+                },
+                {
+                    "lng": 105.85527486355987,
+                    "lat": 21.031712163004283
+                },
+                {
+                    "lng": 105.8553711066145,
+                    "lat": 21.031712163004283
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d5377797102214f9de2b4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d5377797102214f9de2b4.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00f2 S\u0169"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "20"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

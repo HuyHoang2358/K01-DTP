@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "614861af2f30391a8a27c5fb",
+        "name": "N\u1ec1n C\u00f4ng vi\u00ean C\u1ea7u Gi\u1ea5y",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7908215385994,
+            "lat": 21.028026549688462
+        },
+        "scale": 1.085,
+        "bearing": -106,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 17.533333444595332,
+            "tilt": 22.749998956918716,
+            "target": {
+                "lng": 105.7908215385994,
+                "lat": 21.028026549688462
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "614861a22f30391a8a27c5f6.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/614861a22f30391a8a27c5f6.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79086965895115,
+                    "lat": 21.0280714654459
+                },
+                {
+                    "lng": 105.79086965892213,
+                    "lat": 21.027981633917488
+                },
+                {
+                    "lng": 105.79077341827667,
+                    "lat": 21.027981633917488
+                },
+                {
+                    "lng": 105.79077341824767,
+                    "lat": 21.0280714654459
+                },
+                {
+                    "lng": 105.79086965895115,
+                    "lat": 21.0280714654459
+                }
+            ],
+            "height": null,
+            "textureName": "614861a32f30391a8a27c5f8.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/614861a32f30391a8a27c5f8.jpg"
+        },
+        "types": [
+            "park"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Duy T\u00e2n"
+            }
+        ],
+        "startDate": 1339434000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "park": "C\u00f4ng vi\u00ean/khu v\u1ef1c \u0111i b\u1ed9 th\u01b0 gi\u00e3n"
+        },
+        "metadata": null,
+        "address": "Duy T\u00e2n, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

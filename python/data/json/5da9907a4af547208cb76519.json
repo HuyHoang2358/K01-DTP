@@ -1,0 +1,71 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5da9907a4af547208cb76519",
+        "name": "JOLY MART",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.23026391459751,
+            "lat": 16.06397256320284
+        },
+        "scale": 1,
+        "bearing": -82,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -74.80826481285533,
+            "tilt": 54.5,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5da9907a5ae8de1460fc46f4.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5da9907a5ae8de1460fc46f4.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "5da990795ae8de1460fc46f2.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5da990795ae8de1460fc46f2.jpg"
+        },
+        "types": [
+            "supermarket"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i T\u00e2y"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "supermarket": "Si\u00eau th\u1ecb"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

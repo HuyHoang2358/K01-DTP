@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "612d9d532f30391a8a27b264",
+        "name": "Nam Trung Yen Middle School",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78816287065388,
+            "lat": 21.013888198881006
+        },
+        "scale": 1,
+        "bearing": -53,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 17.695150994101127,
+            "tilt": 26.41666555404663,
+            "target": {
+                "lng": 105.78790984058114,
+                "lat": 21.013967500744446
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "612d9d3c2f30391a8a27b25f.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/612d9d3c2f30391a8a27b25f.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78821098644275,
+                    "lat": 21.013933114638444
+                },
+                {
+                    "lng": 105.78821098641377,
+                    "lat": 21.013843283110035
+                },
+                {
+                    "lng": 105.78811475489397,
+                    "lat": 21.013843283110035
+                },
+                {
+                    "lng": 105.78811475486499,
+                    "lat": 21.013933114638444
+                },
+                {
+                    "lng": 105.78821098644275,
+                    "lat": 21.013933114638444
+                }
+            ],
+            "height": null,
+            "textureName": "612d9d3c2f30391a8a27b261.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/612d9d3c2f30391a8a27b261.jpg"
+        },
+        "types": [
+            "secondary_school"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Qu\u1ed1c Tr\u1ecb"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "11"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "secondary_school": "Tr\u01b0\u1eddng trung h\u1ecdc c\u01a1 s\u1edf (THCS)"
+        },
+        "metadata": null,
+        "address": "11 Nguy\u1ec5n Qu\u1ed1c Tr\u1ecb, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

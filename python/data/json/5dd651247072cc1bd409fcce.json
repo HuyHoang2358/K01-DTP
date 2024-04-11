@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5dd651247072cc1bd409fcce",
+        "name": "JW Marriott Hotel Hanoi",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78300814444754,
+            "lat": 21.007377592105883
+        },
+        "scale": 1,
+        "bearing": 52,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -57.9785594802203,
+            "tilt": 32.41666555404663,
+            "target": {
+                "lng": 105.78300814444754,
+                "lat": 21.007377592105883
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5dd6512470d9de1cf06237ba.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5dd6512470d9de1cf06237ba.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78305625813653,
+                    "lat": 21.00742250786333
+                },
+                {
+                    "lng": 105.78305625810755,
+                    "lat": 21.007332676334915
+                },
+                {
+                    "lng": 105.7829600307875,
+                    "lat": 21.007332676334915
+                },
+                {
+                    "lng": 105.78296003075855,
+                    "lat": 21.00742250786333
+                },
+                {
+                    "lng": 105.78305625813653,
+                    "lat": 21.00742250786333
+                }
+            ],
+            "height": 1,
+            "textureName": "5dd6512370d9de1cf06237b8.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5dd6512370d9de1cf06237b8.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u1ed7 \u0110\u1ee9c D\u1ee5c"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": " 8"
+            }
+        ],
+        "startDate": 1384275600000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": "8 \u0110\u1ed7 \u0110\u1ee9c D\u1ee5c, Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e2c4c9c4fa69f928796e2",
+        "name": "Shop qu\u1ea7n \u00e1o tr\u1ebb em-MeBin",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.75966588795377,
+            "lat": 21.020781253184104
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 23.40000000000002,
+            "tilt": 16,
+            "target": {
+                "lng": 105.75964050557133,
+                "lat": 21.020781815085513
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.75961217236585,
+                    "lat": 21.02080928516898
+                },
+                {
+                    "lng": 105.75972205996584,
+                    "lat": 21.02080602646494
+                },
+                {
+                    "lng": 105.75971902716503,
+                    "lat": 21.02075400503925
+                },
+                {
+                    "lng": 105.75961029231837,
+                    "lat": 21.020755696063247
+                }
+            ],
+            "height": 12,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "clothing_store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00e1ch 16/33 \u0110\u1ed7 Xu\u00e2n H\u1ee3p"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "clothing_store": "C\u1eeda h\u00e0ng \u00e1o qu\u1ea7n"
+        },
+        "metadata": null,
+        "address": "Ng\u00e1ch 16/33 \u0110\u1ed7 Xu\u00e2n H\u1ee3p, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

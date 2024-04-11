@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60c068fc17cf4702bf30de90",
+        "name": "Cyclo Bar",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85203424697585,
+            "lat": 21.034382578315743
+        },
+        "scale": 0.7,
+        "bearing": 83,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -62.006187029637736,
+            "tilt": 57.5,
+            "target": {
+                "lng": 105.85201996541116,
+                "lat": 21.03442016615748
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c068f146969f2a68879722.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c068f146969f2a68879722.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8520766445702,
+                    "lat": 21.034425778256953
+                },
+                {
+                    "lng": 105.8520766445412,
+                    "lat": 21.034335946728547
+                },
+                {
+                    "lng": 105.85198039979181,
+                    "lat": 21.034335946728547
+                },
+                {
+                    "lng": 105.85198039976281,
+                    "lat": 21.034425778256953
+                },
+                {
+                    "lng": 105.8520766445702,
+                    "lat": 21.034425778256953
+                }
+            ],
+            "height": 1,
+            "textureName": "60c068f24391e3457053d80b.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c068f24391e3457053d80b.jpg"
+        },
+        "types": [
+            "bar"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [],
+                "name": "H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            },
+            {
+                "types": [],
+                "name": "24d"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bar": "H\u1ed9p \u0111\u00eam/V\u0169 tr\u01b0\u1eddng/Qu\u00e1n bar"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "611b334a9606bf7229c5c9a8",
+        "name": "Trung t\u00e2m \u0111\u00e0o t\u1ea1o c\u00f4ng ngh\u1ec7 th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng - s\u1edf TTTT H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80469412080794,
+            "lat": 21.00586139325135
+        },
+        "scale": 1,
+        "bearing": -48,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18.75,
+            "bearing": -37.1855127054618,
+            "tilt": 13.000000387430191,
+            "target": {
+                "lng": 105.80441663470316,
+                "lat": 21.007415107317
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "611b333e9606bf7229c5c9a3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/611b333e9606bf7229c5c9a3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80474223400802,
+                    "lat": 21.0059063090088
+                },
+                {
+                    "lng": 105.80474223397907,
+                    "lat": 21.005816477480387
+                },
+                {
+                    "lng": 105.80464600763682,
+                    "lat": 21.005816477480387
+                },
+                {
+                    "lng": 105.80464600760787,
+                    "lat": 21.0059063090088
+                },
+                {
+                    "lng": 105.80474223400802,
+                    "lat": 21.0059063090088
+                }
+            ],
+            "height": null,
+            "textureName": "611b333f9606bf7229c5c9a5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/611b333f9606bf7229c5c9a5.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ho\u00e0ng \u0110\u1ea1o Th\u00fay"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "18"
+            }
+        ],
+        "startDate": 1244480400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "18 Ho\u00e0ng \u0110\u1ea1o Th\u00fay, Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

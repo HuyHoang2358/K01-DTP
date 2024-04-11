@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61372df62f30391a8a27b4db",
+        "name": "Nh\u00e0 h\u00e0ng S\u01a1n Thi\u00ean",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79394742510135,
+            "lat": 21.018868724464244
+        },
+        "scale": 1,
+        "bearing": 123,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -129.3333344578743,
+            "tilt": 11.749998062849045,
+            "target": {
+                "lng": 105.79394742510135,
+                "lat": 21.018868724464244
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61372dd22f30391a8a27b4d6.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61372dd22f30391a8a27b4d6.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79399554249717,
+                    "lat": 21.018913640221683
+                },
+                {
+                    "lng": 105.79399554246817,
+                    "lat": 21.01882380869327
+                },
+                {
+                    "lng": 105.79389930773453,
+                    "lat": 21.01882380869327
+                },
+                {
+                    "lng": 105.79389930770554,
+                    "lat": 21.018913640221683
+                },
+                {
+                    "lng": 105.79399554249717,
+                    "lat": 21.018913640221683
+                }
+            ],
+            "height": null,
+            "textureName": "61372dd32f30391a8a27b4d8.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61372dd32f30391a8a27b4d8.jpg"
+        },
+        "types": [
+            "restaurant"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Kim Xuy\u1ebfn"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "Ng\u00f5 37 "
+            }
+        ],
+        "startDate": 1339434000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "restaurant": "Nh\u00e0 h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 37  Tr\u1ea7n Kim Xuy\u1ebfn, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

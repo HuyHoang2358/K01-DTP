@@ -1,0 +1,109 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff81b91741cd06e43fb8407",
+        "name": "Sunrise Building",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78770599006856,
+            "lat": 21.03069831680169
+        },
+        "scale": 1,
+        "bearing": 37,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -12.378470581714858,
+            "tilt": 69,
+            "target": {
+                "lng": 105.78782032040425,
+                "lat": 21.03062238288649
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff81b8abeee3c4c5c5bc1ea.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff81b8abeee3c4c5c5bc1ea.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.787754111283,
+                    "lat": 21.03074323255913
+                },
+                {
+                    "lng": 105.78775411125397,
+                    "lat": 21.030653401030712
+                },
+                {
+                    "lng": 105.78765786888314,
+                    "lat": 21.030653401030712
+                },
+                {
+                    "lng": 105.78765786885414,
+                    "lat": 21.03074323255913
+                },
+                {
+                    "lng": 105.787754111283,
+                    "lat": 21.03074323255913
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff81b8af75190676b002457.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff81b8af75190676b002457.jpg"
+        },
+        "types": [
+            "point",
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Th\u00e1i T\u00f4ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "90"
+            }
+        ],
+        "startDate": 1222794000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9",
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "90 Tr\u1ea7n Th\u00e1i T\u00f4ng, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

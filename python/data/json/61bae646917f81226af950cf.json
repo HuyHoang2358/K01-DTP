@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61bae646917f81226af950cf",
+        "name": "H\u1ed9i \u0111\u1ed3ng Nh\u00e2n d\u00e2n TP H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85457096345027,
+            "lat": 21.027952551156446
+        },
+        "scale": 1,
+        "bearing": -10,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -25.800000000000008,
+            "tilt": 70.5,
+            "target": {
+                "lng": 105.85416587998327,
+                "lat": 21.02806129075226
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61bae633917f81226af950ca.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61bae633917f81226af950ca.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85461908377813,
+                    "lat": 21.027997466913888
+                },
+                {
+                    "lng": 105.85461908374911,
+                    "lat": 21.027907635385475
+                },
+                {
+                    "lng": 105.85452284315143,
+                    "lat": 21.027907635385475
+                },
+                {
+                    "lng": 105.85452284312242,
+                    "lat": 21.027997466913888
+                },
+                {
+                    "lng": 105.85461908377813,
+                    "lat": 21.027997466913888
+                }
+            ],
+            "height": null,
+            "textureName": "61bae634917f81226af950cc.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61bae634917f81226af950cc.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea Lai"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "10"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

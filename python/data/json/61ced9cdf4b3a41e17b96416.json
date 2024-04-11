@@ -1,0 +1,606 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61ced9cdf4b3a41e17b96416",
+        "name": "GYU SACHI - Nh\u00e0 h\u00e0ng n\u01b0\u1edbng Nh\u1eadt Ng\u01b0u H\u1ea1nh",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "61ced8cbf4b3a41e17b96414",
+                "location": {
+                    "lng": 108.2209161608356,
+                    "lat": 16.075079563461713
+                },
+                "address": "54 - 56 quang trung, ph\u01b0\u1eddng th\u1ea1ch thang, h\u1ea3i ch\u00e2u, tp \u0111\u00e0 n\u1eb5ng",
+                "name": "GYU SACHI - Nh\u00e0 h\u00e0ng n\u01b0\u1edbng Nh\u1eadt Ng\u01b0u H\u1ea1nh",
+                "objectId": "61ced9cdf4b3a41e17b96416",
+                "description": "",
+                "types": [
+                    "restaurant",
+                    "food_service",
+                    "take_away",
+                    "fast_food"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "restaurant",
+                        "name": "Nh\u00e0 h\u00e0ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "take_away",
+                        "name": "\u0110\u1ed3 \u0103n mang \u0111i",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "fast_food",
+                        "name": "\u0110\u1ed3 \u0103n nhanh",
+                        "group": "food_service"
+                    }
+                ],
+                "mainType": "restaurant",
+                "mainTypeInfos": {
+                    "id": "restaurant",
+                    "name": "Nh\u00e0 h\u00e0ng",
+                    "group": "food_service"
+                },
+                "auxiliaryTypes": [
+                    "food_service",
+                    "take_away",
+                    "fast_food"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "take_away",
+                        "name": "\u0110\u1ed3 \u0103n mang \u0111i",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "fast_food",
+                        "name": "\u0110\u1ed3 \u0103n nhanh",
+                        "group": "food_service"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "54 - 56"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "quang trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "ph\u01b0\u1eddng th\u1ea1ch thang"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "h\u1ea3i ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "tp \u0111\u00e0 n\u1eb5ng"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/64183dc7fa75ca89b55af82d.jpg",
+                        "name": "64183dc7fa75ca89b55af82d.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/64183dcdfa75ca89b55af82e.jpg",
+                        "name": "64183dcdfa75ca89b55af82e.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/64183dcdfa75ca89b55af830.jpg",
+                        "name": "64183dcdfa75ca89b55af830.jpg",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "restaurant",
+                        "name": "Nh\u00e0 h\u00e0ng",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "food_service",
+                        "minRank": 50000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1665631628283
+                    },
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "food_service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "take_away",
+                        "name": "\u0110\u1ed3 \u0103n mang \u0111i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "food_service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "fast_food",
+                        "name": "\u0110\u1ed3 \u0103n nhanh",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "food_service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "61ced9cdf4b3a41e17b96416",
+                    "name": "GYU SACHI - Nh\u00e0 h\u00e0ng n\u01b0\u1edbng Nh\u1eadt Ng\u01b0u H\u1ea1nh",
+                    "location": {
+                        "lng": 108.22092015209546,
+                        "lat": 16.075095094570827
+                    },
+                    "scale": 0.6,
+                    "bearing": 12,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 4.707525110939072,
+                        "tilt": 15.5,
+                        "target": {
+                            "lng": 108.22109402421644,
+                            "lat": 16.07513980897726
+                        }
+                    },
+                    "model": {
+                        "id": "5a0a4e2c5327c14d286c0539",
+                        "objName": "5eb3c294fc2a581128bd68a0.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5eb3c294fc2a581128bd68a0.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.22096689555768,
+                                "lat": 16.07514001032996
+                            },
+                            {
+                                "lng": 108.22096689553656,
+                                "lat": 16.07505017880155
+                            },
+                            {
+                                "lng": 108.22087340865436,
+                                "lat": 16.07505017880155
+                            },
+                            {
+                                "lng": 108.22087340863324,
+                                "lat": 16.07514001032996
+                            },
+                            {
+                                "lng": 108.22096689555768,
+                                "lat": 16.07514001032996
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5e7dab0a23bf5b16acfd1c72.JPG",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7dab0a23bf5b16acfd1c72.JPG"
+                    },
+                    "types": [
+                        "restaurant"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": 1638291600000,
+                    "endDate": 4102419599000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Quang Trung",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Quang Trung, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "db4b5410-56bc-4daf-b3c8-2eb3f8027851",
+                        "displayName": "C\u01b0\u1eddng Ph\u1ea1m H\u00f9ng"
+                    },
+                    "updatedBy": {
+                        "userId": "a14a5cf8-68b5-437a-98e2-4453667d0e30",
+                        "displayName": "test user"
+                    },
+                    "createdDate": 1640946125979,
+                    "updatedDate": 1641374443901
+                },
+                "tags": [
+                    "Nha_Hang",
+                    "Japanse_food"
+                ],
+                "phoneNumber": "0934971972",
+                "website": "https://www.facebook.com/NuongNhatGyusachi",
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "1000"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "1400"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "1700"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "1000"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "1400"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "1700"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "1000"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "1400"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "1700"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "1000"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "1400"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "1700"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "1000"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "1400"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "time": "1000"
+                        },
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "time": "1700"
+                        },
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "1000"
+                        },
+                        "close": {
+                            "day": 0,
+                            "time": "1400"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "1700"
+                        },
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.2209161608356,
+                        16.075079563461713
+                    ]
+                },
+                "rank": {
+                    "value": 50001
+                },
+                "metadata": [],
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/64183dcdfa75ca89b55af830.jpg",
+                        "name": "64183dcdfa75ca89b55af830.jpg",
+                        "typeFile": "Image",
+                        "description": "336367270_2471457616334521_8821823849423835837_n.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "d4a0bae7-91bb-4288-a34a-8636e7fb5556",
+                            "displayName": "cuong pham hung"
+                        },
+                        "createdDate": 1679310286041
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/64183dcdfa75ca89b55af82e.jpg",
+                        "name": "64183dcdfa75ca89b55af82e.jpg",
+                        "typeFile": "Image",
+                        "description": "336355684_173186312176085_2356587644906104891_n.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "d4a0bae7-91bb-4288-a34a-8636e7fb5556",
+                            "displayName": "cuong pham hung"
+                        },
+                        "createdDate": 1679310285976
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/64183dc7fa75ca89b55af82d.jpg",
+                        "name": "64183dc7fa75ca89b55af82d.jpg",
+                        "typeFile": "Image",
+                        "description": "336101180_1640961416356576_4129698928190089747_n.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "d4a0bae7-91bb-4288-a34a-8636e7fb5556",
+                            "displayName": "cuong pham hung"
+                        },
+                        "createdDate": 1679310285894
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 108.22092015209546,
+            "lat": 16.075095094570827
+        },
+        "scale": 0.6,
+        "bearing": 12,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 4.707525110939072,
+            "tilt": 15.5,
+            "target": {
+                "lng": 108.22109402421644,
+                "lat": 16.07513980897726
+            }
+        },
+        "model": {
+            "id": "5a0a4e2c5327c14d286c0539",
+            "name": "Nh\u00e0 H\u00e0ng",
+            "objName": "5eb3c294fc2a581128bd68a0.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5eb3c294fc2a581128bd68a0.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22096689555768,
+                    "lat": 16.07514001032996
+                },
+                {
+                    "lng": 108.22096689553656,
+                    "lat": 16.07505017880155
+                },
+                {
+                    "lng": 108.22087340865436,
+                    "lat": 16.07505017880155
+                },
+                {
+                    "lng": 108.22087340863324,
+                    "lat": 16.07514001032996
+                },
+                {
+                    "lng": 108.22096689555768,
+                    "lat": 16.07514001032996
+                }
+            ],
+            "height": 1,
+            "textureName": "5e7dab0a23bf5b16acfd1c72.JPG",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7dab0a23bf5b16acfd1c72.JPG"
+        },
+        "types": [
+            "restaurant"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Quang Trung"
+            }
+        ],
+        "startDate": 1638291600000,
+        "endDate": 4102419599000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "restaurant": "Nh\u00e0 h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Quang Trung, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+    }
+}

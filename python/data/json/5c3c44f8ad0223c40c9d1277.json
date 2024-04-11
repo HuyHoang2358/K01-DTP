@@ -1,0 +1,98 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c3c44f8ad0223c40c9d1277",
+        "name": "Tr\u01b0\u1eddng Ph\u1ed5 th\u00f4ng TH",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.830729,
+            "lat": 21.007303
+        },
+        "scale": 1,
+        "bearing": -25,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 22.408135593220827,
+            "tilt": 0.5863192182410426,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c3c44f8ad0223c40c9d1277",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c3c44f8ad0223c40c9d1277",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.831754,
+                    "lat": 21.007436
+                },
+                {
+                    "lng": 105.831381,
+                    "lat": 21.006616
+                },
+                {
+                    "lng": 105.83027,
+                    "lat": 21.008023
+                },
+                {
+                    "lng": 105.829897,
+                    "lat": 21.007203
+                }
+            ],
+            "height": 0,
+            "textureName": "84c69b5a74fe4190a86c2cf91dcf943d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/84c69b5a74fe4190a86c2cf91dcf943d.jpg"
+        },
+        "types": [
+            "education"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Ng\u1ecdc Do\u00e3n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Quang Trung"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 946659600000,
+        "endDate": 2524582800000,
+        "source": null,
+        "typeInfos": {
+            "education": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

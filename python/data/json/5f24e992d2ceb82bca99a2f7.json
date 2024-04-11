@@ -1,0 +1,99 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f24e992d2ceb82bca99a2f7",
+        "name": "Pan Pacific Hanoi",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.83994482385737,
+            "lat": 21.049795924015697
+        },
+        "scale": 1,
+        "bearing": 138,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 150.17570562931348,
+            "tilt": 67.5,
+            "target": {
+                "lng": 105.84007007536293,
+                "lat": 21.04963259605345
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f24e991d2ceb82bca99a2f3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f24e991d2ceb82bca99a2f3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.83999295124215,
+                    "lat": 21.04984083977313
+                },
+                {
+                    "lng": 105.8399929512131,
+                    "lat": 21.049751008244716
+                },
+                {
+                    "lng": 105.83989669650163,
+                    "lat": 21.049751008244716
+                },
+                {
+                    "lng": 105.83989669647258,
+                    "lat": 21.04984083977313
+                },
+                {
+                    "lng": 105.83999295124215,
+                    "lat": 21.04984083977313
+                }
+            ],
+            "height": 1,
+            "textureName": "5f24e992d2ceb82bca99a2f5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f24e992d2ceb82bca99a2f5.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Thanh Ni\u00ean"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "1 "
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": null,
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

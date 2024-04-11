@@ -1,0 +1,95 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d59b064df97299cfcb63f",
+        "name": "Kh\u00e1ch s\u1ea1n M\u01b0\u1eddng Thanh Grand H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.82697607307921,
+            "lat": 20.96953731903689
+        },
+        "scale": 1,
+        "bearing": 152,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -116.19999999999996,
+            "tilt": 55.5,
+            "target": {
+                "lng": 105.82666994122684,
+                "lat": 20.96940340079935
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d59a21a51f33b96956183.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d59a21a51f33b96956183.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82702417457936,
+                    "lat": 20.96958223479435
+                },
+                {
+                    "lng": 105.82702417455046,
+                    "lat": 20.96949240326594
+                },
+                {
+                    "lng": 105.82692797160794,
+                    "lat": 20.96949240326594
+                },
+                {
+                    "lng": 105.82692797157904,
+                    "lat": 20.96958223479435
+                },
+                {
+                    "lng": 105.82702417457936,
+                    "lat": 20.96958223479435
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d59a3797102214f9de2c4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d59a3797102214f9de2c4.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0ng Mai"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng \u0110\u1ea1i Kim"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

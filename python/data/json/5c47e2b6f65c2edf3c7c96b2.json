@@ -1,0 +1,306 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c47e2b6f65c2edf3c7c96b2",
+        "name": "C\u1ed5ng Ch\u00f9a B\u1ed9c",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e8814a9df9d67e5f31",
+                "location": {
+                    "lng": 105.827313,
+                    "lat": 21.008156
+                },
+                "address": "Ch\u00f9a B\u1ed9c, 14 Ch\u00f9a B\u1ed9c, Ph\u01b0\u1eddng Quang Trung, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "C\u1ed5ng Ch\u00f9a B\u1ed9c",
+                "objectId": "5c47e2b6f65c2edf3c7c96b2",
+                "description": " &nbsp; ",
+                "types": [
+                    "worship"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "worship",
+                        "name": "N\u01a1i th\u1edd c\u00fang, trang nghi\u00eam",
+                        "group": "religion"
+                    }
+                ],
+                "mainType": "worship",
+                "mainTypeInfos": {
+                    "id": "worship",
+                    "name": "N\u01a1i th\u1edd c\u00fang, trang nghi\u00eam",
+                    "group": "religion"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Ch\u00f9a B\u1ed9c, 14 Ch\u00f9a B\u1ed9c"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Quang Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 946659600000,
+                "endDate": 2524582800000,
+                "placeTypes": [
+                    {
+                        "id": "worship",
+                        "name": "N\u01a1i th\u1edd c\u00fang, trang nghi\u00eam",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "religion",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5c47e2b6f65c2edf3c7c96b2",
+                    "name": "C\u1ed5ng Ch\u00f9a B\u1ed9c",
+                    "location": {
+                        "lng": 105.827313,
+                        "lat": 21.008156
+                    },
+                    "scale": 1.25,
+                    "bearing": -26,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 14.10171857685125,
+                        "tilt": 53.340517943027336,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5c47e2b6f65c2edf3c7c96b2",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c47e2b6f65c2edf3c7c96b2",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.827646,
+                                "lat": 21.008062
+                            },
+                            {
+                                "lng": 105.8276,
+                                "lat": 21.007974
+                            },
+                            {
+                                "lng": 105.826952,
+                                "lat": 21.008378
+                            },
+                            {
+                                "lng": 105.826906,
+                                "lat": 21.00829
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "37e95e568ebf46c0a9597023205db66d.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/37e95e568ebf46c0a9597023205db66d.jpg"
+                    },
+                    "types": [
+                        "worship"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 946659600000,
+                    "endDate": 2524582800000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ch\u00f9a B\u1ed9c",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Quang Trung",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1548240166475,
+                    "updatedDate": 1623224212913
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.827313,
+                        21.008156
+                    ]
+                },
+                "rank": {
+                    "value": 1000006.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.827313,
+            "lat": 21.008156
+        },
+        "scale": 1.25,
+        "bearing": -26,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 14.10171857685125,
+            "tilt": 53.340517943027336,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c47e2b6f65c2edf3c7c96b2",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c47e2b6f65c2edf3c7c96b2",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.827646,
+                    "lat": 21.008062
+                },
+                {
+                    "lng": 105.8276,
+                    "lat": 21.007974
+                },
+                {
+                    "lng": 105.826952,
+                    "lat": 21.008378
+                },
+                {
+                    "lng": 105.826906,
+                    "lat": 21.00829
+                }
+            ],
+            "height": 0,
+            "textureName": "37e95e568ebf46c0a9597023205db66d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/37e95e568ebf46c0a9597023205db66d.jpg"
+        },
+        "types": [
+            "worship"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ch\u00f9a B\u1ed9c"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Quang Trung"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 946659600000,
+        "endDate": 2524582800000,
+        "source": null,
+        "typeInfos": {
+            "worship": "N\u01a1i th\u1edd c\u00fang, trang nghi\u00eam"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

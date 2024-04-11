@@ -1,0 +1,103 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff81e9ef75190676b00246e",
+        "name": "T\u1ed5ng C\u1ee5c D\u00e2n S\u1ed1 K\u1ebf Ho\u1ea1ch H\u00f3a Gia \u0110\u00ecnh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7819653791,
+            "lat": 21.0291702665
+        },
+        "scale": 1,
+        "bearing": -98,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.75,
+            "bearing": 126.52933247504289,
+            "tilt": 58.5,
+            "target": {
+                "lng": 105.78219973458827,
+                "lat": 21.02894194703938
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff81e95741cd06e43fb841b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff81e95741cd06e43fb841b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78201349982102,
+                    "lat": 21.02921518225744
+                },
+                {
+                    "lng": 105.78201349979201,
+                    "lat": 21.029125350729025
+                },
+                {
+                    "lng": 105.78191725840799,
+                    "lat": 21.029125350729025
+                },
+                {
+                    "lng": 105.78191725837898,
+                    "lat": 21.02921518225744
+                },
+                {
+                    "lng": 105.78201349982102,
+                    "lat": 21.02921518225744
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff81e96beee3c4c5c5bc258.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff81e96beee3c4c5c5bc258.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u00f4n Th\u1ea5t Thuy\u1ebft"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "8"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "M\u1ef9 \u0110\u00ecnh 1"
+            }
+        ],
+        "startDate": 1325350800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "8 T\u00f4n Th\u1ea5t Thuy\u1ebft, M\u1ef9 \u0110\u00ecnh 1, Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

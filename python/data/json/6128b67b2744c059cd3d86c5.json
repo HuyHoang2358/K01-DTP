@@ -1,0 +1,404 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6128b67b2744c059cd3d86c5",
+        "name": "Poonsa Serviced Apartments",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "609c2b0d34025a4d53ef08d6",
+                "location": {
+                    "lng": 105.7980072,
+                    "lat": 21.0155915
+                },
+                "address": "12 Trung Y\u00ean 7, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "T\u00f2a Nh\u00e0 Ph\u01b0\u01a1ng Nga",
+                "objectId": "6128b67b2744c059cd3d86c5",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "12"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Trung Y\u00ean 7"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "6128b67b2744c059cd3d86c5",
+                    "name": "Poonsa Serviced Apartments",
+                    "location": {
+                        "lng": 105.79003011170192,
+                        "lat": 21.03242792186569
+                    },
+                    "scale": 1,
+                    "bearing": 166,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -45.402160585973895,
+                        "tilt": 79.5,
+                        "target": {
+                            "lng": 105.78965527828795,
+                            "lat": 21.032682567709617
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "6128b66c2744c059cd3d86c0.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6128b66c2744c059cd3d86c0.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.79007823347489,
+                                "lat": 21.032472837623125
+                            },
+                            {
+                                "lng": 105.79007823344588,
+                                "lat": 21.032383006094715
+                            },
+                            {
+                                "lng": 105.78998198995797,
+                                "lat": 21.032383006094715
+                            },
+                            {
+                                "lng": 105.78998198992895,
+                                "lat": 21.032472837623125
+                            },
+                            {
+                                "lng": 105.79007823347489,
+                                "lat": 21.032472837623125
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "6128b66d2744c059cd3d86c2.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6128b66d2744c059cd3d86c2.jpg"
+                    },
+                    "types": [
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u01b0\u01a1ng C\u00f4ng Giai",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "B12/D21",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1630058107899,
+                    "updatedDate": 1630058107899
+                },
+                "tags": [],
+                "phoneNumber": "0948028734",
+                "website": null,
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "1800"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "1800"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 6,
+                            "time": "1800"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 0,
+                            "time": "1800"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "1800"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "1800"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "1800"
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.7980072,
+                        21.0155915
+                    ]
+                },
+                "rank": {
+                    "value": 12345
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.79003011170192,
+            "lat": 21.03242792186569
+        },
+        "scale": 1,
+        "bearing": 166,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -45.402160585973895,
+            "tilt": 79.5,
+            "target": {
+                "lng": 105.78965527828795,
+                "lat": 21.032682567709617
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6128b66c2744c059cd3d86c0.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6128b66c2744c059cd3d86c0.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79007823347489,
+                    "lat": 21.032472837623125
+                },
+                {
+                    "lng": 105.79007823344588,
+                    "lat": 21.032383006094715
+                },
+                {
+                    "lng": 105.78998198995797,
+                    "lat": 21.032383006094715
+                },
+                {
+                    "lng": 105.78998198992895,
+                    "lat": 21.032472837623125
+                },
+                {
+                    "lng": 105.79007823347489,
+                    "lat": 21.032472837623125
+                }
+            ],
+            "height": null,
+            "textureName": "6128b66d2744c059cd3d86c2.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6128b66d2744c059cd3d86c2.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u01b0\u01a1ng C\u00f4ng Giai"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "B12/D21"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

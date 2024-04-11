@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e44ad797102214f9de2f1",
+        "name": "Rose Garden Residences Hotel and Apartments",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8187841232733,
+            "lat": 21.024673304728083
+        },
+        "scale": 1,
+        "bearing": 131,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -88,
+            "tilt": 73,
+            "target": {
+                "lng": 105.81778242880755,
+                "lat": 21.02475106890506
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8e4491797102214f9de2ef.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e4491797102214f9de2ef.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.81883224254251,
+                    "lat": 21.02471822048552
+                },
+                {
+                    "lng": 105.81883224251352,
+                    "lat": 21.024628388957108
+                },
+                {
+                    "lng": 105.8187360040331,
+                    "lat": 21.024628388957108
+                },
+                {
+                    "lng": 105.8187360040041,
+                    "lat": 21.02471822048552
+                },
+                {
+                    "lng": 105.81883224254251,
+                    "lat": 21.02471822048552
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8e449164df97299cfcb67b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e449164df97299cfcb67b.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Gi\u1ea3ng V\u00f5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u1ecdc Kh\u00e1nh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "170"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

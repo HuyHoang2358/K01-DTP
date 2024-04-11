@@ -1,0 +1,104 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e308d9c4fa69f928796fd",
+        "name": "N\u1ed9i Th\u1ea5t oto H\u01b0ng Long",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76900413771176,
+            "lat": 21.010858270745082
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20.5,
+            "bearing": -5.4,
+            "tilt": 0.5,
+            "target": {
+                "lng": 105.76898125310555,
+                "lat": 21.010839623400173
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76906433039272,
+                    "lat": 21.01073364923552
+                },
+                {
+                    "lng": 105.76885627174528,
+                    "lat": 21.010804144155784
+                },
+                {
+                    "lng": 105.76890187931349,
+                    "lat": 21.010898891829683
+                },
+                {
+                    "lng": 105.76900774911081,
+                    "lat": 21.010860192675878
+                },
+                {
+                    "lng": 105.76904781077741,
+                    "lat": 21.010944701335745
+                },
+                {
+                    "lng": 105.76914678493085,
+                    "lat": 21.010908045237883
+                }
+            ],
+            "height": 8,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 56 L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "store": "C\u1eeda h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 56 L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

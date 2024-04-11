@@ -1,0 +1,105 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f24ed8783f9cd6af0b2b58f",
+        "name": "InterContinental H\u00e0 N\u1ed9i Westlake",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.83106028821146,
+            "lat": 21.057686077643794
+        },
+        "scale": 0.975,
+        "bearing": -63.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 7.665118765415944,
+            "tilt": 63,
+            "target": {
+                "lng": 105.83044256247044,
+                "lat": 21.057670595597155
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f24ed8583f9cd6af0b2b58b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f24ed8583f9cd6af0b2b58b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.83110841814754,
+                    "lat": 21.05773099340122
+                },
+                {
+                    "lng": 105.83110841811849,
+                    "lat": 21.05764116187281
+                },
+                {
+                    "lng": 105.83101215830443,
+                    "lat": 21.05764116187281
+                },
+                {
+                    "lng": 105.83101215827539,
+                    "lat": 21.05773099340122
+                },
+                {
+                    "lng": 105.83110841814754,
+                    "lat": 21.05773099340122
+                }
+            ],
+            "height": 1,
+            "textureName": "5f24ed8783f9cd6af0b2b58d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f24ed8783f9cd6af0b2b58d.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "T\u00e2y H\u1ed3"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Qu\u1ea3ng An"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": " P. T\u1eeb Hoa"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "05"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": null,
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

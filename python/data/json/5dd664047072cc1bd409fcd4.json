@@ -1,0 +1,71 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5dd664047072cc1bd409fcd4",
+        "name": "Ch\u00f9a Tr\u1ea5n Qu\u1ed1c",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.837114,
+            "lat": 21.047962
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 60.16175646829409,
+            "tilt": 72,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5dd6640470d9de1cf062382a.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5dd6640470d9de1cf062382a.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "5dd6640470d9de1cf0623828.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5dd6640470d9de1cf0623828.jpg"
+        },
+        "types": [
+            "worship"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "T\u00e2y H\u1ed3"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Y\u00ean Ph\u1ee5"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "worship": "N\u01a1i th\u1edd c\u00fang, trang nghi\u00eam"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

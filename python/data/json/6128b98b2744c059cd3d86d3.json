@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6128b98b2744c059cd3d86d3",
+        "name": "Nh\u00e0 h\u00e0ng Bay Buffet",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80230027068075,
+            "lat": 21.00886148998279
+        },
+        "scale": 1,
+        "bearing": -45,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -41.175314736488716,
+            "tilt": 50.00000149011612,
+            "target": {
+                "lng": 105.80539570598563,
+                "lat": 21.00852762580557
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6128b97d2744c059cd3d86ce.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6128b97d2744c059cd3d86ce.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80234838484827,
+                    "lat": 21.008906405740237
+                },
+                {
+                    "lng": 105.8023483848193,
+                    "lat": 21.008816574211828
+                },
+                {
+                    "lng": 105.8022521565422,
+                    "lat": 21.008816574211828
+                },
+                {
+                    "lng": 105.80225215651322,
+                    "lat": 21.008906405740237
+                },
+                {
+                    "lng": 105.80234838484827,
+                    "lat": 21.008906405740237
+                }
+            ],
+            "height": null,
+            "textureName": "6128b97e2744c059cd3d86d0.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6128b97e2744c059cd3d86d0.jpg"
+        },
+        "types": [
+            "restaurant"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ho\u00e0ng Ng\u00e2n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "167"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "restaurant": "Nh\u00e0 h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "167 Ho\u00e0ng Ng\u00e2n, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

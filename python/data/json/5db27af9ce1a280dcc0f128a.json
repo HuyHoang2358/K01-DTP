@@ -1,0 +1,71 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5db27af9ce1a280dcc0f128a",
+        "name": "Tr\u01b0\u1eddng Ti\u1ec3u h\u1ecdc Hai B\u00e0 Tr\u01b0ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.229263221015,
+            "lat": 16.0810766875032
+        },
+        "scale": 1,
+        "bearing": -90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -95.23287246909958,
+            "tilt": 81.5,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5db27d21ce1a280dcc0f128b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5db27d21ce1a280dcc0f128b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 0,
+            "textureName": "5db27d22ce1a280dcc0f128d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5db27d22ce1a280dcc0f128d.jpg"
+        },
+        "types": [
+            "education"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "education": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

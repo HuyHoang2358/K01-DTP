@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e30239c4fa69f928796f8",
+        "name": "\u0110\u1ea1i L\u00fd S\u01a1n Dulux \u0110\u1ee9c Sang",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.75943945892986,
+            "lat": 21.021330905571624
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 23.00000000000002,
+            "tilt": 15,
+            "target": {
+                "lng": 105.75942391227215,
+                "lat": 21.02132629896154
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.75940131117676,
+                    "lat": 21.021245186341957
+                },
+                {
+                    "lng": 105.75948194185014,
+                    "lat": 21.02124663925011
+                },
+                {
+                    "lng": 105.75947821740596,
+                    "lat": 21.0214161830949
+                },
+                {
+                    "lng": 105.75939636528659,
+                    "lat": 21.02141561359953
+                }
+            ],
+            "height": 12,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 16 \u0110\u1ed7 Xu\u00e2n H\u1ee3p"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "store": "C\u1eeda h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 16 \u0110\u1ed7 Xu\u00e2n H\u1ee3p, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "603620eda473a052791f4716",
+        "name": "T\u00f2a nh\u00e0 h\u1ed7n h\u1ee3p Diamond Flower Tower",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80385432235414,
+            "lat": 21.005295142928773
+        },
+        "scale": 1,
+        "bearing": 37,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.75,
+            "bearing": -2.43007632111399,
+            "tilt": 56.5,
+            "target": {
+                "lng": 105.80384670225692,
+                "lat": 21.005566471668928
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "609b80be9bca8a5b2a65174e.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/609b80be9bca8a5b2a65174e.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80390243537164,
+                    "lat": 21.005340058686222
+                },
+                {
+                    "lng": 105.80390243534269,
+                    "lat": 21.00525022715781
+                },
+                {
+                    "lng": 105.8038062093656,
+                    "lat": 21.00525022715781
+                },
+                {
+                    "lng": 105.80380620933664,
+                    "lat": 21.005340058686222
+                },
+                {
+                    "lng": 105.80390243537164,
+                    "lat": 21.005340058686222
+                }
+            ],
+            "height": null,
+            "textureName": "609b80bf10b9793609a933da.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/609b80bf10b9793609a933da.jpg"
+        },
+        "types": [
+            "coworking_space"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Duy H\u01b0ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "19, Ng\u00f5 109"
+            }
+        ],
+        "startDate": 1431622800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "coworking_space": "V\u0103n ph\u00f2ng cho thu\u00ea"
+        },
+        "metadata": null,
+        "address": "19, Ng\u00f5 109 Tr\u1ea7n Duy H\u01b0ng, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c0f8ba40aa89516782a267c",
+        "name": "Ng\u00e2n h\u00e0ng \u0110\u00f4ng \u00c1 (DongA Bank) - PGD \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845ea814a9df9d67e62e7",
+                "location": {
+                    "lng": 108.186813,
+                    "lat": 16.066109
+                },
+                "address": " 478 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng, Qu\u1eadn Thanh Kh\u00ea, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Ng\u00e2n h\u00e0ng \u0110\u00f4ng \u00c1 (DongA Bank) - PGD \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+                "objectId": "5c0f8ba40aa89516782a267c",
+                "description": " &nbsp; ",
+                "types": [
+                    "bank",
+                    "finance"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "group": "finance"
+                    },
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "group": "finance"
+                    }
+                ],
+                "mainType": "bank",
+                "mainTypeInfos": {
+                    "id": "bank",
+                    "name": "Ng\u00e2n h\u00e0ng",
+                    "group": "finance"
+                },
+                "auxiliaryTypes": [
+                    "finance"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "group": "finance"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "478"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Thanh Kh\u00ea"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 1291136400000,
+                "endDate": 4099741200000,
+                "placeTypes": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "finance",
+                        "minRank": 50000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "finance",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5c0f8ba40aa89516782a267c",
+                    "name": "Ng\u00e2n h\u00e0ng \u0110\u00f4ng \u00c1 (DongA Bank) - PGD \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+                    "location": {
+                        "lng": 108.18675572193791,
+                        "lat": 16.066095678672497
+                    },
+                    "scale": 1,
+                    "bearing": 4,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 2.456339440363225,
+                        "tilt": 81.95000177621841,
+                        "target": {
+                            "lng": 108.1870673291667,
+                            "lat": 16.06643206470689
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5c0f8ba40aa89516782a267c",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c0f8ba40aa89516782a267c",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.186839,
+                                "lat": 16.066414
+                            },
+                            {
+                                "lng": 108.186891,
+                                "lat": 16.065838
+                            },
+                            {
+                                "lng": 108.186597,
+                                "lat": 16.066394
+                            },
+                            {
+                                "lng": 108.186649,
+                                "lat": 16.065818
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "0547bb99e31441ef91669587f4203b0b.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/0547bb99e31441ef91669587f4203b0b.jpg"
+                    },
+                    "types": [
+                        "bank"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 17,
+                    "startDate": 1291136400000,
+                    "endDate": 4099741200000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Thanh Kh\u00ea",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng, Qu\u1eadn Thanh Kh\u00ea, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1544547860713,
+                    "updatedDate": 1623224212007
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.186813,
+                        16.066109
+                    ]
+                },
+                "rank": {
+                    "value": 1000062
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.18675572193791,
+            "lat": 16.066095678672497
+        },
+        "scale": 1,
+        "bearing": 4,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 2.456339440363225,
+            "tilt": 81.95000177621841,
+            "target": {
+                "lng": 108.1870673291667,
+                "lat": 16.06643206470689
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c0f8ba40aa89516782a267c",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c0f8ba40aa89516782a267c",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.186839,
+                    "lat": 16.066414
+                },
+                {
+                    "lng": 108.186891,
+                    "lat": 16.065838
+                },
+                {
+                    "lng": 108.186597,
+                    "lat": 16.066394
+                },
+                {
+                    "lng": 108.186649,
+                    "lat": 16.065818
+                }
+            ],
+            "height": 0,
+            "textureName": "0547bb99e31441ef91669587f4203b0b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/0547bb99e31441ef91669587f4203b0b.jpg"
+        },
+        "types": [
+            "bank"
+        ],
+        "minZoom": 17,
+        "maxZoom": 17,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Kh\u00ea"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 1291136400000,
+        "endDate": 4099741200000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bank": "Ng\u00e2n h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng, Qu\u1eadn Thanh Kh\u00ea, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

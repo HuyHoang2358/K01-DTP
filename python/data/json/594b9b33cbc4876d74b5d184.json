@@ -1,0 +1,72 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "594b9b33cbc4876d74b5d184",
+        "name": "Nh\u00e0 \u1ede 06",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8010319,
+            "lat": 20.9973666
+        },
+        "scale": 1,
+        "bearing": 127,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": null,
+        "model": {
+            "id": "58e3035f63e6ef43947b6480",
+            "name": "Nh\u00e0 \u1ede 06",
+            "objName": "58e3035f63e6ef43947b6480",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/58e3035f63e6ef43947b6480",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "17a7f25710da4fbaa30ecaaccd9bf916.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/17a7f25710da4fbaa30ecaaccd9bf916.jpg"
+        },
+        "types": null,
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 90"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 975060000000,
+        "endDate": 4099629600000,
+        "source": null,
+        "typeInfos": null,
+        "metadata": null,
+        "address": "Ng\u00f5 90, Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam"
+    }
+}

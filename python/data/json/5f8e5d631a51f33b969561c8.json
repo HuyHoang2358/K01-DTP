@@ -1,0 +1,343 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e5d631a51f33b969561c8",
+        "name": "Hanoi Lotus Boutique Hotel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c24e2c2e7d438384b94b2",
+                "location": {
+                    "lng": 105.8462876,
+                    "lat": 21.029206199999997
+                },
+                "address": "2 Ng. H\u1ed9i V\u0169, H\u00e0ng B\u00f4ng, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Hanoi Lotus Boutique Hotel",
+                "objectId": "5f8e5d631a51f33b969561c8",
+                "description": "2 H\u1ed9i V\u0169, H\u00e0ng B\u00f4ng, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Ng"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "2"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "H\u1ed9i V\u0169"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8e5d631a51f33b969561c8",
+                    "name": "Hanoi Lotus Boutique Hotel",
+                    "location": {
+                        "lng": 105.84625410659169,
+                        "lat": 21.02926900879899
+                    },
+                    "scale": 1,
+                    "bearing": 22,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 0.6501130462233401,
+                        "tilt": 76.5,
+                        "target": {
+                            "lng": 105.84626875299489,
+                            "lat": 21.029708364122143
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8e5d5b1a51f33b969561c6.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e5d5b1a51f33b969561c6.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.8463022273446,
+                                "lat": 21.029313924556433
+                            },
+                            {
+                                "lng": 105.84630222731558,
+                                "lat": 21.02922409302802
+                            },
+                            {
+                                "lng": 105.8462059858678,
+                                "lat": 21.02922409302802
+                            },
+                            {
+                                "lng": 105.8462059858388,
+                                "lat": 21.029313924556433
+                            },
+                            {
+                                "lng": 105.8463022273446,
+                                "lat": 21.029313924556433
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8e5d5b797102214f9de2fd.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e5d5b797102214f9de2fd.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "H\u00e0ng B\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "14",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603165539255,
+                    "updatedDate": 1623224248311
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "02432575999",
+                "website": "hanoilotusboutiquehotel.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8462876,
+                        21.029206199999997
+                    ]
+                },
+                "rank": {
+                    "value": 1001
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84625410659169,
+            "lat": 21.02926900879899
+        },
+        "scale": 1,
+        "bearing": 22,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 0.6501130462233401,
+            "tilt": 76.5,
+            "target": {
+                "lng": 105.84626875299489,
+                "lat": 21.029708364122143
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8e5d5b1a51f33b969561c6.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e5d5b1a51f33b969561c6.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8463022273446,
+                    "lat": 21.029313924556433
+                },
+                {
+                    "lng": 105.84630222731558,
+                    "lat": 21.02922409302802
+                },
+                {
+                    "lng": 105.8462059858678,
+                    "lat": 21.02922409302802
+                },
+                {
+                    "lng": 105.8462059858388,
+                    "lat": 21.029313924556433
+                },
+                {
+                    "lng": 105.8463022273446,
+                    "lat": 21.029313924556433
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8e5d5b797102214f9de2fd.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e5d5b797102214f9de2fd.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00f4ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng B\u00f4ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "14"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

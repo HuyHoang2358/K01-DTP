@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff6903779d2dd5e3be162fc",
+        "name": "Thang Long Number One - Tower A",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7920037778772,
+            "lat": 21.00230859729841
+        },
+        "scale": 1,
+        "bearing": 35,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -3.5338856897877626,
+            "tilt": 66.5,
+            "target": {
+                "lng": 105.7920037778772,
+                "lat": 21.00230859729841
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff6902679d2dd5e3be162fa.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff6902679d2dd5e3be162fa.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79205188993184,
+                    "lat": 21.002353513055855
+                },
+                {
+                    "lng": 105.79205188990287,
+                    "lat": 21.00226368152744
+                },
+                {
+                    "lng": 105.79195566585155,
+                    "lat": 21.00226368152744
+                },
+                {
+                    "lng": 105.79195566582257,
+                    "lat": 21.002353513055855
+                },
+                {
+                    "lng": 105.79205188993184,
+                    "lat": 21.002353513055855
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff690279ed19823c2a9cd28.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff690279ed19823c2a9cd28.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Khu\u1ea5t Duy Ti\u1ebfn"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "T\u1ea7ng 3"
+            }
+        ],
+        "startDate": 1407949200000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "T\u1ea7ng 3 Khu\u1ea5t Duy Ti\u1ebfn, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ee32bb5e16fa34e5e67fa16",
+        "name": "Keangnam Hanoi Landmark Tower",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78410473182345,
+            "lat": 21.01749422883583
+        },
+        "scale": 1,
+        "bearing": -53,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17.75,
+            "bearing": -40.000001192092896,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78796606354382,
+                "lat": 21.01843432745629
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ee32bb4e16fa34e5e67fa12.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ee32bb4e16fa34e5e67fa12.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78415284877573,
+                    "lat": 21.01753914459327
+                },
+                {
+                    "lng": 105.78415284874676,
+                    "lat": 21.01744931306486
+                },
+                {
+                    "lng": 105.78405661490014,
+                    "lat": 21.01744931306486
+                },
+                {
+                    "lng": 105.78405661487116,
+                    "lat": 21.01753914459327
+                },
+                {
+                    "lng": 105.78415284877573,
+                    "lat": 21.01753914459327
+                }
+            ],
+            "height": 1,
+            "textureName": "5ee32bb5e16fa34e5e67fa14.JPG",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ee32bb5e16fa34e5e67fa14.JPG"
+        },
+        "types": [
+            "coworking_space"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u00f9ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "8-10"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "M\u1ec5 Tr\u00ec"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "coworking_space": "V\u0103n ph\u00f2ng cho thu\u00ea"
+        },
+        "metadata": null,
+        "address": "8-10 Ph\u1ea1m H\u00f9ng, M\u1ec5 Tr\u00ec, Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i"
+    }
+}

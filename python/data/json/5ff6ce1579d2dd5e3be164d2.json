@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff6ce1579d2dd5e3be164d2",
+        "name": "B3D Nam Trung Y\u00ean",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78694940238893,
+            "lat": 21.01494946022551
+        },
+        "scale": 1,
+        "bearing": -98,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -313.8190660743028,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78699285793851,
+                "lat": 21.015113311576073
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff6ce0e9ed19823c2a9d042.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff6ce0e9ed19823c2a9d042.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78699751852018,
+                    "lat": 21.01499437598295
+                },
+                {
+                    "lng": 105.78699751849119,
+                    "lat": 21.01490454445454
+                },
+                {
+                    "lng": 105.78690128628666,
+                    "lat": 21.01490454445454
+                },
+                {
+                    "lng": 105.78690128625767,
+                    "lat": 21.01499437598295
+                },
+                {
+                    "lng": 105.78699751852018,
+                    "lat": 21.01499437598295
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff6ce0e9ed19823c2a9d044.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff6ce0e9ed19823c2a9d044.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Qu\u1ed1c Tr\u1ecb"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "B3D"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "B3D Nguy\u1ec5n Qu\u1ed1c Tr\u1ecb, C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

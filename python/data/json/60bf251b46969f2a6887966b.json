@@ -1,0 +1,416 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60bf251b46969f2a6887966b",
+        "name": "Huy\u1ec1n Linh - H\u1ea3i Loan",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60f7df3329c3ce454f987ecb",
+                "location": {
+                    "lng": 105.85224,
+                    "lat": 21.034623
+                },
+                "address": "41 L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn, H\u00e0ng Bu\u1ed3m, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Bia H\u1ea3i Loan",
+                "objectId": "60bf251b46969f2a6887966b",
+                "description": null,
+                "types": [
+                    "drink",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "drink",
+                        "name": "Gi\u1ea3i kh\u00e1t, qu\u00e1n n\u01b0\u1edbc, sinh t\u1ed1",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "drink",
+                "mainTypeInfos": {
+                    "id": "drink",
+                    "name": "Gi\u1ea3i kh\u00e1t, qu\u00e1n n\u01b0\u1edbc, sinh t\u1ed1",
+                    "group": "food_service"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "41"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f7e3f229c3ce454f987ed5.jpg",
+                        "name": "60f7e3f229c3ce454f987ed5.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f7e3f329c3ce454f987ed6.png",
+                        "name": "60f7e3f329c3ce454f987ed6.png",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f7ecc229c3ce454f987ee5.jpg",
+                        "name": "60f7ecc229c3ce454f987ee5.jpg",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "drink",
+                        "name": "Gi\u1ea3i kh\u00e1t, qu\u00e1n n\u01b0\u1edbc, sinh t\u1ed1",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "food_service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60bf251b46969f2a6887966b",
+                    "name": "Huy\u1ec1n Linh - H\u1ea3i Loan",
+                    "location": {
+                        "lng": 105.85223951545407,
+                        "lat": 21.0346225357586
+                    },
+                    "scale": 1.2,
+                    "bearing": -87,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 22,
+                        "bearing": 143.65167301165894,
+                        "tilt": 59.5,
+                        "target": {
+                            "lng": 105.85224356359257,
+                            "lat": 21.034559789416804
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60bf251217cf4702bf30dd59.obj",
+                        "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60bf251217cf4702bf30dd59.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85227799486128,
+                                "lat": 21.034668224169916
+                            },
+                            {
+                                "lng": 105.85227799483226,
+                                "lat": 21.034578392641503
+                            },
+                            {
+                                "lng": 105.85218174992627,
+                                "lat": 21.034578392641503
+                            },
+                            {
+                                "lng": 105.85218174989726,
+                                "lat": 21.034668224169916
+                            },
+                            {
+                                "lng": 105.85227799486128,
+                                "lat": 21.034668224169916
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "60bf25134391e3457053d73d.jpg",
+                        "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60bf25134391e3457053d73d.jpg"
+                    },
+                    "types": [
+                        "drink"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1623139611197,
+                    "updatedDate": 1625714107811
+                },
+                "tags": [],
+                "phoneNumber": "0985675744",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.85224,
+                        21.034623
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [
+                    {
+                        "id": "60f7ef0a29c3ce454f987ef2",
+                        "type": "article",
+                        "name": "Nh\u1eadn x\u00e9t t\u1eeb Th\u00e0nh Vi\u00ean tr\u00ean Foody - Tr\u1ea7n Vi\u1ec7t Anh",
+                        "content": "<p><span style=\"font-size: 18px;\"><strong><ins>L\u00ea la ng\u1eafm ph\u1ed1 ph\u01b0\u1eddng</ins></strong></span></p>\n<p></p>\n<p><span style=\"font-size: 16px;\">\u0110\u00fang th\u1eadt \u1edf Hn th\u00ec m\u00ecnh th\u00edch nh\u1ea5t khu n\u00e0y, r\u1ea5t n\u00e1o nhi\u1ec7t nh\u1ed9n nh\u1ecbp vui l\u1eafm, h\u00e0ng qu\u00e1n s\u00e1t nhau v\u00e0 c\u00e1c ng\u01b0\u1eddi c\u0169ng s\u00e1t nhau lu\u00f4n. m\u1ecdi ng\u01b0\u1eddi \u0111i b\u1ed9 d\u1ea1o d\u1ea1o v\u00e0 t\u1ee5 t\u1eadp \u1edf c\u00e1c h\u00e0ng qu\u00e1n nh\u00e2m nhi bia ng\u1eafm c\u1ea3nh, ng\u1eafm ng\u01b0\u1eddi. </span></p>\n<p><span style=\"font-size: 16px;\">Qu\u00e1n ph\u1ee5c v\u1ee5 nhanh v\u00e0 c\u1ea3m th\u1ea5y th\u00e2n thi\u1ec7n, ch\u1ed7 n\u00e0y c\u00f3 toilet n\u1eefa ng\u01b0ng n\u1eb1m ph\u00eda sau nha. \u1ede \u0111\u00e2y c\u00f3 m\u00f3n nem chua r\u00e1n si\u00eau ngon nha, m\u1ecdi ng\u01b0\u1eddi nh\u1edb th\u1eed m\u00f3n n\u00e0y, b\u00e9o b\u00e9o ng\u1eady th\u01a1m gi\u00f2n gi\u00f2n, ch\u1ed1ng ch\u1ec9 \u0111\u1ecbnh v\u1edbi c\u00e1c b\u00e1c s\u1ee3 b\u00e9o. C\u00f3 k\u00eau th\u00eam nem chua l\u00e1 chu\u1ed1i, l\u1ea1c lu\u1ed9c, m\u1ef1c chi\u00ean b\u01a1 t\u1ecfi nh\u00e2m nhi c\u00f9ng bia, tr\u1eddi l\u1ea1nh m\u00e0 kh\u00f4ng kh\u00ed v\u1eabn r\u1ea5t n\u00e1o nhi\u1ec7t.</span></p>\n<p><span style=\"font-size: 16px;\">\u0110i 2 ng\u01b0\u1eddi h\u1ebft 270k. nh\u00e0 m\u00ecnh m\u00e0 g\u1ea7n \u0111\u00e2y ch\u1eafc t\u1ed1i n\u00e0o c\u0169ng l\u00ea la \u0111\u00e2y ng\u1eafm girl xinh qu\u00e1 haha.</span></p>\n<img src=\"https://f33-zpg.zdn.vn/4035935706333444668/1f100b6f7c098b57d218.jpg\" alt=\"undefined\" style=\"height: auto;width: auto\"/>\n<p></p>\n",
+                        "order": 1
+                    }
+                ],
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f7ecc229c3ce454f987ee5.jpg",
+                        "name": "60f7ecc229c3ce454f987ee5.jpg",
+                        "typeFile": "Image",
+                        "description": "foody-bia-hai-lan-513-635910011623633611.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626860738665
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f7e3f329c3ce454f987ed6.png",
+                        "name": "60f7e3f329c3ce454f987ed6.png",
+                        "typeFile": "Image",
+                        "description": "2021-07-21_141942.png",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626858483190
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f7e3f229c3ce454f987ed5.jpg",
+                        "name": "60f7e3f229c3ce454f987ed5.jpg",
+                        "typeFile": "Image",
+                        "description": "IMG_20210518_104750.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626858483069
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 105.85223951545407,
+            "lat": 21.0346225357586
+        },
+        "scale": 1.2,
+        "bearing": -87,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": 143.65167301165894,
+            "tilt": 59.5,
+            "target": {
+                "lng": 105.85224356359257,
+                "lat": 21.034559789416804
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60bf251217cf4702bf30dd59.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60bf251217cf4702bf30dd59.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85227799486128,
+                    "lat": 21.034668224169916
+                },
+                {
+                    "lng": 105.85227799483226,
+                    "lat": 21.034578392641503
+                },
+                {
+                    "lng": 105.85218174992627,
+                    "lat": 21.034578392641503
+                },
+                {
+                    "lng": 105.85218174989726,
+                    "lat": 21.034668224169916
+                },
+                {
+                    "lng": 105.85227799486128,
+                    "lat": 21.034668224169916
+                }
+            ],
+            "height": 1,
+            "textureName": "60bf25134391e3457053d73d.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60bf25134391e3457053d73d.jpg"
+        },
+        "types": [
+            "drink"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "drink": "Gi\u1ea3i kh\u00e1t, qu\u00e1n n\u01b0\u1edbc, sinh t\u1ed1"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,331 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "59424eba37c2c040e0d1e45f",
+        "name": "C\u00d4NG TY C\u1ed4 PH\u1ea6N \u0110\u1ea6U T\u01af BELLA",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60a74826b4e1e72f1898ab6d",
+                "location": {
+                    "lng": 105.800598,
+                    "lat": 20.998001
+                },
+                "address": "2, Ng\u00f5 40 Ng\u1ee5y Nh\u01b0 Kon Tum, Nh\u00e2n Ch\u00ednh, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "C\u00f4ng Ty Bella",
+                "objectId": "59424eba37c2c040e0d1e45f",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "2"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "Ng\u00f5 40"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Ng\u1ee5y Nh\u01b0 Kon Tum"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Thanh Xu\u00e2n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "59424eba37c2c040e0d1e45f",
+                    "name": "C\u00d4NG TY C\u1ed4 PH\u1ea6N \u0110\u1ea6U T\u01af BELLA",
+                    "location": {
+                        "lng": 105.80070861102826,
+                        "lat": 20.997775361392485
+                    },
+                    "scale": 2,
+                    "bearing": 217,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": 110.92687218776987,
+                        "tilt": 30,
+                        "target": {
+                            "lng": 105.80074980641712,
+                            "lat": 20.997874894331986
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "59424eba37c2c040e0d1e45f",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/59424eba37c2c040e0d1e45f",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.800345,
+                                "lat": 20.997805
+                            },
+                            {
+                                "lng": 105.800698,
+                                "lat": 20.998054
+                            },
+                            {
+                                "lng": 105.800479,
+                                "lat": 20.997639
+                            },
+                            {
+                                "lng": 105.800833,
+                                "lat": 20.997887
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "87cad7d3497c41fdbcb8d463976b6980.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/87cad7d3497c41fdbcb8d463976b6980.jpg"
+                    },
+                    "types": [
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 17,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Thanh Xu\u00e2n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ng\u00f5 40 Ng\u1ee5y Nh\u01b0 Kon Tum",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "2",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "582546120ec6af4457a68494",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1497517754083,
+                    "updatedDate": 1631765365015
+                },
+                "tags": [],
+                "phoneNumber": "+84982822782",
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.800598,
+                        20.998001
+                    ]
+                },
+                "rank": {
+                    "value": 12345
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.80070861102826,
+            "lat": 20.997775361392485
+        },
+        "scale": 2,
+        "bearing": 217,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 110.92687218776987,
+            "tilt": 30,
+            "target": {
+                "lng": 105.80074980641712,
+                "lat": 20.997874894331986
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "59424eba37c2c040e0d1e45f",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/59424eba37c2c040e0d1e45f",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.800345,
+                    "lat": 20.997805
+                },
+                {
+                    "lng": 105.800698,
+                    "lat": 20.998054
+                },
+                {
+                    "lng": 105.800479,
+                    "lat": 20.997639
+                },
+                {
+                    "lng": 105.800833,
+                    "lat": 20.997887
+                }
+            ],
+            "height": 0,
+            "textureName": "87cad7d3497c41fdbcb8d463976b6980.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/87cad7d3497c41fdbcb8d463976b6980.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 17,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 40 Ng\u1ee5y Nh\u01b0 Kon Tum"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "2"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,365 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61cbe7a58a9b7a1761ca90a2",
+        "name": "Ga V\u0103n Qu\u00e1n",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "609c2e6b34025a4d53ef7930",
+                "location": {
+                    "lng": 105.78483589999999,
+                    "lat": 20.977667999999998
+                },
+                "address": "108 Tr\u1ea7n Ph\u00fa, P. M\u1ed9 Lao, H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Nh\u00e0 ga V\u0103n Qu\u00e1n",
+                "objectId": "61cbe7a58a9b7a1761ca90a2",
+                "description": null,
+                "types": [],
+                "typeInfos": null,
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "108"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n Ph\u00fa"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng M\u1ed9 Lao"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": null,
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "61cbe7a58a9b7a1761ca90a2",
+                    "name": "Ga V\u0103n Qu\u00e1n",
+                    "location": {
+                        "lng": 105.78475734720433,
+                        "lat": 20.977791183113027
+                    },
+                    "scale": 1,
+                    "bearing": 35.5,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -12.90622803337136,
+                        "tilt": 63.75,
+                        "target": {
+                            "lng": 105.78459043368497,
+                            "lat": 20.977625850312563
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "61cbe7998a9b7a1761ca909d.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cbe7998a9b7a1761ca909d.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.78480545136085,
+                                "lat": 20.977836098870483
+                            },
+                            {
+                                "lng": 105.78480545133193,
+                                "lat": 20.977746267342074
+                            },
+                            {
+                                "lng": 105.78470924307675,
+                                "lat": 20.977746267342074
+                            },
+                            {
+                                "lng": 105.78470924304783,
+                                "lat": 20.977836098870483
+                            },
+                            {
+                                "lng": 105.78480545136085,
+                                "lat": 20.977836098870483
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "61cbe79a8a9b7a1761ca909f.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cbe79a8a9b7a1761ca909f.jpg"
+                    },
+                    "types": [
+                        "train_station"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng M\u1ed9 Lao",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n Ph\u00fa",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "108",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1640753061310,
+                    "updatedDate": 1640753061310
+                },
+                "tags": [],
+                "phoneNumber": null,
+                "website": "http://hanoimetro.net.vn/",
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 6,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 0,
+                            "time": "2300"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "2300"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "2300"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "2300"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "2300"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "0500"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "2300"
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.78483589999999,
+                        20.977667999999998
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.78475734720433,
+            "lat": 20.977791183113027
+        },
+        "scale": 1,
+        "bearing": 35.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -12.90622803337136,
+            "tilt": 63.75,
+            "target": {
+                "lng": 105.78459043368497,
+                "lat": 20.977625850312563
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61cbe7998a9b7a1761ca909d.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cbe7998a9b7a1761ca909d.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78480545136085,
+                    "lat": 20.977836098870483
+                },
+                {
+                    "lng": 105.78480545133193,
+                    "lat": 20.977746267342074
+                },
+                {
+                    "lng": 105.78470924307675,
+                    "lat": 20.977746267342074
+                },
+                {
+                    "lng": 105.78470924304783,
+                    "lat": 20.977836098870483
+                },
+                {
+                    "lng": 105.78480545136085,
+                    "lat": 20.977836098870483
+                }
+            ],
+            "height": null,
+            "textureName": "61cbe79a8a9b7a1761ca909f.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cbe79a8a9b7a1761ca909f.jpg"
+        },
+        "types": [
+            "train_station"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ed9 Lao"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Ph\u00fa"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "108"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "train_station": "Ga t\u00e0u l\u1eeda"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

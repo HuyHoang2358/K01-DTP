@@ -1,0 +1,94 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627b2743ac7db774d784e0c3",
+        "name": "The Emerald M\u1ef9 \u0110\u00ecnh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.77384706425153,
+            "lat": 21.017484885538508
+        },
+        "scale": 1,
+        "bearing": 39,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": 44.23488439311895,
+            "tilt": 7.4999978840351105,
+            "target": {
+                "lng": 105.7739153421025,
+                "lat": 21.017220148466716
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "627b2735ac7db774d784e0be.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627b2735ac7db774d784e0be.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7738951812008,
+                    "lat": 21.01752980129595
+                },
+                {
+                    "lng": 105.77389518117182,
+                    "lat": 21.017439969767537
+                },
+                {
+                    "lng": 105.77379894733123,
+                    "lat": 21.017439969767537
+                },
+                {
+                    "lng": 105.77379894730225,
+                    "lat": 21.01752980129595
+                },
+                {
+                    "lng": 105.7738951812008,
+                    "lat": 21.01752980129595
+                }
+            ],
+            "height": null,
+            "textureName": "627b2735ac7db774d784e0c0.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627b2735ac7db774d784e0c0.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            }
+        ],
+        "startDate": 1555606800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

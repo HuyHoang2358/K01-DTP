@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "614009942f30391a8a27b93d",
+        "name": "To\u00e0 D\u2019office Th\u00e0nh Th\u00e1i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79565219691,
+            "lat": 21.02929247765792
+        },
+        "scale": 1,
+        "bearing": -123,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -65.80011216872123,
+            "tilt": 48.41666576266289,
+            "target": {
+                "lng": 105.79558383157212,
+                "lat": 21.029064853994072
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "614009882f30391a8a27b938.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/614009882f30391a8a27b938.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79570031767048,
+                    "lat": 21.029337393415357
+                },
+                {
+                    "lng": 105.79570031764148,
+                    "lat": 21.029247561886944
+                },
+                {
+                    "lng": 105.79560407617852,
+                    "lat": 21.029247561886944
+                },
+                {
+                    "lng": 105.79560407614952,
+                    "lat": 21.029337393415357
+                },
+                {
+                    "lng": 105.79570031767048,
+                    "lat": 21.029337393415357
+                }
+            ],
+            "height": null,
+            "textureName": "614009892f30391a8a27b93a.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/614009892f30391a8a27b93a.jpg"
+        },
+        "types": [
+            "coworking_space"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 155 C\u1ea7u Gi\u1ea5y"
+            }
+        ],
+        "startDate": 1481821200000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "coworking_space": "V\u0103n ph\u00f2ng cho thu\u00ea"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 155 C\u1ea7u Gi\u1ea5y, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c77aef6bdd69e54386ebe98",
+        "name": "Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc B\u00e1ch Khoa - \u0110\u1ea1i h\u1ecdc \u0110\u00e0 N\u1eb5ng - Khu C",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.1527810092445,
+            "lat": 16.074433875953716
+        },
+        "scale": 1,
+        "bearing": 22,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 177.47194590580045,
+            "tilt": 77.5,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5d72249127f61222e8fb0fb2.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5d72249127f61222e8fb0fb2.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [],
+            "height": 0,
+            "textureName": "5d72249127f61222e8fb0fb4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5d72249127f61222e8fb0fb4.jpg"
+        },
+        "types": [
+            "university"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f4 S\u0129 Li\u00ean"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 949363200000,
+        "endDate": 2529619200000,
+        "source": null,
+        "typeInfos": {
+            "university": "Tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc"
+        },
+        "metadata": null,
+        "address": "Ng\u00f4 S\u0129 Li\u00ean, Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc, Qu\u1eadn Li\u00ean Chi\u1ec3u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

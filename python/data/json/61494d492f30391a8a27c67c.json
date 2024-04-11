@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61494d492f30391a8a27c67c",
+        "name": "Th\u00e1i B\u00ecnh Building",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7819551892643,
+            "lat": 21.030282550743507
+        },
+        "scale": 1,
+        "bearing": -9,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 40.00288988303353,
+            "tilt": 61,
+            "target": {
+                "lng": 105.78195810596583,
+                "lat": 21.030281900270676
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61494d392f30391a8a27c677.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61494d392f30391a8a27c677.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78200331034446,
+                    "lat": 21.030327466500943
+                },
+                {
+                    "lng": 105.78200331031545,
+                    "lat": 21.03023763497253
+                },
+                {
+                    "lng": 105.78190706821313,
+                    "lat": 21.03023763497253
+                },
+                {
+                    "lng": 105.78190706818413,
+                    "lat": 21.030327466500943
+                },
+                {
+                    "lng": 105.78200331034446,
+                    "lat": 21.030327466500943
+                }
+            ],
+            "height": null,
+            "textureName": "61494d392f30391a8a27c679.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61494d392f30391a8a27c679.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 19 - Duy T\u00e2n"
+            }
+        ],
+        "startDate": 1217178000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 19 - Duy T\u00e2n, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "62e23b7eb2225a52cee792bc",
+        "name": "17T7",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80448058274749,
+            "lat": 21.006837919090884
+        },
+        "scale": 1,
+        "bearing": -46,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -43.333334374427764,
+            "tilt": 0,
+            "target": {
+                "lng": 105.80381747642238,
+                "lat": 21.007255923929854
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "62e23a86b2225a52cee792b0.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/62e23a86b2225a52cee792b0.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80452869626245,
+                    "lat": 21.00688283484833
+                },
+                {
+                    "lng": 105.80452869623349,
+                    "lat": 21.006793003319917
+                },
+                {
+                    "lng": 105.8044324692615,
+                    "lat": 21.006793003319917
+                },
+                {
+                    "lng": 105.80443246923252,
+                    "lat": 21.00688283484833
+                },
+                {
+                    "lng": 105.80452869626245,
+                    "lat": 21.00688283484833
+                }
+            ],
+            "height": null,
+            "textureName": "62e23a87b2225a52cee792b2.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/62e23a87b2225a52cee792b2.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ho\u00e0ng Ng\u00e2n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "17T7, Ng\u00f5 165 "
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "17T7, Ng\u00f5 165  Ho\u00e0ng Ng\u00e2n, Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

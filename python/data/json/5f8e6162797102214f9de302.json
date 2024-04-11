@@ -1,0 +1,376 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e6162797102214f9de302",
+        "name": "La Sant\u00e9 Hotel & Spa",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c2439c2e7d438384af81f",
+                "location": {
+                    "lng": 105.842473,
+                    "lat": 21.045283
+                },
+                "address": "42 Ch\u00e2u Long, Tr\u00fac B\u1ea1ch, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i 100000, Vi\u1ec7t Nam",
+                "name": "La Sant\u00e9 Hotel & Spa",
+                "objectId": "5f8e6162797102214f9de302",
+                "description": "42 Ch\u00e2u Long, Tr\u00fac B\u1ea1ch, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i 100000, Vi\u1ec7t Nam",
+                "types": [
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "42"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Ch\u00e2u Long"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Tr\u00fac B\u1ea1ch"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://lh6.googleusercontent.com/proxy/NF4YLHsBYDQmPdBHd7nlbFtvX-yJmHcIyiwaWo_GmIupIO4ZLWKY7jXQVhPeFhhG0Q5mPY7NPMBPF3oNSWrXmtKc_HICVcSOM_Lwbk-igBYTqbNAMtSGKCOPnpjxTsEuSqZZvADklR0avmxACMtfg6R1kU7QuW4=w174-h92-k-no",
+                        "name": null,
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8e6162797102214f9de302",
+                    "name": "La Sant\u00e9 Hotel & Spa",
+                    "location": {
+                        "lng": 105.84234753163446,
+                        "lat": 21.04529148305845
+                    },
+                    "scale": 1,
+                    "bearing": 77,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -39.199999999999996,
+                        "tilt": 62.5,
+                        "target": {
+                            "lng": 105.8422719089213,
+                            "lat": 21.045434289202316
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8e615c64df97299cfcb69f.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e615c64df97299cfcb69f.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84239565756326,
+                                "lat": 21.045336398815888
+                            },
+                            {
+                                "lng": 105.84239565753423,
+                                "lat": 21.045246567287474
+                            },
+                            {
+                                "lng": 105.84229940573469,
+                                "lat": 21.045246567287474
+                            },
+                            {
+                                "lng": 105.84229940570566,
+                                "lat": 21.045336398815888
+                            },
+                            {
+                                "lng": 105.84239565756326,
+                                "lat": 21.045336398815888
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8e615c64df97299cfcb6a1.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e615c64df97299cfcb6a1.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ba \u0110\u00ecnh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Tr\u00fac B\u1ea1ch",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ph\u1ea1m H\u1ed3ng Th\u00e1i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "44",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603166562572,
+                    "updatedDate": 1623224248312
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3513 2222",
+                "website": "http://www.lasantehotel.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.842473,
+                        21.045283
+                    ]
+                },
+                "rank": {
+                    "value": 1001.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84234753163446,
+            "lat": 21.04529148305845
+        },
+        "scale": 1,
+        "bearing": 77,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -39.199999999999996,
+            "tilt": 62.5,
+            "target": {
+                "lng": 105.8422719089213,
+                "lat": 21.045434289202316
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8e615c64df97299cfcb69f.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e615c64df97299cfcb69f.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84239565756326,
+                    "lat": 21.045336398815888
+                },
+                {
+                    "lng": 105.84239565753423,
+                    "lat": 21.045246567287474
+                },
+                {
+                    "lng": 105.84229940573469,
+                    "lat": 21.045246567287474
+                },
+                {
+                    "lng": 105.84229940570566,
+                    "lat": 21.045336398815888
+                },
+                {
+                    "lng": 105.84239565756326,
+                    "lat": 21.045336398815888
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8e615c64df97299cfcb6a1.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e615c64df97299cfcb6a1.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Tr\u00fac B\u1ea1ch"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u1ed3ng Th\u00e1i"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "44"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

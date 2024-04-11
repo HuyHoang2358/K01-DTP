@@ -1,0 +1,357 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "62e8d85631332f97a73f0908",
+        "name": "Green School M\u1ef9 \u0110\u00ecnh - Tr\u01b0\u1eddng M\u1ea7m Non V\u01b0\u1eddn Xanh",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60a74a82b4e1e72f1899e1e4",
+                "location": {
+                    "lng": 105.77553309999999,
+                    "lat": 21.0157925
+                },
+                "address": "NT01 Ph\u1ed1 Tr\u1ea7n V\u0103n Lai, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                "name": "Green School M\u1ef9 \u0110\u00ecnh - Tr\u01b0\u1eddng M\u1ea7m Non V\u01b0\u1eddn Xanh",
+                "objectId": "62e8d85631332f97a73f0908",
+                "description": null,
+                "types": [
+                    "preschool",
+                    "education"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "preschool",
+                        "name": "Tr\u01b0\u1eddng m\u1ea7m non, m\u1eabu gi\u00e1o",
+                        "group": "education"
+                    },
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    }
+                ],
+                "mainType": "preschool",
+                "mainTypeInfos": {
+                    "id": "preschool",
+                    "name": "Tr\u01b0\u1eddng m\u1ea7m non, m\u1eabu gi\u00e1o",
+                    "group": "education"
+                },
+                "auxiliaryTypes": [
+                    "education"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "NT01"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Ph\u1ed1 Tr\u1ea7n V\u0103n Lai"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "preschool",
+                        "name": "Tr\u01b0\u1eddng m\u1ea7m non, m\u1eabu gi\u00e1o",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "education",
+                        "minRank": 100000,
+                        "maxRank": 2000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "education",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "62e8d85631332f97a73f0908",
+                    "name": "Green School M\u1ef9 \u0110\u00ecnh - Tr\u01b0\u1eddng M\u1ea7m Non V\u01b0\u1eddn Xanh",
+                    "location": {
+                        "lng": 105.77533420477823,
+                        "lat": 21.015694884202063
+                    },
+                    "scale": 1,
+                    "bearing": 37,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -60.75621034888581,
+                        "tilt": 59.5,
+                        "target": {
+                            "lng": 105.77535110693486,
+                            "lat": 21.015539205131304
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "62e8d84231332f97a73f0903.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/62e8d84231332f97a73f0903.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.77538232114998,
+                                "lat": 21.015739799959505
+                            },
+                            {
+                                "lng": 105.775382321121,
+                                "lat": 21.01564996843109
+                            },
+                            {
+                                "lng": 105.77528608843548,
+                                "lat": 21.01564996843109
+                            },
+                            {
+                                "lng": 105.7752860884065,
+                                "lat": 21.015739799959505
+                            },
+                            {
+                                "lng": 105.77538232114998,
+                                "lat": 21.015739799959505
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "62e8d84231332f97a73f0905.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/62e8d84231332f97a73f0905.jpg"
+                    },
+                    "types": [
+                        "preschool"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ph\u1ed1 Tr\u1ea7n V\u0103n Lai",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "NT01",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "NT01 Ph\u1ed1 Tr\u1ea7n V\u0103n Lai, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1659426902939,
+                    "updatedDate": 1659426902939
+                },
+                "tags": [],
+                "phoneNumber": "+84917662986",
+                "website": "http://greenschool.edu.vn/",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.77553309999999,
+                        21.0157925
+                    ]
+                },
+                "rank": {
+                    "value": 100001
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.77533420477823,
+            "lat": 21.015694884202063
+        },
+        "scale": 1,
+        "bearing": 37,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -60.75621034888581,
+            "tilt": 59.5,
+            "target": {
+                "lng": 105.77535110693486,
+                "lat": 21.015539205131304
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "62e8d84231332f97a73f0903.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/62e8d84231332f97a73f0903.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.77538232114998,
+                    "lat": 21.015739799959505
+                },
+                {
+                    "lng": 105.775382321121,
+                    "lat": 21.01564996843109
+                },
+                {
+                    "lng": 105.77528608843548,
+                    "lat": 21.01564996843109
+                },
+                {
+                    "lng": 105.7752860884065,
+                    "lat": 21.015739799959505
+                },
+                {
+                    "lng": 105.77538232114998,
+                    "lat": 21.015739799959505
+                }
+            ],
+            "height": null,
+            "textureName": "62e8d84231332f97a73f0905.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/62e8d84231332f97a73f0905.jpg"
+        },
+        "types": [
+            "preschool"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ed1 Tr\u1ea7n V\u0103n Lai"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "NT01"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "preschool": "Tr\u01b0\u1eddng m\u1ea7m non, m\u1eabu gi\u00e1o"
+        },
+        "metadata": null,
+        "address": "NT01 Ph\u1ed1 Tr\u1ea7n V\u0103n Lai, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

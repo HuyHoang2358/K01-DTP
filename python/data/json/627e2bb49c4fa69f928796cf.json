@@ -1,0 +1,90 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e2bb49c4fa69f928796cf",
+        "name": "M\u1ea7m non \u0111\u1ea1i m\u1ed7 A",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76036041500085,
+            "lat": 21.02238941619864
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 0,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76035890625518,
+                "lat": 21.022371264497487
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76033409577133,
+                    "lat": 21.022419773400728
+                },
+                {
+                    "lng": 105.760389081168,
+                    "lat": 21.02241789563608
+                },
+                {
+                    "lng": 105.76038639895359,
+                    "lat": 21.022359684917944
+                },
+                {
+                    "lng": 105.76033208411047,
+                    "lat": 21.0223603108398
+                }
+            ],
+            "height": 8,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "preschool"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "preschool": "Tr\u01b0\u1eddng m\u1ea7m non, m\u1eabu gi\u00e1o"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

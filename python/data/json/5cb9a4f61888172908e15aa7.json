@@ -1,0 +1,98 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5cb9a4f61888172908e15aa7",
+        "name": "Legacy",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.229344,
+            "lat": 16.067931
+        },
+        "scale": 1,
+        "bearing": -76,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 81.13879319802524,
+            "tilt": 31.911369863013697,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5cb9a4f70170b23dfc759cb8",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cb9a4f70170b23dfc759cb8",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.229516,
+                    "lat": 16.067857
+                },
+                {
+                    "lng": 108.22922,
+                    "lat": 16.067786
+                },
+                {
+                    "lng": 108.22946,
+                    "lat": 16.068074
+                },
+                {
+                    "lng": 108.229163,
+                    "lat": 16.068003
+                }
+            ],
+            "height": 1,
+            "textureName": "5cb9a4f70170b23dfc759cb9.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cb9a4f70170b23dfc759cb9.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 13,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 954522000000,
+        "endDate": 2532358800000,
+        "source": null,
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

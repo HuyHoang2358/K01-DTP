@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff811a5741cd06e43fb81e7",
+        "name": "The Golden Palm",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80763429019953,
+            "lat": 21.00697311056227
+        },
+        "scale": 1,
+        "bearing": -142,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -169.20000000000002,
+            "tilt": 73.5,
+            "target": {
+                "lng": 105.80763429019953,
+                "lat": 21.00697311056227
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff81195f75190676b0021a0.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff81195f75190676b0021a0.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8076824037581,
+                    "lat": 21.00701802631972
+                },
+                {
+                    "lng": 105.80768240372913,
+                    "lat": 21.006928194791303
+                },
+                {
+                    "lng": 105.80758617666994,
+                    "lat": 21.006928194791303
+                },
+                {
+                    "lng": 105.80758617664098,
+                    "lat": 21.00701802631972
+                },
+                {
+                    "lng": 105.8076824037581,
+                    "lat": 21.00701802631972
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff81195f75190676b0021a2.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff81195f75190676b0021a2.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea V\u0103n L\u01b0\u01a1ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "T\u00f2a nh\u00e0 The Golden Palm, 21 \u0110. L\u00ea V\u0103n L\u01b0\u01a1ng, Nh\u00e2n Ch\u00ednh, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 1513443600000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "T\u00f2a nh\u00e0 The Golden Palm, 21 \u0110. L\u00ea V\u0103n L\u01b0\u01a1ng, Nh\u00e2n Ch\u00ednh, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam L\u00ea V\u0103n L\u01b0\u01a1ng, Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

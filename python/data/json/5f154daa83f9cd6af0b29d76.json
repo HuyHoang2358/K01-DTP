@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f154daa83f9cd6af0b29d76",
+        "name": "May De Ville Legend",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85191384749766,
+            "lat": 21.034373565469636
+        },
+        "scale": 1,
+        "bearing": 173,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -196.98974439731398,
+            "tilt": 73,
+            "target": {
+                "lng": 105.85194546007554,
+                "lat": 21.03431841719985
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f154da983f9cd6af0b29d72.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f154da983f9cd6af0b29d72.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85199580487543,
+                    "lat": 21.034336975066932
+                },
+                {
+                    "lng": 105.85199580484641,
+                    "lat": 21.03424714353852
+                },
+                {
+                    "lng": 105.85189956015441,
+                    "lat": 21.03424714353852
+                },
+                {
+                    "lng": 105.85189956012537,
+                    "lat": 21.034336975066932
+                },
+                {
+                    "lng": 105.85199580487543,
+                    "lat": 21.034336975066932
+                }
+            ],
+            "height": 1,
+            "textureName": "5f154daa83f9cd6af0b29d74.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f154daa83f9cd6af0b29d74.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 H\u00e0i T\u01b0\u1ee3ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "628465029c4fa69f9287a9ae",
+        "name": "BRG Tower",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "6284656e9c4fa69f9287a9b1",
+                "location": {
+                    "lng": 105.8578195708028,
+                    "lat": 21.028388895972228
+                },
+                "address": "Tr\u1ea7n Quang Kh\u1ea3i, Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                "name": "BRG Tower",
+                "objectId": "628465029c4fa69f9287a9ae",
+                "description": null,
+                "types": [
+                    "coworking_space"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "coworking_space",
+                        "name": "V\u0103n ph\u00f2ng cho thu\u00ea",
+                        "group": "establishment"
+                    }
+                ],
+                "mainType": "coworking_space",
+                "mainTypeInfos": {
+                    "id": "coworking_space",
+                    "name": "V\u0103n ph\u00f2ng cho thu\u00ea",
+                    "group": "establishment"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n Quang Kh\u1ea3i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "coworking_space",
+                        "name": "V\u0103n ph\u00f2ng cho thu\u00ea",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "628465029c4fa69f9287a9ae",
+                    "name": "BRG Tower",
+                    "location": {
+                        "lng": 105.85761708164847,
+                        "lat": 21.02835609959581
+                    },
+                    "scale": 1,
+                    "bearing": 110,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 18.5,
+                        "bearing": -74.79999999999986,
+                        "tilt": 78.5,
+                        "target": {
+                            "lng": 105.85538320956556,
+                            "lat": 21.02844852316882
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "628464df9c4fa69f9287a9a9.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/628464df9c4fa69f9287a9a9.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85766520210662,
+                                "lat": 21.028401015353253
+                            },
+                            {
+                                "lng": 105.85766520207763,
+                                "lat": 21.02831118382484
+                            },
+                            {
+                                "lng": 105.85756896121933,
+                                "lat": 21.02831118382484
+                            },
+                            {
+                                "lng": 105.85756896119034,
+                                "lat": 21.028401015353253
+                            },
+                            {
+                                "lng": 105.85766520210662,
+                                "lat": 21.028401015353253
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "628464df9c4fa69f9287a9ab.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/628464df9c4fa69f9287a9ab.jpg"
+                    },
+                    "types": [
+                        "coworking_space"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n Quang Kh\u1ea3i",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Tr\u1ea7n Quang Kh\u1ea3i, Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1652843778880,
+                    "updatedDate": 1652843778880
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8578195708028,
+                        21.028388895972228
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85761708164847,
+            "lat": 21.02835609959581
+        },
+        "scale": 1,
+        "bearing": 110,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18.5,
+            "bearing": -74.79999999999986,
+            "tilt": 78.5,
+            "target": {
+                "lng": 105.85538320956556,
+                "lat": 21.02844852316882
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "628464df9c4fa69f9287a9a9.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/628464df9c4fa69f9287a9a9.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85766520210662,
+                    "lat": 21.028401015353253
+                },
+                {
+                    "lng": 105.85766520207763,
+                    "lat": 21.02831118382484
+                },
+                {
+                    "lng": 105.85756896121933,
+                    "lat": 21.02831118382484
+                },
+                {
+                    "lng": 105.85756896119034,
+                    "lat": 21.028401015353253
+                },
+                {
+                    "lng": 105.85766520210662,
+                    "lat": 21.028401015353253
+                }
+            ],
+            "height": null,
+            "textureName": "628464df9c4fa69f9287a9ab.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/628464df9c4fa69f9287a9ab.jpg"
+        },
+        "types": [
+            "coworking_space"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Quang Kh\u1ea3i"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "coworking_space": "V\u0103n ph\u00f2ng cho thu\u00ea"
+        },
+        "metadata": null,
+        "address": "Tr\u1ea7n Quang Kh\u1ea3i, Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5, Qu\u1eadn Ho\u00e0n Ki\u1ebfm, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

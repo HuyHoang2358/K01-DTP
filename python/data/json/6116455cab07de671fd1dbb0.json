@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6116455cab07de671fd1dbb0",
+        "name": "Nh\u00e0 V\u0103n H\u00f3a Qu\u1eadn Thanh Xu\u00e2n",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79731746018898,
+            "lat": 21.0017285038905
+        },
+        "scale": 1,
+        "bearing": -7,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -108.00000321865083,
+            "tilt": 45.66666683554649,
+            "target": {
+                "lng": 105.79719456066266,
+                "lat": 21.001514424369134
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61164546ab07de671fd1dbab.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61164546ab07de671fd1dbab.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7973655720566,
+                    "lat": 21.001773419647954
+                },
+                {
+                    "lng": 105.79736557202766,
+                    "lat": 21.00168358811954
+                },
+                {
+                    "lng": 105.79726934835031,
+                    "lat": 21.00168358811954
+                },
+                {
+                    "lng": 105.79726934832136,
+                    "lat": 21.001773419647954
+                },
+                {
+                    "lng": 105.7973655720566,
+                    "lat": 21.001773419647954
+                }
+            ],
+            "height": null,
+            "textureName": "61164548ab07de671fd1dbad.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61164548ab07de671fd1dbad.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "333"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea V\u0103n L\u01b0\u01a1ng"
+            }
+        ],
+        "startDate": 1539104400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "333 L\u00ea V\u0103n L\u01b0\u01a1ng, Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

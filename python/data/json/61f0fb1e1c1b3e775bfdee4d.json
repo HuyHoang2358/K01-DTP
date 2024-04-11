@@ -1,0 +1,94 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61f0fb1e1c1b3e775bfdee4d",
+        "name": "Tr\u01b0\u1eddng THCS Ng\u00f4 Th\u00ec Nh\u1eadm",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.15344570258168,
+            "lat": 16.068496744039493
+        },
+        "scale": 1,
+        "bearing": 118,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -118.50419087920723,
+            "tilt": 76.5,
+            "target": {
+                "lng": 108.15341843421145,
+                "lat": 16.068393257848292
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61f0fb021c1b3e775bfdee48.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61f0fb021c1b3e775bfdee48.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.15349244449303,
+                    "lat": 16.06854165979863
+                },
+                {
+                    "lng": 108.15349244447191,
+                    "lat": 16.06845182827022
+                },
+                {
+                    "lng": 108.15339896069145,
+                    "lat": 16.06845182827022
+                },
+                {
+                    "lng": 108.15339896067033,
+                    "lat": 16.06854165979863
+                },
+                {
+                    "lng": 108.15349244449303,
+                    "lat": 16.06854165979863
+                }
+            ],
+            "height": null,
+            "textureName": "61f0fb031c1b3e775bfdee4a.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61f0fb031c1b3e775bfdee4a.jpg"
+        },
+        "types": [
+            "education"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh Nam"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "education": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

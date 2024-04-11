@@ -1,0 +1,551 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60bf27c54391e3457053d752",
+        "name": "Beer 29",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60a393dd0309c615cc1d56e3",
+                "location": {
+                    "lng": 105.852197,
+                    "lat": 21.034561
+                },
+                "address": "29 T\u1ea1 Hi\u1ec7n, H\u00e0ng Bu\u1ed3m, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+                "name": "Beer 29",
+                "objectId": "60bf27c54391e3457053d752",
+                "description": null,
+                "types": [
+                    "food_service",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "group": "food_service"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "food_service",
+                "mainTypeInfos": {
+                    "id": "food_service",
+                    "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                    "group": "food_service"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "29"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "T\u1ea1 Hi\u1ec7n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d73d29c3ce454f987f21.jpg",
+                        "name": "60f8d73d29c3ce454f987f21.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d73f29c3ce454f987f22.jpg",
+                        "name": "60f8d73f29c3ce454f987f22.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d73f29c3ce454f987f24.jpg",
+                        "name": "60f8d73f29c3ce454f987f24.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d73f29c3ce454f987f26.jpg",
+                        "name": "60f8d73f29c3ce454f987f26.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d73f29c3ce454f987f28.png",
+                        "name": "60f8d73f29c3ce454f987f28.png",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d7ba29c3ce454f987f44.jpg",
+                        "name": "60f8d7ba29c3ce454f987f44.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d7ba29c3ce454f987f45.png",
+                        "name": "60f8d7ba29c3ce454f987f45.png",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d7ba29c3ce454f987f47.png",
+                        "name": "60f8d7ba29c3ce454f987f47.png",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d7ba29c3ce454f987f49.png",
+                        "name": "60f8d7ba29c3ce454f987f49.png",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d7ba29c3ce454f987f4b.png",
+                        "name": "60f8d7ba29c3ce454f987f4b.png",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "food_service",
+                        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "food_service",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60bf27c54391e3457053d752",
+                    "name": "Beer 29",
+                    "location": {
+                        "lng": 105.85221443092968,
+                        "lat": 21.034555627753548
+                    },
+                    "scale": 1.1,
+                    "bearing": -87,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 18,
+                        "bearing": 0,
+                        "tilt": 59,
+                        "target": {
+                            "lng": 105.85221443092968,
+                            "lat": 21.034555627753548
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60bf27be17cf4702bf30dd5d.obj",
+                        "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60bf27be17cf4702bf30dd5d.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85226255338983,
+                                "lat": 21.03460054351098
+                            },
+                            {
+                                "lng": 105.85226255336082,
+                                "lat": 21.034510711982573
+                            },
+                            {
+                                "lng": 105.85216630849854,
+                                "lat": 21.034510711982573
+                            },
+                            {
+                                "lng": 105.85216630846953,
+                                "lat": 21.03460054351098
+                            },
+                            {
+                                "lng": 105.85226255338983,
+                                "lat": 21.03460054351098
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "60bf27bf46969f2a6887966f.jpg",
+                        "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60bf27bf46969f2a6887966f.jpg"
+                    },
+                    "types": [
+                        "drink"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "T\u1ea1 Hi\u1ec7n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "29B",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1623140293717,
+                    "updatedDate": 1623224269724
+                },
+                "tags": [],
+                "phoneNumber": "0913517621",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.852197,
+                        21.034561
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [
+                    {
+                        "id": "60f8d7bb29c3ce454f987f4e",
+                        "type": "article",
+                        "name": "Nh\u1eadn x\u00e9t t\u1eeb Th\u00e0nh Vi\u00ean tr\u00ean Foody - B\u1ea1ch Tuy\u1ebft",
+                        "content": "<p><span style=\"font-size: 18px;\"><strong><ins>C\u0169ng \u0111c...</ins></strong></span></p>\n<p><span style=\"font-size: 16px;\">Th\u1ef1c ra l\u00e0 v\u00ec b\u1ea1n m\u00ecnh ng\u1ed3i \u0111\u00e2y t\u1eeb \u0111\u1ea7u, g\u1ecdi bminh ra ti\u1ebfp th\u00f4i ch\u1ee9 n\u1ebfu \u0111c l\u1ef1a ch\u1ecdn m\u00ecnh s\u1ebd ch\u1ea3 baoh ng\u1ed3i \u0111\u00e2y c\u1ea3, m\u00ecnh to\u00e0n ng\u1ed3i \u0111\u1ea7u ph\u1ed1 Bia Ph\u1ed1 c\u1ed5 \u1ea5y \ud83d\ude44</span></p>\n<p><span style=\"font-size: 16px;\">\u2764\ufe0f Qu\u00e1n c\u0169ng nh\u1ecf t\u00ed x\u00edu \u1ea5y, \u0111\u1ed1i di\u1ec7n Local \u1ea5y, n\u00ean \u0111c h\u01b0\u1edfng ch\u00fat s\u00e1i nh\u1ea1c s\u1eadp s\u00ecnh c\u1ee7a qu\u00e1n \ud83e\udd23</span></p>\n<p><span style=\"font-size: 16px;\">\u2764\ufe0f H\u00f4m m\u00ecnh \u0111\u1ebfn u\u1ed1ng th\u00ec \u00edt m\u00e0 \u0103n th\u00ec nhi\u1ec1u. G\u1ecdi 1 \u0111\u0129a nem, xong 1 \u0111\u0129a khoai lang k\u00e9n vs c\u1ea3 fomai n\u1eefa. Fomai th\u00ec qu\u00e1n n\u00e0y k c\u00f3 n\u00ean fai ch\u1ea1y sang b\u00ean \u0111\u01b0\u1eddng mua \u1ea5y \ud83e\udd23.Nem chua v\u00e0 khoai r\u00e1n r\u00f2n, ngon, \u0103n kh\u00e1 \u01b0ng \u00fd \u263a\ufe0f</span></p>\n<p><span style=\"font-size: 16px;\">\u2764\ufe0f T\u1eeb ch\u1ee7 \u0111\u1ebfn nv \u0111\u1ec1u r\u1ea5t t\u1eadn t\u00ecnh chi\u1ec1u kh\u00e1ch, th\u1eadm ch\u00ed treo c\u1ea3 \u00e1o l\u00ean m\u1eafc jup m\u00ecnh \ud83e\udd23 M\u00ecnh g\u1ecdi order th\u00eam t\u01b0\u01a1ng \u1edbt cx l\u1ea5y nhanh lu\u00f4n \u1ea5y, ch\u1ee9 kfai nh\u01b0 b\u00ean ngo\u00e0i \u0111\u1ea7u kia \u00e0 \u01a1i \u00ed \u1edbi m\u00e3i k ai th\u00e8m qtam \ud83d\ude05 Cx \u0111\u00fang, v\u00ec b\u00ean kia \u0111\u00f4ng h\u01a1n n\u00ean k th\u1ec3 s\u00e1t sao kh\u00e1ch nh\u01b0 \u1edf \u0111\u00e2y \u0111c!</span></p>\n<p><span style=\"font-size: 16px;\">\u2764\ufe0f Nhg c\u00f3 1 \u0111i\u1ec1u l\u00e0 gi\u00e1 CH\u00c1T KINH KH\u1ee6NG. 1 \u0111\u0129a nem \u0111\u1ea7y \u0111\u1eb7n b\u00ean kia b\u00e1n c\u00f3 45-50k, sang b\u00ean n\u00e0y ch\u00e9m \u0111\u1eb9p l\u00ean 70-80k. M\u00e0 c\u00e1i g\u00ec c\u0169ng \u0111\u1eaft h\u01a1n \u1ea5y \ud83d\ude23</span></p>\n<div style=\"text-align:none;\"><img src=\"https://f19-zpg.zdn.vn/2161913466801892939/b7ba5db383d5748b2dc4.jpg\" alt=\"undefined\" style=\"height: auto;width: auto\"/></div>\n<p></p>\n",
+                        "order": 1
+                    }
+                ],
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d7ba29c3ce454f987f4b.png",
+                        "name": "60f8d7ba29c3ce454f987f4b.png",
+                        "typeFile": "Image",
+                        "description": "2021-07-21_173847.png",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626920891062
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d7ba29c3ce454f987f49.png",
+                        "name": "60f8d7ba29c3ce454f987f49.png",
+                        "typeFile": "Image",
+                        "description": "2021-07-21_173838.png",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626920890840
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d7ba29c3ce454f987f47.png",
+                        "name": "60f8d7ba29c3ce454f987f47.png",
+                        "typeFile": "Image",
+                        "description": "2021-07-21_173829.png",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626920890739
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d7ba29c3ce454f987f45.png",
+                        "name": "60f8d7ba29c3ce454f987f45.png",
+                        "typeFile": "Image",
+                        "description": "2021-07-21_173820.png",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626920890648
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d7ba29c3ce454f987f44.jpg",
+                        "name": "60f8d7ba29c3ce454f987f44.jpg",
+                        "typeFile": "Image",
+                        "description": "foody-beer-29-617-636611242934032433.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626920890529
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d73f29c3ce454f987f28.png",
+                        "name": "60f8d73f29c3ce454f987f28.png",
+                        "typeFile": "Image",
+                        "description": "2021-07-22_091730.png",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626920767524
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d73f29c3ce454f987f26.jpg",
+                        "name": "60f8d73f29c3ce454f987f26.jpg",
+                        "typeFile": "Image",
+                        "description": "t\u1ea3i xu\u1ed1ng.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626920767398
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d73f29c3ce454f987f24.jpg",
+                        "name": "60f8d73f29c3ce454f987f24.jpg",
+                        "typeFile": "Image",
+                        "description": "foody-beer-29-901-636287560759332657.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626920767288
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d73f29c3ce454f987f22.jpg",
+                        "name": "60f8d73f29c3ce454f987f22.jpg",
+                        "typeFile": "Image",
+                        "description": "foody-beer-29-299553-200-636157821908080168.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626920767149
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/60f8d73d29c3ce454f987f21.jpg",
+                        "name": "60f8d73d29c3ce454f987f21.jpg",
+                        "typeFile": "Image",
+                        "description": "IMG_20210518_104849.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "f2ef1208-0737-4db8-baab-1087fe6eb794",
+                            "displayName": "Xuan Linh Nguyen"
+                        },
+                        "createdDate": 1626920767029
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 105.85221443092968,
+            "lat": 21.034555627753548
+        },
+        "scale": 1.1,
+        "bearing": -87,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": 0,
+            "tilt": 59,
+            "target": {
+                "lng": 105.85221443092968,
+                "lat": 21.034555627753548
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60bf27be17cf4702bf30dd5d.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60bf27be17cf4702bf30dd5d.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85226255338983,
+                    "lat": 21.03460054351098
+                },
+                {
+                    "lng": 105.85226255336082,
+                    "lat": 21.034510711982573
+                },
+                {
+                    "lng": 105.85216630849854,
+                    "lat": 21.034510711982573
+                },
+                {
+                    "lng": 105.85216630846953,
+                    "lat": 21.03460054351098
+                },
+                {
+                    "lng": 105.85226255338983,
+                    "lat": 21.03460054351098
+                }
+            ],
+            "height": 1,
+            "textureName": "60bf27bf46969f2a6887966f.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60bf27bf46969f2a6887966f.jpg"
+        },
+        "types": [
+            "drink"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "29B"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "drink": "Gi\u1ea3i kh\u00e1t, qu\u00e1n n\u01b0\u1edbc, sinh t\u1ed1"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

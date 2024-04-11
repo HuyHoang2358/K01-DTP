@@ -1,0 +1,349 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5938c3ce405b61a1acbbf3e8",
+        "name": "Indochina Riverside Towers",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e5814a9df9d67e5bb9",
+                "location": {
+                    "lng": 108.224534,
+                    "lat": 16.069912
+                },
+                "address": "74 Phan \u0110\u00ecnh Ph\u00f9ng, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u 1, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Indochina Riverside Towers",
+                "objectId": "5938c3ce405b61a1acbbf3e8",
+                "description": " &nbsp; ",
+                "types": [
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "74"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Phan \u0110\u00ecnh Ph\u00f9ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5938c3ce405b61a1acbbf3e8",
+                    "name": "Indochina Riverside Towers",
+                    "location": {
+                        "lng": 108.2245165817165,
+                        "lat": 16.069984894486694
+                    },
+                    "scale": 0.8,
+                    "bearing": 5,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 89.02724355455325,
+                        "tilt": 79.5,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "",
+                        "objName": "5da6c5f4026f700c680453da.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5da6c5f4026f700c680453da.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.22456332397756,
+                                "lat": 16.07002981024583
+                            },
+                            {
+                                "lng": 108.22456332395645,
+                                "lat": 16.06993997871742
+                            },
+                            {
+                                "lng": 108.22446983947655,
+                                "lat": 16.06993997871742
+                            },
+                            {
+                                "lng": 108.22446983945544,
+                                "lat": 16.07002981024583
+                            },
+                            {
+                                "lng": 108.22456332397756,
+                                "lat": 16.07002981024583
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "5da6c5f4026f700c680453dc.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5da6c5f4026f700c680453dc.jpg"
+                    },
+                    "types": [
+                        "point",
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Phan \u0110\u00ecnh Ph\u00f9ng",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Phan \u0110\u00ecnh Ph\u00f9ng, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "582546120ec6af4457a68494",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Nguy\u1ec5n Th\u00e0nh"
+                    },
+                    "createdDate": 1496892366133,
+                    "updatedDate": 1676595493898
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.224534,
+                        16.069912
+                    ]
+                },
+                "rank": {
+                    "value": 1000070.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.2245165817165,
+            "lat": 16.069984894486694
+        },
+        "scale": 0.8,
+        "bearing": 5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 89.02724355455325,
+            "tilt": 79.5,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5da6c5f4026f700c680453da.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5da6c5f4026f700c680453da.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22456332397756,
+                    "lat": 16.07002981024583
+                },
+                {
+                    "lng": 108.22456332395645,
+                    "lat": 16.06993997871742
+                },
+                {
+                    "lng": 108.22446983947655,
+                    "lat": 16.06993997871742
+                },
+                {
+                    "lng": 108.22446983945544,
+                    "lat": 16.07002981024583
+                },
+                {
+                    "lng": 108.22456332397756,
+                    "lat": 16.07002981024583
+                }
+            ],
+            "height": 0,
+            "textureName": "5da6c5f4026f700c680453dc.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5da6c5f4026f700c680453dc.jpg"
+        },
+        "types": [
+            "point",
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Phan \u0110\u00ecnh Ph\u00f9ng"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n",
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "Phan \u0110\u00ecnh Ph\u00f9ng, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+    }
+}

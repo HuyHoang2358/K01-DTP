@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "637c77254f7f478847b0c9b0",
+        "name": "VIetNam State Auditor",
+        "places": [],
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78926189901517,
+            "lat": 21.01662779874654
+        },
+        "scale": 1,
+        "bearing": -54,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.5,
+            "bearing": 25.866667437553463,
+            "tilt": 55.00000163912773,
+            "target": {
+                "lng": 105.78940189618716,
+                "lat": 21.01677179774667
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "637c77264f7f478847b0c9b3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/637c77264f7f478847b0c9b3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78931001568792,
+                    "lat": 21.016672714503986
+                },
+                {
+                    "lng": 105.78931001565893,
+                    "lat": 21.016582882975573
+                },
+                {
+                    "lng": 105.78921378237143,
+                    "lat": 21.016582882975573
+                },
+                {
+                    "lng": 105.78921378234244,
+                    "lat": 21.016672714503986
+                },
+                {
+                    "lng": 105.78931001568792,
+                    "lat": 21.016672714503986
+                }
+            ],
+            "height": null,
+            "textureName": "637c77254f7f478847b0c9b1.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/637c77184f7f478847b0c9ad.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Ch\u00e1nh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "116"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": "116 Nguy\u1ec5n Ch\u00e1nh, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6004fa2e9b70fd6b371f71e3",
+        "name": "B\u1ed9 Gi\u00e1o d\u1ee5c v\u00e0 \u0110\u00e0o t\u1ea1o",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8478708268949,
+            "lat": 21.007590352809984
+        },
+        "scale": 1,
+        "bearing": 182,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 187.67028868788734,
+            "tilt": 82,
+            "target": {
+                "lng": 105.84775819928005,
+                "lat": 21.006792161121663
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6004fa08461fac04fec5ac1e.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6004fa08461fac04fec5ac1e.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84791894065252,
+                    "lat": 21.007635268567427
+                },
+                {
+                    "lng": 105.84791894062354,
+                    "lat": 21.00754543703902
+                },
+                {
+                    "lng": 105.84782271316628,
+                    "lat": 21.00754543703902
+                },
+                {
+                    "lng": 105.8478227131373,
+                    "lat": 21.007635268567427
+                },
+                {
+                    "lng": 105.84791894065252,
+                    "lat": 21.007635268567427
+                }
+            ],
+            "height": 1,
+            "textureName": "6004fa089b70fd6b371f71e0.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6004fa089b70fd6b371f71e0.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng B\u00e1ch Khoa"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u1ea1 Quang B\u1eedu"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "35"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "35 T\u1ea1 Quang B\u1eedu, Ph\u01b0\u1eddng B\u00e1ch Khoa, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

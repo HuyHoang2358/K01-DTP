@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff7c35fbeee3c4c5c5bb9cf",
+        "name": "Cung tr\u00ed th\u1ee9c H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78668875622606,
+            "lat": 21.027107359148772
+        },
+        "scale": 1,
+        "bearing": 112,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -25.999997496604948,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78638515125228,
+                "lat": 21.025846284490925
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff7c354f75190676b0019b5.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff7c354f75190676b0019b5.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78673687628103,
+                    "lat": 21.02715227490621
+                },
+                {
+                    "lng": 105.78673687625204,
+                    "lat": 21.0270624433778
+                },
+                {
+                    "lng": 105.78664063620008,
+                    "lat": 21.0270624433778
+                },
+                {
+                    "lng": 105.78664063617109,
+                    "lat": 21.02715227490621
+                },
+                {
+                    "lng": 105.78673687628103,
+                    "lat": 21.02715227490621
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff7c354beee3c4c5c5bb9cd.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff7c354beee3c4c5c5bb9cd.jpg"
+        },
+        "types": [
+            "establishment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Th\u00e1i T\u00f4ng"
+            }
+        ],
+        "startDate": 1278694800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "establishment": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i"
+        },
+        "metadata": null,
+        "address": "Tr\u1ea7n Th\u00e1i T\u00f4ng, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

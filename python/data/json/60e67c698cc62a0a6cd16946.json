@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60e67c698cc62a0a6cd16946",
+        "name": "Beer 17",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85290303982055,
+            "lat": 21.03466701234349
+        },
+        "scale": 1.2,
+        "bearing": 187,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -176.68558903835233,
+            "tilt": 69,
+            "target": {
+                "lng": 105.8528734451677,
+                "lat": 21.03466293152545
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60e67c578cc62a0a6cd16941.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60e67c578cc62a0a6cd16941.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85296748001981,
+                    "lat": 21.0347000695869
+                },
+                {
+                    "lng": 105.8529674799908,
+                    "lat": 21.034610238058487
+                },
+                {
+                    "lng": 105.85287123506424,
+                    "lat": 21.034610238058487
+                },
+                {
+                    "lng": 105.85287123503522,
+                    "lat": 21.0347000695869
+                },
+                {
+                    "lng": 105.85296748001981,
+                    "lat": 21.0347000695869
+                }
+            ],
+            "height": null,
+            "textureName": "60e67c578cc62a0a6cd16943.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60e67c578cc62a0a6cd16943.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

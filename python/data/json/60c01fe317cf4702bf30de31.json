@@ -1,0 +1,95 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60c01fe317cf4702bf30de31",
+        "name": "Ph\u1ed1 Nh\u1ecf",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85193794775836,
+            "lat": 21.035245805728138
+        },
+        "scale": 1.1,
+        "bearing": 107,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -99.07597613644856,
+            "tilt": 75,
+            "target": {
+                "lng": 105.85193694423775,
+                "lat": 21.035262824016932
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c01fda46969f2a688796cb.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c01fda46969f2a688796cb.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85199200508735,
+                    "lat": 21.035249716151565
+                },
+                {
+                    "lng": 105.85199200505834,
+                    "lat": 21.035159884623152
+                },
+                {
+                    "lng": 105.85189575977671,
+                    "lat": 21.035159884623152
+                },
+                {
+                    "lng": 105.85189575974769,
+                    "lat": 21.035249716151565
+                },
+                {
+                    "lng": 105.85199200508735,
+                    "lat": 21.035249716151565
+                }
+            ],
+            "height": 1,
+            "textureName": "60c01fdb46969f2a688796cd.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c01fdb46969f2a688796cd.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "2B"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

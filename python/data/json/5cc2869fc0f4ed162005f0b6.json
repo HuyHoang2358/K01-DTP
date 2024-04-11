@@ -1,0 +1,77 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5cc2869fc0f4ed162005f0b6",
+        "name": "Ibiza Riverfront Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22911198488788,
+            "lat": 16.077703271499928
+        },
+        "scale": 1.2,
+        "bearing": -90,
+        "elevation": 0,
+        "heightScale": 0.8,
+        "camera": {
+            "zoom": 18,
+            "bearing": -61.48146827878828,
+            "tilt": 35,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5d82e7fe8de2fe1dd86fa104.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5d82e7fe8de2fe1dd86fa104.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [],
+            "height": 0,
+            "textureName": "5d82e7fe8de2fe1dd86fa106.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5d82e7fe8de2fe1dd86fa106.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i B\u1eafc"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "V\u00f5 Tr\u01b0\u1eddng To\u1ea3n"
+            }
+        ],
+        "startDate": 954547200000,
+        "endDate": 2534889600000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

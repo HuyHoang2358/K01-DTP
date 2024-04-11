@@ -1,0 +1,421 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "63f714dfc823431703036e40",
+        "name": "CellphoneS - C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i ch\u00ednh h\u00e3ng gi\u00e1 r\u1ebb",
+        "places": [],
+        "placeDetails": [
+            {
+                "id": "60dd36f6f81cb14bc85ac93b",
+                "location": {
+                    "lng": 105.77130100379435,
+                    "lat": 20.966850376396053
+                },
+                "address": "267 Quang Trung, Ph\u01b0\u1eddng Quang Trung, Qu\u1eadn H\u00e0 \u0110\u00f4ng, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                "name": "CellphoneS - C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i ch\u00ednh h\u00e3ng gi\u00e1 r\u1ebb",
+                "objectId": "63f714dfc823431703036e40",
+                "description": " 267 \u0110\u01b0\u1eddng Quang Trung ,  P. Quang Trung ,  H\u00e0 \u0110\u00f4ng ,  H\u00e0 N\u1ed9i   100000 ,  Vi\u1ec7t Nam ",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "267"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Quang Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/63f71534c823431703036e45.PNG",
+                        "name": "63f71534c823431703036e45.PNG",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "63f714dfc823431703036e40",
+                    "name": "CellphoneS - C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i ch\u00ednh h\u00e3ng gi\u00e1 r\u1ebb",
+                    "location": {
+                        "lng": 105.77131899622935,
+                        "lat": 20.966840142387184
+                    },
+                    "scale": 1.2,
+                    "bearing": -50,
+                    "elevation": 0,
+                    "heightScale": null,
+                    "camera": {
+                        "zoom": 21.4962,
+                        "bearing": 75.70244038072177,
+                        "tilt": 76.5,
+                        "target": {
+                            "lng": 105.77136324780751,
+                            "lat": 20.966846161500108
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "63f714e0c823431703036e43.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/63f714e0c823431703036e43.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.77136709686175,
+                                "lat": 20.966885058144644
+                            },
+                            {
+                                "lng": 105.77136709683286,
+                                "lat": 20.966795226616235
+                            },
+                            {
+                                "lng": 105.77127089562586,
+                                "lat": 20.966795226616235
+                            },
+                            {
+                                "lng": 105.77127089559697,
+                                "lat": 20.966885058144644
+                            },
+                            {
+                                "lng": 105.77136709686175,
+                                "lat": 20.966885058144644
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "63f714dfc823431703036e41.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/63f7149dc823431703036e3d.jpg"
+                    },
+                    "types": [
+                        "cellphone_store",
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Quang Trung",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Quang Trung",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "267",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": [],
+                    "address": "267 Quang Trung, Ph\u01b0\u1eddng Quang Trung, Qu\u1eadn H\u00e0 \u0110\u00f4ng, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Nguy\u1ec5n Th\u00e0nh"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Nguy\u1ec5n Th\u00e0nh"
+                    },
+                    "createdDate": 1677137120768,
+                    "updatedDate": 1677137120768
+                },
+                "tags": [],
+                "phoneNumber": null,
+                "website": "https://cps267hn.business.site/?utm_source=gmb&utm_medium=referral",
+                "businessHours": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        },
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        }
+                    }
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.77130100379435,
+                        20.966850376396053
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": null,
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/63f71534c823431703036e45.PNG",
+                        "name": "63f71534c823431703036e45.PNG",
+                        "typeFile": "Image",
+                        "description": "Capture.PNG",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Nguy\u1ec5n Th\u00e0nh"
+                        },
+                        "createdDate": 1677137205022
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 105.77131899622935,
+            "lat": 20.966840142387184
+        },
+        "scale": 1.2,
+        "bearing": -50,
+        "elevation": 0,
+        "heightScale": null,
+        "camera": {
+            "zoom": 21.4962,
+            "bearing": 75.70244038072177,
+            "tilt": 76.5,
+            "target": {
+                "lng": 105.77136324780751,
+                "lat": 20.966846161500108
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "63f714e0c823431703036e43.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/63f714e0c823431703036e43.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.77136709686175,
+                    "lat": 20.966885058144644
+                },
+                {
+                    "lng": 105.77136709683286,
+                    "lat": 20.966795226616235
+                },
+                {
+                    "lng": 105.77127089562586,
+                    "lat": 20.966795226616235
+                },
+                {
+                    "lng": 105.77127089559697,
+                    "lat": 20.966885058144644
+                },
+                {
+                    "lng": 105.77136709686175,
+                    "lat": 20.966885058144644
+                }
+            ],
+            "height": null,
+            "textureName": "63f714dfc823431703036e41.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/63f7149dc823431703036e3d.jpg"
+        },
+        "types": [
+            "cellphone_store",
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Quang Trung"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Quang Trung"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "267"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "cellphone_store": "C\u1eeda h\u00e0ng \u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng",
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": [],
+        "address": "267 Quang Trung, Ph\u01b0\u1eddng Quang Trung, Qu\u1eadn H\u00e0 \u0110\u00f4ng, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

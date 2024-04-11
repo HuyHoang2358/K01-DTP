@@ -1,0 +1,105 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fb4ef2888977d3476acbb26",
+        "name": "Minerva Church Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.850057,
+            "lat": 21.028899
+        },
+        "scale": 1,
+        "bearing": 200,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 146.83015024947957,
+            "tilt": 79.5,
+            "target": {
+                "lng": 105.85013835828173,
+                "lat": 21.028773666573308
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fb4eef47591db406eff7975.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb4eef47591db406eff7975.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85010512063343,
+                    "lat": 21.028943915757438
+                },
+                {
+                    "lng": 105.85010512060444,
+                    "lat": 21.028854084229028
+                },
+                {
+                    "lng": 105.85000887939557,
+                    "lat": 21.028854084229028
+                },
+                {
+                    "lng": 105.85000887936658,
+                    "lat": 21.028943915757438
+                },
+                {
+                    "lng": 105.85010512063343,
+                    "lat": 21.028943915757438
+                }
+            ],
+            "height": 1,
+            "textureName": "5fb4eef572a5c52114cdc671.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb4eef572a5c52114cdc671.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nh\u00e0 Th\u1edd"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "9"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": null,
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

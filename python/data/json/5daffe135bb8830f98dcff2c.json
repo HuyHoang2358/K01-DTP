@@ -1,0 +1,71 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5daffe135bb8830f98dcff2c",
+        "name": "Kh\u00e1ch S\u1ea1n B\u1ea3o Quy\u00ean",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.2300970573014,
+            "lat": 16.064921398853414
+        },
+        "scale": 1,
+        "bearing": -79,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -74.56124107135275,
+            "tilt": 83,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5daffe1268789d138cbebcd6.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5daffe1268789d138cbebcd6.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "5daffe1168789d138cbebcd4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5daffe1168789d138cbebcd4.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i T\u00e2y"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,307 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627a3fcdac7db774d784df4f",
+        "name": "C\u1ee5c Thi h\u00e0nh \u00e1n d\u00e2n s\u1ef1 th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "627a4029ac7db774d784df52",
+                "location": {
+                    "lng": 105.77049385697745,
+                    "lat": 21.020800554392494
+                },
+                "address": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                "name": "C\u1ee5c Thi h\u00e0nh \u00e1n d\u00e2n s\u1ef1 th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                "objectId": "627a3fcdac7db774d784df4f",
+                "description": null,
+                "types": [
+                    "government"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "government",
+                        "name": "Li\u00ean quan \u0111\u1ebfn ch\u00ednh quy\u1ec1n, \u0111\u1ecba ph\u01b0\u01a1ng",
+                        "group": "government"
+                    }
+                ],
+                "mainType": "government",
+                "mainTypeInfos": {
+                    "id": "government",
+                    "name": "Li\u00ean quan \u0111\u1ebfn ch\u00ednh quy\u1ec1n, \u0111\u1ecba ph\u01b0\u01a1ng",
+                    "group": "government"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "Ng\u00f5 180"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0110\u00ecnh Th\u00f4n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "government",
+                        "name": "Li\u00ean quan \u0111\u1ebfn ch\u00ednh quy\u1ec1n, \u0111\u1ecba ph\u01b0\u01a1ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "government",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "627a3fcdac7db774d784df4f",
+                    "name": "C\u1ee5c Thi h\u00e0nh \u00e1n d\u00e2n s\u1ef1 th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "location": {
+                        "lng": 105.77066086141804,
+                        "lat": 21.02097325640849
+                    },
+                    "scale": 1,
+                    "bearing": -45,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 17,
+                        "bearing": 0,
+                        "tilt": 40,
+                        "target": {
+                            "lng": 105.77066086141804,
+                            "lat": 21.02097325640849
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "627a406aac7db774d784df53.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627a406aac7db774d784df53.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.770708979493,
+                                "lat": 21.02101817216593
+                            },
+                            {
+                                "lng": 105.770708979464,
+                                "lat": 21.020928340637518
+                            },
+                            {
+                                "lng": 105.77061274337207,
+                                "lat": 21.020928340637518
+                            },
+                            {
+                                "lng": 105.77061274334307,
+                                "lat": 21.02101817216593
+                            },
+                            {
+                                "lng": 105.770708979493,
+                                "lat": 21.02101817216593
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "627a406aac7db774d784df55.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627a406aac7db774d784df55.jpg"
+                    },
+                    "types": [
+                        "goverment"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1652178893474,
+                    "updatedDate": 1652179058681
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.77049385697745,
+                        21.020800554392494
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.77066086141804,
+            "lat": 21.02097325640849
+        },
+        "scale": 1,
+        "bearing": -45,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17,
+            "bearing": 0,
+            "tilt": 40,
+            "target": {
+                "lng": 105.77066086141804,
+                "lat": 21.02097325640849
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "627a406aac7db774d784df53.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627a406aac7db774d784df53.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.770708979493,
+                    "lat": 21.02101817216593
+                },
+                {
+                    "lng": 105.770708979464,
+                    "lat": 21.020928340637518
+                },
+                {
+                    "lng": 105.77061274337207,
+                    "lat": 21.020928340637518
+                },
+                {
+                    "lng": 105.77061274334307,
+                    "lat": 21.02101817216593
+                },
+                {
+                    "lng": 105.770708979493,
+                    "lat": 21.02101817216593
+                }
+            ],
+            "height": null,
+            "textureName": "627a406aac7db774d784df55.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627a406aac7db774d784df55.jpg"
+        },
+        "types": [
+            "goverment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

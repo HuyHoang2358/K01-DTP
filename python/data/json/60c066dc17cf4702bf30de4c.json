@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60c066dc17cf4702bf30de4c",
+        "name": "Cho thu\u00ea nh\u00e0",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85206770443284,
+            "lat": 21.034433023785823
+        },
+        "scale": 1.1,
+        "bearing": 81,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -36.450219066626,
+            "tilt": 54.5,
+            "target": {
+                "lng": 105.85203952357841,
+                "lat": 21.03444063501713
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c066cc46969f2a688796dd.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c066cc46969f2a688796dd.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85211582685339,
+                    "lat": 21.03447793954326
+                },
+                {
+                    "lng": 105.85211582682437,
+                    "lat": 21.03438810801485
+                },
+                {
+                    "lng": 105.85201958204131,
+                    "lat": 21.03438810801485
+                },
+                {
+                    "lng": 105.85201958201229,
+                    "lat": 21.03447793954326
+                },
+                {
+                    "lng": 105.85211582685339,
+                    "lat": 21.03447793954326
+                }
+            ],
+            "height": 1,
+            "textureName": "60c066ce4391e3457053d806.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c066ce4391e3457053d806.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            },
+            {
+                "types": [],
+                "name": "24d"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

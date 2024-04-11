@@ -1,0 +1,317 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fb61a5a7591db406eff79d0",
+        "name": "The Galaxy Home Hotel & Apartment",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c24e2c2e7d438384b876b",
+                "location": {
+                    "lng": 105.78723261439171,
+                    "lat": 21.03261209949325
+                },
+                "address": "36E Ph\u1ed1 D\u1ecbch V\u1ecdng H\u1eadu, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "The Galaxy Home Hotel & Apartment",
+                "objectId": "5fb61a5a7591db406eff79d0",
+                "description": "36E Ph\u1ed1 D\u1ecbch V\u1ecdng H\u1eadu, D\u1ecbch V\u1ecdng H\u1eadu, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i 123000, Vi\u1ec7t Nam",
+                "types": [
+                    "hotel"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "group": "lodging"
+                    }
+                ],
+                "mainType": "hotel",
+                "mainTypeInfos": {
+                    "id": "hotel",
+                    "name": "Kh\u00e1ch s\u1ea1n",
+                    "group": "lodging"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "36E"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "D\u1ecbch V\u1ecdng H\u1eadu"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "lodging",
+                        "minRank": 100000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5fb61a5a7591db406eff79d0",
+                    "name": "The Galaxy Home Hotel & Apartment",
+                    "location": {
+                        "lng": 105.78710406188287,
+                        "lat": 21.032566976591283
+                    },
+                    "scale": 1,
+                    "bearing": 58,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -20.80000000000007,
+                        "tilt": 62,
+                        "target": {
+                            "lng": 105.78713538088957,
+                            "lat": 21.032627916449396
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5fb61a2388977d3476acbb79.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb61a2388977d3476acbb79.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.78719343659947,
+                                "lat": 21.03269727549856
+                            },
+                            {
+                                "lng": 105.78719343657046,
+                                "lat": 21.032607443970143
+                            },
+                            {
+                                "lng": 105.78709719293758,
+                                "lat": 21.032607443970143
+                            },
+                            {
+                                "lng": 105.78709719290858,
+                                "lat": 21.03269727549856
+                            },
+                            {
+                                "lng": 105.78719343659947,
+                                "lat": 21.03269727549856
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5fb61a257591db406eff79ce.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb61a257591db406eff79ce.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ph\u1ed1 D\u1ecbch V\u1ecdng H\u1eadu",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1605769818354,
+                    "updatedDate": 1625629411704
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3203 2039",
+                "website": "http://www.business.site",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.78723261439171,
+                        21.03261209949325
+                    ]
+                },
+                "rank": {
+                    "value": 100000
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.78710406188287,
+            "lat": 21.032566976591283
+        },
+        "scale": 1,
+        "bearing": 58,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -20.80000000000007,
+            "tilt": 62,
+            "target": {
+                "lng": 105.78713538088957,
+                "lat": 21.032627916449396
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fb61a2388977d3476acbb79.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb61a2388977d3476acbb79.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78719343659947,
+                    "lat": 21.03269727549856
+                },
+                {
+                    "lng": 105.78719343657046,
+                    "lat": 21.032607443970143
+                },
+                {
+                    "lng": 105.78709719293758,
+                    "lat": 21.032607443970143
+                },
+                {
+                    "lng": 105.78709719290858,
+                    "lat": 21.03269727549856
+                },
+                {
+                    "lng": 105.78719343659947,
+                    "lat": 21.03269727549856
+                }
+            ],
+            "height": 1,
+            "textureName": "5fb61a257591db406eff79ce.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb61a257591db406eff79ce.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ed1 D\u1ecbch V\u1ecdng H\u1eadu"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

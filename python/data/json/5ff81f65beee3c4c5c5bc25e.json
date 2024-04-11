@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff81f65beee3c4c5c5bc25e",
+        "name": "T\u00f2a \u00c1n Qu\u1eadn C\u1ea7u Gi\u1ea5y",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78442315442021,
+            "lat": 21.02834997021563
+        },
+        "scale": 1,
+        "bearing": -9,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 11.776001316114801,
+            "tilt": 53.5,
+            "target": {
+                "lng": 105.78442315442021,
+                "lat": 21.028349970215643
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff81f5dbeee3c4c5c5bc25b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff81f5dbeee3c4c5c5bc25b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78447127487638,
+                    "lat": 21.02839488597307
+                },
+                {
+                    "lng": 105.78447127484738,
+                    "lat": 21.028305054444658
+                },
+                {
+                    "lng": 105.78437503399304,
+                    "lat": 21.028305054444658
+                },
+                {
+                    "lng": 105.78437503396404,
+                    "lat": 21.02839488597307
+                },
+                {
+                    "lng": 105.78447127487638,
+                    "lat": 21.02839488597307
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff81f5e741cd06e43fb841d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff81f5e741cd06e43fb841d.jpg"
+        },
+        "types": [
+            "courthouse"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u00f4n Th\u1ea5t Thuy\u1ebft"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "6"
+            }
+        ],
+        "startDate": 1454259600000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "courthouse": "T\u00f2a \u00e1n"
+        },
+        "metadata": null,
+        "address": "6 T\u00f4n Th\u1ea5t Thuy\u1ebft, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

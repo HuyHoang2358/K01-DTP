@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f364989eec1a425e1f1c9b8",
+        "name": "Magnolia Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.21887168896785,
+            "lat": 16.080217624823817
+        },
+        "scale": 1,
+        "bearing": 7,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": 13.39859948841598,
+            "tilt": 82.5,
+            "target": {
+                "lng": 108.21942492624649,
+                "lat": 16.0821199212061
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f36497ceec1a425e1f1c9b3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f36497ceec1a425e1f1c9b3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.21891843363456,
+                    "lat": 16.08026254058295
+                },
+                {
+                    "lng": 108.21891843361342,
+                    "lat": 16.080172709054537
+                },
+                {
+                    "lng": 108.21882494432228,
+                    "lat": 16.080172709054537
+                },
+                {
+                    "lng": 108.21882494430115,
+                    "lat": 16.08026254058295
+                },
+                {
+                    "lng": 108.21891843363456,
+                    "lat": 16.08026254058295
+                }
+            ],
+            "height": 1,
+            "textureName": "5f36497deec1a425e1f1c9b5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f36497deec1a425e1f1c9b5.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea L\u1ee3i"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "6"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

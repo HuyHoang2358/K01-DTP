@@ -1,0 +1,376 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d577b64df97299cfcb630",
+        "name": "Kh\u00e1ch s\u1ea1n The Ann H\u00e0 n\u1ed9i",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c2439c2e7d438384af842",
+                "location": {
+                    "lng": 105.8577028,
+                    "lat": 21.0157806
+                },
+                "address": "38A H\u00e0ng Chu\u1ed1i, Ph\u1ea1m \u0110\u00ecnh H\u1ed5, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 100000, Vi\u1ec7t Nam",
+                "name": "Kh\u00e1ch s\u1ea1n The Ann H\u00e0 n\u1ed9i",
+                "objectId": "5f8d577b64df97299cfcb630",
+                "description": "38A H\u00e0ng Chu\u1ed1i, Ph\u1ea1m \u0110\u00ecnh H\u1ed5, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 100000, Vi\u1ec7t Nam",
+                "types": [
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "38A"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "H\u00e0ng Chu\u1ed1i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Ph\u1ea1m \u0110\u00ecnh H\u1ed5"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://lh4.googleusercontent.com/proxy/QrJf29EADEKLHn2ppPcLZhxBMraETKoIEY_VQXsl_cGSXviioZZx_wrY-y_fLYFEVBMKY3QSabnnFAFZU0j0siUlQ9vOA-fIory5j3P9agliVIZJp1_lEnTIUBnLA418b-x1DrLbTb6ClLDoRi4rJ2EL4oMK3A=w80-h106-k-no",
+                        "name": null,
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8d577b64df97299cfcb630",
+                    "name": "Kh\u00e1ch s\u1ea1n The Ann H\u00e0 n\u1ed9i",
+                    "location": {
+                        "lng": 105.85768004740049,
+                        "lat": 21.015778087826078
+                    },
+                    "scale": 1,
+                    "bearing": 113,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -77.99999999999999,
+                        "tilt": 69.5,
+                        "target": {
+                            "lng": 105.85745868942163,
+                            "lat": 21.015872427808144
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8d576e64df97299cfcb62e.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d576e64df97299cfcb62e.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85772816379908,
+                                "lat": 21.01582300358352
+                            },
+                            {
+                                "lng": 105.85772816377009,
+                                "lat": 21.01573317205511
+                            },
+                            {
+                                "lng": 105.8576319310309,
+                                "lat": 21.01573317205511
+                            },
+                            {
+                                "lng": 105.85763193100192,
+                                "lat": 21.01582300358352
+                            },
+                            {
+                                "lng": 105.85772816379908,
+                                "lat": 21.01582300358352
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8d576f1a51f33b9695617c.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d576f1a51f33b9695617c.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Ph\u1ea1m \u0110\u00ecnh H\u1ed5",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "H\u00e0ng Chu\u1ed1i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "38A",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603098491980,
+                    "updatedDate": 1623224248192
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3871 3838",
+                "website": "http://www.theann.com.vn",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8577028,
+                        21.0157806
+                    ]
+                },
+                "rank": {
+                    "value": 1003
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85768004740049,
+            "lat": 21.015778087826078
+        },
+        "scale": 1,
+        "bearing": 113,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -77.99999999999999,
+            "tilt": 69.5,
+            "target": {
+                "lng": 105.85745868942163,
+                "lat": 21.015872427808144
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d576e64df97299cfcb62e.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d576e64df97299cfcb62e.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85772816379908,
+                    "lat": 21.01582300358352
+                },
+                {
+                    "lng": 105.85772816377009,
+                    "lat": 21.01573317205511
+                },
+                {
+                    "lng": 105.8576319310309,
+                    "lat": 21.01573317205511
+                },
+                {
+                    "lng": 105.85763193100192,
+                    "lat": 21.01582300358352
+                },
+                {
+                    "lng": 105.85772816379908,
+                    "lat": 21.01582300358352
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d576f1a51f33b9695617c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d576f1a51f33b9695617c.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u1ea1m \u0110\u00ecnh H\u1ed5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng Chu\u1ed1i"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "38A"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

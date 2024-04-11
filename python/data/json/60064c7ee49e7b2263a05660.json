@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60064c7ee49e7b2263a05660",
+        "name": "B\u1ebfn xe Gi\u00e1p B\u00e1t",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.84186748070584,
+            "lat": 20.98030231234567
+        },
+        "scale": 1,
+        "bearing": -91,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 74.56255136350248,
+            "tilt": 85,
+            "target": {
+                "lng": 105.84218394856649,
+                "lat": 20.980281682970364
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60064c76e49e7b2263a0565e.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60064c76e49e7b2263a0565e.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84191558567078,
+                    "lat": 20.980347228103124
+                },
+                {
+                    "lng": 105.84191558564187,
+                    "lat": 20.980257396574714
+                },
+                {
+                    "lng": 105.84181937576983,
+                    "lat": 20.980257396574714
+                },
+                {
+                    "lng": 105.84181937574093,
+                    "lat": 20.980347228103124
+                },
+                {
+                    "lng": 105.84191558567078,
+                    "lat": 20.980347228103124
+                }
+            ],
+            "height": 1,
+            "textureName": "60064c779b70fd6b371f7a8e.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60064c779b70fd6b371f7a8e.jpg"
+        },
+        "types": [
+            "bus_station"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0ng Mai"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Gi\u00e1p B\u00e1t"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Gi\u1ea3i Ph\u00f3ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "5/897"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bus_station": "B\u1ebfn xe"
+        },
+        "metadata": null,
+        "address": "5/897 Gi\u1ea3i Ph\u00f3ng, Ph\u01b0\u1eddng Gi\u00e1p B\u00e1t, Qu\u1eadn Ho\u00e0ng Mai, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

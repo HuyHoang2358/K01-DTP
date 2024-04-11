@@ -1,0 +1,339 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d697864df97299cfcb66e",
+        "name": " Santa Barbara Hotel and Spa",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c2494c2e7d438384b2c5b",
+                "location": {
+                    "lng": 105.84442838257013,
+                    "lat": 21.041218210396877
+                },
+                "address": "23 Qu\u00e1n Th\u00e1nh, Ph\u01b0\u1eddng Qu\u00e1n Th\u00e1nh, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Santa Barbara Hotel and Spa",
+                "objectId": "5f8d697864df97299cfcb66e",
+                "description": "23 Qu\u00e1n Th\u00e1nh, Street, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "hotel"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "group": "lodging"
+                    }
+                ],
+                "mainType": "hotel",
+                "mainTypeInfos": {
+                    "id": "hotel",
+                    "name": "Kh\u00e1ch s\u1ea1n",
+                    "group": "lodging"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "23"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Qu\u00e1n Th\u00e1nh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Qu\u00e1n Th\u00e1nh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://lh6.googleusercontent.com/proxy/sVAn0XMKYlHm1QpDcx_9Iqecymmf23X7J5Dvkds27H0HEvWQ8UeOnCzyz2sFzmb7zKPKLIjXdvSsTTk8acSORGmPER4PryPYtXeB4j7TU8VK_7hK8edH-IeUMZebV08RI-hzIEDYOckerL-q1_kf6kagZ9aWDg=w138-h92-k-no",
+                        "name": null,
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "lodging",
+                        "minRank": 100000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8d697864df97299cfcb66e",
+                    "name": " Santa Barbara Hotel and Spa",
+                    "location": {
+                        "lng": 105.84439952253001,
+                        "lat": 21.041186619853903
+                    },
+                    "scale": 1,
+                    "bearing": 52,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -77.5881693435879,
+                        "tilt": 65,
+                        "target": {
+                            "lng": 105.84404620938761,
+                            "lat": 21.04120658113655
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8d6971797102214f9de2eb.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d6971797102214f9de2eb.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84444764713231,
+                                "lat": 21.041231535611335
+                            },
+                            {
+                                "lng": 105.84444764710328,
+                                "lat": 21.041141704082925
+                            },
+                            {
+                                "lng": 105.84435139795674,
+                                "lat": 21.041141704082925
+                            },
+                            {
+                                "lng": 105.84435139792772,
+                                "lat": 21.041231535611335
+                            },
+                            {
+                                "lng": 105.84444764713231,
+                                "lat": 21.041231535611335
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8d697164df97299cfcb66c.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d697164df97299cfcb66c.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ba \u0110\u00ecnh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Qu\u00e1n Th\u00e1nh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Qu\u00e1n Th\u00e1nh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "23",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603103096370,
+                    "updatedDate": 1623224248311
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3735 0666",
+                "website": "http://www.book.direct",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.84442838257013,
+                        21.041218210396877
+                    ]
+                },
+                "rank": {
+                    "value": 100000
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84439952253001,
+            "lat": 21.041186619853903
+        },
+        "scale": 1,
+        "bearing": 52,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -77.5881693435879,
+            "tilt": 65,
+            "target": {
+                "lng": 105.84404620938761,
+                "lat": 21.04120658113655
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d6971797102214f9de2eb.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d6971797102214f9de2eb.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84444764713231,
+                    "lat": 21.041231535611335
+                },
+                {
+                    "lng": 105.84444764710328,
+                    "lat": 21.041141704082925
+                },
+                {
+                    "lng": 105.84435139795674,
+                    "lat": 21.041141704082925
+                },
+                {
+                    "lng": 105.84435139792772,
+                    "lat": 21.041231535611335
+                },
+                {
+                    "lng": 105.84444764713231,
+                    "lat": 21.041231535611335
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d697164df97299cfcb66c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d697164df97299cfcb66c.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Qu\u00e1n Th\u00e1nh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Qu\u00e1n Th\u00e1nh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "23"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

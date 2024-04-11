@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e2c309c4fa69f928796df",
+        "name": "Xkld",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76057480463632,
+            "lat": 21.021313716382412
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21.25,
+            "bearing": 23.40000000000002,
+            "tilt": 16,
+            "target": {
+                "lng": 105.76056111704048,
+                "lat": 21.02134583083165
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76054405779098,
+                    "lat": 21.021415539794873
+                },
+                {
+                    "lng": 105.76060150668985,
+                    "lat": 21.021415319664925
+                },
+                {
+                    "lng": 105.76060434282022,
+                    "lat": 21.02121199898164
+                },
+                {
+                    "lng": 105.76054931124423,
+                    "lat": 21.02121200708821
+                }
+            ],
+            "height": 24,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 1 T\u00e2n M\u1ef9"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 1 T\u00e2n M\u1ef9, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

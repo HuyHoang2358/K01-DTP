@@ -1,0 +1,71 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5dafdadc68789d138cbebcbe",
+        "name": "Ph\u1edf H\u1ea1nh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.23021015811867,
+            "lat": 16.064384573124627
+        },
+        "scale": 1,
+        "bearing": -77,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -87.88061170673416,
+            "tilt": 72,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5dafdadc5bb8830f98dcff26.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5dafdadc5bb8830f98dcff26.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "5dafdadb5bb8830f98dcff24.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5dafdadb5bb8830f98dcff24.jpg"
+        },
+        "types": [
+            "restaurant"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i T\u00e2y"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "restaurant": "Nh\u00e0 h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "An H\u1ea3i T\u00e2y, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e31159c4fa69f92879702",
+        "name": "Khung b\u1eb1ng khen H\u1ed3ng \u0110\u00f4",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76886535833623,
+            "lat": 21.011313384173302
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 12,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20.5,
+            "bearing": -5.4,
+            "tilt": 0.5,
+            "target": {
+                "lng": 105.76889582432648,
+                "lat": 21.011279855052535
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76877053079068,
+                    "lat": 21.01129414543469
+                },
+                {
+                    "lng": 105.76879360431661,
+                    "lat": 21.011338887089906
+                },
+                {
+                    "lng": 105.76881812987517,
+                    "lat": 21.01138822903293
+                },
+                {
+                    "lng": 105.76899558035785,
+                    "lat": 21.011320230820687
+                },
+                {
+                    "lng": 105.76894894634086,
+                    "lat": 21.011225428488302
+                }
+            ],
+            "height": 1,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00e1ch 8/11 L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "store": "C\u1eeda h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Ng\u00e1ch 8/11 L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

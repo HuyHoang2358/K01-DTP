@@ -1,0 +1,301 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b5fde6f662c482f98cceebd",
+        "name": "V\u0103n ph\u00f2ng Th\u00e0nh \u1ee7y \u0110\u00e0 N\u1eb5ng V\u0103n pho\u0300ng chi\u0301nh quy\u1ec1n th\u00e0nh ph\u1ed1",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e7814a9df9d67e5e3b",
+                "location": {
+                    "lng": 108.224636,
+                    "lat": 16.070791
+                },
+                "address": "72 Tr\u1ea7n Ph\u00fa, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u 1, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "V\u0103n ph\u00f2ng Th\u00e0nh \u1ee7y \u0110\u00e0 N\u1eb5ng V\u0103n pho\u0300ng chi\u0301nh quy\u1ec1n th\u00e0nh ph\u1ed1",
+                "objectId": "5b5fde6f662c482f98cceebd",
+                "description": " &nbsp; ",
+                "types": [
+                    "committee"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "committee",
+                        "name": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh",
+                        "group": "government"
+                    }
+                ],
+                "mainType": "committee",
+                "mainTypeInfos": {
+                    "id": "committee",
+                    "name": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh",
+                    "group": "government"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "72"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n Ph\u00fa"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "committee",
+                        "name": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "government",
+                        "minRank": 1000000,
+                        "maxRank": 3000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b5fde6f662c482f98cceebd",
+                    "name": "V\u0103n ph\u00f2ng Th\u00e0nh \u1ee7y \u0110\u00e0 N\u1eb5ng V\u0103n pho\u0300ng chi\u0301nh quy\u1ec1n th\u00e0nh ph\u1ed1",
+                    "location": {
+                        "lng": 108.22454220337647,
+                        "lat": 16.070796428946664
+                    },
+                    "scale": 0.9,
+                    "bearing": 84,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 62.90510222249803,
+                        "tilt": 80,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5b5fde6f662c482f98cceebd",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b5fde6f662c482f98cceebd",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.22441,
+                                "lat": 16.071194
+                            },
+                            {
+                                "lng": 108.224904,
+                                "lat": 16.071169
+                            },
+                            {
+                                "lng": 108.224368,
+                                "lat": 16.070413
+                            },
+                            {
+                                "lng": 108.224862,
+                                "lat": 16.070388
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "140e2f2881fd4d1d94756970bf5ab7ec.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/140e2f2881fd4d1d94756970bf5ab7ec.jpg"
+                    },
+                    "types": [
+                        "committee"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n Ph\u00fa",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Tr\u1ea7n Ph\u00fa, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Nguy\u1ec5n Th\u00e0nh"
+                    },
+                    "createdDate": 1533009519648,
+                    "updatedDate": 1676595508164
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.224636,
+                        16.070791
+                    ]
+                },
+                "rank": {
+                    "value": 1000056
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22454220337647,
+            "lat": 16.070796428946664
+        },
+        "scale": 0.9,
+        "bearing": 84,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 62.90510222249803,
+            "tilt": 80,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5b5fde6f662c482f98cceebd",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b5fde6f662c482f98cceebd",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22441,
+                    "lat": 16.071194
+                },
+                {
+                    "lng": 108.224904,
+                    "lat": 16.071169
+                },
+                {
+                    "lng": 108.224368,
+                    "lat": 16.070413
+                },
+                {
+                    "lng": 108.224862,
+                    "lat": 16.070388
+                }
+            ],
+            "height": 0,
+            "textureName": "140e2f2881fd4d1d94756970bf5ab7ec.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/140e2f2881fd4d1d94756970bf5ab7ec.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Ph\u00fa"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": "Tr\u1ea7n Ph\u00fa, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+    }
+}

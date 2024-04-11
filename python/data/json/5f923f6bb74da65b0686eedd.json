@@ -1,0 +1,311 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f923f6bb74da65b0686eedd",
+        "name": "Handico Tower",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c24e2c2e7d438384b7b69",
+                "location": {
+                    "lng": 105.7818972,
+                    "lat": 21.0166589
+                },
+                "address": "Ph\u1ea1m H\u00f9ng, Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Handico Tower",
+                "objectId": "5f923f6bb74da65b0686eedd",
+                "description": null,
+                "types": [
+                    "point"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Ph\u1ea1m H\u00f9ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f923f6bb74da65b0686eedd",
+                    "name": "Handico Tower",
+                    "location": {
+                        "lng": 105.7818074461432,
+                        "lat": 21.016664015947313
+                    },
+                    "scale": 1.1,
+                    "bearing": 172,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19.653,
+                        "bearing": 191.51084960115546,
+                        "tilt": 76,
+                        "target": {
+                            "lng": 105.78181488392872,
+                            "lat": 21.016297264012493
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f9288dabdf12e78b55a577e.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f9288dabdf12e78b55a577e.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.78188151512786,
+                                "lat": 21.01668989426405
+                            },
+                            {
+                                "lng": 105.78188151509887,
+                                "lat": 21.01660006273564
+                            },
+                            {
+                                "lng": 105.78178528180028,
+                                "lat": 21.01660006273564
+                            },
+                            {
+                                "lng": 105.7817852817713,
+                                "lat": 21.01668989426405
+                            },
+                            {
+                                "lng": 105.78188151512786,
+                                "lat": 21.01668989426405
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "5f9288dbb74da65b0686ef15.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f9288dbb74da65b0686ef15.jpg"
+                    },
+                    "types": [
+                        "apartment"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ph\u1ea1m H\u00f9ng",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ph\u1ea1m H\u00f9ng, Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603420011788,
+                    "updatedDate": 1661758140927
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "0981699699",
+                "website": "http://www.handicovn.com.vn",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.7818972,
+                        21.0166589
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.7818074461432,
+            "lat": 21.016664015947313
+        },
+        "scale": 1.1,
+        "bearing": 172,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.653,
+            "bearing": 191.51084960115546,
+            "tilt": 76,
+            "target": {
+                "lng": 105.78181488392872,
+                "lat": 21.016297264012493
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f9288dabdf12e78b55a577e.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f9288dabdf12e78b55a577e.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78188151512786,
+                    "lat": 21.01668989426405
+                },
+                {
+                    "lng": 105.78188151509887,
+                    "lat": 21.01660006273564
+                },
+                {
+                    "lng": 105.78178528180028,
+                    "lat": 21.01660006273564
+                },
+                {
+                    "lng": 105.7817852817713,
+                    "lat": 21.01668989426405
+                },
+                {
+                    "lng": 105.78188151512786,
+                    "lat": 21.01668989426405
+                }
+            ],
+            "height": null,
+            "textureName": "5f9288dbb74da65b0686ef15.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f9288dbb74da65b0686ef15.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u00f9ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "Ph\u1ea1m H\u00f9ng, Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

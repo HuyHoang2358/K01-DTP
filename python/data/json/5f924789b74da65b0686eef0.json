@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f924789b74da65b0686eef0",
+        "name": "B\u00e1o T\u00e0i Nguy\u00ean & M\u00f4i Tr\u01b0\u1eddng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78576794672182,
+            "lat": 21.02091710069317
+        },
+        "scale": 1,
+        "bearing": 125,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -77.61779545145143,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78576794672182,
+                "lat": 21.02091710069317
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f9256f3b74da65b0686ef00.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f9256f3b74da65b0686ef00.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78581606477866,
+                    "lat": 21.02096201645061
+                },
+                {
+                    "lng": 105.78581606474967,
+                    "lat": 21.020872184922197
+                },
+                {
+                    "lng": 105.78571982869397,
+                    "lat": 21.020872184922197
+                },
+                {
+                    "lng": 105.785719828665,
+                    "lat": 21.02096201645061
+                },
+                {
+                    "lng": 105.78581606477866,
+                    "lat": 21.02096201645061
+                }
+            ],
+            "height": null,
+            "textureName": "5f9256f4bdf12e78b55a5774.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f9256f4bdf12e78b55a5774.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 68"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "L\u00f4 E2"
+            }
+        ],
+        "startDate": 1339434000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": "L\u00f4 E2 Ng\u00f5 68, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

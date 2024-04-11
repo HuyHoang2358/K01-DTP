@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f487c234f2ef80dd37b58e6",
+        "name": "PentStudio West Lake Hanoi",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.815443,
+            "lat": 21.080706
+        },
+        "scale": 1,
+        "bearing": 56,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -283.45592668847377,
+            "tilt": 74.75,
+            "target": {
+                "lng": 105.81710346694685,
+                "lat": 21.0810129893157
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f487c134f2ef80dd37b58e1.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f487c134f2ef80dd37b58e1.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.81549113738639,
+                    "lat": 21.080750915757417
+                },
+                {
+                    "lng": 105.8154911373573,
+                    "lat": 21.080661084229007
+                },
+                {
+                    "lng": 105.81539486264272,
+                    "lat": 21.080661084229007
+                },
+                {
+                    "lng": 105.81539486261362,
+                    "lat": 21.080750915757417
+                },
+                {
+                    "lng": 105.81549113738639,
+                    "lat": 21.080750915757417
+                }
+            ],
+            "height": 1,
+            "textureName": "5f487c144f2ef80dd37b58e3.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f487c144f2ef80dd37b58e3.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn T\u00e2y H\u1ed3"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa Th\u01b0\u1ee3ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u1ea1c Long Qu\u00e2n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "Ng\u00f5 699"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

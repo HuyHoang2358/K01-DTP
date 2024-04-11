@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e5a791a51f33b969561c5",
+        "name": " Alisa Hotel & Spa",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85647801274644,
+            "lat": 21.030418943971398
+        },
+        "scale": 1,
+        "bearing": -63,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 100.12724097894306,
+            "tilt": 59,
+            "target": {
+                "lng": 105.85676638269133,
+                "lat": 21.030374134189337
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8e5a6d64df97299cfcb693.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e5a6d64df97299cfcb693.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85652613387064,
+                    "lat": 21.030463859728837
+                },
+                {
+                    "lng": 105.85652613384164,
+                    "lat": 21.030374028200423
+                },
+                {
+                    "lng": 105.85642989165123,
+                    "lat": 21.030374028200423
+                },
+                {
+                    "lng": 105.85642989162223,
+                    "lat": 21.030463859728837
+                },
+                {
+                    "lng": 105.85652613387064,
+                    "lat": 21.030463859728837
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8e5a6d1a51f33b969561c2.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e5a6d1a51f33b969561c2.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Quang Kh\u1ea3i"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "15"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

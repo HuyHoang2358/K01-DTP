@@ -1,0 +1,328 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "62e8d39231332f97a73f08d8",
+        "name": "CT1 Sudico My Dinh",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60a617ec32f6973c7dd3c55e",
+                "location": {
+                    "lng": 105.7742231,
+                    "lat": 21.0149412
+                },
+                "address": "66 V\u0169 Qu\u1ef3nh, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "CT1 Sudico My Dinh",
+                "objectId": "62e8d39231332f97a73f08d8",
+                "description": null,
+                "types": [
+                    "lodging"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "66"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "V\u0169 Qu\u1ef3nh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "62e8d39231332f97a73f08d8",
+                    "name": "CT1 Sudico My Dinh",
+                    "location": {
+                        "lng": 105.77431883523195,
+                        "lat": 21.01525843259752
+                    },
+                    "scale": 1,
+                    "bearing": 38,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 18.200000000000074,
+                        "tilt": 66.5,
+                        "target": {
+                            "lng": 105.77448209268134,
+                            "lat": 21.015692974441784
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "62e8d37c31332f97a73f08d3.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/62e8d37c31332f97a73f08d3.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.77436695146288,
+                                "lat": 21.015303348354966
+                            },
+                            {
+                                "lng": 105.7743669514339,
+                                "lat": 21.015213516826556
+                            },
+                            {
+                                "lng": 105.77427071903,
+                                "lat": 21.015213516826556
+                            },
+                            {
+                                "lng": 105.77427071900102,
+                                "lat": 21.015303348354966
+                            },
+                            {
+                                "lng": 105.77436695146288,
+                                "lat": 21.015303348354966
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "62e8d37d31332f97a73f08d5.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/62e8d37d31332f97a73f08d5.jpg"
+                    },
+                    "types": [
+                        "apartment"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "P. V\u0169 Qu\u1ef3nh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "66",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "66 P. V\u0169 Qu\u1ef3nh, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1659425682521,
+                    "updatedDate": 1659425682521
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.7742231,
+                        21.0149412
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.77431883523195,
+            "lat": 21.01525843259752
+        },
+        "scale": 1,
+        "bearing": 38,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 18.200000000000074,
+            "tilt": 66.5,
+            "target": {
+                "lng": 105.77448209268134,
+                "lat": 21.015692974441784
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "62e8d37c31332f97a73f08d3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/62e8d37c31332f97a73f08d3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.77436695146288,
+                    "lat": 21.015303348354966
+                },
+                {
+                    "lng": 105.7743669514339,
+                    "lat": 21.015213516826556
+                },
+                {
+                    "lng": 105.77427071903,
+                    "lat": 21.015213516826556
+                },
+                {
+                    "lng": 105.77427071900102,
+                    "lat": 21.015303348354966
+                },
+                {
+                    "lng": 105.77436695146288,
+                    "lat": 21.015303348354966
+                }
+            ],
+            "height": null,
+            "textureName": "62e8d37d31332f97a73f08d5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/62e8d37d31332f97a73f08d5.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "P. V\u0169 Qu\u1ef3nh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "66"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "66 P. V\u0169 Qu\u1ef3nh, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

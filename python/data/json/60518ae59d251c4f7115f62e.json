@@ -1,0 +1,75 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60518ae59d251c4f7115f62e",
+        "name": "C\u00f4ng Vi\u00ean Ph\u1ea7n M\u1ec1m S\u1ed1 2 - Cao t\u1ea7ng 2 - Final",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.21574627444261,
+            "lat": 16.0912116017008
+        },
+        "scale": 1,
+        "bearing": 177.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -142.57841419075604,
+            "tilt": 46,
+            "target": {
+                "lng": 108.21574627444261,
+                "lat": 16.0912116017008
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60518ad39d251c4f7115f62c.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60518ad39d251c4f7115f62c.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.21551839836279,
+                    "lat": 16.09129706415913
+                },
+                {
+                    "lng": 108.21551839834164,
+                    "lat": 16.09120723263072
+                },
+                {
+                    "lng": 108.21542490385836,
+                    "lat": 16.09120723263072
+                },
+                {
+                    "lng": 108.21542490383722,
+                    "lat": 16.09129706415913
+                },
+                {
+                    "lng": 108.21551839836279,
+                    "lat": 16.09129706415913
+                }
+            ],
+            "height": 1,
+            "textureName": "60518ad4233245717868a8d2.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60518ad4233245717868a8d2.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [],
+        "startDate": 1672506000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

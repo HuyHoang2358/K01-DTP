@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60e5134e8cc62a0a6cd167a8",
+        "name": "Mina Hotel & Spa",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85170423455673,
+            "lat": 21.035774867662894
+        },
+        "scale": 1,
+        "bearing": -163,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 146.3850313929436,
+            "tilt": 75.5,
+            "target": {
+                "lng": 105.85185813477224,
+                "lat": 21.035589793038948
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60e513398cc62a0a6cd167a3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60e513398cc62a0a6cd167a3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8517523574107,
+                    "lat": 21.03581978342033
+                },
+                {
+                    "lng": 105.85175235738168,
+                    "lat": 21.03572995189192
+                },
+                {
+                    "lng": 105.8516561117318,
+                    "lat": 21.03572995189192
+                },
+                {
+                    "lng": 105.85165611170278,
+                    "lat": 21.03581978342033
+                },
+                {
+                    "lng": 105.8517523574107,
+                    "lat": 21.03581978342033
+                }
+            ],
+            "height": null,
+            "textureName": "60e5133a8cc62a0a6cd167a5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60e5133a8cc62a0a6cd167a5.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng Bu\u1ed3m"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

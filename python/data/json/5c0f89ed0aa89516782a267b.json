@@ -1,0 +1,410 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c0f89ed0aa89516782a267b",
+        "name": "Co.opmart \u0110\u00e0 N\u1eb5ng",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c88df71d2c05acd14848fd8",
+                "location": {
+                    "lng": 108.1868534,
+                    "lat": 16.0667056
+                },
+                "address": "478 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng, Qu\u1eadn Thanh Kh\u00ea, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Co.Opmart \u0110\u00e0 N\u1eb5ng",
+                "objectId": "5c0f89ed0aa89516782a267b",
+                "description": "Co.Opmart \u0110\u00e0 N\u1eb5ng",
+                "types": [
+                    "local_market",
+                    "establishment",
+                    "store",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "local_market",
+                        "name": "Ch\u1ee3",
+                        "group": "store"
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "group": "store"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "local_market",
+                "mainTypeInfos": {
+                    "id": "local_market",
+                    "name": "Ch\u1ee3",
+                    "group": "store"
+                },
+                "auxiliaryTypes": [
+                    "establishment",
+                    "store",
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "group": "store"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "478"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Thanh Kh\u00ea"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "local_market",
+                        "name": "Ch\u1ee3",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "store",
+                        "minRank": 1500000,
+                        "maxRank": 2500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "store",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5c0f89ed0aa89516782a267b",
+                    "name": "Co.opmart \u0110\u00e0 N\u1eb5ng",
+                    "location": {
+                        "lng": 108.18680594525148,
+                        "lat": 16.066691951245232
+                    },
+                    "scale": 1,
+                    "bearing": 4,
+                    "elevation": 0,
+                    "heightScale": 1.1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": -2.382598448504077,
+                        "tilt": 61.050001323223114,
+                        "target": {
+                            "lng": 108.18673421747832,
+                            "lat": 16.06666272586078
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5c0f89ed0aa89516782a267b",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c0f89ed0aa89516782a267b",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.187138,
+                                "lat": 16.06688
+                            },
+                            {
+                                "lng": 108.187182,
+                                "lat": 16.066404
+                            },
+                            {
+                                "lng": 108.186262,
+                                "lat": 16.066806
+                            },
+                            {
+                                "lng": 108.186306,
+                                "lat": 16.06633
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "2ac132ff399d4a369337d88cdb8b98da.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/2ac132ff399d4a369337d88cdb8b98da.jpg"
+                    },
+                    "types": [],
+                    "minZoom": 17,
+                    "maxZoom": 17,
+                    "startDate": 1291161600000,
+                    "endDate": 4102358400000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Thanh Kh\u00ea",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Thanh Kh\u00ea \u0110\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Thanh Kh\u00ea \u0110\u00f4ng, Thanh Kh\u00ea, \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1544547421017,
+                    "updatedDate": 1623224212007
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.1868534,
+                        16.0667056
+                    ]
+                },
+                "rank": {
+                    "value": 1500000
+                },
+                "metadata": [
+                    {
+                        "id": "5f7a84bd609586601cf8996f",
+                        "type": "vr360",
+                        "name": "Co.op mart \u0110\u00e0 N\u1eb5ng",
+                        "content": "https://vr360.com.vn/show/?vr=jDvvnM3JMqS",
+                        "order": 0
+                    }
+                ],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.18680594525148,
+            "lat": 16.066691951245232
+        },
+        "scale": 1,
+        "bearing": 4,
+        "elevation": 0,
+        "heightScale": 1.1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -2.382598448504077,
+            "tilt": 61.050001323223114,
+            "target": {
+                "lng": 108.18673421747832,
+                "lat": 16.06666272586078
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c0f89ed0aa89516782a267b",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c0f89ed0aa89516782a267b",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.187138,
+                    "lat": 16.06688
+                },
+                {
+                    "lng": 108.187182,
+                    "lat": 16.066404
+                },
+                {
+                    "lng": 108.186262,
+                    "lat": 16.066806
+                },
+                {
+                    "lng": 108.186306,
+                    "lat": 16.06633
+                }
+            ],
+            "height": 0,
+            "textureName": "2ac132ff399d4a369337d88cdb8b98da.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/2ac132ff399d4a369337d88cdb8b98da.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 17,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Thanh Kh\u00ea"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Thanh Kh\u00ea \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
+            }
+        ],
+        "startDate": 1291161600000,
+        "endDate": 4102358400000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Thanh Kh\u00ea \u0110\u00f4ng, Thanh Kh\u00ea, \u0110\u00e0 N\u1eb5ng"
+    }
+}

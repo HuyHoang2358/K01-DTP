@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6040a2ca64d2db56b22fed3f",
+        "name": "C\u1ea7u Long Bi\u00ean",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85731591394148,
+            "lat": 21.042846575556283
+        },
+        "scale": 1.1,
+        "bearing": 22.85,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17,
+            "bearing": 30.80000000000001,
+            "tilt": 78.5,
+            "target": {
+                "lng": 105.85376876222952,
+                "lat": 21.04254729754356
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6040a2bc64d2db56b22fed3c.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6040a2bc64d2db56b22fed3c.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85736403908017,
+                    "lat": 21.042891491313718
+                },
+                {
+                    "lng": 105.85736403905113,
+                    "lat": 21.042801659785308
+                },
+                {
+                    "lng": 105.85726778883183,
+                    "lat": 21.042801659785308
+                },
+                {
+                    "lng": 105.8572677888028,
+                    "lat": 21.042891491313718
+                },
+                {
+                    "lng": 105.85736403908017,
+                    "lat": 21.042891491313718
+                }
+            ],
+            "height": 1,
+            "textureName": "6040a2bd4ec924257e98ceb5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6040a2bd4ec924257e98ceb5.jpg"
+        },
+        "types": [
+            "bridge"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Long Bi\u00ean"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ng\u1ecdc Th\u1ee5y"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "C\u1ea7u Long Bi\u00ean"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bridge": "C\u1ea7u"
+        },
+        "metadata": null,
+        "address": "C\u1ea7u Long Bi\u00ean, Ph\u01b0\u1eddng Ng\u1ecdc Th\u1ee5y, Qu\u1eadn Long Bi\u00ean, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

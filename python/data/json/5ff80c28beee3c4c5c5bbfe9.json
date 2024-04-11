@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff80c28beee3c4c5c5bbfe9",
+        "name": "Chung c\u01b0 Oriental BRG 4.1 L\u00ea V\u0103n L\u01b0\u01a1ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80582699669873,
+            "lat": 21.005405310021672
+        },
+        "scale": 1,
+        "bearing": -141,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 2.060364526335966,
+            "tilt": 56.666668355464935,
+            "target": {
+                "lng": 105.80675413417119,
+                "lat": 21.006307846278894
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff80be4f75190676b00215c.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff80be4f75190676b00215c.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80587510975175,
+                    "lat": 21.005450225779118
+                },
+                {
+                    "lng": 105.80587510972279,
+                    "lat": 21.005360394250705
+                },
+                {
+                    "lng": 105.80577888367468,
+                    "lat": 21.005360394250705
+                },
+                {
+                    "lng": 105.80577888364571,
+                    "lat": 21.005450225779118
+                },
+                {
+                    "lng": 105.80587510975175,
+                    "lat": 21.005450225779118
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff80be5beee3c4c5c5bbfe7.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff80be5beee3c4c5c5bbfe7.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea V\u0103n L\u01b0\u01a1ng"
+            }
+        ],
+        "startDate": 1642784400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "L\u00ea V\u0103n L\u01b0\u01a1ng, Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,306 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ccabd81026c8b690445a1ae",
+        "name": "Nh\u00e0 th\u1edd An H\u1ea3i",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "6278d4a7ac7db774d784dbca",
+                "location": {
+                    "lng": 108.22989016798435,
+                    "lat": 16.068912475805096
+                },
+                "address": "9 Nguy\u1ec5n C\u00f4ng Tr\u1ee9, An H\u1ea3i B\u1eafc, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Nh\u00e0 Th\u1edd Gi\u00e1o X\u1ee9 An H\u1ea3i",
+                "objectId": "5ccabd81026c8b690445a1ae",
+                "description": null,
+                "types": [
+                    "church"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "church",
+                        "name": "Nh\u00e0 th\u1edd thi\u00ean ch\u00faa/tin l\u00e0nh",
+                        "group": "religion"
+                    }
+                ],
+                "mainType": "church",
+                "mainTypeInfos": {
+                    "id": "church",
+                    "name": "Nh\u00e0 th\u1edd thi\u00ean ch\u00faa/tin l\u00e0nh",
+                    "group": "religion"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "9"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Nguy\u1ec5n C\u00f4ng Tr\u1ee9"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "church",
+                        "name": "Nh\u00e0 th\u1edd thi\u00ean ch\u00faa/tin l\u00e0nh",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "religion",
+                        "minRank": 1000000,
+                        "maxRank": 2000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5ccabd81026c8b690445a1ae",
+                    "name": "Nh\u00e0 th\u1edd An H\u1ea3i",
+                    "location": {
+                        "lng": 108.229785,
+                        "lat": 16.069214
+                    },
+                    "scale": 1,
+                    "bearing": 0,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 40.21698365122625,
+                        "tilt": 50.75342465753423,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5ccabd82ac159c2bc41c898c",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ccabd82ac159c2bc41c898c",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.229941,
+                                "lat": 16.069354
+                            },
+                            {
+                                "lng": 108.229941,
+                                "lat": 16.068887
+                            },
+                            {
+                                "lng": 108.229629,
+                                "lat": 16.069354
+                            },
+                            {
+                                "lng": 108.229629,
+                                "lat": 16.068887
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5ccabd82ac159c2bc41c898d.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ccabd82ac159c2bc41c898d.jpg"
+                    },
+                    "types": [],
+                    "minZoom": 13,
+                    "maxZoom": 19,
+                    "startDate": 957114000000,
+                    "endDate": 2534950800000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Nguy\u1ec5n C\u00f4ng Tr\u1ee9",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Nguy\u1ec5n C\u00f4ng Tr\u1ee9, Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "582546120ec6af4457a68494",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "582546120ec6af4457a68494",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1556790658382,
+                    "updatedDate": 1623224217462
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.22989016798435,
+                        16.068912475805096
+                    ]
+                },
+                "rank": {
+                    "value": 1000000
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.229785,
+            "lat": 16.069214
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 40.21698365122625,
+            "tilt": 50.75342465753423,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ccabd82ac159c2bc41c898c",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ccabd82ac159c2bc41c898c",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.229941,
+                    "lat": 16.069354
+                },
+                {
+                    "lng": 108.229941,
+                    "lat": 16.068887
+                },
+                {
+                    "lng": 108.229629,
+                    "lat": 16.069354
+                },
+                {
+                    "lng": 108.229629,
+                    "lat": 16.068887
+                }
+            ],
+            "height": 1,
+            "textureName": "5ccabd82ac159c2bc41c898d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ccabd82ac159c2bc41c898d.jpg"
+        },
+        "types": [],
+        "minZoom": 13,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n C\u00f4ng Tr\u1ee9"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 957114000000,
+        "endDate": 2534950800000,
+        "source": null,
+        "typeInfos": {},
+        "metadata": null,
+        "address": "Nguy\u1ec5n C\u00f4ng Tr\u1ee9, Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

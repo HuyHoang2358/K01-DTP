@@ -1,0 +1,376 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d4a42797102214f9de29f",
+        "name": "Hanoi Emerald Waters Hotel & Spa",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c2439c2e7d438384af825",
+                "location": {
+                    "lng": 105.8550763,
+                    "lat": 21.0311915
+                },
+                "address": "47 L\u00f2 S\u0169, L\u00fd Th\u00e1i T\u1ed5, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Hanoi Emerald Waters Hotel & Spa",
+                "objectId": "5f8d4a42797102214f9de29f",
+                "description": "47 L\u00f2 S\u0169, L\u00fd Th\u00e1i T\u1ed5, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "lodging",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "group": "lodging"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "lodging",
+                "mainTypeInfos": {
+                    "id": "lodging",
+                    "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                    "group": "lodging"
+                },
+                "auxiliaryTypes": [
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "47"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "L\u00f2 S\u0169"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/proxy/DKdPFlBoavXwJ4SpSWG2utKPmN_pCbY1F-NXVb6sxaj5FGz1MfEpKZKdzCq00Ica86QihMMwvzHcynVOR2ruXdLKPtQaNtMPF2crZAAtdP7kkkmFYAhk3MH5W9tfqcR9BW8gGVF5rBA-01sduutp2Cow0_jcPYQ=w132-h92-k-no",
+                        "name": null,
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "lodging",
+                        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa (hostel, home stay)",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "lodging",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8d4a42797102214f9de29f",
+                    "name": "Hanoi Emerald Waters Hotel & Spa",
+                    "location": {
+                        "lng": 105.85505924211259,
+                        "lat": 21.031203849394146
+                    },
+                    "scale": 1,
+                    "bearing": 174,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -188.24054435290014,
+                        "tilt": 73.5,
+                        "target": {
+                            "lng": 105.85508339315129,
+                            "lat": 21.031115471880057
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8d4a2f1a51f33b96956160.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d4a2f1a51f33b96956160.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85510736349026,
+                                "lat": 21.031248765151584
+                            },
+                            {
+                                "lng": 105.85510736346126,
+                                "lat": 21.03115893362317
+                            },
+                            {
+                                "lng": 105.85501112076392,
+                                "lat": 21.03115893362317
+                            },
+                            {
+                                "lng": 105.85501112073491,
+                                "lat": 21.031248765151584
+                            },
+                            {
+                                "lng": 105.85510736349026,
+                                "lat": 21.031248765151584
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8d4a30797102214f9de29d.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d4a30797102214f9de29d.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "L\u00f2 S\u0169",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "47",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603095106708,
+                    "updatedDate": 1623224248191
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3978 2222",
+                "website": "http://www.hanoiemeraldwatershotel.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8550763,
+                        21.0311915
+                    ]
+                },
+                "rank": {
+                    "value": 1002.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85505924211259,
+            "lat": 21.031203849394146
+        },
+        "scale": 1,
+        "bearing": 174,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -188.24054435290014,
+            "tilt": 73.5,
+            "target": {
+                "lng": 105.85508339315129,
+                "lat": 21.031115471880057
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d4a2f1a51f33b96956160.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d4a2f1a51f33b96956160.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85510736349026,
+                    "lat": 21.031248765151584
+                },
+                {
+                    "lng": 105.85510736346126,
+                    "lat": 21.03115893362317
+                },
+                {
+                    "lng": 105.85501112076392,
+                    "lat": 21.03115893362317
+                },
+                {
+                    "lng": 105.85501112073491,
+                    "lat": 21.031248765151584
+                },
+                {
+                    "lng": 105.85510736349026,
+                    "lat": 21.031248765151584
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d4a30797102214f9de29d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d4a30797102214f9de29d.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00f2 S\u0169"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "47"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5d09d7abefc9f8d980548dae",
+        "name": "\u0110\u1ed1i t\u01b0\u1ee3ng 1",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.18282043790163,
+            "lat": 16.07145636820475
+        },
+        "scale": 1,
+        "bearing": 71,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": 88.80000000000001,
+            "tilt": 82,
+            "target": null
+        },
+        "model": {
+            "id": "58e2fc437014ad857c674547",
+            "name": "Nh\u00e0 \u1ede 02",
+            "objName": "58e2fc437014ad857c674547",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/58e2fc437014ad857c674547",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "53e77561697b4d8fb0d112ba14ebb112.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/53e77561697b4d8fb0d112ba14ebb112.jpg"
+        },
+        "types": [
+            "Store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Cao V\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Kh\u00ea"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": null,
+        "typeInfos": {},
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,323 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e567d797102214f9de2fa",
+        "name": "Oriental Suites Hotel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f16bf45c1befd19083062f2",
+                "location": {
+                    "lng": 105.85095670537,
+                    "lat": 21.033201674134
+                },
+                "address": "Kh\u00e1ch s\u1ea1n Oriental Suites Hotel,Ph\u01b0\u1eddng H\u00e0ng \u0110\u00e0o,Qu\u1eadn Ho\u00e0n Ki\u1ebfm,H\u00e0 N\u1ed9i",
+                "name": "Kh\u00e1ch s\u1ea1n Oriental Suites Hotel",
+                "objectId": "5f8e567d797102214f9de2fa",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Kh\u00e1ch s\u1ea1n Oriental Suites Hotel"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00e0ng \u0110\u00e0o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8e567d797102214f9de2fa",
+                    "name": "Oriental Suites Hotel",
+                    "location": {
+                        "lng": 105.85121853487703,
+                        "lat": 21.03328682250833
+                    },
+                    "scale": 1,
+                    "bearing": -68,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 96.3237555078784,
+                        "tilt": 66.5,
+                        "target": {
+                            "lng": 105.85144665285623,
+                            "lat": 21.03323595110518
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8e5670797102214f9de2f7.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e5670797102214f9de2f7.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.85126665692738,
+                                "lat": 21.033331738265765
+                            },
+                            {
+                                "lng": 105.85126665689837,
+                                "lat": 21.03324190673736
+                            },
+                            {
+                                "lng": 105.8511704128557,
+                                "lat": 21.03324190673736
+                            },
+                            {
+                                "lng": 105.85117041282669,
+                                "lat": 21.033331738265765
+                            },
+                            {
+                                "lng": 105.85126665692738,
+                                "lat": 21.033331738265765
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8e56701a51f33b969561bc.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e56701a51f33b969561bc.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00e0ng \u0110\u00e0o",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "H\u00e0ng \u0110\u00e0o",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "53",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603163773657,
+                    "updatedDate": 1623224248311
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.85095670537,
+                        21.033201674134
+                    ]
+                },
+                "rank": {
+                    "value": 1000.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85121853487703,
+            "lat": 21.03328682250833
+        },
+        "scale": 1,
+        "bearing": -68,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 96.3237555078784,
+            "tilt": 66.5,
+            "target": {
+                "lng": 105.85144665285623,
+                "lat": 21.03323595110518
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8e5670797102214f9de2f7.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e5670797102214f9de2f7.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85126665692738,
+                    "lat": 21.033331738265765
+                },
+                {
+                    "lng": 105.85126665689837,
+                    "lat": 21.03324190673736
+                },
+                {
+                    "lng": 105.8511704128557,
+                    "lat": 21.03324190673736
+                },
+                {
+                    "lng": 105.85117041282669,
+                    "lat": 21.033331738265765
+                },
+                {
+                    "lng": 105.85126665692738,
+                    "lat": 21.033331738265765
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8e56701a51f33b969561bc.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e56701a51f33b969561bc.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng \u0110\u00e0o"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng \u0110\u00e0o"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "53"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

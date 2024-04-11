@@ -1,0 +1,92 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6141a9692f30391a8a27bf0b",
+        "name": "C\u1ea7u V\u01b0\u1ee3t \u0110i B\u1ed9",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80198940079674,
+            "lat": 21.01278174410163
+        },
+        "scale": 1.675,
+        "bearing": -49,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": null,
+        "model": {
+            "id": "5eb38b7db449c20acc4c1d65",
+            "name": "C\u1ea7u V\u01b0\u1ee3t \u0110i B\u1ed9",
+            "objName": "5eb38b7cae52ce194c826e57.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5eb38b7cae52ce194c826e57.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80203751622871,
+                    "lat": 21.012826659859076
+                },
+                {
+                    "lng": 105.80203751619972,
+                    "lat": 21.012736828330663
+                },
+                {
+                    "lng": 105.80194128539377,
+                    "lat": 21.012736828330663
+                },
+                {
+                    "lng": 105.80194128536479,
+                    "lat": 21.012826659859076
+                },
+                {
+                    "lng": 105.80203751622871,
+                    "lat": 21.012826659859076
+                }
+            ],
+            "height": 0,
+            "textureName": "5eb38b7dae52ce194c826e5b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5eb38b7dae52ce194c826e5b.jpg"
+        },
+        "types": [
+            "decoration"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Duy H\u01b0ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "decoration": "C\u00e1c \u0111\u1ed1i t\u01b0\u1ee3ng 3D \u0111\u1ec3 trang tr\u00ed"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,355 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c3c4adead0223c40c9d127a",
+        "name": "VincomPhamNgocThach",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845ea814a9df9d67e6317",
+                "location": {
+                    "lng": 105.831973,
+                    "lat": 21.006216
+                },
+                "address": "102 \u0110\u00f4ng T\u00e1c, Ph\u01b0\u1eddng Trung T\u1ef1, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "VincomPhamNgocThach",
+                "objectId": "5c3c4adead0223c40c9d127a",
+                "description": " &nbsp; ",
+                "types": [
+                    "local_market",
+                    "store"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "local_market",
+                        "name": "Ch\u1ee3",
+                        "group": "store"
+                    },
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "group": "store"
+                    }
+                ],
+                "mainType": "local_market",
+                "mainTypeInfos": {
+                    "id": "local_market",
+                    "name": "Ch\u1ee3",
+                    "group": "store"
+                },
+                "auxiliaryTypes": [
+                    "store"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "group": "store"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "102"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0110\u00f4ng T\u00e1c"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Trung T\u1ef1"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "local_market",
+                        "name": "Ch\u1ee3",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "store",
+                        "minRank": 1500000,
+                        "maxRank": 2500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "store",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5c3c4adead0223c40c9d127a",
+                    "name": "VincomPhamNgocThach",
+                    "location": {
+                        "lng": 105.83185400592646,
+                        "lat": 21.00620680438837
+                    },
+                    "scale": 0.85,
+                    "bearing": 8,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -248.4178990393135,
+                        "tilt": 70,
+                        "target": {
+                            "lng": 105.831424081727,
+                            "lat": 21.00607779424014
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5c3c4adead0223c40c9d127a",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c3c4adead0223c40c9d127a",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.83292,
+                                "lat": 21.006329
+                            },
+                            {
+                                "lng": 105.831984,
+                                "lat": 21.005596
+                            },
+                            {
+                                "lng": 105.832336,
+                                "lat": 21.006979
+                            },
+                            {
+                                "lng": 105.831401,
+                                "lat": 21.006246
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "8c3f36f4577641628da116eedfd0573a.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/8c3f36f4577641628da116eedfd0573a.jpg"
+                    },
+                    "types": [
+                        "super_market"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 17,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "\u0110\u00f4ng T\u00e1c",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Trung T\u1ef1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "\u0110\u00f4ng T\u00e1c, Ph\u01b0\u1eddng Trung T\u1ef1, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5bf62938a1645b1cb404a407",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1547480398025,
+                    "updatedDate": 1623224212667
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.831973,
+                        21.006216
+                    ]
+                },
+                "rank": {
+                    "value": 1500000
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.83185400592646,
+            "lat": 21.00620680438837
+        },
+        "scale": 0.85,
+        "bearing": 8,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -248.4178990393135,
+            "tilt": 70,
+            "target": {
+                "lng": 105.831424081727,
+                "lat": 21.00607779424014
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c3c4adead0223c40c9d127a",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c3c4adead0223c40c9d127a",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.83292,
+                    "lat": 21.006329
+                },
+                {
+                    "lng": 105.831984,
+                    "lat": 21.005596
+                },
+                {
+                    "lng": 105.832336,
+                    "lat": 21.006979
+                },
+                {
+                    "lng": 105.831401,
+                    "lat": 21.006246
+                }
+            ],
+            "height": 0,
+            "textureName": "8c3f36f4577641628da116eedfd0573a.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/8c3f36f4577641628da116eedfd0573a.jpg"
+        },
+        "types": [
+            "super_market"
+        ],
+        "minZoom": 17,
+        "maxZoom": 17,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u00f4ng T\u00e1c"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung T\u1ef1"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "\u0110\u00f4ng T\u00e1c, Ph\u01b0\u1eddng Trung T\u1ef1, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam"
+    }
+}

@@ -1,0 +1,344 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "62ea3cba31332f97a73f0a14",
+        "name": "Tr\u01b0\u1eddng THPT L\u01b0\u01a1ng V\u0103n Can H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60a74a9fb4e1e72f1899f239",
+                "location": {
+                    "lng": 105.78571799999999,
+                    "lat": 21.016860299999998
+                },
+                "address": "AR7 , Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Tr\u01b0\u1eddng THPT L\u01b0\u01a1ng V\u0103n Can H\u00e0 N\u1ed9i",
+                "objectId": "62ea3cba31332f97a73f0a14",
+                "description": null,
+                "types": [
+                    "high_school",
+                    "education"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "high_school",
+                        "name": "Tr\u01b0\u1eddng trung h\u1ecdc ph\u1ed5 th\u00f4ng (THPT)",
+                        "group": "education"
+                    },
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    }
+                ],
+                "mainType": "high_school",
+                "mainTypeInfos": {
+                    "id": "high_school",
+                    "name": "Tr\u01b0\u1eddng trung h\u1ecdc ph\u1ed5 th\u00f4ng (THPT)",
+                    "group": "education"
+                },
+                "auxiliaryTypes": [
+                    "education"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "AR7"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "high_school",
+                        "name": "Tr\u01b0\u1eddng trung h\u1ecdc ph\u1ed5 th\u00f4ng (THPT)",
+                        "description": "",
+                        "minZoom": 13,
+                        "group": "education",
+                        "minRank": 500000,
+                        "maxRank": 2000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "education",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "62ea3cba31332f97a73f0a14",
+                    "name": "Tr\u01b0\u1eddng THPT L\u01b0\u01a1ng V\u0103n Can H\u00e0 N\u1ed9i",
+                    "location": {
+                        "lng": 105.78577715499387,
+                        "lat": 21.016862548077896
+                    },
+                    "scale": 1,
+                    "bearing": -54,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20.75,
+                        "bearing": -4.200000000000031,
+                        "tilt": 40,
+                        "target": {
+                            "lng": 105.78575966251545,
+                            "lat": 21.016890584051996
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "62ea3caa31332f97a73f0a0f.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/62ea3caa31332f97a73f0a0f.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.78582527174234,
+                                "lat": 21.01690746383534
+                            },
+                            {
+                                "lng": 105.78582527171335,
+                                "lat": 21.01681763230693
+                            },
+                            {
+                                "lng": 105.78572903827438,
+                                "lat": 21.01681763230693
+                            },
+                            {
+                                "lng": 105.78572903824539,
+                                "lat": 21.01690746383534
+                            },
+                            {
+                                "lng": 105.78582527174234,
+                                "lat": 21.01690746383534
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "62ea3caa31332f97a73f0a11.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/62ea3caa31332f97a73f0a11.jpg"
+                    },
+                    "types": [
+                        "high_school"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "\u0110\u01b0\u1eddng AR7",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "\u0110\u01b0\u1eddng AR7, Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1659518139160,
+                    "updatedDate": 1659518139160
+                },
+                "tags": [],
+                "phoneNumber": "+842462945556",
+                "website": "https://lvchn.edu.vn/",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.78571799999999,
+                        21.016860299999998
+                    ]
+                },
+                "rank": {
+                    "value": 500001
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.78577715499387,
+            "lat": 21.016862548077896
+        },
+        "scale": 1,
+        "bearing": -54,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20.75,
+            "bearing": -4.200000000000031,
+            "tilt": 40,
+            "target": {
+                "lng": 105.78575966251545,
+                "lat": 21.016890584051996
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "62ea3caa31332f97a73f0a0f.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/62ea3caa31332f97a73f0a0f.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78582527174234,
+                    "lat": 21.01690746383534
+                },
+                {
+                    "lng": 105.78582527171335,
+                    "lat": 21.01681763230693
+                },
+                {
+                    "lng": 105.78572903827438,
+                    "lat": 21.01681763230693
+                },
+                {
+                    "lng": 105.78572903824539,
+                    "lat": 21.01690746383534
+                },
+                {
+                    "lng": 105.78582527174234,
+                    "lat": 21.01690746383534
+                }
+            ],
+            "height": null,
+            "textureName": "62ea3caa31332f97a73f0a11.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/62ea3caa31332f97a73f0a11.jpg"
+        },
+        "types": [
+            "high_school"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u01b0\u1eddng AR7"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "high_school": "Tr\u01b0\u1eddng trung h\u1ecdc ph\u1ed5 th\u00f4ng (THPT)"
+        },
+        "metadata": null,
+        "address": "\u0110\u01b0\u1eddng AR7, Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

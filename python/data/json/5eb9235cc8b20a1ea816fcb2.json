@@ -1,0 +1,72 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5eb9235cc8b20a1ea816fcb2",
+        "name": "ship1 - 1589191397468",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22964356839566,
+            "lat": 16.063481315353584
+        },
+        "scale": 0.6,
+        "bearing": 19,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 20.94527517540146,
+            "tilt": 0.5,
+            "target": {
+                "lng": 108.22964356839566,
+                "lat": 16.063481315353584
+            }
+        },
+        "model": {
+            "id": "5b21ecc4cd18d02d045a5f8d",
+            "name": "ship1",
+            "objName": "5e7d866723bf5b16acfd1c5a.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5e7d866723bf5b16acfd1c5a.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [],
+            "height": 1,
+            "textureName": "5e7d866723bf5b16acfd1c5c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7d866723bf5b16acfd1c5c.jpg"
+        },
+        "types": [
+            "traffic_signals"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i T\u00e2y"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "An H\u1ea3i T\u00e2y, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5cbd910bd12f8796ec0c0167",
+        "name": "C\u1ea3ng \u0110\u00e0 N\u1eb5ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.223721,
+            "lat": 16.078871
+        },
+        "scale": 1,
+        "bearing": 6,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 262.7553395810368,
+            "tilt": 21.609803921568613,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5cbd910bc46ebe22482ff69d",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cbd910bc46ebe22482ff69d",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.223803,
+                    "lat": 16.079003
+                },
+                {
+                    "lng": 108.22383,
+                    "lat": 16.078756
+                },
+                {
+                    "lng": 108.223548,
+                    "lat": 16.078977
+                },
+                {
+                    "lng": 108.223575,
+                    "lat": 16.07873
+                }
+            ],
+            "height": 1,
+            "textureName": "5cbd910bc46ebe22482ff69e.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cbd910bc46ebe22482ff69e.jpg"
+        },
+        "types": [],
+        "minZoom": 13,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "B\u1ea1ch \u0110\u1eb1ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 954522000000,
+        "endDate": 2532358800000,
+        "source": null,
+        "typeInfos": {},
+        "metadata": null,
+        "address": "B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

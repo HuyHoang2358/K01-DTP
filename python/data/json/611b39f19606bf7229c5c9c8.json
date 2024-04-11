@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "611b39f19606bf7229c5c9c8",
+        "name": "Nature Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79096524808921,
+            "lat": 21.0326190017352
+        },
+        "scale": 1,
+        "bearing": 167,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -149.44087145530537,
+            "tilt": 66,
+            "target": {
+                "lng": 105.7909682198749,
+                "lat": 21.032529853660396
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "611b39da9606bf7229c5c9c3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/611b39da9606bf7229c5c9c3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79118396036694,
+                    "lat": 21.03263799670937
+                },
+                {
+                    "lng": 105.79118396033792,
+                    "lat": 21.03254816518096
+                },
+                {
+                    "lng": 105.79108771674333,
+                    "lat": 21.03254816518096
+                },
+                {
+                    "lng": 105.79108771671432,
+                    "lat": 21.03263799670937
+                },
+                {
+                    "lng": 105.79118396036694,
+                    "lat": 21.03263799670937
+                }
+            ],
+            "height": null,
+            "textureName": "611b39db9606bf7229c5c9c5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/611b39db9606bf7229c5c9c5.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 75 Ph\u1ed1 Tr\u1ea7n Th\u00e1i T\u00f4ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

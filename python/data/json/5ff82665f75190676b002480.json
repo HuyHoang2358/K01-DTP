@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff82665f75190676b002480",
+        "name": "B\u1ed9 T\u00e0i nguy\u00ean v\u00e0 M\u00f4i tr\u01b0\u1eddng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78227491795383,
+            "lat": 21.02758641678929
+        },
+        "scale": 1,
+        "bearing": 170,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.746,
+            "bearing": 7.632258825164116,
+            "tilt": 12.000000357627869,
+            "target": {
+                "lng": 105.78096766981486,
+                "lat": 21.028046204303877
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff82547beee3c4c5c5bc2e5.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff82547beee3c4c5c5bc2e5.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78232303816345,
+                    "lat": 21.02763133254673
+                },
+                {
+                    "lng": 105.78232303813446,
+                    "lat": 21.02754150101832
+                },
+                {
+                    "lng": 105.78222679777318,
+                    "lat": 21.02754150101832
+                },
+                {
+                    "lng": 105.78222679774419,
+                    "lat": 21.02763133254673
+                },
+                {
+                    "lng": 105.78232303816345,
+                    "lat": 21.02763133254673
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff8254a741cd06e43fb842c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff8254a741cd06e43fb842c.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "10"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u00f4n Th\u1ea5t Thuy\u1ebft"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "M\u1ef9 \u0110\u00ecnh 2"
+            }
+        ],
+        "startDate": 1339434000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": "10 T\u00f4n Th\u1ea5t Thuy\u1ebft, M\u1ef9 \u0110\u00ecnh 2, Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c77890abdd69e54386ebe6f",
+        "name": "Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc B\u00e1ch Khoa - \u0110\u1ea1i h\u1ecdc \u0110\u00e0 N\u1eb5ng-Trung T\u00e2m H\u1ecdc Li\u1ec7u \u0110\u1ea1i H\u1ecdc \u0110\u00e0 N\u1eb5ng",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e9814a9df9d67e626e",
+                "location": {
+                    "lng": 108.150475,
+                    "lat": 16.074417
+                },
+                "address": "54 Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng, Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc, Qu\u1eadn Li\u00ean Chi\u1ec3u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc B\u00e1ch Khoa - \u0110\u1ea1i h\u1ecdc \u0110\u00e0 N\u1eb5ng-Trung T\u00e2m H\u1ecdc Li\u1ec7u \u0110\u1ea1i H\u1ecdc \u0110\u00e0 N\u1eb5ng",
+                "objectId": "5c77890abdd69e54386ebe6f",
+                "description": " &nbsp; ",
+                "types": [
+                    "training_center",
+                    "education"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "training_center",
+                        "name": "Trung t\u00e2m \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    },
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    }
+                ],
+                "mainType": "training_center",
+                "mainTypeInfos": {
+                    "id": "training_center",
+                    "name": "Trung t\u00e2m \u0111\u00e0o t\u1ea1o",
+                    "group": "education"
+                },
+                "auxiliaryTypes": [
+                    "education"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "54"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 949338000000,
+                "endDate": 2527261200000,
+                "placeTypes": [
+                    {
+                        "id": "training_center",
+                        "name": "Trung t\u00e2m \u0111\u00e0o t\u1ea1o",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "education",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "education",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5c77890abdd69e54386ebe6f",
+                    "name": "Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc B\u00e1ch Khoa - \u0110\u1ea1i h\u1ecdc \u0110\u00e0 N\u1eb5ng-Trung T\u00e2m H\u1ecdc Li\u1ec7u \u0110\u1ea1i H\u1ecdc \u0110\u00e0 N\u1eb5ng",
+                    "location": {
+                        "lng": 108.150475,
+                        "lat": 16.074417
+                    },
+                    "scale": 1,
+                    "bearing": 22,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 345.784501657166,
+                        "tilt": 0,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5c77890abdd69e54386ebe6f",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c77890abdd69e54386ebe6f",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.150662,
+                                "lat": 16.074725
+                            },
+                            {
+                                "lng": 108.150832,
+                                "lat": 16.07432
+                            },
+                            {
+                                "lng": 108.150118,
+                                "lat": 16.074514
+                            },
+                            {
+                                "lng": 108.150288,
+                                "lat": 16.074109
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "6d8f137ac2ee457cbd0d58192d489f07.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6d8f137ac2ee457cbd0d58192d489f07.jpg"
+                    },
+                    "types": [
+                        "university"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 949338000000,
+                    "endDate": 2527261200000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng, Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc, Qu\u1eadn Li\u00ean Chi\u1ec3u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1551362938567,
+                    "updatedDate": 1623224213953
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.150475,
+                        16.074417
+                    ]
+                },
+                "rank": {
+                    "value": 1000007.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.150475,
+            "lat": 16.074417
+        },
+        "scale": 1,
+        "bearing": 22,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 345.784501657166,
+            "tilt": 0,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c77890abdd69e54386ebe6f",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c77890abdd69e54386ebe6f",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.150662,
+                    "lat": 16.074725
+                },
+                {
+                    "lng": 108.150832,
+                    "lat": 16.07432
+                },
+                {
+                    "lng": 108.150118,
+                    "lat": 16.074514
+                },
+                {
+                    "lng": 108.150288,
+                    "lat": 16.074109
+                }
+            ],
+            "height": 0,
+            "textureName": "6d8f137ac2ee457cbd0d58192d489f07.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6d8f137ac2ee457cbd0d58192d489f07.jpg"
+        },
+        "types": [
+            "university"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 949338000000,
+        "endDate": 2527261200000,
+        "source": null,
+        "typeInfos": {
+            "university": "Tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc"
+        },
+        "metadata": null,
+        "address": "Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng, Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc, Qu\u1eadn Li\u00ean Chi\u1ec3u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

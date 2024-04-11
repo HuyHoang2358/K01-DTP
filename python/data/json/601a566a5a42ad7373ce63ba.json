@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "601a566a5a42ad7373ce63ba",
+        "name": "Chung C\u01b0 A14A",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7882829161199,
+            "lat": 21.017606844862968
+        },
+        "scale": 1.4,
+        "bearing": -53,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -40.26666786670684,
+            "tilt": 0.9999982714653015,
+            "target": {
+                "lng": 105.7882829161199,
+                "lat": 21.017606844862968
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "601a5661af31170e56ed1021.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/601a5661af31170e56ed1021.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78833103310852,
+                    "lat": 21.017651760620414
+                },
+                {
+                    "lng": 105.78833103307954,
+                    "lat": 21.017561929092
+                },
+                {
+                    "lng": 105.78823479916025,
+                    "lat": 21.017561929092
+                },
+                {
+                    "lng": 105.78823479913127,
+                    "lat": 21.017651760620414
+                },
+                {
+                    "lng": 105.78833103310852,
+                    "lat": 21.017651760620414
+                }
+            ],
+            "height": 1,
+            "textureName": "601a5661af31170e56ed1023.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/601a5661af31170e56ed1023.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Ch\u00e1nh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "17"
+            }
+        ],
+        "startDate": 1555606800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "17 Nguy\u1ec5n Ch\u00e1nh, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

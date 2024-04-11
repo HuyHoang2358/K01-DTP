@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6144217a2f30391a8a27c377",
+        "name": "S\u00e2n B\u00f3ng \u0110\u00e1",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79153317112173,
+            "lat": 21.023316391981396
+        },
+        "scale": 0.9,
+        "bearing": -85.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.3581,
+            "bearing": -0.2510430061329204,
+            "tilt": 0,
+            "target": {
+                "lng": 105.79090559921528,
+                "lat": 21.023714263094803
+            }
+        },
+        "model": {
+            "id": "5eb2653fb449c20acc4c1c4f",
+            "name": "S\u00e2n B\u00f3ng \u0110\u00e1",
+            "objName": "5eb2653fae52ce194c826d8b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5eb2653fae52ce194c826d8b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79158128995294,
+                    "lat": 21.02336130773884
+                },
+                {
+                    "lng": 105.79158128992395,
+                    "lat": 21.023271476210425
+                },
+                {
+                    "lng": 105.79148505231952,
+                    "lat": 21.023271476210425
+                },
+                {
+                    "lng": 105.79148505229053,
+                    "lat": 21.02336130773884
+                },
+                {
+                    "lng": 105.79158128995294,
+                    "lat": 21.02336130773884
+                }
+            ],
+            "height": 0,
+            "textureName": "5eb2653fae52ce194c826d8f.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5eb2653fae52ce194c826d8f.jpg"
+        },
+        "types": [
+            "sports"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Trung K\u00ednh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "226"
+            }
+        ],
+        "startDate": 1574096400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "sports": "Li\u00ean quan \u0111\u1ebfn th\u1ec3 d\u1ee5c th\u1ec3 thao"
+        },
+        "metadata": null,
+        "address": "226 Trung K\u00ednh, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

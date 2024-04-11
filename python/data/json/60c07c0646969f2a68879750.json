@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60c07c0646969f2a68879750",
+        "name": "AMY Store",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85196375360948,
+            "lat": 21.034207348509156
+        },
+        "scale": 0.915,
+        "bearing": 83,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -56.96427612519241,
+            "tilt": 52,
+            "target": {
+                "lng": 105.8520141744758,
+                "lat": 21.034219268534468
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c07bfc4391e3457053d85d.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c07bfc4391e3457053d85d.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85200555318737,
+                    "lat": 21.03423111727999
+                },
+                {
+                    "lng": 105.85200555315836,
+                    "lat": 21.034141285751584
+                },
+                {
+                    "lng": 105.85190930853473,
+                    "lat": 21.034141285751584
+                },
+                {
+                    "lng": 105.85190930850572,
+                    "lat": 21.03423111727999
+                },
+                {
+                    "lng": 105.85200555318737,
+                    "lat": 21.03423111727999
+                }
+            ],
+            "height": 1,
+            "textureName": "60c07bfd4391e3457053d85f.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c07bfd4391e3457053d85f.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            },
+            {
+                "types": [],
+                "name": "24"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

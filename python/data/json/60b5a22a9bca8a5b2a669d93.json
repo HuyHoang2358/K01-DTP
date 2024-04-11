@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60b5a22a9bca8a5b2a669d93",
+        "name": "B\u1ea3o t\u00e0ng C\u00f4ng Binh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8092182223,
+            "lat": 21.056207782692198
+        },
+        "scale": 1,
+        "bearing": -95,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 75.1105774939479,
+            "tilt": 85,
+            "target": {
+                "lng": 105.81043891081872,
+                "lat": 21.056515924945618
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60b5a2209bca8a5b2a669d91.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60b5a2209bca8a5b2a669d91.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80926635175798,
+                    "lat": 21.05625269844963
+                },
+                {
+                    "lng": 105.80926635172894,
+                    "lat": 21.05616286692122
+                },
+                {
+                    "lng": 105.80917009287107,
+                    "lat": 21.05616286692122
+                },
+                {
+                    "lng": 105.80917009284202,
+                    "lat": 21.05625269844963
+                },
+                {
+                    "lng": 105.80926635175798,
+                    "lat": 21.05625269844963
+                }
+            ],
+            "height": 1,
+            "textureName": "60b5a22013454c447c4e83f7.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60b5a22013454c447c4e83f7.jpg"
+        },
+        "types": [
+            "museum"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn T\u00e2y H\u1ed3"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng B\u01b0\u1edfi"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u1ea1c Long Qu\u00e2n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "110"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "museum": "B\u1ea3o t\u00e0ng"
+        },
+        "metadata": null,
+        "address": "110 L\u1ea1c Long Qu\u00e2n, Ph\u01b0\u1eddng B\u01b0\u1edfi, Qu\u1eadn T\u00e2y H\u1ed3, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

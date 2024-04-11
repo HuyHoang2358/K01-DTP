@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f924411bdf12e78b55a5757",
+        "name": "T\u00f2a nh\u00e0 HH1",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78730456767164,
+            "lat": 21.021827252649217
+        },
+        "scale": 1,
+        "bearing": -11,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -35.60902479414191,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78730456767164,
+                "lat": 21.021827252649217
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f92581936b67c491b3c36a3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f92581936b67c491b3c36a3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78735268602222,
+                    "lat": 21.021872168406656
+                },
+                {
+                    "lng": 105.78735268599323,
+                    "lat": 21.021782336878243
+                },
+                {
+                    "lng": 105.78725644935007,
+                    "lat": 21.021782336878243
+                },
+                {
+                    "lng": 105.78725644932106,
+                    "lat": 21.021872168406656
+                },
+                {
+                    "lng": 105.78735268602222,
+                    "lat": 21.021872168406656
+                }
+            ],
+            "height": null,
+            "textureName": "5f92581936b67c491b3c36a5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f92581936b67c491b3c36a5.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Kh\u00f4ng \u0110\u1ed7 Xe"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "HH1"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "HH1 Kh\u00f4ng \u0110\u1ed7 Xe, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

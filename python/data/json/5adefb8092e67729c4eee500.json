@@ -1,0 +1,299 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5adefb8092e67729c4eee500",
+        "name": "L\u0103ng Ch\u1ee7 t\u1ecbch H\u1ed3 Ch\u00ed Minh",
+        "places": [],
+        "placeDetails": [
+            {
+                "id": "628cdecc3cd9ef318cd6ee8e",
+                "location": {
+                    "lng": 105.8346667,
+                    "lat": 21.0368973
+                },
+                "address": "2 H\u00f9ng V\u01b0\u01a1ng, \u0110i\u1ec7n B\u00e0n, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i 100000, Vi\u1ec7t Nam",
+                "name": "L\u0103ng Ch\u1ee7 t\u1ecbch H\u1ed3 Ch\u00ed Minh",
+                "objectId": "5adefb8092e67729c4eee500",
+                "description": null,
+                "types": [
+                    "goverment"
+                ],
+                "typeInfos": [],
+                "mainType": "goverment",
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "\u0110i\u1ec7n B\u00e0n"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "2"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "H\u00f9ng V\u01b0\u01a1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5adefb8092e67729c4eee500",
+                    "name": "L\u0103ng Ch\u1ee7 t\u1ecbch H\u1ed3 Ch\u00ed Minh",
+                    "location": {
+                        "lng": 105.83499289031892,
+                        "lat": 21.036680713359658
+                    },
+                    "scale": 1,
+                    "bearing": 79,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20.5,
+                        "bearing": 301.9540667745959,
+                        "tilt": 75.5,
+                        "target": {
+                            "lng": 105.83499289031886,
+                            "lat": 21.036680713359686
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "634d0e975e333dcdaea143ac.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/634d0e975e333dcdaea143ac.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.8350410134655,
+                                "lat": 21.036725629117093
+                            },
+                            {
+                                "lng": 105.83504101343647,
+                                "lat": 21.03663579758868
+                            },
+                            {
+                                "lng": 105.83494476720136,
+                                "lat": 21.03663579758868
+                            },
+                            {
+                                "lng": 105.83494476717235,
+                                "lat": 21.036725629117093
+                            },
+                            {
+                                "lng": 105.8350410134655,
+                                "lat": 21.036725629117093
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "634d0e975e333dcdaea143aa.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/634d0e975e333dcdaea143aa.jpg"
+                    },
+                    "types": [],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ba \u0110\u00ecnh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "H\u00f9ng V\u01b0\u01a1ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "2",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": [],
+                    "address": "2 H\u00f9ng V\u01b0\u01a1ng, Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Nguy\u1ec5n Th\u00e0nh"
+                    },
+                    "createdDate": 1524562816858,
+                    "updatedDate": 1665994864995
+                },
+                "tags": [
+                    "google"
+                ],
+                "phoneNumber": null,
+                "website": "http://bqllang.gov.vn",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8346667,
+                        21.0368973
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.83499289031892,
+            "lat": 21.036680713359658
+        },
+        "scale": 1,
+        "bearing": 79,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20.5,
+            "bearing": 301.9540667745959,
+            "tilt": 75.5,
+            "target": {
+                "lng": 105.83499289031886,
+                "lat": 21.036680713359686
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "634d0e975e333dcdaea143ac.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/634d0e975e333dcdaea143ac.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8350410134655,
+                    "lat": 21.036725629117093
+                },
+                {
+                    "lng": 105.83504101343647,
+                    "lat": 21.03663579758868
+                },
+                {
+                    "lng": 105.83494476720136,
+                    "lat": 21.03663579758868
+                },
+                {
+                    "lng": 105.83494476717235,
+                    "lat": 21.036725629117093
+                },
+                {
+                    "lng": 105.8350410134655,
+                    "lat": 21.036725629117093
+                }
+            ],
+            "height": null,
+            "textureName": "634d0e975e333dcdaea143aa.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/634d0e975e333dcdaea143aa.jpg"
+        },
+        "types": [],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00f9ng V\u01b0\u01a1ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "2"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": [],
+        "address": "2 H\u00f9ng V\u01b0\u01a1ng, Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

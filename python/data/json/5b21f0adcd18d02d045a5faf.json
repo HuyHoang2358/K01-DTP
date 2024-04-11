@@ -1,0 +1,89 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b21f0adcd18d02d045a5faf",
+        "name": "ship4",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.220826,
+            "lat": 16.091644
+        },
+        "scale": 1.5,
+        "bearing": 214,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": null,
+        "model": {
+            "id": "5b21ecf1cd18d02d045a5f90",
+            "name": "ship4",
+            "objName": "5b21ecf1cd18d02d045a5f90",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b21ecf1cd18d02d045a5f90",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.220914,
+                    "lat": 16.091337
+                },
+                {
+                    "lng": 108.220562,
+                    "lat": 16.091838
+                },
+                {
+                    "lng": 108.22109,
+                    "lat": 16.09145
+                },
+                {
+                    "lng": 108.220738,
+                    "lat": 16.091951
+                }
+            ],
+            "height": 1,
+            "textureName": "59b062e21a004a89993d0dbc17ecd4c6.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/59b062e21a004a89993d0dbc17ecd4c6.jpg"
+        },
+        "types": null,
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nh\u01b0 Nguy\u1ec7t"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Thu\u1eadn Ph\u01b0\u1edbc"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 975060000000,
+        "endDate": 4099629600000,
+        "source": null,
+        "typeInfos": null,
+        "metadata": null,
+        "address": "Nh\u01b0 Nguy\u1ec7t, Ph\u01b0\u1eddng Thu\u1eadn Ph\u01b0\u1edbc, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

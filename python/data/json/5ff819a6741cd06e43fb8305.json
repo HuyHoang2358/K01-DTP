@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff819a6741cd06e43fb8305",
+        "name": "T\u00f2a CT5C Khu \u0111\u00f4 th\u1ecb M\u1ec5 Tr\u00ec H\u1ea1",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78363477325587,
+            "lat": 21.014137996959903
+        },
+        "scale": 1,
+        "bearing": -144,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.25,
+            "bearing": -18.614371283639336,
+            "tilt": 18.999998807907104,
+            "target": {
+                "lng": 105.78315303970226,
+                "lat": 21.013845640338374
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff81995741cd06e43fb8303.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff81995741cd06e43fb8303.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78368288912533,
+                    "lat": 21.014182912717345
+                },
+                {
+                    "lng": 105.78368288909635,
+                    "lat": 21.014093081188932
+                },
+                {
+                    "lng": 105.78358665741538,
+                    "lat": 21.014093081188932
+                },
+                {
+                    "lng": 105.78358665738641,
+                    "lat": 21.014182912717345
+                },
+                {
+                    "lng": 105.78368288912533,
+                    "lat": 21.014182912717345
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff81995f75190676b002410.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff81995f75190676b002410.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u00f9ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "CT5A"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "CT5A Ph\u1ea1m H\u00f9ng, Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

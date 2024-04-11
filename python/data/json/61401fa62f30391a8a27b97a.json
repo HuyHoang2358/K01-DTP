@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61401fa62f30391a8a27b97a",
+        "name": "OxyLaptop",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79511359115014,
+            "lat": 21.019787141746747
+        },
+        "scale": 1,
+        "bearing": 209,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -27.742123151640584,
+            "tilt": 0,
+            "target": {
+                "lng": 105.79456452303509,
+                "lat": 21.019812781161402
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61401f972f30391a8a27b975.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61401f972f30391a8a27b975.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79516170884231,
+                    "lat": 21.01983205750419
+                },
+                {
+                    "lng": 105.79516170881334,
+                    "lat": 21.019742225975776
+                },
+                {
+                    "lng": 105.79506547348694,
+                    "lat": 21.019742225975776
+                },
+                {
+                    "lng": 105.79506547345797,
+                    "lat": 21.01983205750419
+                },
+                {
+                    "lng": 105.79516170884231,
+                    "lat": 21.01983205750419
+                }
+            ],
+            "height": null,
+            "textureName": "61401f982f30391a8a27b977.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61401f982f30391a8a27b977.jpg"
+        },
+        "types": [
+            "establishment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u1ea1 Y\u00ean Quy\u1ebft"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "2 "
+            }
+        ],
+        "startDate": 1323536400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "establishment": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i"
+        },
+        "metadata": null,
+        "address": "2  H\u1ea1 Y\u00ean Quy\u1ebft, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

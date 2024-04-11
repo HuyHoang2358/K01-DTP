@@ -1,0 +1,367 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d105b64df97299cfcb5fd",
+        "name": "GRAND VISTA HANOI",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f317b8c6ab94a42b06ea8de",
+                "location": {
+                    "lng": 105.8217117,
+                    "lat": 21.0253508
+                },
+                "address": "146 Gi\u1ea3ng V\u00f5, Ph\u01b0\u1eddng Gi\u1ea3ng V\u00f5, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Grand Vista Hanoi",
+                "objectId": "5f8d105b64df97299cfcb5fd",
+                "description": "146 Ph\u1ed1 Gi\u1ea3ng V\u00f5, Gi\u1ea3ng V\u00f5, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "casino",
+                    "entertainment"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "casino",
+                        "name": "S\u00f2ng b\u00e0i",
+                        "group": "entertainment"
+                    },
+                    {
+                        "id": "entertainment",
+                        "name": "Li\u00ean quan \u0111\u1ebfn vui ch\u01a1i, gi\u1ea3i tr\u00ed",
+                        "group": "entertainment"
+                    }
+                ],
+                "mainType": "casino",
+                "mainTypeInfos": {
+                    "id": "casino",
+                    "name": "S\u00f2ng b\u00e0i",
+                    "group": "entertainment"
+                },
+                "auxiliaryTypes": [
+                    "entertainment"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "entertainment",
+                        "name": "Li\u00ean quan \u0111\u1ebfn vui ch\u01a1i, gi\u1ea3i tr\u00ed",
+                        "group": "entertainment"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "146"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Gi\u1ea3ng V\u00f5"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Gi\u1ea3ng V\u00f5"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "casino",
+                        "name": "S\u00f2ng b\u00e0i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "entertainment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "entertainment",
+                        "name": "Li\u00ean quan \u0111\u1ebfn vui ch\u01a1i, gi\u1ea3i tr\u00ed",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "entertainment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8d105b64df97299cfcb5fd",
+                    "name": "GRAND VISTA HANOI",
+                    "location": {
+                        "lng": 105.82155454613093,
+                        "lat": 21.025454071733108
+                    },
+                    "scale": 1,
+                    "bearing": 41,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 18,
+                        "bearing": -14.400000000000013,
+                        "tilt": 77.5,
+                        "target": {
+                            "lng": 105.82123767178642,
+                            "lat": 21.0273163180766
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8d0ffe1a51f33b9695612c.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d0ffe1a51f33b9695612c.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.82160266565218,
+                                "lat": 21.025498987490547
+                            },
+                            {
+                                "lng": 105.82160266562317,
+                                "lat": 21.025409155962134
+                            },
+                            {
+                                "lng": 105.82150642663869,
+                                "lat": 21.025409155962134
+                            },
+                            {
+                                "lng": 105.82150642660967,
+                                "lat": 21.025498987490547
+                            },
+                            {
+                                "lng": 105.82160266565218,
+                                "lat": 21.025498987490547
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8d0ffe797102214f9de280.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d0ffe797102214f9de280.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ba \u0110\u00ecnh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Gi\u1ea3ng V\u00f5",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Gi\u1ea3ng V\u00f5",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "146",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603080283492,
+                    "updatedDate": 1623224248191
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3728 2999",
+                "website": "http://www.grandvistahanoi.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8217117,
+                        21.0253508
+                    ]
+                },
+                "rank": {
+                    "value": 1012
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.82155454613093,
+            "lat": 21.025454071733108
+        },
+        "scale": 1,
+        "bearing": 41,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -14.400000000000013,
+            "tilt": 77.5,
+            "target": {
+                "lng": 105.82123767178642,
+                "lat": 21.0273163180766
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d0ffe1a51f33b9695612c.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d0ffe1a51f33b9695612c.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82160266565218,
+                    "lat": 21.025498987490547
+                },
+                {
+                    "lng": 105.82160266562317,
+                    "lat": 21.025409155962134
+                },
+                {
+                    "lng": 105.82150642663869,
+                    "lat": 21.025409155962134
+                },
+                {
+                    "lng": 105.82150642660967,
+                    "lat": 21.025498987490547
+                },
+                {
+                    "lng": 105.82160266565218,
+                    "lat": 21.025498987490547
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d0ffe797102214f9de280.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d0ffe797102214f9de280.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Gi\u1ea3ng V\u00f5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Gi\u1ea3ng V\u00f5"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "146"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

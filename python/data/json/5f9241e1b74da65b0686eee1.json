@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f9241e1b74da65b0686eee1",
+        "name": "T\u1ed5ng C\u00f4ng ty Vi\u1ec5n th\u00f4ng Mobifone",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7893174505785,
+            "lat": 21.02341292595611
+        },
+        "scale": 0.7,
+        "bearing": 127,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.75,
+            "bearing": -40.73333241939542,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78916545231797,
+                "lat": 21.02273258980144
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f925873bdf12e78b55a577c.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f925873bdf12e78b55a577c.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78936556944087,
+                    "lat": 21.023457841713547
+                },
+                {
+                    "lng": 105.78936556941187,
+                    "lat": 21.023368010185138
+                },
+                {
+                    "lng": 105.78926933174513,
+                    "lat": 21.023368010185138
+                },
+                {
+                    "lng": 105.78926933171613,
+                    "lat": 21.023457841713547
+                },
+                {
+                    "lng": 105.78936556944087,
+                    "lat": 21.023457841713547
+                }
+            ],
+            "height": null,
+            "textureName": "5f925873b74da65b0686ef10.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f925873b74da65b0686ef10.jpg"
+        },
+        "types": [
+            "establishment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m V\u0103n B\u1ea1ch"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "1"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "establishment": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i"
+        },
+        "metadata": null,
+        "address": "1 Ph\u1ea1m V\u0103n B\u1ea1ch, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

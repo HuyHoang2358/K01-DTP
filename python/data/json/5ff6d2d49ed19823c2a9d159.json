@@ -1,0 +1,95 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff6d2d49ed19823c2a9d159",
+        "name": "Vinaconex 9",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78285328351404,
+            "lat": 21.015617883357777
+        },
+        "scale": 1,
+        "bearing": 127,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -45.666666066646584,
+            "tilt": 50.666668176651,
+            "target": {
+                "lng": 105.78285328351404,
+                "lat": 21.015617883357777
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff6d2cd9ed19823c2a9d136.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff6d2cd9ed19823c2a9d136.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78290139986093,
+                    "lat": 21.01566279911522
+                },
+                {
+                    "lng": 105.78290139983194,
+                    "lat": 21.015572967586806
+                },
+                {
+                    "lng": 105.78280516719613,
+                    "lat": 21.015572967586806
+                },
+                {
+                    "lng": 105.78280516716715,
+                    "lat": 21.01566279911522
+                },
+                {
+                    "lng": 105.78290139986093,
+                    "lat": 21.01566279911522
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff6d2cd79d2dd5e3be165cc.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff6d2cd79d2dd5e3be165cc.jpg"
+        },
+        "types": [
+            "coworking_space"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u00f9ng"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "coworking_space": "V\u0103n ph\u00f2ng cho thu\u00ea"
+        },
+        "metadata": null,
+        "address": "Ph\u1ea1m H\u00f9ng, Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

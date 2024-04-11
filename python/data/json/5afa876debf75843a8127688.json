@@ -1,0 +1,302 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5afa876debf75843a8127688",
+        "name": "Ch\u00f9a M\u1ed9t C\u1ed9t",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e7814a9df9d67e5d97",
+                "location": {
+                    "lng": 105.833634,
+                    "lat": 21.03582
+                },
+                "address": "Ch\u00f9a M\u1ed9t C\u1ed9t, Ph\u01b0\u1eddng \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Ch\u00f9a M\u1ed9t C\u1ed9t",
+                "objectId": "5afa876debf75843a8127688",
+                "description": " &nbsp; ",
+                "types": [
+                    "pagoda",
+                    "goverment"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "pagoda",
+                        "name": "Ch\u00f9a",
+                        "group": "religion"
+                    }
+                ],
+                "mainType": "pagoda",
+                "mainTypeInfos": {
+                    "id": "pagoda",
+                    "name": "Ch\u00f9a",
+                    "group": "religion"
+                },
+                "auxiliaryTypes": [
+                    "goverment"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Ch\u00f9a M\u1ed9t C\u1ed9t"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng \u0110\u1ed9i C\u1ea5n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "pagoda",
+                        "name": "Ch\u00f9a",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "religion",
+                        "minRank": 1000000,
+                        "maxRank": 2000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5afa876debf75843a8127688",
+                    "name": "Ch\u00f9a M\u1ed9t C\u1ed9t",
+                    "location": {
+                        "lng": 105.83363386931524,
+                        "lat": 21.03584002724338
+                    },
+                    "scale": 1,
+                    "bearing": -21,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 7.948954317961953,
+                        "tilt": 63,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5afa876debf75843a8127688",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5afa876debf75843a8127688",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.83381,
+                                "lat": 21.035801
+                            },
+                            {
+                                "lng": 105.833617,
+                                "lat": 21.035656
+                            },
+                            {
+                                "lng": 105.833651,
+                                "lat": 21.035984
+                            },
+                            {
+                                "lng": 105.833458,
+                                "lat": 21.035839
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "748337f9e73443c2a872cdf60b596673.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/748337f9e73443c2a872cdf60b596673.jpg"
+                    },
+                    "types": [
+                        "atm"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Ba \u0110\u00ecnh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "\u0110\u1ed9i C\u1ea5n",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ch\u00f9a M\u1ed9t C\u1ed9t",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ch\u00f9a M\u1ed9t C\u1ed9t, \u0110\u1ed9i C\u1ea5n, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1526368109004,
+                    "updatedDate": 1623224189119
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.833634,
+                        21.03582
+                    ]
+                },
+                "rank": {
+                    "value": 1000001
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.83363386931524,
+            "lat": 21.03584002724338
+        },
+        "scale": 1,
+        "bearing": -21,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 7.948954317961953,
+            "tilt": 63,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5afa876debf75843a8127688",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5afa876debf75843a8127688",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.83381,
+                    "lat": 21.035801
+                },
+                {
+                    "lng": 105.833617,
+                    "lat": 21.035656
+                },
+                {
+                    "lng": 105.833651,
+                    "lat": 21.035984
+                },
+                {
+                    "lng": 105.833458,
+                    "lat": 21.035839
+                }
+            ],
+            "height": 0,
+            "textureName": "748337f9e73443c2a872cdf60b596673.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/748337f9e73443c2a872cdf60b596673.jpg"
+        },
+        "types": [
+            "atm"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "\u0110\u1ed9i C\u1ea5n"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ch\u00f9a M\u1ed9t C\u1ed9t"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "atm": "ATM"
+        },
+        "metadata": null,
+        "address": "Ch\u00f9a M\u1ed9t C\u1ed9t, \u0110\u1ed9i C\u1ea5n, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i"
+    }
+}

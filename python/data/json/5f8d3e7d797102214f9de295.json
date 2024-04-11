@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d3e7d797102214f9de295",
+        "name": "Dal Vostro Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.850071,
+            "lat": 21.030762
+        },
+        "scale": 1,
+        "bearing": 125,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -99.13406796096172,
+            "tilt": 67,
+            "target": {
+                "lng": 105.84962659444545,
+                "lat": 21.03072754169924
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d3e6c797102214f9de292.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d3e6c797102214f9de292.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.850119121235,
+                    "lat": 21.03080691575744
+                },
+                {
+                    "lng": 105.85011912120598,
+                    "lat": 21.030717084229025
+                },
+                {
+                    "lng": 105.85002287879404,
+                    "lat": 21.030717084229025
+                },
+                {
+                    "lng": 105.85002287876502,
+                    "lat": 21.03080691575744
+                },
+                {
+                    "lng": 105.850119121235,
+                    "lat": 21.03080691575744
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d3e6d1a51f33b96956152.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d3e6d1a51f33b96956152.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng H\u00e0nh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "10"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

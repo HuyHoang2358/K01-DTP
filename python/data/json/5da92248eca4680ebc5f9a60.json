@@ -1,0 +1,71 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5da92248eca4680ebc5f9a60",
+        "name": "V\u00e2n Anh Club Massage",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22906034737491,
+            "lat": 16.079320490785378
+        },
+        "scale": 1,
+        "bearing": -90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -93.25835662749029,
+            "tilt": 76,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5da9322455912f0eccc03fd1.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5da9322455912f0eccc03fd1.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 0,
+            "textureName": "5da9322455912f0eccc03fd3.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5da9322455912f0eccc03fd3.jpg"
+        },
+        "types": [
+            "spa"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "spa": "D\u1ecbch v\u1ee5 Spa/massage"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

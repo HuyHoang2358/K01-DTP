@@ -1,0 +1,95 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5db15f5af1417c176c8f1c37",
+        "name": "Nh\u00e0 Th\u1edd L\u1edbn H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.84879743363,
+            "lat": 21.0286717098451
+        },
+        "scale": 1,
+        "bearing": 117,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -141.2,
+            "tilt": 66,
+            "target": {
+                "lng": 105.84863535518993,
+                "lat": 21.028443272446243
+            }
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5db16fc8ab46a72128736ca1.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5db16fc8ab46a72128736ca1.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84884555419005,
+                    "lat": 21.02871662560254
+                },
+                {
+                    "lng": 105.84884555416104,
+                    "lat": 21.02862679407413
+                },
+                {
+                    "lng": 105.84874931309896,
+                    "lat": 21.02862679407413
+                },
+                {
+                    "lng": 105.84874931306996,
+                    "lat": 21.02871662560254
+                },
+                {
+                    "lng": 105.84884555419005,
+                    "lat": 21.02871662560254
+                }
+            ],
+            "height": 0,
+            "textureName": "5db16fc8ab46a72128736ca3.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5db16fc8ab46a72128736ca3.jpg"
+        },
+        "types": [
+            "worship"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "H\u00e0ng Tr\u1ed1ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "worship": "N\u01a1i th\u1edd c\u00fang, trang nghi\u00eam"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

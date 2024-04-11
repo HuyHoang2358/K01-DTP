@@ -1,0 +1,105 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f3653adeaac2d402c7fa24e",
+        "name": "Grandvrio City DANANG",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22173306325476,
+            "lat": 16.082174897758634
+        },
+        "scale": 1,
+        "bearing": 188.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 194.24688017630226,
+            "tilt": 70.5,
+            "target": {
+                "lng": 108.2219901351196,
+                "lat": 16.08199451271099
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f36539eeaac2d402c7fa249.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f36539eeaac2d402c7fa249.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22177980838181,
+                    "lat": 16.082219813517764
+                },
+                {
+                    "lng": 108.22177980836068,
+                    "lat": 16.082129981989354
+                },
+                {
+                    "lng": 108.22168631814885,
+                    "lat": 16.082129981989354
+                },
+                {
+                    "lng": 108.22168631812771,
+                    "lat": 16.082219813517764
+                },
+                {
+                    "lng": 108.22177980838181,
+                    "lat": 16.082219813517764
+                }
+            ],
+            "height": 1,
+            "textureName": "5f36539feaac2d402c7fa24b.JPG",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f36539feaac2d402c7fa24b.JPG"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "1-3"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": null,
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

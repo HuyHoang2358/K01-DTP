@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f923d9abdf12e78b55a574e",
+        "name": "Chung c\u01b0 Handico Nam Trung Y\u00ean",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78880096537432,
+            "lat": 21.018682396831736
+        },
+        "scale": 1,
+        "bearing": -143.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18.75,
+            "bearing": -30.98754326485819,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78873666501846,
+                "lat": 21.018332055183066
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f925758b74da65b0686ef04.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f925758b74da65b0686ef04.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78884908271,
+                    "lat": 21.01872731258918
+                },
+                {
+                    "lng": 105.78884908268101,
+                    "lat": 21.018637481060768
+                },
+                {
+                    "lng": 105.78875284806763,
+                    "lat": 21.018637481060768
+                },
+                {
+                    "lng": 105.78875284803864,
+                    "lat": 21.01872731258918
+                },
+                {
+                    "lng": 105.78884908271,
+                    "lat": 21.01872731258918
+                }
+            ],
+            "height": null,
+            "textureName": "5f92575836b67c491b3c369b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f92575836b67c491b3c369b.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Ch\u00e1nh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "A14B2"
+            }
+        ],
+        "startDate": 1555606800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "A14B2 Nguy\u1ec5n Ch\u00e1nh, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

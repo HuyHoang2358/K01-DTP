@@ -1,0 +1,332 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fa8c12b732a301747db26a5",
+        "name": "The Hanoi Club Hotel & Lake Palais Residences",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c24e2c2e7d438384b779c",
+                "location": {
+                    "lng": 105.836715,
+                    "lat": 21.052125
+                },
+                "address": "76 Y\u00ean Hoa, Ph\u01b0\u1eddng Y\u00ean Ph\u1ee5, Qu\u1eadn T\u00e2y H\u1ed3, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "The Hanoi Club Hotel & Residences",
+                "objectId": "5fa8c12b732a301747db26a5",
+                "description": "76 Ph\u1ed1 Y\u00ean Ph\u1ee5, Y\u00ean Ph\u1ee5, T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i 100000, Vi\u1ec7t Nam",
+                "types": [
+                    "education"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "group": "education"
+                    }
+                ],
+                "mainType": "education",
+                "mainTypeInfos": {
+                    "id": "education",
+                    "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                    "group": "education"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "76"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Y\u00ean Hoa"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Y\u00ean Ph\u1ee5"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn T\u00e2y H\u1ed3"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "education",
+                        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "education",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5fa8c12b732a301747db26a5",
+                    "name": "The Hanoi Club Hotel & Lake Palais Residences",
+                    "location": {
+                        "lng": 105.836713,
+                        "lat": 21.052105
+                    },
+                    "scale": 1,
+                    "bearing": -84,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 5.5186140657372915,
+                        "tilt": 79,
+                        "target": {
+                            "lng": 105.83684744426539,
+                            "lat": 21.05279624072275
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5fa8c110725e0328e8e1ff90.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fa8c110725e0328e8e1ff90.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.8367611281313,
+                                "lat": 21.052149915757433
+                            },
+                            {
+                                "lng": 105.83676112810225,
+                                "lat": 21.052060084229016
+                            },
+                            {
+                                "lng": 105.83666487189774,
+                                "lat": 21.052060084229016
+                            },
+                            {
+                                "lng": 105.83666487186869,
+                                "lat": 21.052149915757433
+                            },
+                            {
+                                "lng": 105.8367611281313,
+                                "lat": 21.052149915757433
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5fa8c11286a8b557d9138c7c.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fa8c11286a8b557d9138c7c.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn T\u00e2y H\u1ed3",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Y\u00ean Ph\u1ee5",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Y\u00ean Hoa",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "76",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1604895019332,
+                    "updatedDate": 1623224248689
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3823 8115",
+                "website": "http://www.thehanoiclub.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.836715,
+                        21.052125
+                    ]
+                },
+                "rank": {
+                    "value": 1013
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.836713,
+            "lat": 21.052105
+        },
+        "scale": 1,
+        "bearing": -84,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 5.5186140657372915,
+            "tilt": 79,
+            "target": {
+                "lng": 105.83684744426539,
+                "lat": 21.05279624072275
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fa8c110725e0328e8e1ff90.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fa8c110725e0328e8e1ff90.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8367611281313,
+                    "lat": 21.052149915757433
+                },
+                {
+                    "lng": 105.83676112810225,
+                    "lat": 21.052060084229016
+                },
+                {
+                    "lng": 105.83666487189774,
+                    "lat": 21.052060084229016
+                },
+                {
+                    "lng": 105.83666487186869,
+                    "lat": 21.052149915757433
+                },
+                {
+                    "lng": 105.8367611281313,
+                    "lat": 21.052149915757433
+                }
+            ],
+            "height": 1,
+            "textureName": "5fa8c11286a8b557d9138c7c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fa8c11286a8b557d9138c7c.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn T\u00e2y H\u1ed3"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ph\u1ee5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Y\u00ean Hoa"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "76"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

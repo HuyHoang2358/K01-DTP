@@ -1,0 +1,437 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "634f717ce02579df318a7dac",
+        "name": "The Manor - H\u00e0 N\u1ed9i",
+        "places": [],
+        "placeDetails": [
+            {
+                "id": "634f7607e02579df318a7db6",
+                "location": {
+                    "lng": 105.77549841356199,
+                    "lat": 21.013872239953102
+                },
+                "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                "name": "The Manor - H\u00e0 N\u1ed9i",
+                "objectId": "634f717ce02579df318a7dac",
+                "description": "   KHU \u0110\u00d4 TH\u1eca THE MANOR H\u00c0 N\u1ed8I   \n  \"L\u1ea5y c\u1ea3m h\u1ee9ng t\u1eeb t\u00ean g\u1ecdi \u201cThe Manor\u201d l\u00e0 m\u1ed9t c\u1ee5m t\u1eeb mang \u00fd ngh\u0129a v\u1ec1 m\u1ed9t v\u00f9ng \u0111\u1ea5t t\u01b0\u01a1i \u0111\u1eb9p c\u1ee7a ch\u00e2u \u00c2u. The Manor H\u00e0 N\u1ed9i \u0111\u01b0 thi\u1ebft k\u1ebf mang h\u01a1i h\u01b0\u1edbng c\u1ee7a c\u00e1c n\u00e9t ki\u1ebfn tr\u00fac c\u1ed5 \u0111i\u1ec3n, l\u00e3ng m\u1ea1n c\u1ee7a ch\u00e2u \u00c2u v\u00e0 \u0111\u01b0\u1ee3c m\u1ec7nh danh l\u00e0 \u201cParis gi\u1eefa l\u00f2ng H\u00e0 N\u1ed9i\u201d.  \n   Chung c\u01b0 The Manor H\u00e0 N\u1ed9i   \n   Chung c\u01b0 The Manor    n\u1eb1m \u1edf ph\u00eda t\u00e2y nam H\u00e0 N\u1ed9i, tr\u00ean \u0111\u01b0\u1eddng M\u1ec5 Tr\u00ec, s\u00e1t m\u1eb7t \u0111\u01b0\u1eddng L\u00ea \u0110\u1ee9c Th\u1ecd, T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i l\u00e0 m\u1ed9t v\u1ecb tr\u00ed kh\u00e1 \u0111\u1eafc \u0111\u1ecba n\u1ed1i gi\u1eefa th\u00e0nh ph\u1ed1 v\u1edbi c\u00e1c \u0111\u1ecba \u0111i\u1ec3m quan tr\u1ecdng kh\u00e1c nh\u01b0: s\u00e2n bay qu\u1ed1c t\u1ebf N\u1ed9i B\u00e0i, Trung t\u00e2m h\u1ed9i ngh\u1ecb Qu\u1ed1c gia, S\u00e2n v\u1eadn \u0111\u1ed9ng M\u1ef9 \u0110\u00ecnh, B\u1ebfn xe M\u1ef9 \u0110\u00ecnh, Trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i BigC The Garden, B\u1ea3o t\u00e0ng H\u00e0 N\u1ed9i, t\u00f2a nh\u00e0 Keangnam, khu \u0111\u00f4 th\u1ecb M\u1ef9 \u0110\u00ecnh 1 v\u00e0 2, b\u1ec7nh vi\u1ec7n 198, tr\u01b0\u1eddng \u0110H S\u01b0 ph\u1ea1m H\u00e0 N\u1ed9i, \u0110\u1ea1i h\u1ecdc Ngo\u1ea1i ng\u1eef\u2026  \n   The Manor H\u00e0 N\u1ed9i    l\u00e0 m\u1ed9t t\u1ed5 h\u1ee3p c\u00f4ng tr\u00ecnh bao g\u1ed3m c\u0103n h\u1ed9 cao c\u1ea5p, v\u0103n ph\u00f2ng, nh\u00e0 li\u1ec1n k\u1ec1 v\u00e0 bi\u1ec7t th\u1ef1. To\u00e0n b\u1ed9 t\u1ed5 h\u1ee3p n\u00e0y \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf theo phong c\u00e1ch ch\u00e2u \u00c2u, k\u1ebft h\u1ee3p n\u00e9t c\u1ed5 \u0111i\u1ec3n v\u00e0 hi\u1ec7n \u0111\u1ea1i c\u1ee7a ki\u1ebfn tr\u00fac Ph\u00e1p.  \n   The Manor l\u00e0 m\u1ed9t t\u1ed5 h\u1ee3p bao g\u1ed3m:   \n  * C\u00e1c t\u00f2a nh\u00e0 cao t\u1ea7ng, trung t\u1ea7ng:  \n  + To\u00e0 nh\u00e0 AB,v\u00e0 AC cao 26 t\u1ea7ng g\u1ed3m 502 c\u0103n h\u1ed9  \n  + T\u00f2a nh\u00e0 B v\u00e0 C cao 10 t\u1ea7ng g\u1ed3m 289 c\u0103n h\u1ed9  \n  * Khu bi\u1ec7t th\u1ef1\u00a0 v\u00e0 khu bi\u1ec7t th\u1ef1 li\u00ean k\u1ebf  \n  * Khu trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i : 14.294m2  \n  * Khu villa: 53 villa  \n  * V\u0103n ph\u00f2ng, tr\u01b0\u1eddng h\u1ecdc  \n  * C\u1eeda h\u00e0ng th\u1eddi trang  \n  * Nh\u00e0 h\u00e0ng, qu\u00e1n caf\u00e9  \n  * Trung t\u00e2m gi\u1ea3i tr\u00ed v\u00e0 r\u1ea1p chi\u1ebfu phim hi\u1ec7n \u0111\u1ea1i  \n  * Ph\u00f2ng t\u1eadp th\u1ec3 thao v\u00e0 trung t\u00e2m y t\u1ebf  \n  * T\u1ea5t c\u1ea3 nh\u1eefng ti\u1ec7n nghi s\u1ed1ng, d\u1ecbch v\u1ee5 \u0111\u1ea1t ti\u00eau chu\u1ea9n qu\u1ed1c t\u1ebf &nbsp; \n",
+                "types": [
+                    "point"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/634f75f5e02579df318a7db1.jpg",
+                        "name": "634f75f5e02579df318a7db1.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/634f75f6e02579df318a7db2.jpg",
+                        "name": "634f75f6e02579df318a7db2.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/634f76e7e02579df318a7dca.jpg",
+                        "name": "634f76e7e02579df318a7dca.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/634f76e7e02579df318a7dcb.jpg",
+                        "name": "634f76e7e02579df318a7dcb.jpg",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "634f717ce02579df318a7dac",
+                    "name": "The Manor - H\u00e0 N\u1ed9i",
+                    "location": {
+                        "lng": 105.77569088697987,
+                        "lat": 21.01433968292534
+                    },
+                    "scale": 1,
+                    "bearing": 37.5,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19.75,
+                        "bearing": 3.4898812902746656,
+                        "tilt": 44.000001311302185,
+                        "target": {
+                            "lng": 105.77528768510619,
+                            "lat": 21.013903236513237
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "634f717ce02579df318a7daf.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/634f717ce02579df318a7daf.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.7757390029144,
+                                "lat": 21.014384598682785
+                            },
+                            {
+                                "lng": 105.77573900288542,
+                                "lat": 21.01429476715437
+                            },
+                            {
+                                "lng": 105.77564277107433,
+                                "lat": 21.01429476715437
+                            },
+                            {
+                                "lng": 105.77564277104536,
+                                "lat": 21.014384598682785
+                            },
+                            {
+                                "lng": 105.7757390029144,
+                                "lat": 21.014384598682785
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "634f717ce02579df318a7dad.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/634f7168e02579df318a7da9.jpg"
+                    },
+                    "types": [
+                        "apartment"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "M\u1ec5 Tr\u00ec",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "M\u1ec5 Tr\u00ec, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "5fb65fb9-76f2-41e9-ae2a-8f29823663cd",
+                        "displayName": "Nguy\u1ec5n Xu\u00e2n Ho\u00e0n"
+                    },
+                    "updatedBy": {
+                        "userId": "5fb65fb9-76f2-41e9-ae2a-8f29823663cd",
+                        "displayName": "Nguy\u1ec5n Xu\u00e2n Ho\u00e0n"
+                    },
+                    "createdDate": 1666150781113,
+                    "updatedDate": 1666150781113
+                },
+                "tags": [
+                    "IOTLink"
+                ],
+                "phoneNumber": "",
+                "website": "http://www.themanor-hanoi.com/",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.77549841356199,
+                        21.013872239953102
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [
+                    {
+                        "id": "641c0d66425d1cf2b745341e",
+                        "type": "article",
+                        "name": "The Manor M\u1ec5 Tr\u00ec ",
+                        "content": "<p style=\"text-align:center;\"><span style=\"color: rgb(226,80,65);background-color: rgb(255,255,255);font-size: 24px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\"><strong>The Manor M\u1ec5 Tr\u00ec</strong></span><span style=\"color: rgb(226,80,65);font-size: 24px;\"><strong> </strong></span></p>\n<p><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">\u0110\u01b0\u1ee3c m\u1ec7nh danh l\u00e0 \u201cParis gi\u1eefa l\u00f2ng H\u00e0 N\u1ed9i\u201d, T\u1ed5 h\u1ee3p d\u1ef1 \u00e1n The Manor M\u1ef9 \u0110\u00ecnh kh\u00f4ng ch\u1ec9 l\u00e0 d\u1ef1 \u00e1n \u0111i\u1ec3n h\u00ecnh c\u1ee7a T\u1eadp \u0111o\u00e0n Bitexco m\u00e0 c\u00f2n l\u00e0 \u201cni\u1ec1m ki\u00eau h\u00e3nh\u201d c\u1ee7a th\u1ee7 \u0111\u00f4 H\u00e0 N\u1ed9i. V\u1edbi h\u01a1i h\u01b0\u1edbng thi\u1ebft k\u1ebf mang c\u00e1c n\u00e9t ki\u1ebfn tr\u00fac c\u1ed5 \u0111i\u1ec3n, l\u00e3ng m\u1ea1n c\u1ee7a ch\u00e2u \u00c2u, The Manor \u0111\u01b0\u1ee3c xem l\u00e0 bi\u1ec3u t\u01b0\u1ee3ng ki\u1ebfn tr\u00fac \u1ea5n t\u01b0\u1ee3ng trong c\u00e1c d\u1ef1 \u00e1n nh\u00e0 \u1edf- v\u0103n ph\u00f2ng c\u1ee7a th\u1ee7 \u0111\u00f4. T\u00f2a nh\u00e0 hi\u1ec7n \u0111ang cung c\u1ea5p m\u1ed9t l\u01b0\u1ee3ng l\u1edbn</span> <a href=\"https://timvanphong.com.vn/quan-nam-tu-liem/\" target=\"_self\"><span style=\"color: rgb(0,89,156);background-color: transparent;font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\"><strong>v\u0103n ph\u00f2ng cho thu\u00ea \u1edf Nam T\u1eeb Li\u00eam</strong></span></a> <span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">v\u1edbi gi\u00e1 thu\u00ea v\u00f4 c\u00f9ng h\u1ea5p d\u1eabn cho m\u1ed9t khu v\u1ef1c \u0111\u1eb3ng c\u1ea5p.</span></p>\n<p style=\"text-align:justify;\"></p>\n<div style=\"text-align:none;\"><img src=\"https://timvanphong.com.vn/wp-content/uploads/2019/09/khu-do-thi-the-manor-me-tri.jpg\" alt=\"T\u1ed5ng quan khu v\u0103n ph\u00f2ng t\u00f2a nh\u00e0 The Manor Bitexco M\u1ec5 Tr\u00ec\" style=\"height: auto;width: 800px\"/></div>\n<p style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 18px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\"><strong>T\u1ed4NG QUAN T\u00d2A NH\u00c0 THE MANOR M\u1ec4 TR\u00cc</strong></span></p>\n<p style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">The Manor M\u1ec5 Tr\u00ec \u0111ang l\u00e0 l\u1ef1a ch\u1ecdn</span> <a href=\"https://timvanphong.com.vn/\" target=\"_self\"><span style=\"color: rgb(0,89,156);background-color: transparent;font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">thu\u00ea v\u0103n ph\u00f2ng</span></a> <span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">h\u1ea1ng B chuy\u00ean nghi\u1ec7p, m\u1eb7t \u0111\u01b0\u1eddng l\u1edbn M\u1ec5 Tr\u00ec, thu\u1ed9c qu\u1eadn Nam T\u1eeb Li\u00eam \u0111\u01b0\u1ee3c r\u1ea5t nhi\u1ec1u kh\u00e1ch h\u00e0ng y\u00eau th\u00edch. T\u00f2a nh\u00e0 mang \u0111\u1ebfn nh\u1eefng l\u1ef1a ch\u1ecdn v\u0103n ph\u00f2ng ch\u1ea5t l\u01b0\u1ee3ng cao cho kh\u00e1ch thu\u00ea, \u0111\u1ea7y \u0111\u1ee7 m\u1ecdi thi\u1ebft b\u1ecb k\u1ef9 thu\u1eadt ti\u00ean ti\u1ebfn nh\u1ea5t, c\u00f9ng v\u1edbi \u0111\u00f3 l\u00e0 h\u1ec7 th\u1ed1ng ti\u1ec7n \u00edch hi\u1ec7n \u0111\u1ea1i, d\u1ecbch v\u1ee5 theo \u0111\u00fang ti\u00eau chu\u1ea9n v\u0103n ph\u00f2ng h\u1ea1ng sang, gi\u00fap c\u00f4ng ty c\u00f3 m\u1ed9t v\u0103n ph\u00f2ng l\u00e0m vi\u1ec7c hi\u1ec7u qu\u1ea3, chuy\u00ean nghi\u1ec7p, n\u00e2ng t\u1ea7m h\u00ecnh \u1ea3nh c\u00f4ng ty trong m\u1eaft \u0111\u1ed1i t\u00e1c v\u00e0 kh\u00e1ch h\u00e0ng.</span></p>\n<ul>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\"><strong>Ch\u1ee7 \u0111\u1ea7u t\u01b0</strong>: T\u1eadp \u0111o\u00e0n Bitexco.</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\"><strong>\u0110\u01a1n v\u1ecb v\u1eadn h\u00e0nh v\u00e0 qu\u1ea3n l\u00fd</strong>: Bitexcoland.</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\"><strong>Ho\u00e0n th\u00e0nh</strong>: N\u0103m 2007</span></li>\n</ul>\n<h2 style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 18px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">\u01afU \u0110I\u1ec2M V\u0102N PH\u00d2NG THE MANOR M\u1ec4 TR\u00cc</span></h2>\n<p style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Mang phong c\u00e1ch thi\u1ebft k\u1ebf t\u00e2n c\u1ed5 \u0111i\u1ec3n Ch\u00e2u \u00c2u, The Manor M\u1ec5 Tr\u00ec n\u1ed5i b\u1eadt gi\u1eefa h\u00e0ng tr\u0103m khu \u0111\u00f4 th\u1ecb hi\u1ec7n \u0111\u1ea1i v\u00e0 s\u1ea7m u\u1ea5t c\u1ee7a th\u1ee7 \u0111\u00f4. \u0110\u00e2y c\u0169ng l\u00e0 khu \u0111\u00f4 th\u1ecb ki\u1ec3u m\u1eabu \u0111\u1ea7u ti\u00ean t\u1ea1i khu v\u1ef1c ph\u00eda T\u00e2y th\u00e0nh ph\u1ed1.</span></p>\n<ul>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">V\u1ecb tr\u00ed \u0111\u1eafc \u0111\u1ecba\u00a0tr\u00ean m\u1eb7t \u0111\u01b0\u1eddng M\u1ec5 Tr\u00ec v\u1edbi 4 m\u1eb7t ti\u1ec1n \u0111\u01b0\u1eddng M\u1ec5 Tr\u00ec \u2013 Tr\u1ea7n V\u0103n Lai \u2013 V\u0169 Qu\u1ef3nh. Giao th\u01b0\u01a1ng thu\u1eadn l\u1ee3i.</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">H\u1ed9i t\u1ee5 \u0111\u1ea7y \u0111\u1ee7 c\u00e1c ti\u1ec7n \u00edch trong n\u1ed9i khu d\u1ef1 \u00e1n g\u1ed3m: Trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i BigC The Garden, si\u00eau th\u1ecb, nh\u00e0 h\u00e0ng \u1ea9m th\u1ef1c, th\u1eddi trang, r\u1ea1p chi\u1ebfu phim\u2026</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Ch\u1ee7 \u0111\u1ea7u t\u01b0 danh ti\u1ebfng. Ki\u1ebfn tr\u00fac \u0111\u1ed9c \u0111\u00e1o, nh\u01b0 m\u1ed9t Paris thu nh\u1ecf gi\u1eefa l\u00f2ng H\u00e0 N\u1ed9i.</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Khu v\u1ef1c t\u1eadp trung t\u1edbi 70% c\u1ed9ng \u0111\u1ed3ng ng\u01b0\u1eddi H\u00e0n v\u00e0 c\u00e1c c\u00f4ng ty c\u1ee7a H\u00e0n Qu\u1ed1c sinh s\u1ed1ng v\u00e0 l\u00e0m vi\u1ec7c t\u1ea1i H\u00e0 N\u1ed9i.</span></li>\n</ul>\n<h2 style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 18px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">V\u1eca TR\u00cd T\u00d2A NH\u00c0 THE MANOR M\u1ec4 TR\u00cc</span></h2>\n<p style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">The Manor M\u1ec5 Tr\u00ec c\u00f3 v\u1ecb tr\u00ed \u0111\u1eb9p ngay ng\u00e3 t\u01b0 M\u1ec5 Tr\u00ec \u2013 Tr\u1ea7n V\u0103n Lai \u2013 V\u0169 Qu\u1ef3nh. S\u1edf h\u1eefu v\u1ecb tr\u00ed thu\u1eadn ti\u1ec7n tr\u00ean m\u1eb7t \u0111\u01b0\u1eddng M\u1ec5 Tr\u00ec, v\u1edbi 4 m\u1eb7t ti\u1ec1n \u0111\u01b0\u1eddng. \u0110\u01b0\u1eddng M\u1ec5 Tr\u00ec l\u00e0 tuy\u1ebfn \u0111\u01b0\u1eddng n\u1ed1i li\u1ec1n gi\u1eefa \u0111\u01b0\u1eddng L\u00ea Quang \u0110\u1ea1o ra Ph\u1ea1m H\u00f9ng- D\u01b0\u01a1ng \u0110\u00ecnh Ngh\u1ec7. \u0110\u00e2y l\u00e0 tuy\u1ebfn \u0111\u01b0\u1eddng 2 chi\u1ec1u c\u00f3 \u00fd ngh\u0129a quan tr\u1ecdng c\u1ee7a qu\u1eadn Nam T\u1eeb Li\u00eam v\u1ec1 giao th\u00f4ng \u0111i s\u00e2n bay qu\u1ed1c t\u1ebf N\u1ed9i B\u00e0i, Trung t\u00e2m h\u1ed9i ngh\u1ecb Qu\u1ed1c gia, S\u00e2n v\u1eadn \u0111\u1ed9ng M\u1ef9 \u0110\u00ecnh, B\u1ebfn xe M\u1ef9 \u0110\u00ecnh, B\u1ea3o t\u00e0ng H\u00e0 N\u1ed9i, t\u00f2a nh\u00e0 Keangnam, khu \u0111\u00f4 th\u1ecb M\u1ef9 \u0110\u00ecnh 1 v\u00e0 2, b\u1ec7nh vi\u1ec7n 198, tr\u01b0\u1eddng \u0110H S\u01b0 ph\u1ea1m H\u00e0 N\u1ed9i, \u0110\u1ea1i h\u1ecdc Ngo\u1ea1i ng\u1eef\u2026</span></p>\n<p style=\"text-align:justify;\"></p>\n<div style=\"text-align:none;\"><img src=\"https://timvanphong.com.vn/wp-content/uploads/2019/09/van-phong-cho-thue-the-manor-me-tri.jpg\" alt=\"V\u0103n ph\u00f2ng cho thu\u00ea t\u00f2a nh\u00e0 The Manor M\u1ec5 Tr\u00ec\" style=\"height: auto;width: 800px\"/></div>\n<p style=\"text-align:center;\"><span style=\"color: rgb(33,37,41);font-size: 14px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">V\u0103n ph\u00f2ng cho thu\u00ea t\u00f2a nh\u00e0 The Manor M\u1ec5 Tr\u00ec</span></p>\n<h2 style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 18px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">M\u1eb6T B\u1eb0NG THE MANOR M\u1ec4 TR\u00cc</span></h2>\n<p style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">The Manor l\u00e0 m\u1ed9t t\u1ed5 h\u1ee3p d\u1ef1 \u00e1n bao g\u1ed3m:</span></p>\n<ul>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">C\u00e1c t\u00f2a c\u0103n h\u1ed9\u00a0cao t\u1ea7ng, trung t\u1ea7ng: To\u00e0 nh\u00e0 AB,v\u00e0 AC cao 26 t\u1ea7ng;\u00a0T\u00f2a nh\u00e0 B v\u00e0 C cao 10 t\u1ea7ng.</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Khu bi\u1ec7t th\u1ef1\u00a0v\u00e0 khu bi\u1ec7t th\u1ef1 li\u1ec1n k\u1ec1.</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Khu trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i r\u1ed9ng\u00a014.294m2</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Khu villa: 53 villa.</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Khu V\u0103n ph\u00f2ng, tr\u01b0\u1eddng h\u1ecdc.</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Khu trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i, nh\u00e0 h\u00e0ng, caffe, C\u1eeda h\u00e0ng th\u1eddi trang, Trung t\u00e2m gi\u1ea3i tr\u00ed v\u00e0 r\u1ea1p chi\u1ebfu phim hi\u1ec7n \u0111\u1ea1i, khu\u00a0th\u1ec3 thao v\u00e0 trung t\u00e2m y t\u1ebf.</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">T\u1ed5ng di\u1ec7n t\u00edch s\u00e0n cho thu\u00ea: ~ 10.000m2</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Di\u1ec7n t\u00edch s\u00e0n: 2.400m2.</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Di\u1ec7n t\u00edch cho thu\u00ea t\u1ed1i thi\u1ec3u: t\u1eeb 60m2.</span></li>\n</ul>\n<p style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Trong \u0111\u00f3, kh\u1ed1i v\u0103n ph\u00f2ng ti\u00eau chu\u1ea9n h\u1ea1ng B\u00a0g\u1ed3m 04\u00a0t\u1ea7ng n\u1ed5i v\u00e0 02 t\u1ea7ng h\u1ea7m (chung v\u1edbi to\u00e0n b\u1ed9 khu th\u01b0\u01a1ng m\u1ea1i). D\u1ef1 \u00e1n \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng tr\u00ean khu \u0111\u1ea5t c\u00f3 di\u1ec7n t\u00edch\u00a044.824 m2.\u00a0Di\u1ec7n t\u00edch x\u00e2y d\u1ef1ng: 128.000 m2. Khu trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i The Garden bao g\u1ed3m c\u1ea3 khu v\u1ef1c b\u00e1n l\u1ebb, trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i v\u00e0 si\u00eau th\u1ecb, b\u00e3i \u0111\u1ed7 xe \u0111\u01b0\u1ee3c b\u1ed1 tr\u00ed khoa h\u1ecdc v\u00e0 ti\u1ec7n l\u1ee3i.</span></p>\n<p style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">The Garden Shopping Center l\u00e0 m\u1ed9t trong nh\u1eefng trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i l\u1edbn nh\u1ea5t Vi\u1ec7t Nam hi\u1ec7n nay, v\u1edbi di\u1ec7n t\u00edch l\u00ean t\u1edbi 27.000 m2 g\u1ed3m 3 t\u1ea7ng h\u1ea7m, 6 t\u1ea7ng d\u00e0nh cho mua s\u1eafm v\u00e0 \u1ea9m th\u1ef1c, 4 c\u1eeda ch\u00ednh, 4 c\u1eeda ph\u1ee5, 6 thang m\u00e1y v\u00e0 4 thang cu\u1ed1n. Ngo\u00e0i ra, m\u1ed9t b\u00e3i xe r\u1ed9ng tr\u00ean 1.000m2 ph\u00eda tr\u01b0\u1edbc trung t\u00e2m, 2 h\u1ea7m l\u1edbn B2, B3 \u0111\u00e1p \u1ee9ng \u0111\u1ee7 nhu c\u1ea7u tr\u00f4ng gi\u1eef xe \u0111\u1ec3 kh\u00e1ch h\u00e0ng.</span></p>\n<p style=\"text-align:justify;\"></p>\n<div style=\"text-align:none;\"><img src=\"https://timvanphong.com.vn/wp-content/uploads/2019/09/khuong-vien-kdt-the-manor.jpg\" alt=\"Khu\u00f4n vi\u00ean \u0111\u1eb3ng c\u1ea5p b\u00ean trong khu v\u0103n ph\u00f2ng The Manor M\u1ec5 Tr\u00ec\" style=\"height: auto;width: 800px\"/></div>\n<p style=\"text-align:center;\"><span style=\"color: rgb(33,37,41);font-size: 14px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Khu\u00f4n vi\u00ean \u0111\u1eb3ng c\u1ea5p b\u00ean trong khu v\u0103n ph\u00f2ng The Manor M\u1ec5 Tr\u00ec</span></p>\n<h2 style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 18px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">TI\u1ec6N \u00cdCH T\u1ea0I THE MANOR M\u1ec4 TR\u00cc</span></h2>\n<p style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">\u0110\u00fang v\u1edbi h\u00ecnh \u1ea3nh \u201ctr\u00e1i tim c\u1ee7a khu v\u1ef1c M\u1ef9 \u0110\u00ecnh\u201d, The Manor x\u1ee9ng t\u1ea7m cho cu\u1ed9c s\u1ed1ng hi\u1ec7n \u0111\u1ea1i v\u00e0 chu\u1ea9n ti\u1ec7n nghi b\u1eadc nh\u1ea5t t\u1ea1i Th\u1ee7 \u0111\u00f4 m\u1eb7c d\u00f9 \u0111\u00e3 \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng h\u01a1n ch\u1ee5c n\u0103m nay. Bao quanh t\u00f2a nh\u00e0 l\u00e0 h\u1ec7 th\u1ed1ng giao th\u00f4ng, h\u1ea1 t\u1ea7ng hi\u1ec7n \u0111\u1ea1i v\u00e0 \u0111\u1ed3ng b\u1ed9. C\u00f2n ngay trong n\u1ed9i khu d\u1ef1 \u00e1n h\u1ed9i t\u1ee5 \u0111\u1ea7y \u0111\u1ee7 nh\u1eefng y\u1ebfu t\u1ed1 c\u1ea7n v\u00e0 \u0111\u1ee7 \u0111\u1ec3 mang t\u1edbi m\u1ed9t kh\u00f4ng gian ti\u1ec7n nghi v\u00e0 \u0111\u1eb3ng c\u1ea5p cho c\u01b0 d\u00e2n c\u0169ng nh\u01b0 kh\u00e1ch h\u00e0ng.</span></p>\n<ul>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">B\u00e3i \u0111\u1eadu xe: 02 t\u1ea7ng h\u1ea7m. To\u00e0n b\u1ed9 xe c\u1ee7a nh\u00e2n vi\u00ean v\u00e0 kh\u00e1ch h\u00e0ng \u0111\u1ec3 trong h\u1ea7m v\u00e0 khu v\u1ef1c ti\u1ec1n s\u1ea3nh.</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">The Garden Shopping Center v\u1edbi c\u00e1c c\u1eeda h\u00e0ng b\u00e1n l\u1ebb &amp; d\u1ecbch v\u1ee5, nh\u00e0 h\u00e0ng \u1ea9m th\u1ef1c, th\u1eddi trang, r\u1ea1p chi\u1ebfu phim, khu vui ch\u01a1i gi\u1ea3i tr\u00ed cao c\u1ea5p, Highlands Coffee, KFC Manor M\u1ec5 Tr\u00ec, Paris Baguette The Manor, C\u1ed9ng C\u00e0ph\u00ea, Starbucks Coffee, King BBQ The Garden, Nh\u00e0 h\u00e0ng Baek Jeong BBQ\u2026</span></li>\n<li style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Trong t\u00f2a nh\u00e0 c\u00f3 nhi\u1ec1u ph\u00f2ng giao d\u1ecbch c\u1ee7a c\u00e1c\u00a0ng\u00e2n h\u00e0ng: Ng\u00e2n h\u00e0ng \u00c1 Ch\u00e2u, Vietinbank \u2013 PGD M\u1ec5 Tr\u00ec, Agribank M\u1ef9 \u0110\u00ecnh, Ng\u00e2n H\u00e0ng \u0110\u1ea7u T\u01b0 (BIDV) M\u1ef9 \u0110\u00ecnh\u2026 ph\u1ee5c v\u1ee5 nhu c\u1ea7u giao d\u1ecbch t\u00e0i ch\u00ednh c\u1ee7a kh\u00e1ch thu\u00ea.</span></li>\n</ul>\n<p style=\"text-align:justify;\"></p>\n<div style=\"text-align:none;\"><img src=\"https://timvanphong.com.vn/wp-content/uploads/2019/09/loi-vao-ham-gui-xe-kdt-the-manor-me-tri.jpg\" alt=\"S\u1ea3nh v\u00e0o h\u1ea7m g\u1eedi xe t\u00f2a nh\u00e0 v\u0103n ph\u00f2ng The Manor Bitexco\" style=\"height: auto;width: 800px\"/></div>\n<p style=\"text-align:center;\"><span style=\"color: rgb(33,37,41);font-size: 14px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">S\u1ea3nh v\u00e0o h\u1ea7m g\u1eedi xe t\u00f2a nh\u00e0 v\u0103n ph\u00f2ng The Manor Bitexco</span></p>\n<p><span style=\"color: rgb(33,37,41);font-size: 18px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\"><strong>GI\u00c1 THU\u00ca V\u0102N PH\u00d2NG THE MANOR HANOI</strong></span></p>\n<p style=\"text-align:justify;\"><span style=\"color: rgb(33,37,41);font-size: 16px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">Gi\u00e1 thu\u00ea v\u0103n ph\u00f2ng The Manor Hanoi dao \u0111\u1ed9ng t\u1eeb 16- 20.35 USD/m2\u00a0 (\u0111\u00e3 bao g\u1ed3m ph\u00ed qu\u1ea3n l\u00fd v\u00e0 VAT), t\u00f9y t\u1eebng t\u1ea7ng v\u00e0 di\u1ec7n t\u00edch. C\u00f3 \u0111\u00e0m ph\u00e1n v\u1edbi di\u1ec7n t\u00edch l\u1edbn v\u00e0 thu\u00ea d\u00e0i h\u1ea1n.</span></p>\n<p style=\"text-align:justify;\"></p>\n<div style=\"text-align:none;\"><img src=\"https://timvanphong.com.vn/wp-content/uploads/2019/09/sanh-vao-khu-van-phong-toa-the-manor-me-tri.jpg\" alt=\"L\u1ed1i v\u00e0o khu v\u0103n ph\u00f2ng mang n\u00e9t c\u1ed5 k\u00ednh c\u1ee7a Ch\u00e2u \u00c2u t\u1ea1i The Manor M\u1ec5 Tr\u00ec\" style=\"height: auto;width: 800px\"/></div>\n<p style=\"text-align:center;\"><span style=\"color: rgb(33,37,41);font-size: 14px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji;\">L\u1ed1i v\u00e0o khu v\u0103n ph\u00f2ng mang n\u00e9t c\u1ed5 k\u00ednh c\u1ee7a Ch\u00e2u \u00c2u t\u1ea1i The Manor M\u1ec5 Tr\u00ec</span>&nbsp;</p>\n",
+                        "order": 1
+                    },
+                    {
+                        "id": "641c0d66425d1cf2b745341f",
+                        "type": "link",
+                        "name": "S\u00e0n Batdongsan Gold",
+                        "content": "https://batdongsan.gold/projects/the-manor-ha-noi",
+                        "order": 1
+                    },
+                    {
+                        "id": "641c0d66425d1cf2b7453420",
+                        "type": "link",
+                        "name": "Th\u00e1p v\u0103n ph\u00f2ng The Manor, M\u1ef9 \u0110\u00ecnh, T\u1eeb Li\u00eam, HN",
+                        "content": "https://chungcuthemanor.com/thap-van-phong-the-manor-my-dinh-tu-liem-hn/",
+                        "order": 2
+                    },
+                    {
+                        "id": "641c0d66425d1cf2b7453421",
+                        "type": "popup",
+                        "name": "S\u00e0n Batdongsan Gold",
+                        "content": "<iframe src=\"https://batdongsan.gold/projects/the-manor-ha-noi\" width=\"100%\" height=\"100%\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+                        "order": 1
+                    },
+                    {
+                        "id": "641c0d66425d1cf2b7453422",
+                        "type": "vr360",
+                        "name": "S\u00e0n Batdongsan Gold",
+                        "content": "https://batdongsan.gold/projects/the-manor-ha-noi",
+                        "order": 1
+                    },
+                    {
+                        "id": "641c0d66425d1cf2b7453423",
+                        "type": "vr360",
+                        "name": "Ph\u00f2ng M\u1eabu 2PN",
+                        "content": "https://matterport.com/discover/space/apxqz2i26YW",
+                        "order": 2
+                    },
+                    {
+                        "id": "641c0d66425d1cf2b7453424",
+                        "type": "vr360",
+                        "name": "Ph\u00f2ng M\u1eabu 3PN",
+                        "content": "https://matterport.com/discover/space/TRBRSAq6M38",
+                        "order": 3
+                    },
+                    {
+                        "id": "641c0d66425d1cf2b7453425",
+                        "type": "videoEmbed",
+                        "name": "Kh\u00e1m Ph\u00e1 c\u0103n h\u1ed9 193m2 3PN 2VS chung c\u01b0 The manor M\u1ef9 \u0110\u00ecnh. Tr\u1ecb Gi\u00e1 7,2 T\u1ef7 -  Ha Quan Channel",
+                        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/oPtzuxkgxkk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                        "order": 1
+                    },
+                    {
+                        "id": "641c0d66425d1cf2b7453426",
+                        "type": "videoEmbed",
+                        "name": "Th\u1ef1c t\u1ebf thi\u1ebft k\u1ebf b\u00ean trong c\u0103n h\u1ed9 The manor M\u1ef9 \u0110\u00ecnh c\u00f3 g\u00ec \u0111\u1eb7c bi\u1ec7t? - Ha Quan Channel",
+                        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/N4lftt3nYf4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                        "order": 2
+                    }
+                ],
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/634f76e7e02579df318a7dcb.jpg",
+                        "name": "634f76e7e02579df318a7dcb.jpg",
+                        "typeFile": "Image",
+                        "description": "the-manor-3.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "0e7babf1-f1b1-4e12-bba4-dac038ca8f4a",
+                            "displayName": " Ho\u00e0n"
+                        },
+                        "createdDate": 1666152168139
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/634f76e7e02579df318a7dca.jpg",
+                        "name": "634f76e7e02579df318a7dca.jpg",
+                        "typeFile": "Image",
+                        "description": "v\u0103n-ph\u00f2ng-the-manor-h\u00e0-n\u1ed9i.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "0e7babf1-f1b1-4e12-bba4-dac038ca8f4a",
+                            "displayName": " Ho\u00e0n"
+                        },
+                        "createdDate": 1666152167886
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/634f75f6e02579df318a7db2.jpg",
+                        "name": "634f75f6e02579df318a7db2.jpg",
+                        "typeFile": "Image",
+                        "description": "the-manor-3.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "0e7babf1-f1b1-4e12-bba4-dac038ca8f4a",
+                            "displayName": " Ho\u00e0n"
+                        },
+                        "createdDate": 1666151926208
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/634f75f5e02579df318a7db1.jpg",
+                        "name": "634f75f5e02579df318a7db1.jpg",
+                        "typeFile": "Image",
+                        "description": "v\u0103n-ph\u00f2ng-the-manor-h\u00e0-n\u1ed9i.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "0e7babf1-f1b1-4e12-bba4-dac038ca8f4a",
+                            "displayName": " Ho\u00e0n"
+                        },
+                        "createdDate": 1666151926008
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lng": 105.77569088697987,
+            "lat": 21.01433968292534
+        },
+        "scale": 1,
+        "bearing": 37.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.75,
+            "bearing": 3.4898812902746656,
+            "tilt": 44.000001311302185,
+            "target": {
+                "lng": 105.77528768510619,
+                "lat": 21.013903236513237
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "634f717ce02579df318a7daf.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/634f717ce02579df318a7daf.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7757390029144,
+                    "lat": 21.014384598682785
+                },
+                {
+                    "lng": 105.77573900288542,
+                    "lat": 21.01429476715437
+                },
+                {
+                    "lng": 105.77564277107433,
+                    "lat": 21.01429476715437
+                },
+                {
+                    "lng": 105.77564277104536,
+                    "lat": 21.014384598682785
+                },
+                {
+                    "lng": 105.7757390029144,
+                    "lat": 21.014384598682785
+                }
+            ],
+            "height": null,
+            "textureName": "634f717ce02579df318a7dad.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/634f7168e02579df318a7da9.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "M\u1ec5 Tr\u00ec"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "M\u1ec5 Tr\u00ec, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

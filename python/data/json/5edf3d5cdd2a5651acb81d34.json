@@ -1,0 +1,346 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5edf3d5cdd2a5651acb81d34",
+        "name": "H\u00f2a B\u00ecnh Green City",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5ed9ff2801dc76060022b8f2",
+                "location": {
+                    "lng": 105.8704765,
+                    "lat": 20.9996788
+                },
+                "address": "505 Minh Khai, Ph\u01b0\u1eddng V\u0129nh Tuy, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Ho\u00e0 B\u00ecnh Green City",
+                "objectId": "5edf3d5cdd2a5651acb81d34",
+                "description": null,
+                "types": [
+                    "establishment"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    }
+                ],
+                "mainType": "establishment",
+                "mainTypeInfos": {
+                    "id": "establishment",
+                    "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                    "group": "establishment"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "505"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Minh Khai"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng V\u0129nh Tuy"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5edf3d5cdd2a5651acb81d34",
+                    "name": "H\u00f2a B\u00ecnh Green City",
+                    "location": {
+                        "lng": 105.8698799645174,
+                        "lat": 21.000159825640495
+                    },
+                    "scale": 1,
+                    "bearing": 20.5,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 18,
+                        "bearing": -75.39128261352161,
+                        "tilt": 77,
+                        "target": {
+                            "lng": 105.86888941240528,
+                            "lat": 21.000315965869003
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5edf46cca69bbf3a6e654a86.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5edf46cca69bbf3a6e654a86.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.86992807587936,
+                                "lat": 21.000204741397944
+                            },
+                            {
+                                "lng": 105.8699280758504,
+                                "lat": 21.00011490986953
+                            },
+                            {
+                                "lng": 105.86983185318441,
+                                "lat": 21.00011490986953
+                            },
+                            {
+                                "lng": 105.86983185315545,
+                                "lat": 21.000204741397944
+                            },
+                            {
+                                "lng": 105.86992807587936,
+                                "lat": 21.000204741397944
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "5edf46cda69bbf3a6e654a96.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5edf46cda69bbf3a6e654a96.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng V\u0129nh Tuy",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "M\u1ea1c Th\u1ecb B\u01b0\u1edfi",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "70b3ffa1-5924-4bdf-8b02-65d10bc0ddd8",
+                        "displayName": "Nguyen Van Thanh"
+                    },
+                    "updatedBy": {
+                        "userId": "70b3ffa1-5924-4bdf-8b02-65d10bc0ddd8",
+                        "displayName": "Nguyen Van Thanh"
+                    },
+                    "createdDate": 1591688540112,
+                    "updatedDate": 1623224239615
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8704765,
+                        20.9996788
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [
+                    {
+                        "id": "62d11884b840d03fb71c47f4",
+                        "type": "link",
+                        "name": "Qu\u1ea3n l\u00fd v\u1eadn h\u00e0nh BIM 6D",
+                        "content": "https://www.youtube.com/watch?v=EI3SjKrFDV8&t=2s",
+                        "order": 1
+                    },
+                    {
+                        "id": "62d11884b840d03fb71c47f5",
+                        "type": "popup",
+                        "name": "Qu\u1ea3n l\u00fd v\u1eadn h\u00e0nh BIM 6D",
+                        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EI3SjKrFDV8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                        "order": 1
+                    },
+                    {
+                        "id": "62d11884b840d03fb71c47f6",
+                        "type": "vr360",
+                        "name": "Qu\u1ea3n l\u00fd v\u1eadn h\u00e0nh BIM 6D",
+                        "content": "https://www.youtube.com/watch?v=EI3SjKrFDV8&t=2s",
+                        "order": 1
+                    },
+                    {
+                        "id": "62d11884b840d03fb71c47f7",
+                        "type": "videoEmbed",
+                        "name": "Qu\u1ea3n l\u00fd v\u1eadn h\u00e0nh BIM 6D",
+                        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EI3SjKrFDV8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                        "order": 1
+                    }
+                ],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.8698799645174,
+            "lat": 21.000159825640495
+        },
+        "scale": 1,
+        "bearing": 20.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -75.39128261352161,
+            "tilt": 77,
+            "target": {
+                "lng": 105.86888941240528,
+                "lat": 21.000315965869003
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5edf46cca69bbf3a6e654a86.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5edf46cca69bbf3a6e654a86.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.86992807587936,
+                    "lat": 21.000204741397944
+                },
+                {
+                    "lng": 105.8699280758504,
+                    "lat": 21.00011490986953
+                },
+                {
+                    "lng": 105.86983185318441,
+                    "lat": 21.00011490986953
+                },
+                {
+                    "lng": 105.86983185315545,
+                    "lat": 21.000204741397944
+                },
+                {
+                    "lng": 105.86992807587936,
+                    "lat": 21.000204741397944
+                }
+            ],
+            "height": null,
+            "textureName": "5edf46cda69bbf3a6e654a96.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5edf46cda69bbf3a6e654a96.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng V\u0129nh Tuy"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "M\u1ea1c Th\u1ecb B\u01b0\u1edfi"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

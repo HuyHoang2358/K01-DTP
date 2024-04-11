@@ -1,0 +1,289 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627a18e5ac7db774d784de08",
+        "name": "S\u00e2n t\u1eadp golf Ph\u01b0\u01a1ng \u0110\u00f4ng",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60a74a57b4e1e72f1899cb56",
+                "location": {
+                    "lng": 105.75846870494627,
+                    "lat": 21.025720780929376
+                },
+                "address": "Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                "name": "S\u00e2n t\u1eadp golf Ph\u01b0\u01a1ng \u0110\u00f4ng",
+                "objectId": "627a18e5ac7db774d784de08",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "627a18e5ac7db774d784de08",
+                    "name": "S\u00e2n t\u1eadp golf Ph\u01b0\u01a1ng \u0110\u00f4ng",
+                    "location": {
+                        "lng": 105.75864998140719,
+                        "lat": 21.025852466577646
+                    },
+                    "scale": 1.5,
+                    "bearing": 160,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -109.80000000000001,
+                        "tilt": 76,
+                        "target": {
+                            "lng": 105.75862804232997,
+                            "lat": 21.025713150550402
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "627a18d3ac7db774d784de03.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627a18d3ac7db774d784de03.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.75869810105705,
+                                "lat": 21.025897382335085
+                            },
+                            {
+                                "lng": 105.75869810102805,
+                                "lat": 21.02580755080667
+                            },
+                            {
+                                "lng": 105.75860186178635,
+                                "lat": 21.02580755080667
+                            },
+                            {
+                                "lng": 105.75860186175734,
+                                "lat": 21.025897382335085
+                            },
+                            {
+                                "lng": 105.75869810105705,
+                                "lat": 21.025897382335085
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "627a18d4ac7db774d784de05.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627a18d4ac7db774d784de05.jpg"
+                    },
+                    "types": [
+                        "sports"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1652168933323,
+                    "updatedDate": 1652168933323
+                },
+                "tags": [],
+                "phoneNumber": "+842437857889",
+                "website": "https://golfphuongdong.business.site/?utm_source=gmb&utm_medium=referral",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.75846870494627,
+                        21.025720780929376
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.75864998140719,
+            "lat": 21.025852466577646
+        },
+        "scale": 1.5,
+        "bearing": 160,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -109.80000000000001,
+            "tilt": 76,
+            "target": {
+                "lng": 105.75862804232997,
+                "lat": 21.025713150550402
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "627a18d3ac7db774d784de03.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627a18d3ac7db774d784de03.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.75869810105705,
+                    "lat": 21.025897382335085
+                },
+                {
+                    "lng": 105.75869810102805,
+                    "lat": 21.02580755080667
+                },
+                {
+                    "lng": 105.75860186178635,
+                    "lat": 21.02580755080667
+                },
+                {
+                    "lng": 105.75860186175734,
+                    "lat": 21.025897382335085
+                },
+                {
+                    "lng": 105.75869810105705,
+                    "lat": 21.025897382335085
+                }
+            ],
+            "height": null,
+            "textureName": "627a18d4ac7db774d784de05.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627a18d4ac7db774d784de05.jpg"
+        },
+        "types": [
+            "sports"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "sports": "Li\u00ean quan \u0111\u1ebfn th\u1ec3 d\u1ee5c th\u1ec3 thao"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

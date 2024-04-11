@@ -1,0 +1,313 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5cdccbd19b24b8cd08c41a66",
+        "name": "Make Up Linh Ph\u1ea1m",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5cdcca5c9b24b8cd08c41a61",
+                "location": {
+                    "lng": 108.229098030234,
+                    "lat": 16.074654296788
+                },
+                "address": "319 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Make Up Linh Ph\u1ea1m",
+                "objectId": "5cdccbd19b24b8cd08c41a66",
+                "description": null,
+                "types": [
+                    "beauty_salon",
+                    "beauty"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "beauty_salon",
+                        "name": "Th\u1ea9m m\u1ef9 vi\u1ec7n, l\u00e0m \u0111\u1eb9p",
+                        "group": "beauty"
+                    },
+                    {
+                        "id": "beauty",
+                        "name": "Li\u00ean quan \u0111\u1ebfn l\u00e0m \u0111\u1eb9p",
+                        "group": "beauty"
+                    }
+                ],
+                "mainType": "beauty_salon",
+                "mainTypeInfos": {
+                    "id": "beauty_salon",
+                    "name": "Th\u1ea9m m\u1ef9 vi\u1ec7n, l\u00e0m \u0111\u1eb9p",
+                    "group": "beauty"
+                },
+                "auxiliaryTypes": [
+                    "beauty"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "beauty",
+                        "name": "Li\u00ean quan \u0111\u1ebfn l\u00e0m \u0111\u1eb9p",
+                        "group": "beauty"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "319"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "beauty_salon",
+                        "name": "Th\u1ea9m m\u1ef9 vi\u1ec7n, l\u00e0m \u0111\u1eb9p",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "beauty",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "beauty",
+                        "name": "Li\u00ean quan \u0111\u1ebfn l\u00e0m \u0111\u1eb9p",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "beauty",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5cdccbd19b24b8cd08c41a66",
+                    "name": "Make Up Linh Ph\u1ea1m",
+                    "location": {
+                        "lng": 108.22911672670256,
+                        "lat": 16.074564152819576
+                    },
+                    "scale": 1,
+                    "bearing": -90,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 22,
+                        "bearing": -113.39834767454342,
+                        "tilt": 67.5,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5cdccbd19b24b8cd08c41a62.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cdccbd19b24b8cd08c41a62.obj",
+                        "color": null,
+                        "type": null,
+                        "coordinates": null,
+                        "height": 10,
+                        "textureName": "5cdccbd19b24b8cd08c41a64.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cdccbd19b24b8cd08c41a64.jpg"
+                    },
+                    "types": [
+                        "beauty_salon"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": 957139200000,
+                    "endDate": 4083868800000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Nguy\u1ec5n V\u0103n Th\u00e0nh"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Nguy\u1ec5n V\u0103n Th\u00e0nh"
+                    },
+                    "createdDate": 1557973969871,
+                    "updatedDate": 1623224217647
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.229098030234,
+                        16.074654296788
+                    ]
+                },
+                "rank": {
+                    "value": 1000010
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22911672670256,
+            "lat": 16.074564152819576
+        },
+        "scale": 1,
+        "bearing": -90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -113.39834767454342,
+            "tilt": 67.5,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5cdccbd19b24b8cd08c41a62.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cdccbd19b24b8cd08c41a62.obj",
+            "color": null,
+            "type": null,
+            "coordinates": null,
+            "height": 10,
+            "textureName": "5cdccbd19b24b8cd08c41a64.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cdccbd19b24b8cd08c41a64.jpg"
+        },
+        "types": [
+            "beauty_salon"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 957139200000,
+        "endDate": 4083868800000,
+        "source": null,
+        "typeInfos": {
+            "beauty_salon": "Th\u1ea9m m\u1ef9 vi\u1ec7n, l\u00e0m \u0111\u1eb9p"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

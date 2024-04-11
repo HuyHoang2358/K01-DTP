@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fc8a4463dfa9711059b05be",
+        "name": "MK Premier Boutique Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8511422674,
+            "lat": 21.03586221763977
+        },
+        "scale": 1,
+        "bearing": 18,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 17.044147310320163,
+            "tilt": 71.5,
+            "target": {
+                "lng": 105.85117270475972,
+                "lat": 21.03595286138502
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fc8a3ff468e88165638e3b0.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fc8a3ff468e88165638e3b0.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85119039028218,
+                    "lat": 21.035907133397206
+                },
+                {
+                    "lng": 105.85119039025317,
+                    "lat": 21.035817301868796
+                },
+                {
+                    "lng": 105.85109414454683,
+                    "lat": 21.035817301868796
+                },
+                {
+                    "lng": 105.85109414451782,
+                    "lat": 21.035907133397206
+                },
+                {
+                    "lng": 105.85119039028218,
+                    "lat": 21.035907133397206
+                }
+            ],
+            "height": 1,
+            "textureName": "5fc8a3ff468e88165638e3b2.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fc8a3ff468e88165638e3b2.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "72"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e46ca64df97299cfcb681",
+        "name": "Thang Long Opera Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85730882222072,
+            "lat": 21.028341999999995
+        },
+        "scale": 1.2,
+        "bearing": -73,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 96.00075060211087,
+            "tilt": 70,
+            "target": {
+                "lng": 105.85731302045406,
+                "lat": 21.02849165712348
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8e46b864df97299cfcb67d.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e46b864df97299cfcb67d.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8573569426743,
+                    "lat": 21.028386915757437
+                },
+                {
+                    "lng": 105.85735694264531,
+                    "lat": 21.02829708422902
+                },
+                {
+                    "lng": 105.85726070179614,
+                    "lat": 21.02829708422902
+                },
+                {
+                    "lng": 105.85726070176713,
+                    "lat": 21.028386915757437
+                },
+                {
+                    "lng": 105.8573569426743,
+                    "lat": 21.028386915757437
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8e46b964df97299cfcb67f.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e46b964df97299cfcb67f.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u00f4ng \u0110\u1ea3n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "1C"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": null,
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff7c95b741cd06e43fb7d3b",
+        "name": "Sky Park Residence",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7860498306963,
+            "lat": 21.027053097102538
+        },
+        "scale": 1,
+        "bearing": 264,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -192.8568898613261,
+            "tilt": 61,
+            "target": {
+                "lng": 105.78651547434218,
+                "lat": 21.02665480593826
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff7c933741cd06e43fb7d36.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff7c933741cd06e43fb7d36.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78609795073376,
+                    "lat": 21.027098012859977
+                },
+                {
+                    "lng": 105.78609795070476,
+                    "lat": 21.027008181331563
+                },
+                {
+                    "lng": 105.78600171068784,
+                    "lat": 21.027008181331563
+                },
+                {
+                    "lng": 105.78600171065885,
+                    "lat": 21.027098012859977
+                },
+                {
+                    "lng": 105.78609795073376,
+                    "lat": 21.027098012859977
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff7c934741cd06e43fb7d38.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff7c934741cd06e43fb7d38.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "S\u1ed1 3"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": null,
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "S\u1ed1 3 D\u1ecbch V\u1ecdng H\u1eadu, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

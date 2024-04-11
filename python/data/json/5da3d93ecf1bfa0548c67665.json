@@ -1,0 +1,71 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5da3d93ecf1bfa0548c67665",
+        "name": "Cafe b\u00f3ng \u0111\u00e1 Ku Gol",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.229087398755,
+            "lat": 16.0773345530692
+        },
+        "scale": 1,
+        "bearing": -90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -118.64638100280752,
+            "tilt": 70,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5da3d93e3d36541778a7e228.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5da3d93e3d36541778a7e228.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "5da3d93d3d36541778a7e226.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5da3d93d3d36541778a7e226.jpg"
+        },
+        "types": [
+            "cafe"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i B\u1eafc"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "cafe": "C\u00e0 ph\u00ea"
+        },
+        "metadata": null,
+        "address": "An H\u1ea3i B\u1eafc, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60053f2d461fac04fec5b07c",
+        "name": "C\u1ee5c Th\u1ed1ng K\u00ea Th\u00e0nh Ph\u1ed1 H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85844586951737,
+            "lat": 21.0187091234
+        },
+        "scale": 1,
+        "bearing": 95,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -75.10487078360835,
+            "tilt": 78.5,
+            "target": {
+                "lng": 105.85817338007637,
+                "lat": 21.018816330652236
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60053f1e461fac04fec5b07a.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60053f1e461fac04fec5b07a.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85849398686167,
+                    "lat": 21.01875403915744
+                },
+                {
+                    "lng": 105.85849398683268,
+                    "lat": 21.01866420762903
+                },
+                {
+                    "lng": 105.85839775220205,
+                    "lat": 21.01866420762903
+                },
+                {
+                    "lng": 105.85839775217306,
+                    "lat": 21.01875403915744
+                },
+                {
+                    "lng": 105.85849398686167,
+                    "lat": 21.01875403915744
+                }
+            ],
+            "height": 1,
+            "textureName": "60053f1e9b70fd6b371f768a.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60053f1e9b70fd6b371f768a.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u1ea1m \u0110\u00ecnh H\u1ed5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0n Thuy\u00ean"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

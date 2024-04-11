@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "600663f9e49e7b2263a057fa",
+        "name": "Trung t\u00e2m ngh\u1ec7 thu\u1eadt \u00c2u C\u01a1",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.81226115681369,
+            "lat": 21.0184208906
+        },
+        "scale": 1,
+        "bearing": -116,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 91.942391775334,
+            "tilt": 79,
+            "target": {
+                "lng": 105.81309318140337,
+                "lat": 21.018403619333636
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "600663ea9b70fd6b371f7c45.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/600663ea9b70fd6b371f7c45.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.81230927406499,
+                    "lat": 21.018465806357447
+                },
+                {
+                    "lng": 105.812309274036,
+                    "lat": 21.018375974829038
+                },
+                {
+                    "lng": 105.81221303959138,
+                    "lat": 21.018375974829038
+                },
+                {
+                    "lng": 105.8122130395624,
+                    "lat": 21.018465806357447
+                },
+                {
+                    "lng": 105.81230927406499,
+                    "lat": 21.018465806357447
+                }
+            ],
+            "height": 1,
+            "textureName": "600663eb461fac04fec5bb9f.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/600663eb461fac04fec5bb9f.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Phan Chu Trinh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 H\u00e0m Long 1"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

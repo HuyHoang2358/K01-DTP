@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5efefa4883f9cd6af0b28308",
+        "name": "Mercure La Gare",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.84168908286102,
+            "lat": 21.026104660133058
+        },
+        "scale": 1,
+        "bearing": -3,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 73.74265364766784,
+            "tilt": 83.5,
+            "target": {
+                "lng": 105.84270199248645,
+                "lat": 21.026311547933133
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5efefa4683f9cd6af0b28304.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5efefa4683f9cd6af0b28304.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8417372025923,
+                    "lat": 21.0261495758905
+                },
+                {
+                    "lng": 105.8417372025633,
+                    "lat": 21.026059744362087
+                },
+                {
+                    "lng": 105.84164096315875,
+                    "lat": 21.026059744362087
+                },
+                {
+                    "lng": 105.84164096312976,
+                    "lat": 21.0261495758905
+                },
+                {
+                    "lng": 105.8417372025923,
+                    "lat": 21.0261495758905
+                }
+            ],
+            "height": 1,
+            "textureName": "5efefa4783f9cd6af0b28306.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5efefa4783f9cd6af0b28306.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "V\u0103n Mi\u1ebfu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00fd Th\u01b0\u1eddng Ki\u1ec7t"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "94"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

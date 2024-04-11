@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "612ca54d2f30391a8a27b232",
+        "name": "17T8 Trung H\u00f2a Nh\u00e2n Ch\u00ednh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80417974836746,
+            "lat": 21.00713241944574
+        },
+        "scale": 1,
+        "bearing": -46,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -8.399999999999999,
+            "tilt": 55.5,
+            "target": {
+                "lng": 105.80354157687273,
+                "lat": 21.007051928043563
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "612ca53c2f30391a8a27b22d.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/612ca53c2f30391a8a27b22d.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8042278619774,
+                    "lat": 21.007177335203185
+                },
+                {
+                    "lng": 105.80422786194843,
+                    "lat": 21.00708750367477
+                },
+                {
+                    "lng": 105.8041316347865,
+                    "lat": 21.00708750367477
+                },
+                {
+                    "lng": 105.80413163475752,
+                    "lat": 21.007177335203185
+                },
+                {
+                    "lng": 105.8042278619774,
+                    "lat": 21.007177335203185
+                }
+            ],
+            "height": null,
+            "textureName": "612ca53d2f30391a8a27b22f.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/612ca53d2f30391a8a27b22f.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Xu\u00e2n"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 165 Ho\u00e0ng Ng\u00e2n"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

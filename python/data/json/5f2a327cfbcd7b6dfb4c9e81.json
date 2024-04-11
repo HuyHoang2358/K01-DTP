@@ -1,0 +1,88 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f2a327cfbcd7b6dfb4c9e81",
+        "name": "Covid01 - 1596600821698",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.16609907567158,
+            "lat": 16.06992982024228
+        },
+        "scale": 2,
+        "bearing": 234,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 301.5668335689983,
+            "tilt": 30.75,
+            "target": {
+                "lng": 108.16609907567158,
+                "lat": 16.06992982024228
+            }
+        },
+        "model": {
+            "id": "5f2a244fd2ceb82bca99adeb",
+            "name": "Covid01",
+            "objName": "5f2a244fd2ceb82bca99ade7.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f2a244fd2ceb82bca99ade7.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.1661458179197,
+                    "lat": 16.069974736001416
+                },
+                {
+                    "lng": 108.1661458178986,
+                    "lat": 16.069884904473007
+                },
+                {
+                    "lng": 108.16605233344458,
+                    "lat": 16.069884904473007
+                },
+                {
+                    "lng": 108.16605233342348,
+                    "lat": 16.069974736001416
+                },
+                {
+                    "lng": 108.1661458179197,
+                    "lat": 16.069974736001416
+                }
+            ],
+            "height": 20,
+            "textureName": "5f2a244ed2ceb82bca99ade6.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f2a244ed2ceb82bca99ade6.jpg"
+        },
+        "types": [
+            "decoration"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ho\u00e0ng Th\u1ecb Loan"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "decoration": "C\u00e1c \u0111\u1ed1i t\u01b0\u1ee3ng 3D \u0111\u1ec3 trang tr\u00ed"
+        },
+        "metadata": null,
+        "address": "Ho\u00e0ng Th\u1ecb Loan, Qu\u1eadn Li\u00ean Chi\u1ec3u"
+    }
+}

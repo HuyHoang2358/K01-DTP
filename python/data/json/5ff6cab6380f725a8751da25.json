@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff6cab6380f725a8751da25",
+        "name": "Chung C\u01b0 B6B",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7887823069068,
+            "lat": 21.014691449993407
+        },
+        "scale": 1,
+        "bearing": 217,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -12.548263822312146,
+            "tilt": 12.333331674337387,
+            "target": {
+                "lng": 105.78812286478512,
+                "lat": 21.01444926611832
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff6caa29ed19823c2a9d038.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff6caa29ed19823c2a9d038.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7888304229548,
+                    "lat": 21.014736365750846
+                },
+                {
+                    "lng": 105.78883042292583,
+                    "lat": 21.014646534222436
+                },
+                {
+                    "lng": 105.78873419088778,
+                    "lat": 21.014646534222436
+                },
+                {
+                    "lng": 105.78873419085879,
+                    "lat": 21.014736365750846
+                },
+                {
+                    "lng": 105.7888304229548,
+                    "lat": 21.014736365750846
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff6caa39ed19823c2a9d03a.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff6caa39ed19823c2a9d03a.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110inh N\u00fap"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "P606"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Trung Ho\u00e0"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "P606 \u0110inh N\u00fap, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

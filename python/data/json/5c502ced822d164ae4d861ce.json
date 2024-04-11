@@ -1,0 +1,274 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c502ced822d164ae4d861ce",
+        "name": "Nh\u00e0 B\u00ean L\u1ebb 233_255",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e8814a9df9d67e5f50",
+                "location": {
+                    "lng": 105.825686,
+                    "lat": 21.008537
+                },
+                "address": "Ch\u00f9a B\u1ed9c, \u0110\u00f4\u0301ng \u0110a, H\u00e0 N\u1ed9i, +844 Ng\u00f5 249, Ph\u01b0\u1eddng Trung Li\u1ec7t, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Nh\u00e0 B\u00ean L\u1ebb 233_255",
+                "objectId": "5c502ced822d164ae4d861ce",
+                "description": " &nbsp; ",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Ch\u00f9a B\u1ed9c"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0110\u00f4ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Trung Li\u1ec7t"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 946659600000,
+                "endDate": 2524582800000,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5c502ced822d164ae4d861ce",
+                    "name": "Nh\u00e0 B\u00ean L\u1ebb 233_255",
+                    "location": {
+                        "lng": 105.82569118308851,
+                        "lat": 21.00854758815953
+                    },
+                    "scale": 1,
+                    "bearing": 154,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 143.74934659018462,
+                        "tilt": 72.16594885682663,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "",
+                        "objName": "5dc4ed1c6aea330f8c097f19.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5dc4ed1c6aea330f8c097f19.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": null,
+                        "height": 0,
+                        "textureName": "5dc4ed1c6aea330f8c097f1b.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5dc4ed1c6aea330f8c097f1b.jpg"
+                    },
+                    "types": [
+                        "house"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 946684800000,
+                    "endDate": 2527200000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "\u0110\u1ed1ng \u0110a",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Trung Li\u1ec7t",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ng\u00f5 249",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ng\u00f5 249, Trung Li\u1ec7t, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1548783453756,
+                    "updatedDate": 1623224213535
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.825686,
+                        21.008537
+                    ]
+                },
+                "rank": {
+                    "value": 1000004
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.82569118308851,
+            "lat": 21.00854758815953
+        },
+        "scale": 1,
+        "bearing": 154,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 143.74934659018462,
+            "tilt": 72.16594885682663,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5dc4ed1c6aea330f8c097f19.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5dc4ed1c6aea330f8c097f19.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 0,
+            "textureName": "5dc4ed1c6aea330f8c097f1b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5dc4ed1c6aea330f8c097f1b.jpg"
+        },
+        "types": [
+            "house"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "\u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Trung Li\u1ec7t"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 249"
+            }
+        ],
+        "startDate": 946684800000,
+        "endDate": 2527200000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "house": "Nh\u00e0 ri\u00eang"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 249, Trung Li\u1ec7t, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i"
+    }
+}

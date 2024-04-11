@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff577e8380f725a8751c768",
+        "name": "C\u1ee5c T\u1ea7n S\u1ed1 V\u00f4 Tuy\u1ebfn \u0110i\u1ec7n",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79829928591238,
+            "lat": 21.00866927854682
+        },
+        "scale": 1,
+        "bearing": -144,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17.75,
+            "bearing": -42.61516794055496,
+            "tilt": 6.333333522081375,
+            "target": {
+                "lng": 105.79718468623429,
+                "lat": 21.008244495433885
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff577df380f725a8751c766.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff577df380f725a8751c766.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79834740001792,
+                    "lat": 21.008714194304265
+                },
+                {
+                    "lng": 105.79834739998894,
+                    "lat": 21.00862436277585
+                },
+                {
+                    "lng": 105.7982511718358,
+                    "lat": 21.00862436277585
+                },
+                {
+                    "lng": 105.79825117180684,
+                    "lat": 21.008714194304265
+                },
+                {
+                    "lng": 105.79834740001792,
+                    "lat": 21.008714194304265
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff577df9ed19823c2a9be3b.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff577df9ed19823c2a9be3b.jpg"
+        },
+        "types": [
+            "coworking_space"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Duy H\u01b0ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "115"
+            }
+        ],
+        "startDate": 1038762000000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "coworking_space": "V\u0103n ph\u00f2ng cho thu\u00ea"
+        },
+        "metadata": null,
+        "address": "115 Tr\u1ea7n Duy H\u01b0ng, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff7bab4beee3c4c5c5bb916",
+        "name": "C\u1ee5c \u0110i\u1ec1u Tra Vi\u1ec7n Ki\u1ec3m S\u00e1t Nh\u00e2n D\u00e2n T\u1ed1i Cao",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78806912734647,
+            "lat": 21.0253545816
+        },
+        "scale": 1,
+        "bearing": 31,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18.75,
+            "bearing": -67.40702134913921,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78818350990741,
+                "lat": 21.02452059552172
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff7baacbeee3c4c5c5bb914.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff7baacbeee3c4c5c5bb914.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7881172468356,
+                    "lat": 21.025399497357437
+                },
+                {
+                    "lng": 105.7881172468066,
+                    "lat": 21.025309665829024
+                },
+                {
+                    "lng": 105.78802100788634,
+                    "lat": 21.025309665829024
+                },
+                {
+                    "lng": 105.78802100785735,
+                    "lat": 21.025399497357437
+                },
+                {
+                    "lng": 105.7881172468356,
+                    "lat": 21.025399497357437
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff7baae741cd06e43fb7cd9.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff7baae741cd06e43fb7cd9.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "9"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m V\u0103n B\u1ea1ch"
+            }
+        ],
+        "startDate": 1500224400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": "9 Ph\u1ea1m V\u0103n B\u1ea1ch, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

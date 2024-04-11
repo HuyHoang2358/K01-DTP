@@ -1,0 +1,314 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "610bbbe637541b1f3b56d634",
+        "name": "Sakura Hotel 2",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "609c05ad34025a4d53ebd53d",
+                "location": {
+                    "lng": 105.79001799999999,
+                    "lat": 21.032773499999998
+                },
+                "address": "B20/D6 Road No2,Tran Thai Tong St, Cau Giay District, Hanoi, Vi\u1ec7t Nam",
+                "name": "Sakura Hotel 2",
+                "objectId": "610bbbe637541b1f3b56d634",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "B20/D6 Road No2,Tran Thai Tong St"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "610bbbe637541b1f3b56d634",
+                    "name": "Sakura Hotel 2",
+                    "location": {
+                        "lng": 105.79014898368331,
+                        "lat": 21.03280003261601
+                    },
+                    "scale": 1,
+                    "bearing": 166,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -109.69683280305017,
+                        "tilt": 66,
+                        "target": {
+                            "lng": 105.79011025478674,
+                            "lat": 21.032733767152035
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "610bbbdf37541b1f3b56d62f.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/610bbbdf37541b1f3b56d62f.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.79019710557645,
+                                "lat": 21.032844948373445
+                            },
+                            {
+                                "lng": 105.79019710554745,
+                                "lat": 21.032755116845035
+                            },
+                            {
+                                "lng": 105.79010086181917,
+                                "lat": 21.032755116845035
+                            },
+                            {
+                                "lng": 105.79010086179017,
+                                "lat": 21.032844948373445
+                            },
+                            {
+                                "lng": 105.79019710557645,
+                                "lat": 21.032844948373445
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "610bbbe037541b1f3b56d631.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/610bbbe037541b1f3b56d631.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u01b0\u01a1ng C\u00f4ng Giai",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1628158950130,
+                    "updatedDate": 1628158950130
+                },
+                "tags": [],
+                "phoneNumber": "02433232666",
+                "website": "sakurahotel.net",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.79001799999999,
+                        21.032773499999998
+                    ]
+                },
+                "rank": {
+                    "value": 12347
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.79014898368331,
+            "lat": 21.03280003261601
+        },
+        "scale": 1,
+        "bearing": 166,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -109.69683280305017,
+            "tilt": 66,
+            "target": {
+                "lng": 105.79011025478674,
+                "lat": 21.032733767152035
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "610bbbdf37541b1f3b56d62f.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/610bbbdf37541b1f3b56d62f.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79019710557645,
+                    "lat": 21.032844948373445
+                },
+                {
+                    "lng": 105.79019710554745,
+                    "lat": 21.032755116845035
+                },
+                {
+                    "lng": 105.79010086181917,
+                    "lat": 21.032755116845035
+                },
+                {
+                    "lng": 105.79010086179017,
+                    "lat": 21.032844948373445
+                },
+                {
+                    "lng": 105.79019710557645,
+                    "lat": 21.032844948373445
+                }
+            ],
+            "height": null,
+            "textureName": "610bbbe037541b1f3b56d631.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/610bbbe037541b1f3b56d631.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u01b0\u01a1ng C\u00f4ng Giai"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

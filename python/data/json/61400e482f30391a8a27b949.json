@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61400e482f30391a8a27b949",
+        "name": "To\u0300a nha\u0300 Tultraco",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79181500926973,
+            "lat": 21.035285463524175
+        },
+        "scale": 1,
+        "bearing": 162,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.9384,
+            "bearing": -26.721006417107567,
+            "tilt": 39.08306426686599,
+            "target": {
+                "lng": 105.79180998410465,
+                "lat": 21.035268603968206
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61400e322f30391a8a27b944.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61400e322f30391a8a27b944.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79186313196561,
+                    "lat": 21.035330379281618
+                },
+                {
+                    "lng": 105.7918631319366,
+                    "lat": 21.035240547753205
+                },
+                {
+                    "lng": 105.79176688660286,
+                    "lat": 21.035240547753205
+                },
+                {
+                    "lng": 105.79176688657384,
+                    "lat": 21.035330379281618
+                },
+                {
+                    "lng": 105.79186313196561,
+                    "lat": 21.035330379281618
+                }
+            ],
+            "height": null,
+            "textureName": "61400e332f30391a8a27b946.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61400e332f30391a8a27b946.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "335"
+            }
+        ],
+        "startDate": 1244480400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "335 C\u1ea7u Gi\u1ea5y, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

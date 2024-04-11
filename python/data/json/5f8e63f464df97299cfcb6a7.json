@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e63f464df97299cfcb6a7",
+        "name": "kuretake INN kimma",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8264783141189,
+            "lat": 21.03222670409974
+        },
+        "scale": 1,
+        "bearing": 13,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -32.622250256855004,
+            "tilt": 70,
+            "target": {
+                "lng": 105.82624924232033,
+                "lat": 21.032498673623678
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8e63e5797102214f9de308.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e63e5797102214f9de308.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82652643582689,
+                    "lat": 21.03227161985718
+                },
+                {
+                    "lng": 105.82652643579789,
+                    "lat": 21.032181788328767
+                },
+                {
+                    "lng": 105.82643019243993,
+                    "lat": 21.032181788328767
+                },
+                {
+                    "lng": 105.82643019241092,
+                    "lat": 21.03227161985718
+                },
+                {
+                    "lng": 105.82652643582689,
+                    "lat": 21.03227161985718
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8e63e664df97299cfcb6a4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e63e664df97299cfcb6a4.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Kim M\u00e3"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Kim M\u00e3"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "132"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

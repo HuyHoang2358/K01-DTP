@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d4017797102214f9de298",
+        "name": "Dolce By Wyndham Hanoi Golden Lake",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8211514504045,
+            "lat": 21.029473702206218
+        },
+        "scale": 1,
+        "bearing": -48,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 1.9999999999999996,
+            "tilt": 58.5,
+            "target": {
+                "lng": 105.82123401163543,
+                "lat": 21.029998202912626
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d400b64df97299cfcb614.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d400b64df97299cfcb614.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82119957122349,
+                    "lat": 21.02951861796366
+                },
+                {
+                    "lng": 105.82119957119448,
+                    "lat": 21.02942878643525
+                },
+                {
+                    "lng": 105.82110332961452,
+                    "lat": 21.02942878643525
+                },
+                {
+                    "lng": 105.82110332958551,
+                    "lat": 21.02951861796366
+                },
+                {
+                    "lng": 105.82119957122349,
+                    "lat": 21.02951861796366
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d400b1a51f33b96956157.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d400b1a51f33b96956157.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Gi\u1ea3ng V\u00f5"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nam Cao"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "107"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

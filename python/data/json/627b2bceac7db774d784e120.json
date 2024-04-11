@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627b2bceac7db774d784e120",
+        "name": "Cung H\u1eefu Ngh\u1ecb Vi\u1ec7t Trung",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.77196135442529,
+            "lat": 21.01279084891962
+        },
+        "scale": 0.97,
+        "bearing": -51,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -35.93446121153513,
+            "tilt": 0,
+            "target": {
+                "lng": 105.77094926404101,
+                "lat": 21.012252025979976
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "627b2bbfac7db774d784e11b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627b2bbfac7db774d784e11b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.77200946986018,
+                    "lat": 21.012835764677067
+                },
+                {
+                    "lng": 105.7720094698312,
+                    "lat": 21.012745933148654
+                },
+                {
+                    "lng": 105.77191323901938,
+                    "lat": 21.012745933148654
+                },
+                {
+                    "lng": 105.77191323899041,
+                    "lat": 21.012835764677067
+                },
+                {
+                    "lng": 105.77200946986018,
+                    "lat": 21.012835764677067
+                }
+            ],
+            "height": null,
+            "textureName": "627b2bc0ac7db774d784e11d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627b2bc0ac7db774d784e11d.jpg"
+        },
+        "types": [
+            "community_center"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": 1513443600000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "community_center": "Nh\u00e0 v\u0103n ho\u00e1, sinh ho\u1ea1t c\u1ed9ng \u0111\u1ed3ng"
+        },
+        "metadata": null,
+        "address": "L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

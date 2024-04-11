@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60053e16e49e7b2263a05034",
+        "name": "C\u1ee5c thu\u1ebf th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.82342057086261,
+            "lat": 21.0259971024
+        },
+        "scale": 1,
+        "bearing": -138,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 112.84782334881287,
+            "tilt": 82.5,
+            "target": {
+                "lng": 105.824413526569,
+                "lat": 21.025585885449807
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60053e06461fac04fec5b04c.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60053e06461fac04fec5b04c.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82346869055917,
+                    "lat": 21.02604201815744
+                },
+                {
+                    "lng": 105.82346869053016,
+                    "lat": 21.02595218662903
+                },
+                {
+                    "lng": 105.82337245119507,
+                    "lat": 21.02595218662903
+                },
+                {
+                    "lng": 105.82337245116607,
+                    "lat": 21.02604201815744
+                },
+                {
+                    "lng": 105.82346869055917,
+                    "lat": 21.02604201815744
+                }
+            ],
+            "height": 1,
+            "textureName": "60053e099b70fd6b371f7675.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60053e099b70fd6b371f7675.jpg"
+        },
+        "types": [
+            "finance"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng C\u00e1t Linh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ngo 187"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "187A"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "finance": "T\u00e0i ch\u00ednh"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

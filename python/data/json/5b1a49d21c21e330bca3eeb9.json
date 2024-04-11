@@ -1,0 +1,89 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b1a49d21c21e330bca3eeb9",
+        "name": "MarinaComplex03",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.226657,
+            "lat": 16.092529
+        },
+        "scale": 1,
+        "bearing": -42,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": null,
+        "model": {
+            "id": "5b1a0cae8e0c1648688edd46",
+            "name": "MarinaComplex03",
+            "objName": "5b1a0cae8e0c1648688edd46",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b1a0cae8e0c1648688edd46",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22684,
+                    "lat": 16.092595
+                },
+                {
+                    "lng": 108.226615,
+                    "lat": 16.092356
+                },
+                {
+                    "lng": 108.226706,
+                    "lat": 16.092711
+                },
+                {
+                    "lng": 108.226482,
+                    "lat": 16.092471
+                }
+            ],
+            "height": 1,
+            "textureName": "5cb54a2c96a521a6147441f4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cb54a2c96a521a6147441f4.jpg"
+        },
+        "types": null,
+        "minZoom": 13,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u01b0\u1eddng 7m5"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 1609434000000,
+        "endDate": 4099568400000,
+        "source": null,
+        "typeInfos": null,
+        "metadata": null,
+        "address": "\u0110\u01b0\u1eddng 7m5, Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

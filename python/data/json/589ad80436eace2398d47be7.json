@@ -1,0 +1,1220 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "589ad80436eace2398d47be7",
+        "name": "Hotel Novotel Danang Premier Han River",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e4814a9df9d67e5a4a",
+                "location": {
+                    "lng": 108.223633,
+                    "lat": 16.077282
+                },
+                "address": "36 B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Hotel Novotel Danang Premier Han River",
+                "objectId": "589ad80436eace2398d47be7",
+                "description": "   NOVOTEL DANANG PREMIER HAN RIVER  \n \u0110\u00e0 N\u1eb5ng l\u00e0 m\u1ed9t trong nh\u1eefng th\u00e0nh ph\u1ed1 s\u00f4i \u0111\u1ed9ng v\u00e0 r\u1ef1c r\u1ee1 s\u1eafc m\u00e0u nh\u1ea5t \u1edf Vi\u1ec7t Nam. N\u01a1i \u0111\u00e2y t\u1ef1 h\u00e0o khi \u0111\u01b0\u1ee3c thi\u00ean nhi\u00ean ban t\u1eb7ng nh\u1eefng b\u00e3i bi\u1ec3n tuy\u1ec7t \u0111\u1eb9p v\u1edbi b\u1edd c\u00e1t m\u1ecbn m\u00e0ng, tinh kh\u00f4i n\u1eb1m tr\u1ea3i d\u00e0i; c\u00f3 c\u1ea3ng h\u00e0ng kh\u00f4ng Qu\u1ed1c t\u1ebf hi\u1ec7n \u0111\u1ea1i v\u00e0 nhi\u1ec1u \u0111\u1ecba \u0111i\u1ec3m v\u0103n h\u00f3a n\u1ed5i ti\u1ebfng n\u1eb1m trong n\u1ed9i th\u00e0nh, \u0111\u1ec3 du kh\u00e1ch c\u00f3 th\u1ec3 di chuy\u1ec3n thu\u1eadn l\u1ee3i. Ch\u00ednh v\u00ec th\u1ebf, s\u1ebd kh\u00f4ng c\u00f3 g\u00ec \u0111\u00e1ng ng\u1ea1c nhi\u00ean khi th\u00e0nh ph\u1ed1 xinh \u0111\u1eb9p n\u00e0y l\u1ea1i thu h\u00fat nhi\u1ec1u m\u1ed1i quan t\u00e2m, c\u0169ng nh\u01b0 s\u1ef1 y\u00eau m\u1ebfn n\u1ed3ng h\u1eadu c\u1ee7a du kh\u00e1ch trong n\u01b0\u1edbc v\u00e0 qu\u1ed1c t\u1ebf \u0111\u1ebfn nh\u01b0 v\u1eady. \n \u0110i\u1ec3m n\u1ed5i b\u1eadt c\u1ee7a th\u00e0nh ph\u1ed1 tr\u1ebb \u0111ang v\u01b0\u01a1n m\u00ecnh \u0111\u1ed5i thay t\u1eebng ng\u00e0y n\u00e0y \u2013 ch\u00ednh l\u00e0 s\u1ef1 giao h\u00f2a gi\u1eefa thi\u00ean nhi\u00ean y\u00ean b\u00ecnh v\u00e0 nh\u1ecbp s\u1ed1ng hi\u1ec7n \u0111\u1ea1i. N\u01a1i \u0111\u00e2y c\u00f3 \u0111\u1ea7y \u0111\u1ee7 c\u01a1 s\u1edf h\u1ea1 t\u1ea7ng v\u00e0 nh\u00e2n l\u1ef1c \u0111\u1ec3 h\u1ed7 tr\u1ee3 b\u1ea1n gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1 kinh doanh quan tr\u1ecdng m\u1ed9t c\u00e1ch k\u1ecbp th\u1eddi, hay t\u1ed5 ch\u1ee9c h\u1ed9i ngh\u1ecb, k\u1ebf ho\u1ea1ch x\u00fac ti\u1ebfn \u0111\u1ea7u t\u01b0 mang t\u1ea7m v\u00f3c qu\u1ed1c t\u1ebf m\u1ed9t c\u00e1ch hi\u1ec7u qu\u1ea3. \u0110\u1ed3ng th\u1eddi v\u1eabn c\u00f3 th\u1ec3 mang \u0111\u1ebfn b\u1ea1n nh\u1eefng ph\u00fat gi\u00e2y th\u01b0 th\u00e1i gi\u1eefa phong c\u1ea3nh non n\u01b0\u1edbc h\u1eefu t\u00ecnh c\u00f9ng gia \u0111\u00ecnh, b\u1ea1n b\u00e8. Ch\u00fang t\u00f4i t\u1ef1 h\u00e0o khi s\u1edf h\u1eefu \u0111\u1ea7y \u0111\u1ee7 nh\u1eefng th\u1ebf m\u1ea1nh \u0111\u1ea7y ti\u1ec1m n\u0103ng \u0111\u00f3 t\u1ea1i kh\u00e1ch s\u1ea1n Novotel Danang Premier Han River. \n T\u1ecda l\u1ea1c b\u00ean b\u1edd T\u00e2y s\u00f4ng H\u00e0n th\u01a1 m\u1ed9ng, li\u1ec1n k\u1ec1 v\u1edbi trung t\u00e2m h\u00e0nh ch\u00ednh c\u1ee7a \u0110\u00e0 N\u1eb5ng, Novotel s\u1edf h\u1eefu v\u1ecb tr\u00ed \u0111\u1eaft \u0111\u1ecba v\u00e0 nhanh ch\u00f3ng tr\u1edf th\u00e0nh \u0111i\u1ec3m \u0111\u1ebfn l\u00fd t\u01b0\u1edfng cho c\u00e1c doanh nh\u00e2n l\u1eabn du kh\u00e1ch. \u0110\u00e2y l\u00e0 kh\u00e1ch s\u1ea1n \u0111\u1ea7u ti\u00ean \u0111\u1ea1t ti\u00eau chu\u1ea9n qu\u1ed1c t\u1ebf c\u1ee7a th\u00e0nh ph\u1ed1, d\u01b0\u1edbi s\u1ef1 qu\u1ea3n l\u00fd b\u1edfi t\u1eadp \u0111o\u00e0n Accor danh ti\u1ebfng \u2013 n\u01a1i lu\u00f4n \u0111\u1ec1 cao s\u1ef1 ph\u1ee5c v\u1ee5 chuy\u00ean nghi\u1ec7p v\u00e0 gi\u00e1m s\u00e1t k\u1ef9 l\u01b0\u1ee1ng trong m\u1ecdi d\u1ecbch v\u1ee5 ti\u1ec7n \u00edch, nh\u1eb1m mang \u0111\u1ebfn ch\u1ea5t l\u01b0\u1ee3ng t\u1ed1t nh\u1ea5t cho du kh\u00e1ch. Kh\u00f4ng nh\u1eefng th\u1ebf, Novotel c\u00f2n l\u00e0 m\u1ed9t trong nh\u1eefng kh\u00e1ch s\u1ea1n cao nh\u1ea5t \u0110\u00e0 N\u1eb5ng, v\u1edbi nhi\u1ec1u \u0111i\u1ec3m \u0111\u1ebfn th\u00fa v\u1ecb nh\u01b0 nh\u00e0 h\u00e0ng \u0111\u1eb3ng c\u1ea5p qu\u1ed1c t\u1ebf, qu\u1ea7y bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng c\u00f3 th\u1ec3 bao qu\u00e1t to\u00e0n c\u1ea3nh th\u00e0nh ph\u1ed1 v\u00e0 l\u00e0 kh\u00e1ch s\u1ea1n ti\u00ean phong trong d\u1ecbch v\u1ee5 c\u0103n h\u1ed9 cao c\u1ea5p. \n V\u00ec v\u1eady, Novotel Danang Premier Han River l\u00e0 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o d\u00f9 b\u1ea1n \u0111i c\u00f4ng t\u00e1c hay ngh\u1ec9 d\u01b0\u1ee1ng. \u0110\u1ed9i ng\u0169 nh\u00e2n vi\u00ean chuy\u00ean nghi\u1ec7p v\u00e0 n\u1ed3ng h\u1eadu c\u1ee7a ch\u00fang t\u00f4i r\u1ea5t mong \u0111\u01b0\u1ee3c ti\u1ebfp \u0111\u00f3n Qu\u00fd kh\u00e1ch. \n C\u00e1ch s\u00e2n bay Qu\u1ed1c t\u1ebf \u0110\u00e0 N\u1eb5ng: 6 km (20 ph\u00fat) C\u00e1ch ga \u0110\u00e0 N\u1eb5ng: 1 km (5 ph\u00fat) C\u00e1ch qu\u1ed1c l\u1ed9 1A: 4 km (10 ph\u00fat) \n",
+                "types": [
+                    "hotel"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "group": "lodging"
+                    }
+                ],
+                "mainType": "hotel",
+                "mainTypeInfos": {
+                    "id": "hotel",
+                    "name": "Kh\u00e1ch s\u1ea1n",
+                    "group": "lodging"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "36"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "B\u1ea1ch \u0110\u1eb1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec25627ec192067e4050ec.jpg",
+                        "name": "5eec25627ec192067e4050ec.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039a.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039a.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039b.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039b.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039d.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039d.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039f.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039f.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a1.jpg",
+                        "name": "5eec27c1a3a6ae49e19e03a1.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a3.jpg",
+                        "name": "5eec27c1a3a6ae49e19e03a3.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a5.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a5.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a7.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a7.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a9.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a9.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039a.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039a.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039b.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039b.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039d.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039d.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039f.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039f.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a1.jpg",
+                        "name": "5eec27c1a3a6ae49e19e03a1.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a3.jpg",
+                        "name": "5eec27c1a3a6ae49e19e03a3.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a5.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a5.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a7.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a7.jpg",
+                        "description": null,
+                        "createdBy": null
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a9.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a9.jpg",
+                        "description": null,
+                        "createdBy": null
+                    }
+                ],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "hotel",
+                        "name": "Kh\u00e1ch s\u1ea1n",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "lodging",
+                        "minRank": 100000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [
+                    {
+                        "id": "645617e24e3b90d4be7753f5",
+                        "location": {
+                            "lng": 108.23879703026074,
+                            "lat": 16.061445000000006
+                        },
+                        "address": "22 M\u1ef9 Kh\u00ea 3, Ph\u01b0\u1edbc M\u1ef9, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                        "name": "Modern Egypt",
+                        "objectId": "589ad80436eace2398d47be7",
+                        "description": null,
+                        "types": [
+                            "taxi"
+                        ],
+                        "typeInfos": null,
+                        "tags": null,
+                        "addressComponents": [
+                            {
+                                "types": [
+                                    "housenumber"
+                                ],
+                                "name": "22"
+                            },
+                            {
+                                "types": [
+                                    "street"
+                                ],
+                                "name": "m\u1ef9 kh\u00ea 3"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_4"
+                                ],
+                                "name": "ph\u01b0\u1edbc m\u1ef9"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_3"
+                                ],
+                                "name": "s\u01a1n tr\u00e0"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_2"
+                                ],
+                                "name": "\u0111\u00e0 n\u1eb5ng"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_1"
+                                ],
+                                "name": "vi\u1ec7t nam"
+                            }
+                        ],
+                        "photos": null,
+                        "startDate": null,
+                        "endDate": null,
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                108.23879703026074,
+                                16.061445000000006
+                            ]
+                        },
+                        "rank": {
+                            "value": 0
+                        },
+                        "phoneNumber": "",
+                        "website": "",
+                        "businessHours": [],
+                        "isDeleted": null,
+                        "object": null,
+                        "metadata": null,
+                        "mediaFiles": null,
+                        "ratingReport": null,
+                        "createdBy": {
+                            "userId": "a68b8eaa-64b0-4818-9556-0af48caf5f68",
+                            "displayName": "Ngh\u0129a Tr\u01b0\u01a1ng"
+                        },
+                        "updatedBy": {
+                            "userId": "a68b8eaa-64b0-4818-9556-0af48caf5f68",
+                            "displayName": "Ngh\u0129a Tr\u01b0\u01a1ng"
+                        },
+                        "createdDate": 1683363810122,
+                        "updatedDate": 1683363810122
+                    }
+                ],
+                "object": {
+                    "id": "589ad80436eace2398d47be7",
+                    "name": "Hotel Novotel Danang Premier Han River",
+                    "location": {
+                        "lng": 108.22362616197097,
+                        "lat": 16.077261695615036
+                    },
+                    "scale": 1,
+                    "bearing": 96,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 17,
+                        "bearing": -64.96466743818264,
+                        "tilt": 81,
+                        "target": {
+                            "lng": 108.21961967473139,
+                            "lat": 16.07901132878867
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "589ad80436eace2398d47be7",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/589ad80436eace2398d47be7",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.223457,
+                                "lat": 16.077672
+                            },
+                            {
+                                "lng": 108.223969,
+                                "lat": 16.077733
+                            },
+                            {
+                                "lng": 108.223544,
+                                "lat": 16.076991
+                            },
+                            {
+                                "lng": 108.224056,
+                                "lat": 16.077052
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "032bdeadf7704adca415445c3ce0bb4f.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/032bdeadf7704adca415445c3ce0bb4f.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 17,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Th\u1ea1ch Thang",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n Ph\u00fa",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "582546120ec6af4457a68494",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1553483236163,
+                    "updatedDate": 1623224135631
+                },
+                "tags": null,
+                "phoneNumber": "+84 (0)236 392 9999",
+                "website": "https://www.novotel-danang-premier.com/vi/",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.223633,
+                        16.077282
+                    ]
+                },
+                "rank": {
+                    "value": 1000484.5
+                },
+                "metadata": [
+                    {
+                        "id": "5f7d27d3a6e3b56ccccfe72d",
+                        "type": "article",
+                        "name": "Novotel Danang Premier Han River",
+                        "content": "<h1>Novotel Danang Premier Han River</h1>\n<p><img src=\"https://secure.gravatar.com/avatar/bf96561e15d79276443756e50d04bf0e?s=26&r=g\" alt=\"undefined\" style=\"height: undefined;width: undefined\"/>By <a href=\"https://danangfantasticity.com/amp/author/danangfantasticity\" target=\"_self\">Tourism Danang</a> on 20 Th\u00e1ng N\u0103m, 2019</p>\n<p><strong>NOVOTEL DANANG PREMIER HAN RIVER</strong><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/logo-novotelDn-300x185.png\" alt=\"undefined\" style=\"height: undefined;width: undefined\"/></p>\n<ul>\n<li>\u0110\u1ecba \u0111i\u1ec3m: 36 B\u1ea1ch \u0110\u1eb1ng, Qu\u1eadn H\u1ea3i Ch\u00e2u, TP. \u0110\u00e0 N\u1eb5ng</li>\n<li>\u0110i\u1ec7n tho\u1ea1i:\u00a0(+84) 236 392 9999</li>\n<li>Email: H8287@accor.com</li>\n<li>Website:\u00a0www.novotel-danang-premier.com</li>\n<li><a href=\"https://danangfantasticity.com/amp/5-sao/grand-mercure-danang.html\" target=\"_self\">Grand Mercure \u0110\u00e0 N\u1eb5ng</a></li>\n<li><a href=\"https://danangfantasticity.com/amp/5-sao/hyatt-regency-danang-resort-and-spa.html\" target=\"_self\">Hyatt Regency Danang Resort and Spa</a></li>\n<li><a href=\"https://danangfantasticity.com/amp/5-sao/resort-pullman-da-nang.html\" target=\"_self\">Pullman Danang Beach Resort</a></li>\n<li><a href=\"https://danangfantasticity.com/amp/5-sao/grand-tourane-hotel.html\" target=\"_self\">Grand Tourane Hotel</a></li>\n<li><a href=\"https://danangfantasticity.com/amp/5-sao/naman-retreat.html\" target=\"_self\">Naman Retreat</a></li>\n</ul>\n<p><strong>M\u00d4 T\u1ea2</strong></p>\n<p>\u0110\u00e0 N\u1eb5ng l\u00e0 m\u1ed9t trong nh\u1eefng th\u00e0nh ph\u1ed1 s\u00f4i \u0111\u1ed9ng v\u00e0 r\u1ef1c r\u1ee1 s\u1eafc m\u00e0u nh\u1ea5t \u1edf Vi\u1ec7t Nam. N\u01a1i \u0111\u00e2y t\u1ef1 h\u00e0o khi \u0111\u01b0\u1ee3c thi\u00ean nhi\u00ean ban t\u1eb7ng nh\u1eefng b\u00e3i bi\u1ec3n tuy\u1ec7t \u0111\u1eb9p v\u1edbi b\u1edd c\u00e1t m\u1ecbn m\u00e0ng, tinh kh\u00f4i n\u1eb1m tr\u1ea3i d\u00e0i; c\u00f3 c\u1ea3ng h\u00e0ng kh\u00f4ng Qu\u1ed1c t\u1ebf hi\u1ec7n \u0111\u1ea1i v\u00e0 nhi\u1ec1u \u0111\u1ecba \u0111i\u1ec3m v\u0103n h\u00f3a n\u1ed5i ti\u1ebfng n\u1eb1m trong n\u1ed9i th\u00e0nh, \u0111\u1ec3 du kh\u00e1ch c\u00f3 th\u1ec3 di chuy\u1ec3n thu\u1eadn l\u1ee3i.</p>\n<p>Ch\u00ednh v\u00ec th\u1ebf, s\u1ebd kh\u00f4ng c\u00f3 g\u00ec \u0111\u00e1ng ng\u1ea1c nhi\u00ean khi th\u00e0nh ph\u1ed1 xinh \u0111\u1eb9p n\u00e0y l\u1ea1i thu h\u00fat nhi\u1ec1u m\u1ed1i quan t\u00e2m, c\u0169ng nh\u01b0 s\u1ef1 y\u00eau m\u1ebfn n\u1ed3ng h\u1eadu c\u1ee7a du kh\u00e1ch trong n\u01b0\u1edbc v\u00e0 qu\u1ed1c t\u1ebf \u0111\u1ebfn nh\u01b0 v\u1eady.</p>\n<p>\u0110i\u1ec3m n\u1ed5i b\u1eadt c\u1ee7a th\u00e0nh ph\u1ed1 tr\u1ebb \u0111ang v\u01b0\u01a1n m\u00ecnh \u0111\u1ed5i thay t\u1eebng ng\u00e0y n\u00e0y \u2013 ch\u00ednh l\u00e0 s\u1ef1 giao h\u00f2a gi\u1eefa thi\u00ean nhi\u00ean y\u00ean b\u00ecnh v\u00e0 nh\u1ecbp s\u1ed1ng hi\u1ec7n \u0111\u1ea1i. N\u01a1i \u0111\u00e2y c\u00f3 \u0111\u1ea7y \u0111\u1ee7 c\u01a1 s\u1edf h\u1ea1 t\u1ea7ng v\u00e0 nh\u00e2n l\u1ef1c \u0111\u1ec3 h\u1ed7 tr\u1ee3 b\u1ea1n gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1 kinh doanh quan tr\u1ecdng m\u1ed9t c\u00e1ch k\u1ecbp th\u1eddi, hay t\u1ed5 ch\u1ee9c h\u1ed9i ngh\u1ecb, k\u1ebf ho\u1ea1ch x\u00fac ti\u1ebfn \u0111\u1ea7u t\u01b0 mang t\u1ea7m v\u00f3c qu\u1ed1c t\u1ebf m\u1ed9t c\u00e1ch hi\u1ec7u qu\u1ea3.</p>\n<p>\u0110\u1ed3ng th\u1eddi v\u1eabn c\u00f3 th\u1ec3 mang \u0111\u1ebfn b\u1ea1n nh\u1eefng ph\u00fat gi\u00e2y th\u01b0 th\u00e1i gi\u1eefa phong c\u1ea3nh non n\u01b0\u1edbc h\u1eefu t\u00ecnh c\u00f9ng gia \u0111\u00ecnh, b\u1ea1n b\u00e8. Ch\u00fang t\u00f4i t\u1ef1 h\u00e0o khi s\u1edf h\u1eefu \u0111\u1ea7y \u0111\u1ee7 nh\u1eefng th\u1ebf m\u1ea1nh \u0111\u1ea7y ti\u1ec1m n\u0103ng \u0111\u00f3 t\u1ea1i kh\u00e1ch s\u1ea1n Novotel Danang Premier Han River.</p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/06/dem-hoi-ruou-rhum-caribbean-le-hoi-am-nhac-da-nang-2019-tai-novotel-da-nang-01.jpg\" alt=\"Dem Hoi Ruou Rhum Caribbean Le Hoi Am Nhac Da Nang 2019 Tai Novotel Da Nang 01\" style=\"height: undefined;width: undefined\"/></p>\n<p>T\u1ecda l\u1ea1c b\u00ean b\u1edd T\u00e2y s\u00f4ng H\u00e0n th\u01a1 m\u1ed9ng, li\u1ec1n k\u1ec1 v\u1edbi trung t\u00e2m h\u00e0nh ch\u00ednh c\u1ee7a \u0110\u00e0 N\u1eb5ng, Novotel s\u1edf h\u1eefu v\u1ecb tr\u00ed \u0111\u1eaft \u0111\u1ecba v\u00e0 nhanh ch\u00f3ng tr\u1edf th\u00e0nh \u0111i\u1ec3m \u0111\u1ebfn l\u00fd t\u01b0\u1edfng cho c\u00e1c doanh nh\u00e2n l\u1eabn du kh\u00e1ch. \u0110\u00e2y l\u00e0 kh\u00e1ch s\u1ea1n \u0111\u1ea7u ti\u00ean \u0111\u1ea1t ti\u00eau chu\u1ea9n qu\u1ed1c t\u1ebf c\u1ee7a th\u00e0nh ph\u1ed1, d\u01b0\u1edbi s\u1ef1 qu\u1ea3n l\u00fd b\u1edfi t\u1eadp \u0111o\u00e0n Accor danh ti\u1ebfng \u2013 n\u01a1i lu\u00f4n \u0111\u1ec1 cao s\u1ef1 ph\u1ee5c v\u1ee5 chuy\u00ean nghi\u1ec7p v\u00e0 gi\u00e1m s\u00e1t k\u1ef9 l\u01b0\u1ee1ng trong m\u1ecdi d\u1ecbch v\u1ee5 ti\u1ec7n \u00edch, nh\u1eb1m mang \u0111\u1ebfn ch\u1ea5t l\u01b0\u1ee3ng t\u1ed1t nh\u1ea5t cho du kh\u00e1ch.</p>\n<p>Kh\u00f4ng nh\u1eefng th\u1ebf, Novotel c\u00f2n l\u00e0 m\u1ed9t trong nh\u1eefng kh\u00e1ch s\u1ea1n cao nh\u1ea5t \u0110\u00e0 N\u1eb5ng, v\u1edbi nhi\u1ec1u \u0111i\u1ec3m \u0111\u1ebfn th\u00fa v\u1ecb nh\u01b0 nh\u00e0 h\u00e0ng \u0111\u1eb3ng c\u1ea5p qu\u1ed1c t\u1ebf, qu\u1ea7y bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng c\u00f3 th\u1ec3 bao qu\u00e1t to\u00e0n c\u1ea3nh th\u00e0nh ph\u1ed1 v\u00e0 l\u00e0 kh\u00e1ch s\u1ea1n ti\u00ean phong trong d\u1ecbch v\u1ee5 c\u0103n h\u1ed9 cao c\u1ea5p.</p>\n<p>V\u00ec v\u1eady, Novotel Danang Premier Han River l\u00e0 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o d\u00f9 b\u1ea1n \u0111i c\u00f4ng t\u00e1c hay ngh\u1ec9 d\u01b0\u1ee1ng. \u0110\u1ed9i ng\u0169 nh\u00e2n vi\u00ean chuy\u00ean nghi\u1ec7p v\u00e0 n\u1ed3ng h\u1eadu c\u1ee7a ch\u00fang t\u00f4i r\u1ea5t mong \u0111\u01b0\u1ee3c ti\u1ebfp \u0111\u00f3n Qu\u00fd kh\u00e1ch.</p>\n<ul>\n<li><strong><em>C\u00e1ch s\u00e2n bay Qu\u1ed1c t\u1ebf \u0110\u00e0 N\u1eb5ng: 6 km (20 ph\u00fat)</em></strong></li>\n<li><strong><em>C\u00e1ch ga \u0110\u00e0 N\u1eb5ng: 1 km (5 ph\u00fat)</em></strong></li>\n<li><strong><em>C\u00e1ch qu\u1ed1c l\u1ed9 1A: 4 km (10 ph\u00fat)</em></strong></li>\n</ul>\n<p>Kh\u00e1ch s\u1ea1n\u00a0<a href=\"https://danangfantasticity.com/amp/5-sao/novotel-danang-premier-han-river.html\" target=\"_self\">Novotel Danang Premier Han River</a>\u00a0cao 37 t\u1ea7ng, g\u1ed3m 323 ph\u00f2ng Novotel th\u1ebf h\u1ec7 m\u1edbi v\u1edbi 3 t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng, 90 c\u0103n h\u1ed9 d\u1ecbch v\u1ee5, trang thi\u1ebft h\u1ed9i ngh\u1ecb hi\u1ec7n \u0111\u1ea1i, nh\u00e0 h\u00e0ng qu\u1ed1c t\u1ebf The Square, qu\u1ea7y bar t\u1ea1i ti\u1ec1n s\u1ea3nh Pier 36, Premier Executive Lounge d\u00e0nh cho kh\u00e1ch th\u01b0\u1ee3ng \u0111\u1ec9nh, h\u1ed3 b\u01a1i ngo\u00e0i tr\u1eddi, trung t\u00e2m th\u1ec3 h\u00ecnh v\u00e0 Spa mang th\u01b0\u01a1ng hi\u1ec7u qu\u1ed1c t\u1ebf In|Balance.</p>\n<p>V\u1edbi balcony \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng \u1edf h\u1ea7u h\u1ebft c\u00e1c ph\u00f2ng, kh\u00e1ch s\u1ea1n mang l\u1ea1i cho kh\u00e1ch ngh\u1ec9 d\u01b0\u1ee1ng t\u1ea7m nh\u00ecn to\u00e0n c\u1ea3nh th\u00e0nh ph\u1ed1, v\u1edbi nh\u1eefng c\u00e2y c\u1ea7u s\u00e1ng r\u1ef1c v\u1ec1 \u0111\u00eam, nh\u1eefng r\u1eb7ng n\u00fai xa xa v\u00e0 b\u1edd bi\u1ec3n k\u00e9o d\u00e0i t\u01b0\u1edfng v\u00f4 t\u1eadn c\u1ee7a \u0110\u00e0 N\u1eb5ng.</p>\n<p><strong>PH\u00d2NG NGH\u1ec8</strong></p>\n<p>T\u1ea5t c\u1ea3 c\u00e1c ph\u00f2ng ngh\u1ec9 t\u1ea1i Novotel Danang Premier Han River \u0111\u1ec1u \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf \u0111\u1eb7c bi\u1ec7t r\u1ed9ng r\u00e3i v\u1edbi phong c\u00e1ch hi\u1ec7n \u0111\u1ea1i, nh\u1eb1m mang \u0111\u1ebfn cho du kh\u00e1ch m\u1ed9t kh\u00f4ng gian s\u1ed1ng ti\u1ec7n nghi, tho\u1ea3i m\u00e1i v\u00e0 ho\u00e0n to\u00e0n th\u01b0 th\u00e1i.</p>\n<p>B\u1ea5t k\u1ec3 l\u00fd do n\u00e0o, d\u00f9 l\u00e0 du l\u1ecbch ngh\u1ec9 d\u01b0\u1ee1ng hay c\u00f4ng t\u00e1c, th\u00ec ch\u00fang t\u00f4i v\u1eabn tin r\u1eb1ng c\u00e1c trang thi\u1ebft b\u1ecb ti\u1ec7n nghi, sang tr\u1ecdng v\u00e0 nh\u1eefng kh\u00f4ng gian ph\u00f2ng m\u1edf \u0111\u1ea7y tinh t\u1ebf lu\u00f4n \u0111\u00e1p \u1ee9ng v\u1edbi m\u1ecdi nhu c\u1ea7u c\u1ee7a qu\u00fd kh\u00e1ch.</p>\n<p><strong><em>Ph\u00f2ng Superior</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Superior-01-1024x573.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Superior 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Superior-03-1024x545.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Superior 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Superior-02-1024x598.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Superior 02\" style=\"height: undefined;width: undefined\"/></p>\n<p>Ph\u00f2ng ngh\u1ec9 c\u1ef1c k\u1ef3 hi\u1ec7n \u0111\u1ea1i v\u00e0 phong c\u00e1ch n\u00e0y c\u1ee7a ch\u00fang t\u00f4i, mang \u0111\u1ebfn kh\u00f4ng gian ho\u00e0n h\u1ea3o, \u0111\u1ec3 Qu\u00fd kh\u00e1ch ngh\u1ec9 ng\u01a1i th\u01b0 gi\u00e3n sau m\u1ed9t ng\u00e0y l\u00e0m vi\u1ec7c c\u0103ng th\u1eb3ng ho\u1eb7c vui ch\u01a1i h\u1ebft m\u00ecnh.</p>\n<p>Th\u1eadm ch\u00ed ngay c\u1ea3 v\u1edbi ph\u00f2ng ngh\u1ec9 c\u00f3 k\u00edch th\u01b0\u1edbc khi\u00eam t\u1ed1n nh\u1ea5t, th\u00ec c\u00e1c ti\u1ec7n nghi ho\u00e0n h\u1ea3o v\u1eabn s\u1ebd mang l\u1ea1i cho Qu\u00fd kh\u00e1ch c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i, b\u00ecnh y\u00ean v\u00e0 \u1ea5m \u00e1p nh\u01b0 \u0111ang \u1edf trong ch\u00ednh ng\u00f4i nh\u00e0 th\u00e2n y\u00eau c\u1ee7a m\u00ecnh.</p>\n<p>M\u1ed9t s\u1ed1 ph\u00f2ng c\u00f3 ban c\u00f4ng v\u1edbi h\u01b0\u1edbng nh\u00ecn tuy\u1ec7t \u0111\u1eb9p ra s\u00f4ng H\u00e0n ho\u1eb7c c\u1ea7u Thu\u1eadn Ph\u01b0\u1edbc.</p>\n<p><strong><em>Ph\u00f2ng Deluxe</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Deluxe-02-1024x590.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Deluxe 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Deluxe-01-1024x590.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Deluxe 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Deluxe-03-1024x596.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Deluxe 03\" style=\"height: undefined;width: undefined\"/></p>\n<p>D\u00f9 l\u00e0 doanh nh\u00e2n hay du kh\u00e1ch ngh\u1ec9 d\u01b0\u1ee1ng, lo\u1ea1i ph\u00f2ng n\u00e0y c\u00f3 h\u01b0\u1edbng nh\u00ecn tuy\u1ec7t \u0111\u1eb9p c\u00f9ng nhi\u1ec1u ti\u1ec7n nghi v\u01b0\u1ee3t tr\u1ed9i. C\u00e1c ph\u00f2ng n\u00e0y bao g\u1ed3m c\u1ea3 ph\u00f2ng Deluxe Corner, \u0111\u1ec1u c\u00f3 th\u1ec3 nh\u00ecn ng\u1eafm to\u00e0n c\u1ea3nh S\u00f4ng H\u00e0n v\u00e0 C\u1ea7u R\u1ed3ng, c\u0169ng nh\u01b0 c\u00e1c b\u00e3i bi\u1ec3n tuy\u1ec7t \u0111\u1eb9p c\u1ee7a th\u00e0nh ph\u1ed1.</p>\n<p>B\u00ean c\u1ea1nh \u0111\u00f3, m\u1ed9t s\u1ed1 ph\u00f2ng \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf c\u00f3 ban c\u00f4ng, v\u00e0 trang b\u1ecb th\u00eam gi\u01b0\u1eddng \u0111\u00f4i, \u0111\u1ec3 qu\u00fd kh\u00e1ch tho\u1ea3i m\u00e1i l\u1ef1a ch\u1ecdn nh\u1eefng kh\u00f4ng gian ngh\u1ec9 ng\u01a1i l\u00fd t\u01b0\u1edfng nh\u1ea5t.</p>\n<p><strong><em>Ph\u00f2ng Executive</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Executive-01-1024x559.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Executive 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Executive-02-1024x559.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Executive 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Executive-03-1024x580.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Executive 03\" style=\"height: undefined;width: undefined\"/></p>\n<p>Qu\u00fd kh\u00e1ch \u1edf t\u1ea1i ph\u00f2ng Executive c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng mi\u1ec5n ph\u00ed c\u00e1c d\u1ecbch v\u1ee5 t\u1ea1i qu\u1ea7y bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng c\u1ee7a kh\u00e1ch s\u1ea1n. C\u00f3 r\u1ea5t nhi\u1ec1u phong c\u00e1ch v\u00e0 k\u00edch th\u01b0\u1edbc kh\u00e1c nhau cho lo\u1ea1i ph\u00f2ng n\u00e0y, t\u1ea5t c\u1ea3 c\u00e1c thi\u1ebft k\u1ebf \u0111\u1ec1u \u0111\u00e1p \u1ee9ng \u0111\u1ea7y \u0111\u1ee7 nh\u1eefng trang thi\u1ebft b\u1ecb ti\u1ec7n nghi v\u00e0 hi\u1ec7n \u0111\u1ea1i nh\u1ea5t.</p>\n<p>B\u1ea5t k\u1ec3 l\u1ef1a ch\u1ecdn tr\u1ea3i nghi\u1ec7m lo\u1ea1i ph\u00f2ng n\u00e0o, qu\u00fd kh\u00e1ch \u0111\u1ec1u \u0111\u01b0\u1ee3c ph\u1ee5c v\u1ee5 \u0111\u1ed3 u\u1ed1ng ch\u00e0o \u0111\u00f3n khi \u0111\u1ebfn nh\u1eadn ph\u00f2ng, b\u1eefa \u0103n s\u00e1ng mi\u1ec5n ph\u00ed, tho\u1ea3i m\u00e1i th\u01b0\u1edfng th\u1ee9c \u0111\u1ed3 u\u1ed1ng kh\u00f4ng c\u1ed3n trong ng\u00e0y c\u00f9ng cocktail t\u1ed1i mi\u1ebfn ph\u00ed, v\u00e0 nhi\u1ec1u d\u1ecbch v\u1ee5 \u01b0u \u0111\u00e3i \u0111\u1eb7c bi\u1ec7t kh\u00e1c.</p>\n<p>B\u00ean c\u1ea1nh \u0111\u00f3, m\u1ed7i ph\u00f2ng \u0111\u1ec1u \u0111\u01b0\u1ee3c trang b\u1ecb cu\u1ed9c g\u1ecdi trong v\u00f9ng mi\u1ec5n ph\u00ed, ti\u1ec7n nghi VIP v\u00e0 c\u00f3 h\u01b0\u1edbng nh\u00ecn tuy\u1ec7t \u0111\u1eb9p v\u1ec1 ph\u00eda s\u00f4ng H\u00e0n ho\u1eb7c c\u1ea7u Thu\u1eadn Ph\u01b0\u1edbc.</p>\n<p><strong><em>Ph\u00f2ng Suite</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Suite-03-1024x582.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Suite 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Suite-01-1024x595.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Suite 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Suite-02-1024x565.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Suite 02\" style=\"height: undefined;width: undefined\"/></p>\n<p>Ph\u00f2ng Suite bao g\u1ed3m c\u00e1c khu v\u1ef1c s\u1ea3nh ti\u1ebfp kh\u00e1ch ri\u00eang bi\u1ec7t c\u00f9ng v\u1edbi h\u01b0\u1edbng nh\u00ecn tuy\u1ec7t v\u1eddi bao qu\u00e1t to\u00e0n c\u1ea3nh th\u00e0nh ph\u1ed1 v\u00e0 b\u00e3i bi\u1ec3n \u0110\u00e0 N\u1eb5ng. D\u00f9 du kh\u00e1ch \u0111i c\u00f9ng gia \u0111\u00ecnh ho\u1eb7c c\u00f3 nhu c\u1ea7u thu\u00ea v\u0103n ph\u00f2ng l\u00e0m vi\u1ec7c, ph\u00f2ng suite c\u1ee7a ch\u00fang t\u00f4i \u0111\u00e1p \u1ee9ng t\u1ed1t h\u01a1n c\u1ea3 nh\u1eefng g\u00ec qu\u00fd kh\u00e1ch mong \u0111\u1ee3i.</p>\n<p>Kh\u00e1ch \u1edf l\u1ea1i Ph\u00f2ng Suite c\u0169ng c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng c\u00e1c d\u1ecbch v\u1ee5 t\u1ea1i qu\u1ea7y bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng v\u1edbi t\u1ea5t c\u1ea3 c\u00e1c quy\u1ec1n l\u1ee3i k\u00e8m theo, b\u00e0n l\u00e0m vi\u1ec7c trong ph\u00f2ng kh\u00e1ch, ti\u1ec7n nghi VIP.</p>\n<p><strong><em>C\u0103n H\u1ed9 Studio</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-studio-03-1024x588.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho Studio 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-studio-02-1024x560.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho Studio 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-studio-01-1024x622.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho Studio 01\" style=\"height: undefined;width: undefined\"/></p>\n<p>C\u0103n h\u1ed9 Studio \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf sang tr\u1ecdng v\u00e0 \u0111\u1eb9p m\u1eaft v\u1edbi \u0111\u1ea7y \u0111\u1ee7 trang thi\u1ebft b\u1ecb ti\u1ec7n nghi, hi\u1ec7n \u0111\u1ea1i s\u1ebd mang \u0111\u1ebfn cho Qu\u00fd kh\u00e1ch m\u1ed9t kh\u00f4ng gian v\u00f4 c\u00f9ng tho\u1ea3i m\u00e1i. \u0110\u00e2y l\u00e0 lo\u1ea1i ph\u00f2ng \u0111\u1eb7c bi\u1ec7t ph\u00f9 h\u1ee3p v\u1edbi nhu c\u1ea7u c\u1ee7a c\u00e1c doanh nh\u00e2n b\u1eadn r\u1ed9n.</p>\n<p>M\u1ed7i c\u0103n h\u1ed9 Studio c\u1ee7a ch\u00fang t\u00f4i bao g\u1ed3m 1 ph\u00f2ng ng\u1ee7, ph\u00f2ng kh\u00e1ch \u0111\u01b0\u1ee3c ng\u0103n c\u00e1ch t\u00e1ch bi\u1ec7t v\u1edbi khu v\u1ef1c \u0103n u\u1ed1ng v\u00e0 ph\u00f2ng b\u1ebfp \u0111\u01b0\u1ee3c trang b\u1ecb \u0111\u1ea7y \u0111\u1ee7 v\u1eadt d\u1ee5ng n\u1ea5u n\u01b0\u1edbng.</p>\n<p>\u0110\u01b0\u1ee3c trang b\u1ecb Internet mi\u1ec5n ph\u00ed, TV truy\u1ec1n h\u00ecnh c\u00e1p, t\u1eadp luy\u1ec7n mi\u1ec5n ph\u00ed t\u1ea1i trung t\u00e2m th\u1ec3 h\u00ecnh In|Balance v\u00e0 d\u1ecdn d\u1eb9p ph\u00f2ng m\u1ed7i ng\u00e0y.</p>\n<p><strong><em>C\u0103n h\u1ed9 m\u1ed9t ph\u00f2ng ng\u1ee7</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-1-phong-ngu-02-1024x573.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 1 Phong Ngu 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-1-phong-ngu-01-1024x556.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 1 Phong Ngu 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-1-phong-ngu-03-1024x573.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 1 Phong Ngu 03\" style=\"height: undefined;width: undefined\"/></p>\n<p>Th\u1eadt tuy\u1ec7t v\u1eddi khi v\u1eeba c\u00f3 th\u1ec3 l\u00e0m vi\u1ec7c m\u00ecnh th\u00edch \u1edf n\u01a1i xa, v\u1eeba \u0111\u01b0\u1ee3c t\u1eadn h\u01b0\u1edfng cu\u1ed9c s\u1ed1ng th\u01b0 th\u00e1i \u1edf ch\u00ednh n\u01a1i \u0111\u00f3. C\u0103n h\u1ed9 c\u1ee7a ch\u00fang t\u00f4i mang \u0111\u1ebfn Qu\u00fd kh\u00e1ch m\u1ed9t kh\u00f4ng gian s\u1ed1ng ti\u1ec7n nghi v\u00e0 ho\u00e0n to\u00e0n th\u01b0 gi\u00e3n nh\u01b0 \u0111ang \u1edf nh\u00e0, trong su\u1ed1t th\u1eddi gian d\u00e0i l\u01b0u tr\u00fa t\u1ea1i \u0110\u00e0 N\u1eb5ng.</p>\n<p>M\u1ed7i c\u0103n h\u1ed9 \u0111\u1ec1u c\u00f3 1 gi\u01b0\u1eddng \u0111\u01a1n r\u1ed9ng l\u1edbn, ph\u00f2ng kh\u00e1ch, nh\u00e0 b\u1ebfp v\u00e0 khu \u0103n u\u1ed1ng, ph\u00f2ng t\u1eafm r\u1ed9ng r\u00e3i v\u00e0 2 nh\u00e0 v\u1ec7 sinh tho\u1ea3i m\u00e1i. \u0110\u1ed3ng th\u1eddi trong ph\u00f2ng c\u00f2n trang b\u1ecb 1 tivi HD, v\u1edbi \u0111\u1ed9 ph\u00e2n gi\u1ea3i cao, ch\u1eafc h\u1eb3n s\u1ebd mang \u0111\u1ebfn nh\u1eefng ph\u00fat gi\u00e2y gi\u1ea3i tr\u00ed th\u00fa v\u1ecb nh\u1ea5t.</p>\n<p>\u0110\u01b0\u1ee3c trang b\u1ecb Internet mi\u1ec5n ph\u00ed, TV truy\u1ec1n h\u00ecnh c\u00e1p, t\u1eadp luy\u1ec7n mi\u1ec5n ph\u00ed t\u1ea1i trung t\u00e2m th\u1ec3 h\u00ecnh In|Balance v\u00e0 d\u1ecdn d\u1eb9p ph\u00f2ng m\u1ed7i ng\u00e0y.</p>\n<p><strong><em>C\u0103n h\u1ed9 hai ph\u00f2ng ng\u1ee7</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-2-phong-ngu-01-1024x595.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 2 Phong Ngu 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-2-phong-ngu-03-1024x561.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 2 Phong Ngu 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-2-phong-ngu-02-1024x610.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 2 Phong Ngu 02\" style=\"height: undefined;width: undefined\"/></p>\n<p>T\u1ea1m r\u1eddi xa s\u1ef1 x\u00f4 b\u1ed3, h\u1ed1i h\u1ea3 c\u1ee7a th\u00e0nh ph\u1ed1, nh\u1eefng c\u0103n h\u1ed9 l\u1edbn n\u00e0y lu\u00f4n \u0111\u1ea3m b\u1ea3o s\u1ef1 ri\u00eang t\u01b0 v\u00e0 y\u00ean t\u0129nh cho du kh\u00e1ch. M\u1ed7i c\u0103n h\u1ed9 \u0111\u1ec1u \u0111\u01b0\u1ee3c trang tr\u00ed \u0111\u1eb9p m\u1eaft v\u1edbi nh\u1eefng v\u1eadt d\u1ee5ng sang tr\u1ecdng v\u00e0 cao c\u1ea5p nh\u1ea5t, nh\u1eb1m mang \u0111\u1ebfn s\u1ef1 h\u00e0i l\u00f2ng &amp; tho\u1ea3i m\u00e1i cho kh\u00e1ch l\u01b0u tr\u00fa.</p>\n<p>M\u1ed7i c\u0103n h\u1ed9 \u0111\u1ec1u c\u00f3 2 gi\u01b0\u1eddng \u0111\u01a1n r\u1ed9ng l\u1edbn, 1 ph\u00f2ng kh\u00e1ch, t\u1ee7 \u00e1o qu\u1ea7n, nh\u00e0 b\u1ebfp v\u1edbi \u0111\u1ea7y \u0111\u1ee7 trang thi\u1ebft b\u1ecb v\u00e0 khu \u0103n u\u1ed1ng, ph\u00f2ng t\u1eafm r\u1ed9ng r\u00e3i, c\u00f9ng b\u1ed3n t\u1eafm v\u00e0 3 nh\u00e0 v\u1ec7 sinh tho\u1ea3i m\u00e1i. \u0110\u1ed3ng th\u1eddi trong ph\u00f2ng c\u00f2n trang b\u1ecb 2 tivi HD v\u1edbi \u0111\u1ed9 ph\u00e2n gi\u1ea3i cao, s\u1ebd mang \u0111\u1ebfn nh\u1eefng ph\u00fat gi\u00e2y gi\u1ea3i tr\u00ed th\u00fa v\u1ecb nh\u1ea5t.</p>\n<p>\u0110\u01b0\u1ee3c trang b\u1ecb Internet mi\u1ec5n ph\u00ed, TV truy\u1ec1n h\u00ecnh c\u00e1p, t\u1eadp luy\u1ec7n mi\u1ec5n ph\u00ed t\u1ea1i trung t\u00e2m th\u1ec3 h\u00ecnh In|Balance v\u00e0 d\u1ecdn d\u1eb9p ph\u00f2ng m\u1ed7i ng\u00e0y.</p>\n<p><strong><em>C\u0103n h\u1ed9 ba ph\u00f2ng ng\u1ee7</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-3-phong-ngu-01.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 3 Phong Ngu 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-3-phong-ngu-02-1024x595.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 3 Phong Ngu 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-3-phong-ngu-03-1024x596.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 3 Phong Ngu 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-3-phong-ngu-04-1024x571.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 3 Phong Ngu 04\" style=\"height: undefined;width: undefined\"/></p>\n<p>\u0110\u1ed1i v\u1edbi nh\u1eefng qu\u00fd kh\u00e1ch c\u1ea7n kh\u00f4ng gian r\u1ed9ng r\u00e3i h\u01a1n, c\u0103n h\u1ed9 3 ph\u00f2ng ng\u1ee7 ch\u00ednh l\u00e0 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o v\u1edbi nhi\u1ec1u ti\u1ec7n nghi v\u01b0\u1ee3t tr\u1ed9i c\u00f9ng trang thi\u1ebft b\u1ecb cao c\u1ea5p.</p>\n<p>C\u0103n h\u1ed9 3 ph\u00f2ng ng\u1ee7 n\u1ed5i b\u1eadt v\u1edbi kh\u00f4ng gian s\u1ed1ng c\u1ef1c k\u1ef3 hi\u1ec7n \u0111\u1ea1i, \u0111\u1eb3ng c\u1ea5p theo ti\u00eau chu\u1ea9n thi\u1ebft k\u1ebf qu\u1ed1c t\u1ebf c\u1ee7a h\u1ec7 th\u1ed1ng Novotel to\u00e0n c\u1ea7u.</p>\n<p>C\u0103n h\u1ed9 g\u1ed3m 3 ph\u00f2ng ng\u1ee7, 2 ph\u00f2ng t\u1eafm v\u1edbi b\u1ed3n t\u1eafm l\u1edbn, hi\u1ec7n \u0111\u1ea1i, nh\u00e0 b\u1ebfp v\u1edbi \u0111\u1ea7y \u0111\u1ee7 ti\u1ec7n nghi v\u00e0 t\u1ea5t nhi\u00ean kh\u00f4ng th\u1ec3 thi\u1ebfu m\u1ed9t g\u00f3c nh\u00ecn tuy\u1ec7t \u0111\u1eb9p.</p>\n<p>\u0110\u01b0\u1ee3c trang b\u1ecb Internet mi\u1ec5n ph\u00ed, TV truy\u1ec1n h\u00ecnh c\u00e1p, t\u1eadp luy\u1ec7n mi\u1ec5n ph\u00ed t\u1ea1i trung t\u00e2m th\u1ec3 h\u00ecnh In|Balance v\u00e0 d\u1ecdn d\u1eb9p ph\u00f2ng m\u1ed7i ng\u00e0y.</p>\n<p><strong><em>Ph\u00f2ng T\u1ed5ng Th\u1ed1ng</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-phong-tong-thong-01-1024x683.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Phong Tong Thong 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-phong-tong-thong-02-1024x683.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Phong Tong Thong 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-phong-tong-thong-03-1024x683.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Phong Tong Thong 03\" style=\"height: undefined;width: undefined\"/></p>\n<p>T\u1ecda l\u1ea1c t\u1ea1i t\u1ea7ng 31, v\u1edbi l\u1ed1i thi\u1ebft k\u1ebf \u0111\u1ec9nh cao c\u1ee7a \u0111\u1eb3ng c\u1ea5p sang tr\u1ecdng, Ph\u00f2ng T\u1ed5ng Th\u1ed1ng l\u00e0 n\u01a1i l\u00fd t\u01b0\u1edfng \u0111\u1ec3 ng\u1eafm nh\u00ecn \u0110\u00e0 N\u1eb5ng xinh \u0111\u1eb9p m\u1ed9t c\u00e1ch to\u00e0n di\u1ec7n nh\u1ea5t, h\u00f9ng v\u0129 nh\u1ea5t, ngo\u1ea1n muc nh\u1ea5t.</p>\n<p>\u201cB\u1ea3o m\u1eadt tuy\u1ec7t \u0111\u1ed1i, ti\u1ec7n nghi \u0111\u1eb3ng c\u1ea5p, d\u1ecbch v\u1ee5 t\u1ed1i \u01b0u\u201d ch\u00ecnh l\u00e0 nh\u1eefng \u0111\u1eb7c quy\u1ec1n m\u00e0 ch\u00fang t\u00f4i \u0111\u00e3 v\u00e0 \u0111ang cam k\u1ebft \u0111\u1ed1i v\u1edbi Q\u00fay kh\u00e1ch \u1edf ph\u00f2ng T\u1ed5ng Th\u1ed1ng.</p>\n<p>Ph\u00f2ng t\u1ed5ng th\u1ed1ng g\u1ed3m 3 ph\u00f2ng ng\u1ee7 r\u1ed9ng r\u00e3i, 3 ph\u00f2ng t\u1eafm, 1 ph\u00f2ng l\u00e0m vi\u1ec7c v\u00e0 nh\u00e0 b\u1ebfp hi\u1ec7n \u0111\u1ea1i v\u1edbi \u0111\u1ea7y \u0111\u1ee7 trang thi\u1ebft b\u1ecb.</p>\n<p>\u0110\u01b0\u1ee3c trang b\u1ecb Internet mi\u1ec5n ph\u00ed, TV truy\u1ec1n h\u00ecnh c\u00e1p, t\u1eadp luy\u1ec7n mi\u1ec5n ph\u00ed t\u1ea1i trung t\u00e2m th\u1ec3 h\u00ecnh In|Balance v\u00e0 d\u1ecdn d\u1eb9p ph\u00f2ng m\u1ed7i ng\u00e0y</p>\n<p><strong>NH\u00c0 H\u00c0NG V\u00c0 QU\u00c1N BAR</strong></p>\n<p>V\u1edbi v\u1ecb tr\u00ed \u0111\u1eafc \u0111\u1ecba d\u1ecdc theo tuy\u1ebfn \u0111\u01b0\u1eddng B\u1ea1ch \u0110\u1eb1ng \u2013 n\u01a1i c\u00f3 th\u1ec3 r\u1ea3o b\u01b0\u1edbc thong dong t\u1ea3n b\u1ed9 v\u00e0 ng\u1eafm nh\u00ecn khung c\u1ea3nh c\u0169ng d\u00f2ng s\u00f4ng H\u00e0n th\u01a1 m\u1ed9ng. V\u00ec th\u1ebf ch\u1eb3ng c\u00f3 g\u00ec l\u1ea1 khi r\u1ea5t nhi\u1ec1u th\u1ef1c kh\u00e1ch l\u1ef1a ch\u1ecdn Novotel l\u00e0m \u0111i\u1ec3m \u0111\u1ebfn l\u00fd t\u01b0\u1edfng cho nh\u1eefng nhu c\u1ea7u \u1ea9m th\u1ef1c c\u1ee7a b\u1ea3n th\u00e2n v\u00e0 gia \u0111\u00ecnh.</p>\n<p>Ch\u00fang t\u00f4i lu\u00f4n cam k\u1ebft mang \u0111\u1ebfn c\u00e1c d\u1ecbch v\u1ee5 \u0111\u1eb3ng c\u1ea5p qu\u1ed1c t\u1ebf \u2013 d\u01b0\u1edbi s\u1ef1 \u0111\u1ea7u t\u01b0, chu\u1ea9n b\u1ecb k\u1ef9 l\u01b0\u1ee1ng c\u1ee7a nh\u1eefng \u0111\u1ea7u b\u1ebfp v\u00e0 bartender h\u00e0ng \u0111\u1ea7u.</p>\n<p>V\u00ec th\u1ebf, \u201cngon mi\u1ec7ng, h\u1ea5p d\u1eabn, tinh t\u1ebf, h\u00e0i l\u00f2ng\u201d \u1eaft h\u1eb3n s\u1ebd l\u00e0 nh\u1eefng m\u1ef9 t\u1eeb c\u1ea3m nh\u1eadn khi qu\u00fd kh\u00e1ch th\u01b0\u1edfng th\u1ee9c m\u00f3n \u0103n n\u01a1i \u0111\u00e2y.</p>\n<p><strong><em>Nh\u00e0 h\u00e0ng The Square</em></strong></p>\n<p>Nh\u00e0 h\u00e0ng The Square mang \u0111\u1ebfn cho Qu\u00fd kh\u00e1ch m\u1ed9t kh\u00f4ng gian \u1ea9m th\u1ef1c sang tr\u1ecdng, tinh t\u1ebf , d\u00e0nh cho c\u1ea3 b\u1eefa s\u00e1ng, tr\u01b0a l\u1eabn t\u1ed1i.</p>\n<p>Ngo\u00e0i buffet s\u00e1ng th\u1ecbnh so\u1ea1n cho m\u1ed9t ng\u00e0y m\u1edbi tr\u00e0n \u0111\u1ea7y n\u0103ng l\u01b0\u1ee3ng, nh\u00e0 h\u00e0ng The Square c\u00f2n ph\u1ee5c v\u1ee5 c\u1ea3 th\u1ef1c \u0111\u01a1n c\u00e1c m\u00f3n \u00c2u \u2013 \u00c1 h\u1ea5p d\u1eabn c\u0169ng nh\u01b0 nh\u1eefng b\u1eefa ti\u1ec7c t\u1ed1i t\u1ef1 ch\u1ecdn ho\u00e0nh tr\u00e1ng.</p>\n<p>\u0110\u1eb7c bi\u1ec7t v\u1edbi khu b\u1ebfp m\u1edf s\u1ebd mang \u0111\u1ebfn nh\u1eefng tr\u1ea3i nghi\u1ec7m \u1ea9m th\u1ef1c th\u00fa v\u1ecb d\u00e0nh cho c\u00e1c th\u1ef1c kh\u00e1ch, khi v\u1eeba th\u01b0\u1edfng th\u1ee9c c\u00e1c m\u00f3n \u0103n th\u01a1m ngon, v\u1eeba chi\u00eam ng\u01b0\u1ee1ng qu\u00e1 tr\u00ecnh ch\u1ebf bi\u1ebfn \u0111i\u00eau luy\u1ec7n v\u00e0 \u0111\u1eb9p m\u1eaft c\u1ee7a c\u00e1c \u0111\u1ea7u b\u1ebfp \u0111\u1ea7y t\u00e0i n\u0103ng.</p>\n<p>\u0110\u1ed3ng th\u1eddi c\u1ee9 hai tu\u1ea7n m\u1ed9t l\u1ea7n, nh\u1eefng b\u1eefa \u0103n t\u1ed1i tuy\u1ec7t v\u1eddi v\u1edbi h\u1ea3i s\u1ea3n \u0110\u00f4ng Nam \u00c1 \u0111a d\u1ea1ng \u0111\u00e3 tr\u1edf th\u00e0nh th\u01b0\u01a1ng hi\u1ec7u n\u1ed5i ti\u1ebfng, thu h\u00fat \u0111\u00f4ng \u0111\u1ea3o th\u1ef1c kh\u00e1ch t\u1ea1i th\u00e0nh ph\u1ed1. (V\u00e0o t\u1ed1i th\u1ee9 s\u00e1u v\u00e0 th\u1ee9 b\u1ea3y)</p>\n<p>N\u1ebfu qu\u00fd kh\u00e1ch ch\u01b0a c\u00f9ng ch\u00fang t\u00f4i th\u01b0\u1edfng th\u1ee9c nh\u1eefng m\u00f3n ngon t\u1ea1i The Square, h\u00e3y \u0111\u1eb7t b\u00e0n ngay th\u00f4i! \u0110\u00f3 l\u00e0 gi\u1ea5c m\u01a1 c\u00f3 th\u1eadt cho ng\u01b0\u1eddi s\u00e0nh \u0103n!</p>\n<p><em><ins>V\u1ecb tr\u00ed:</ins></em> t\u1ea7ng 4</p>\n<p><em><ins>Gi\u1edd m\u1edf c\u1eeda:</ins></em></p>\n<ul>\n<li>Buffet s\u00e1ng: 6:00 \u2013 10:00 (Th\u1ee9 Hai \u0111\u1ebfn th\u1ee9 S\u00e1u), 6:00 \u2013 11:00 (Th\u1ee9 B\u1ea3y, Ch\u1ee7 Nh\u1eadt)</li>\n<li>A la Carte: 11:00 \u2013 22:00 (H\u1eb1ng ng\u00e0y)</li>\n<li>Ti\u1ec7c n\u01b0\u1edbng BBQ Buffet: 18:00 \u2013 22:00 (Th\u1ee9 S\u00e1u v\u00e0 Th\u1ee9 B\u1ea3y)</li>\n<li>Ti\u1ec7c BBQ buffet t\u1ea1i h\u1ed3 b\u01a1i: 18:00 \u2013 22:00 (Ch\u1ee7 nh\u1eadt)</li>\n</ul>\n<p><strong><em>Qu\u1ea7y Bar h\u1ed3 b\u01a1i The Splash</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-ho-boi-the-splash-novotel-danang-premier-han-river-danang-fantasticity-com.jpg\" alt=\"Quay Bar Ho Boi The Splash Novotel Danang Premier Han River Danang Fantasticity Com\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-ho-boi-the-splash-novotel-danang-premier-han-river-danang-fantasticity-com-1-1024x683.jpg\" alt=\"Quay Bar Ho Boi The Splash Novotel Danang Premier Han River Danang Fantasticity Com 1\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-ho-boi-the-splash-novotel-danang-premier-han-river-danang-fantasticity-com-2-1024x610.jpg\" alt=\"Quay Bar Ho Boi The Splash Novotel Danang Premier Han River Danang Fantasticity Com 2\" style=\"height: undefined;width: undefined\"/></p>\n<p>L\u00e0 m\u1ed9t trong nh\u1eefng \u0111i\u1ec3m \u0111\u1ebfn ban ng\u00e0y c\u0169ng nh\u01b0 ban \u0111\u00eam l\u00fd t\u01b0\u1edfng nh\u1ea5t c\u1ee7a th\u00e0nh ph\u1ed1, The Splash l\u00e0 s\u1ef1 k\u1ebft h\u1ee3p gi\u1eefa vui t\u01b0\u01a1i, n\u0103ng \u0111\u1ed9ng v\u00e0 nh\u1eb9 nh\u00e0ng, th\u01b0 th\u00e1i. Trong b\u1ea7u kh\u00f4ng kh\u00ed tho\u1ea3i m\u00e1i c\u1ee7a qu\u1ea7y bar b\u00ean h\u1ed3 b\u01a1i, qu\u00fd kh\u00e1ch c\u00f3 th\u1ec3 th\u1ecfa th\u00edch b\u01a1i l\u1ed9i trong ti\u1ebfng nh\u1ea1c vui nh\u1ed9n.</p>\n<p>Ho\u1eb7c v\u1eeba \u0111\u1eafm m\u00ecnh v\u00e0o l\u00e0n n\u01b0\u1edbc m\u00e1t l\u1ea1nh xanh trong, v\u1eeba nh\u00e2m nhi nh\u1eefng ly cocktail \u0111\u1ea7y m\u00e0u s\u1eafc. V\u00e0 c\u00f2n g\u00ec th\u00fa v\u1ecb h\u01a1n khi c\u00f9ng v\u1edbi ng\u01b0\u1eddi th\u00e2n y\u00eau c\u01b0\u1eddi \u0111\u00f9a, v\u00e0 ng\u1eafm c\u1ea3nh \u0111\u1eb9p tuy\u1ec7t m\u1ef9 c\u1ee7a th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng v\u00e0o l\u00fac chi\u1ec1u nh\u1ea1t n\u1eafng ho\u1eb7c lung linh \u00e1nh \u0111\u00e8n v\u1ec1 \u0111\u00eam.</p>\n<p>Th\u1ee9c u\u1ed1ng h\u1ea3o h\u1ea1ng, \u00e2m nh\u1ea1c s\u00f4i \u0111\u1ed9ng v\u00e0 b\u1ea7u kh\u00f4ng kh\u00ed tuy\u1ec7t v\u1eddi, ch\u00fang t\u00f4i r\u1ea5t mong \u0111\u01b0\u1ee3c ph\u1ee5c v\u1ee5 Qu\u00fd kh\u00e1ch!</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> T\u1ea7ng\u00a04</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda:</ins></em> 10:00 \u2013 22:00</li>\n</ul>\n<p><strong><em>Qu\u1ea7y Bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-06.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 06\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-01-1024x587.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-02-1024x634.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-03-1024x556.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-05.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 05\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-04-1024x559.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 04\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-06-1-1024x562.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 06\" style=\"height: undefined;width: undefined\"/></p>\n<p>H\u00e3y d\u00e0nh tr\u1ecdn th\u1eddi gian \u0111\u1ec3 ngh\u1ec9 ng\u01a1i v\u00e0 th\u01b0 gi\u00e3n, c\u00f2n nh\u1eefng chi ti\u1ebft nh\u1ecf nh\u1eb7t kh\u00e1c h\u00e3y \u0111\u1ec3 ch\u00fang t\u00f4i ch\u0103m s\u00f3c v\u00e0 lo l\u1eafng gi\u00fap qu\u00fd kh\u00e1ch. Lu\u00f4n \u0111\u01b0\u1ee3c \u0111\u00e1nh gi\u00e1 cao v\u1ec1 ch\u1ea5t l\u01b0\u1ee3ng d\u1ecbch v\u1ee5 ho\u00e0n h\u1ea3o, kh\u00e1ch s\u1ea1n Novotel Danang Premier Han River s\u1ebd mang \u0111\u1ebfn cho qu\u00fd kh\u00e1ch nhi\u1ec1u s\u1ef1 tr\u1ea3i nghi\u1ec7m th\u00fa v\u1ecb, v\u00e0 nh\u1eefng ti\u1ec7n nghi \u0111\u1eb3ng c\u1ea5p ho\u00e0n to\u00e0n mi\u1ec5n ph\u00ed.</p>\n<p>Bao g\u1ed3m s\u1ef1 \u0111\u00f3n ti\u1ebfp \u00e2n c\u1ea7n v\u00e0 ph\u1ee5c v\u1ee5 tr\u00e0 khi \u0111\u1ebfn nh\u1eadn ph\u00f2ng, b\u1eefa \u0103n s\u00e1ng mi\u1ec5n ph\u00ed , s\u1eed d\u1ee5ng ph\u00f2ng h\u1ecdp doanh nghi\u1ec7p, th\u01b0\u1edfng th\u1ee9c tho\u1ea3i m\u00e1i \u0111\u1ed3 u\u1ed1ng kh\u00f4ng c\u1ed3n trong ng\u00e0y v\u00e0 cocktail t\u1ed1i t\u1ea1i s\u1ea3nh, trong kh\u00f4ng gian tuy\u1ec7t m\u0129 t\u1eebng \u0111\u01b0\u1ee3c v\u00ed von nh\u01b0 \u201cb\u01b0\u1edbc l\u00ean m\u00e2y\u201d \u1edf \u0110\u00e0 N\u1eb5ng.</p>\n<p>Qu\u00fd kh\u00e1ch s\u1ebd \u0111\u01b0\u1ee3c \u0111\u00f3n ti\u1ebfp n\u1ed3ng h\u1eadu nh\u01b0 m\u1ed9t VIP \u0111\u00edch th\u1ef1c, theo phong c\u00e1ch Novotel.</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed</ins></em>: t\u1ea7ng 29</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda:</ins></em> 06:30 \u2013 22:00</li>\n<li><em><ins>\u0110i\u1ec3m t\u00e2m s\u00e1ng:</ins></em> 06:30 \u2013 10:30 (Th\u1ee9 Hai \u0111\u1ebfn Th\u1ee9 S\u00e1u), 6:30 \u2013 11:00 (Th\u1ee9 B\u1ea3y, Ch\u1ee7 Nh\u1eadt)</li>\n<li><em><ins>Tr\u00e0 chi\u1ec1u:</ins></em> 15:00 \u2013 17:00</li>\n<li><em><ins>Cocktail &amp; Canape\u2019:</ins></em> 18:00 \u2013 20:00</li>\n</ul>\n<p><strong><em>Gourmet Bar</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/Gourmet-Bar-novotel-danang-premier-han-river-danang-fantasticity-com-02.jpg\" alt=\"Gourmet Bar Novotel Danang Premier Han River Danang Fantasticity Com 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/Gourmet-Bar-novotel-danang-premier-han-river-danang-fantasticity-com-03-1024x620.jpg\" alt=\"Gourmet Bar Novotel Danang Premier Han River Danang Fantasticity Com 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/Gourmet-Bar-novotel-danang-premier-han-river-danang-fantasticity-com-02-1024x582.jpg\" alt=\"Gourmet Bar Novotel Danang Premier Han River Danang Fantasticity Com 02\" style=\"height: undefined;width: undefined\"/></p>\n<p>D\u00f9 l\u00e0 cu\u1ed9c h\u1eb9n c\u00f4ng vi\u1ec7c hay bu\u1ed5i g\u1eb7p m\u1eb7t b\u1ea1n b\u00e8,\u00a0Gourmet Bar\u00a0lu\u00f4n l\u00e0 \u0111\u1ecba \u0111i\u1ec3m l\u00fd t\u01b0\u1edfng d\u00e0nh cho b\u1ea1n.</p>\n<p>\u0110\u1ed3 u\u1ed1ng cocktail \u0111\u1eb7c s\u1eafc, b\u00e1nh m\u00ec burger \u0111a d\u1ea1ng, tapas v\u00e0 lo\u1ea1i b\u00e1nh ng\u1ecdt g\u00e2y nghi\u1ec7n \u1eaft h\u1eb3n s\u1ebd kh\u00f4ng l\u00e0m b\u1ea1n th\u1ea5t v\u1ecdng</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> T\u1ea7ng tr\u1ec7t</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda: </ins></em>7:00 \u2013 22:30</li>\n</ul>\n<p><strong>H\u1ed8I H\u1eccP V\u00c0 S\u1ef0 KI\u1ec6N</strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/hoi-hop-va-su-kien-tai-novotel-danang-premier-han-river-danang-fantasticity-com.jpg\" alt=\"Hoi Hop Va Su Kien Tai Novotel Danang Premier Han River Danang Fantasticity Com\" style=\"height: undefined;width: undefined\"/></p>\n<p>T\u1ea1i Novotel Danang Premier Han River, ch\u00fang t\u00f4i t\u1ef1 h\u00e0o lu\u00f4n mang \u0111\u1ebfn nh\u1eefng d\u1ecbch v\u1ee5 t\u1ed1t nh\u1ea5t v\u1edbi ch\u1ea5t l\u01b0\u1ee3ng ho\u00e0n h\u1ea3o. Kh\u00f4ng c\u00f2n nghi ng\u1edd g\u00ec n\u1eefa, hai \u0111i\u1ec1u n\u00e0y \u0111\u00e3 \u0111\u01b0\u1ee3c minh ch\u1ee9ng b\u1edfi s\u1ef1 th\u00e0nh c\u00f4ng c\u1ee7a t\u1ea5t c\u1ea3 c\u00e1c cu\u1ed9c h\u1ecdp trong th\u1eddi gian qua. V\u1edbi phong c\u00e1ch ph\u1ee5c v\u1ee5 chuy\u00ean nghi\u1ec7p v\u00e0 k\u1ef9 l\u01b0\u1ee1ng, ch\u00fang t\u00f4i lu\u00f4n n\u1ed7 l\u1ef1c mang \u0111\u1ebfn s\u1ef1 t\u1ec9 m\u1ec9 trong t\u1eebng chi ti\u1ebft, cho c\u00e1c s\u1ef1 ki\u1ec7n l\u1edbn nh\u1ecf m\u00e0 kh\u00e1ch h\u00e0ng \u0111\u00e3 ho\u00e0n to\u00e0n y\u00ean t\u00e2m g\u1edfi g\u1eafm.</p>\n<p>V\u1edbi m\u1ed9t \u0111\u1ea1i s\u1ea3nh r\u1ed9ng l\u1edbn v\u00e0 b\u1ed1n ph\u00f2ng h\u1ed9i ngh\u1ecb \u0111\u01b0\u1ee3c trang b\u1ecb \u0111\u1ea7y \u0111\u1ee7 c\u00e1c thi\u1ebft b\u1ecb nghe nh\u00ecn t\u1ed1i t\u00e2n, hi\u1ec7n \u0111\u1ea1i. Novotel \u0110\u00e0 N\u1eb5ng t\u1ef1 tin \u0111\u00e3 chu\u1ea9n b\u1ecb s\u1eb5n s\u00e0ng m\u1ecdi th\u1ee9 c\u1ea7n c\u00f3, \u0111\u1ec3 \u0111\u1ea3m b\u1ea3o cho m\u1ecdi s\u1ef1 ki\u1ec7n c\u1ee7a qu\u00fd kh\u00e1ch lu\u00f4n di\u1ec5n ra th\u00e0nh c\u00f4ng m\u1ef9 m\u00e3n.</p>\n<p>\u0110\u1ed9i ng\u0169 nh\u00e2n vi\u00ean chuy\u00ean nghi\u1ec7p \u0111\u01b0\u1ee3c \u0111\u00e0o t\u1ea1o k\u1ef9 c\u00e0ng c\u1ee7a ch\u00fang t\u00f4i s\u1ebd bi\u1ebfn mong mu\u1ed1n v\u00e0 m\u01a1 \u01b0\u1edbc c\u1ee7a qu\u00fd kh\u00e1ch th\u00e0nh hi\u1ec7n th\u1ef1c! B\u1eb1ng c\u00e1ch k\u1ebft h\u1ee3p c\u00e1c \u0111\u1ecba \u0111i\u1ec3m ngo\u00e0i tr\u1eddi r\u1ed9ng r\u00e3i v\u00e0 s\u00e2n v\u01b0\u1eddn tho\u00e1ng m\u00e1t, h\u00e3y \u0111\u1ec3 ch\u00fang t\u00f4i t\u1ea1o ra s\u1ef1 kh\u00e1c bi\u1ec7t v\u00e0 \u0111\u1ed9c \u0111\u00e1o trong m\u1ed7i s\u1ef1 ki\u1ec7n c\u1ee7a qu\u00fd kh\u00e1ch.</p>\n<ul>\n<li>Grand Thuy Son: s\u1ee9c ch\u1ee9a l\u00ean \u0111\u1ebfn 400 kh\u00e1ch</li>\n<li>Qu\u1ea7y Bar Splash: s\u1ee9c ch\u1ee9a l\u00ean \u0111\u1ebfn 250 kh\u00e1ch (ngo\u00e0i tr\u1eddi)</li>\n<li>Gourmet Bar: s\u1ee9c ch\u1ee9a l\u00ean \u0111\u1ebfn 250 kh\u00e1ch (trong ph\u00f2ng v\u00e0 s\u00e2n v\u01b0\u1eddn)</li>\n<li>Qu\u1ea7y Bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng: s\u1ee9c ch\u1ee9a t\u1eeb 60-80 kh\u00e1ch.</li>\n</ul>\n<p><strong><em>Ti\u1ec7c c\u01b0\u1edbi</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/wedding-tiec-cuoi-tai-novotel-danang-premier-han-river-danang-fantasticity-com-01.jpg\" alt=\"Wedding Tiec Cuoi Tai Novotel Danang Premier Han River Danang Fantasticity Com 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/wedding-tiec-cuoi-tai-novotel-danang-premier-han-river-danang-fantasticity-com-02-1024x660.jpg\" alt=\"Wedding Tiec Cuoi Tai Novotel Danang Premier Han River Danang Fantasticity Com 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/wedding-tiec-cuoi-tai-novotel-danang-premier-han-river-danang-fantasticity-com-03-1024x644.jpg\" alt=\"Wedding Tiec Cuoi Tai Novotel Danang Premier Han River Danang Fantasticity Com 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/wedding-tiec-cuoi-tai-novotel-danang-premier-han-river-danang-fantasticity-com.jpg\" alt=\"Wedding Tiec Cuoi Tai Novotel Danang Premier Han River Danang Fantasticity Com\" style=\"height: undefined;width: undefined\"/></p>\n<p>D\u00f9 b\u1ea1n \u0111ang m\u01a1 v\u1ec1 m\u1ed9t ti\u1ec7c c\u01b0\u1edbi ho\u00e0nh tr\u00e1ng, l\u1ed7ng l\u1eaby trong nh\u00e0 nh\u01b0 n\u00e0ng c\u00f4ng ch\u00faa l\u1ecd lem xinh \u0111\u1eb9p; hay m\u1ed9t b\u1eefa ti\u1ec7c l\u00e3ng m\u1ea1n, \u1ea5m c\u00fang d\u01b0\u1edbi v\u00f2m tr\u1eddi \u0111\u1ea7y sao. Ch\u1ec9 c\u1ea7n n\u00f3i l\u1eddi \u0111\u1ed3ng \u00fd, \u0111\u1ed9i ng\u0169 nh\u00e2n vi\u00ean n\u1ed3ng nhi\u1ec7t v\u00e0 chuy\u00ean nghi\u1ec7p c\u1ee7a ch\u00fang t\u00f4i s\u1ebd gi\u00fap qu\u00fd kh\u00e1ch c\u00f3 \u0111\u01b0\u1ee3c m\u1ed9t l\u1ec5 c\u01b0\u1edbi th\u1eadt \u0111\u00e1ng nh\u1edb. Ch\u1eafc ch\u1eafn kh\u00f4ng n\u01a1i n\u00e0o tuy\u1ec7t v\u1eddi h\u01a1n Novotel \u0110\u00e0 N\u1eb5ng \u0111\u1ec3 ghi l\u1ea1i kho\u1ea3nh kh\u1eafc \u0111\u1eb9p nh\u1ea5t trong \u0111\u1eddi c\u1ee7a qu\u00fd kh\u00e1ch.</p>\n<p>Ph\u00f2ng Grand Th\u1ee7y S\u01a1n c\u00f3 s\u1ee9c ch\u1ee9a l\u00ean \u0111\u1ebfn 400 ng\u01b0\u1eddi v\u1edbi kh\u00f4ng gian tinh t\u1ebf v\u00e0 l\u1ecbch l\u00e3m ch\u1eafc ch\u1eafn s\u1ebd mang s\u1ef1 lung linh cho c\u00e1c ti\u1ec7c c\u01b0\u1edbi.</p>\n<p>Nh\u1eefng qu\u1ea3n l\u00ed gi\u00e0u kinh nghi\u1ec7m s\u1ebd lu\u00f4n theo s\u00e1t m\u1ecdi di\u1ec5n bi\u1ebfn t\u1ea1i bu\u1ed5i ti\u1ec7c, \u0111\u1ec3 \u0111\u1ea3m b\u1ea3o t\u1ea5t c\u1ea3 ho\u1ea1t \u0111\u1ed9ng \u0111\u01b0\u1ee3c su\u00f4n s\u1ebb trong ng\u00e0y \u0111\u1eb7c bi\u1ec7t c\u1ee7a qu\u00fd kh\u00e1ch. H\u00e3y an t\u00e2m t\u1eadn h\u01b0\u1edfng nh\u1eefng ph\u00fat gi\u00e2y h\u1ea1nh ph\u00fac, th\u0103ng hoa trong ng\u00e0y vui l\u1ee9a \u0111\u00f4i c\u00f9ng v\u1edbi gia \u0111\u00ecnh v\u00e0 b\u1ea1n b\u00e8.</p>\n<p>Kh\u00f4ng d\u1eebng l\u1ea1i \u1edf \u0111\u00f3, Novotel \u0110\u00e0 N\u1eb5ng c\u00f2n cung c\u1ea5p nh\u1eefng \u0111\u1eb7c quy\u1ec1n m\u00e0 qu\u00fd kh\u00e1ch h\u1eb1ng t\u01b0\u1edfng t\u01b0\u1ee3ng cho \u0111\u00e1m c\u01b0\u1edbi trong m\u01a1:</p>\n<ul>\n<li>C\u1ed5ng hoa t\u01b0\u01a1i</li>\n<li>B\u00e0n l\u1ec5 t\u00e2n v\u1edbi hoa trang tr\u00ed</li>\n<li>S\u1ed5 k\u00ed t\u00ean l\u01b0u ni\u1ec7m, th\u00f9ng \u0111\u1ef1ng ti\u1ec1n m\u1eebng v\u00e0 gi\u00e1 \u0111\u1ec3 \u1ea3nh c\u01b0\u1edbi</li>\n<li>Ph\u00f4ng n\u1ec1n ti\u1ec7c c\u01b0\u1edbi tr\u00ean s\u00e2n kh\u1ea5u c\u00f3 trang tr\u00ed hoa t\u01b0\u01a1i</li>\n<li>Hoa t\u01b0\u01a1i m\u1ed7i b\u00e0n ti\u1ec7c</li>\n<li>Hoa t\u01b0\u01a1i cho l\u1ed1i \u0111i l\u00ean s\u00e2n kh\u1ea5u</li>\n<li>Th\u00e1p s\u00e2m banh v\u1edbi hi\u1ec7u \u1ee9ng \u0111\u00e1 kh\u00f3i v\u00e0 2 chai r\u01b0\u1ee3u vang</li>\n<li>B\u00e1nh c\u01b0\u1edbi 4 t\u1ea7ng trong \u0111\u00f3 c\u00f3 1 t\u1ea7ng th\u1eadt</li>\n<li>\u00c2m thanh \u00e1nh s\u00e1ng s\u00f4i \u0111\u1ed9ng</li>\n<li>\u0110\u1ed9i nghi l\u1ec5 m\u1edf m\u00e0n</li>\n<li>2 vi\u00ean ph\u00e1o kim tuy\u1ebfn cho nghi l\u1ec5</li>\n<li>\u0102n nh\u1eb9 d\u00e0nh cho c\u00f4 d\u00e2u v\u00e0 ch\u00fa r\u1ec3 tr\u01b0\u1edbc khi ti\u1ec7c di\u1ec5n ra</li>\n<li>1 \u0111\u00eam t\u00e2n h\u00f4n v\u1edbi hoa t\u01b0\u01a1i v\u00e0 gi\u1ecf hoa qu\u1ea3 trong ph\u00f2ng</li>\n<li>\u0102n th\u1eed th\u1ef1c \u0111\u01a1n ti\u1ec7c c\u01b0\u1edbi cho 4 ng\u01b0\u1eddi.</li>\n</ul>\n<p>Li\u00ean h\u1ec7 b\u1ed9 ph\u1eadn t\u1ed5 ch\u1ee9c ti\u1ec7c c\u01b0\u1edbi c\u1ee7a ch\u00fang t\u00f4i qua: H8287@accor.com</p>\n<p><strong><em>S\u1ef1 ki\u1ec7n</em></strong></p>\n<p>T\u1eeb c\u00e1c th\u1ef1c \u0111\u01a1n g\u1ecdi m\u00f3n, ti\u1ec7c t\u1ef1 ch\u1ecdn cho \u0111\u1ebfn ti\u1ec7c cocktail canap\u00e9, \u0111\u1ed9i ng\u0169 b\u1ebfp chuy\u00ean nghi\u1ec7p c\u1ee7a ch\u00fang t\u00f4i \u0111\u1ec1u mang \u0111\u1ebfn nh\u1eefng h\u01b0\u01a1ng v\u1ecb \u0111\u00edch th\u1ef1c v\u00e0 \u0111\u1ea7y s\u00e1ng t\u1ea1o. Novotel \u0110\u00e0 N\u1eb5ng t\u1ef1 h\u00e0o cung c\u1ea5p nhi\u1ec1u s\u1ef1 l\u1ef1a ch\u1ecdn, \u0111\u1ec3 t\u1ea1o n\u00ean m\u1ed9t b\u1eefa ti\u1ec7c ho\u00e0nh tr\u00e1ng hay \u1ea5m \u00e1p, theo phong c\u00e1ch ri\u00eang c\u1ee7a qu\u00fd kh\u00e1ch.</p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/su-kien-tai-novotel-danang-premier-han-river-danang-fantasticity-com.jpg\" alt=\"Su Kien Tai Novotel Danang Premier Han River Danang Fantasticity Com\" style=\"height: undefined;width: undefined\"/></p>\n<p>C\u00e1c kh\u00f4ng gian s\u1ef1 ki\u1ec7n c\u0169ng nh\u01b0 c\u00e1c qu\u1ea7y bar v\u00e0 nh\u00e0 h\u00e0ng, n\u1eb1m \u1edf nhi\u1ec1u v\u1ecb tr\u00ed kh\u00e1c nhau, nh\u01b0ng \u0111\u1ec1u c\u00f3 h\u01b0\u1edbng nh\u00ecn tuy\u1ec7t \u0111\u1eb9p v\u1edbi quan c\u1ea3nh \u1ea5n t\u01b0\u1ee3ng. \u0110i\u1ec1u \u0111\u1eb7c bi\u1ec7t \u0111\u00f3 gi\u00fap vi\u1ec7c t\u1ed5 ch\u1ee9c c\u00e1c s\u1ef1 ki\u1ec7n giao l\u01b0u, g\u1eb7p g\u1ee1 c\u1ee7a qu\u00fd kh\u00e1ch tr\u1edf n\u00ean ho\u00e0n h\u1ea3o h\u01a1n. Cho d\u00f9 \u0111\u00f3 l\u00e0 m\u1ed9t b\u1eefa ti\u1ec7c l\u1edbn (l\u00ean t\u1edbi 400 ng\u01b0\u1eddi), hay ch\u1ec9 l\u00e0 m\u1ed9t nh\u00f3m b\u1ea1n th\u00e2n c\u00f9ng nhau t\u1ed5 ch\u1ee9c sinh nh\u1eadt, t\u1ea5t c\u1ea3 \u0111\u1ec1u c\u00f3 th\u1ec3 di\u1ec5n ra t\u1ea1i Novotel \u0110\u00e0 N\u1eb5ng.</p>\n<p><strong><em>H\u1ed9i h\u1ecdp</em></strong></p>\n<p>Qu\u00fd kh\u00e1ch \u0111ang t\u00ecm ki\u1ebfm m\u1ed9t \u0111\u1ecba \u0111i\u1ec3m ho\u00e0n h\u1ea3o \u0111\u1ec3 t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n, h\u1ed9i th\u1ea3o, h\u1ed9i ngh\u1ecb, ra m\u1eaft s\u1ea3n ph\u1ea9m, di\u1ec5n \u0111\u00e0n hay tri\u1ec3n l\u00e3m t\u01b0 v\u1ea5n gi\u00e1o d\u1ee5c? Ch\u1eb3ng c\u1ea7n t\u00ecm \u0111\u00e2u xa, kh\u00f4ng n\u01a1i n\u00e0o t\u1ed1t h\u01a1n Novotel \u0110\u00e0 N\u1eb5ng.</p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/novotel-danang-premier-han-river-danang-fantasticity-meeting.jpg\" alt=\"undefined\" style=\"height: undefined;width: undefined\"/></p>\n<p>H\u1ec7 th\u1ed1ng 5 ph\u00f2ng h\u1ecdp \u0111\u1eb7c bi\u1ec7t c\u00f3 th\u1ec3 ph\u00e2n c\u00e1ch ho\u1eb7c m\u1edf r\u1ed9ng, \u0111\u01b0\u1ee3c l\u1eafp \u0111\u1eb7t \u0111\u1ea7y \u0111\u1ee7 c\u00e1c trang thi\u1ebft b\u1ecb hi\u1ec7n \u0111\u1ea1i, ti\u00ean ti\u1ebfn c\u00f9ng d\u00e0n \u00e2m thanh, m\u00e1y chi\u1ebfu chuy\u00ean nghi\u1ec7p nh\u1ea5t.</p>\n<p>\u0110\u1ed9i ng\u0169 t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n chuy\u00ean nghi\u1ec7p, t\u1ec9 m\u1ec9 trong chi ti\u1ebft c\u1ee7a ch\u00fang t\u00f4i lu\u00f4n lu\u00f4n h\u01b0\u1edbng \u0111\u1ebfn s\u1ef1 th\u00e0nh c\u00f4ng cho h\u1ed9i ngh\u1ecb c\u1ee7a qu\u00fd kh\u00e1ch.</p>\n<p><strong>S\u1ee8C KH\u1eceE V\u00c0 GI\u1ea2I TR\u00cd</strong></p>\n<p><strong><em>InBalance Spa</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/InBalance-Spa-novotel-danang-premier-han-river-danang-fantasticity-com.jpg\" alt=\"Inbalance Spa Novotel Danang Premier Han River Danang Fantasticity Com\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/InBalance-Spa-novotel-danang-premier-han-river-danang-fantasticity-com-01-1024x683.jpg\" alt=\"Inbalance Spa Novotel Danang Premier Han River Danang Fantasticity Com 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/InBalance-Spa-novotel-danang-premier-han-river-danang-fantasticity-com-04-1024x683.jpg\" alt=\"Inbalance Spa Novotel Danang Premier Han River Danang Fantasticity Com 04\" style=\"height: undefined;width: undefined\"/></p>\n<p>Spa c\u1ee7a ch\u00fang t\u00f4i \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf hi\u1ec7n \u0111\u1ea1i trong m\u1ed9t kh\u00f4ng gian y\u00ean t\u0129nh, t\u00e1ch bi\u1ec7t ho\u00e0n to\u00e0n kh\u1ecfi th\u1ebf gi\u1edbi b\u00ean ngo\u00e0i. T\u1ea1i n\u01a1i \u0111\u00e2y, Qu\u00fd kh\u00e1ch c\u00f3 th\u1ec3 th\u01b0 gi\u00e3n t\u00e2m tr\u00ed, ph\u1ee5c h\u1ed3i ngu\u1ed3n n\u0103ng l\u01b0\u1ee3ng m\u1edbi, t\u01b0\u01a1i tr\u1ebb c\u01a1 th\u1ec3 v\u00e0 t\u00e2m h\u1ed3n.</p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/InBalance-Spa-novotel-danang-premier-han-river-danang-fantasticity-com-05.jpg\" alt=\"Inbalance Spa Novotel Danang Premier Han River Danang Fantasticity Com 05\" style=\"height: undefined;width: undefined\"/></p>\n<p>T\u1ecda l\u1ea1c t\u1ea1i t\u1ea7ng 6 c\u1ee7a kh\u00e1ch s\u1ea1n, InBalance Spa l\u00e0 kh\u00f4ng gian ho\u00e0n h\u1ea3o, \u0111\u1ec3 tr\u1ea3i nghi\u1ec7m nh\u1eefng d\u1ecbch v\u1ee5 spa \u0111\u1eb3ng c\u1ea5p. N\u01a1i \u0111\u00e2y cung c\u1ea5p nhi\u1ec1u li\u1ec7u ph\u00e1p xoa b\u00f3p tr\u1ecb li\u1ec7u ri\u00eang bi\u1ec7t ho\u1eb7c t\u1ed5ng h\u1ee3p, c\u00f9ng v\u1edbi h\u1ec7 th\u1ed1ng Sauna v\u00e0 Jacuzzi hi\u1ec7n \u0111\u1ea1i. Vi\u1ec7c k\u1ebft h\u1ee3p h\u00e0i h\u00f2a gi\u1eefa nh\u1eefng li\u1ec7u tr\u00ecnh th\u01b0 gi\u00e3n \u0111\u1eb7c tr\u01b0ng t\u1ea1i InBalance Spa v\u1edbi ngu\u1ed3n th\u1ea3o m\u1ed9c qu\u00fd hi\u1ebfm, s\u1ebd mang \u0111\u1ebfn tr\u1ea3i nghi\u1ec7m ho\u00e0n h\u1ea3o cho t\u1eebng gi\u00e1c quan c\u1ee7a b\u1ea1n.</p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/InBalance-Spa-novotel-danang-premier-han-river-danang-fantasticity-com-06.jpg\" alt=\"Inbalance Spa Novotel Danang Premier Han River Danang Fantasticity Com 06\" style=\"height: undefined;width: undefined\"/></p>\n<p>Nh\u1eefng \u0111\u00f4i b\u00e0n tay kh\u00e9o l\u00e9o, \u0111i\u00eau luy\u1ec7n c\u1ee7a \u0111\u1ed9i ng\u0169 nh\u00e2n vi\u00ean gi\u00e0u kinh nghi\u1ec7m t\u1ea1i \u0111\u00e2y s\u1ebd mang \u0111\u1ebfn cho Qu\u00fd kh\u00e1ch c\u1ea3m gi\u00e1c Th\u01b0 gi\u00e3n, Ph\u1ee5c h\u1ed3i v\u00e0 T\u00e1i sinh.</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> T\u1ea7ng 6</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda: </ins></em>9:00 \u2013 22:00</li>\n</ul>\n<p><strong><em>Trung t\u00e2m th\u1ec3 h\u00ecnh InBalance</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/novotel-danang-premier-han-river-danang-com-InBalance-fitness.jpg\" alt=\"undefined\" style=\"height: undefined;width: undefined\"/></p>\n<p>N\u1eb1m t\u1ea1i khu v\u1ef1c t\u1ea7ng 5 c\u1ee7a kh\u00e1ch s\u1ea1n, v\u1edbi trang thi\u1ebft b\u1ecb hi\u1ec7n \u0111\u1ea1i h\u00e0ng \u0111\u1ea7u v\u00e0 kh\u00f4ng gian s\u1ed1ng \u0111\u1ed9ng lu\u00f4n tr\u00e0n \u0111\u1ea7y n\u0103ng l\u01b0\u1ee3ng \u0111\u00e3 l\u00e0m n\u00ean\u00a0trung t\u00e2m th\u1ec3 h\u00ecnh InBalance\u00a0\u0111\u1eb3ng c\u1ea5p ngay trung t\u00e2m th\u00e0nh ph\u1ed1. N\u01a1i \u0111\u00e2y kh\u00f4ng ch\u1ec9 d\u00e0nh cho kh\u00e1ch l\u01b0u tr\u00fa t\u1ea1i kh\u00e1ch s\u1ea1n \u0111\u1ebfn luy\u1ec7n t\u1eadp , m\u00e0 c\u00f2n ch\u00e0o \u0111\u00f3n c\u00e1c th\u00e0nh vi\u00ean c\u00f3 nhu c\u1ea7u \u0111\u1ebfn s\u1eed d\u1ee5ng v\u00e0 tr\u1ea3i nghi\u1ec7m ch\u1ea5t l\u01b0\u1ee3ng ph\u00f2ng t\u1eadp \u0111\u1eb3ng c\u1ea5p c\u1ee7a Novotel.</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> t\u1ea7ng 5</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda:</ins></em> 6:00 \u2013 22:00</li>\n</ul>\n<p><strong><em>L\u1edbp Yoga</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/novotel-danang-premier-han-river-danang-fantasticity-com-Yoga-Class-Novotel-Danang-Premier-5.jpg\" alt=\"undefined\" style=\"height: undefined;width: undefined\"/></p>\n<p>Nh\u1eefng l\u1edbp h\u1ecdc Yoga \u0111\u1ea7u ti\u00ean \u0111\u01b0\u1ee3c khai gi\u1ea3ng t\u1eeb th\u00e1ng 8 n\u0103m 2014 v\u00e0 nhanh ch\u00f3ng tr\u1edf th\u00e0nh t\u00e2m \u0111i\u1ec3m ch\u00fa \u00fd c\u1ee7a\u00a0Novotel Danang Premier Han River. C\u00e1c l\u1edbp h\u1ecdc Yoga \u1edf \u0111\u00e2y \u0111\u01b0\u1ee3c d\u1eabn d\u1eaft b\u1edfi gi\u00e1o vi\u00ean gi\u00e0u kinh nghi\u1ec7m \u0111\u1ebfn t\u1eeb Nelpan \u2013 c\u00f4 Usha Rijal Adhikari \u2013 ng\u01b0\u1eddi \u0111\u00e3 d\u00e0nh \u0111\u01b0\u1ee3c nhi\u1ec1u danh hi\u1ec7u n\u1ed5i ti\u1ebfng v\u1ec1 Yoga trong khu v\u1ef1c v\u00e0 tr\u00ean th\u1ebf gi\u1edbi.</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> T\u1ea7ng 5</li>\n</ul>\n<p><strong><em>C\u00e2u l\u1ea1c b\u1ed9 Tr\u1ebb em</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/novotel-danang-premier-han-river-danang-fantasticity-com-kid-club-1024x683.jpg\" alt=\"novotel-danang-premier-han-river-danang-fantasticity-com-kid-club\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/novotel-danang-premier-han-river-danang-fantasticity-com-kid-club-1-1024x683.jpg\" alt=\"novotel-danang-premier-han-river-danang-fantasticity-com-kid-club-1\" style=\"height: undefined;width: undefined\"/></p>\n<p>Nh\u1eefng tr\u1ea3i nghi\u1ec7m c\u1ee7a Qu\u00fd kh\u00e1ch s\u1ebd c\u00e0ng tuy\u1ec7t v\u1eddi h\u01a1n n\u1ebfu nh\u1eefng thi\u00ean th\u1ea7n nh\u1ecf c\u1ee7a b\u1ea1n c\u0169ng \u0111\u01b0\u1ee3c t\u1eadn h\u01b0\u1edfng, v\u00e0 ch\u0103m s\u00f3c k\u1ef9 l\u01b0\u1ee1ng v\u1edbi c\u00e1c d\u1ecbch v\u1ee5 vui ch\u01a1i, gi\u1ea3i tr\u00ed b\u1ed5 \u00edch. \u0110\u00f3 ch\u00ednh l\u00e0 l\u00fd do t\u1ea1i sao ch\u00fang t\u00f4i x\u00e2y d\u1ef1ng n\u00ean C\u00e2u l\u1ea1c b\u1ed9 Tr\u1ebb em \u0111\u1ea7y th\u00fa v\u1ecb, v\u1edbi nhi\u1ec1u tr\u00f2 ch\u01a1i v\u1eadn \u0111\u1ed9ng, tr\u00ed tu\u1ec7, d\u00e0nh cho nhi\u1ec1u l\u1ee9a tu\u1ed5i. B\u00ean c\u1ea1nh c\u00e1c d\u1ecbch v\u1ee5 ho\u00e0n h\u1ea3o kh\u00e1c, Kid\u2019s Club c\u0169ng \u0111\u00e3 g\u00f3p ph\u1ea7n l\u00e0m t\u0103ng th\u00eam gi\u00e1 tr\u1ecb, \u0111\u1ec3 kh\u00e1ch s\u1ea1n\u00a0Novotel Danang Premier Han River\u00a0tr\u1edf th\u00e0nh m\u1ed9t \u0111i\u1ec3m \u0111\u1ebfn l\u00fd t\u01b0\u1edfng, cho c\u00e1c gia \u0111\u00ecnh t\u1eadn h\u01b0\u1edfng k\u00ec ngh\u1ec9 sum v\u1ea7y ho\u00e0n h\u1ea3o.</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> t\u1ea7ng 5</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda:</ins></em> 7:00 to 20:00</li>\n</ul>\n<p><strong>Ch\u00ednh s\u00e1ch</strong></p>\n<ul>\n<li>Xin th\u00f4ng b\u00e1o lo\u1ea1i ph\u00f2ng Superior ch\u1ec9 ch\u1ee9a t\u1ed1i \u0111a 2 ng\u01b0\u1eddi bao g\u1ed3m tr\u1ebb em.</li>\n<li>Tr\u1ebb em v\u00e0 gi\u01b0\u1eddng ph\u1ee5</li>\n<li>Em b\u00e9 0-1 tu\u1ed5i: \u1ede mi\u1ec5n ph\u00ed n\u1ebfu s\u1eed d\u1ee5ng gi\u01b0\u1eddng s\u1eb5n c\u00f3. Ch\u00fa \u00fd, n\u1ebfu b\u1ea1n c\u1ea7n c\u0169i th\u00ec c\u00f3 th\u1ec3 ph\u1ea3i tr\u1ea3 th\u00eam ph\u00ed.</li>\n<li>Tr\u1ebb em 2-15 tu\u1ed5i: \u1ede mi\u1ec5n ph\u00ed n\u1ebfu s\u1eed d\u1ee5ng gi\u01b0\u1eddng s\u1eb5n c\u00f3.</li>\n<li>Kh\u00e1ch tr\u00ean 15 tu\u1ed5i \u0111\u01b0\u1ee3c coi l\u00e0 ng\u01b0\u1eddi l\u1edbn. Gi\u01b0\u1eddng ph\u1ee5 t\u00f9y thu\u1ed9c v\u00e0o lo\u1ea1i ph\u00f2ng b\u1ea1n ch\u1ecdn, xin vui l\u00f2ng ki\u1ec3m tra th\u00f4ng tin ph\u00f2ng \u0111\u1ec3 bi\u1ebft th\u00eam chi ti\u1ebft.</li>\n<li>Khi \u0111\u1eb7t tr\u00ean 5 ph\u00f2ng, ch\u00ednh s\u00e1ch v\u00e0 \u0111i\u1ec1u kho\u1ea3n b\u1ed5 sung c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c \u00e1p d\u1ee5ng.</li>\n</ul>\n<p><strong>Th\u00f4ng tin h\u1eefu \u00edch</strong></p>\n<ul>\n<li>Kh\u00e1ch s\u1ea1n \u0111\u01b0\u1ee3c x\u00e2y v\u00e0o n\u0103m: 2013</li>\n<li>Kho\u1ea3ng c\u00e1ch t\u1edbi s\u00e2n bay: 2 Km</li>\n<li>Kho\u1ea3ng c\u00e1ch t\u1eeb trung t\u00e2m th\u00e0nh ph\u1ed1: 0.1 Km</li>\n<li>Nh\u1eadn ph\u00f2ng t\u1eeb: 02:00 PM</li>\n<li>Ph\u00ed b\u1eefa s\u00e1ng (\u00e1p d\u1ee5ng khi kh\u00f4ng bao g\u1ed3m trong gi\u00e1 ph\u00f2ng): 17.33 USD</li>\n<li>Ph\u00ed \u0111\u01b0a \u0111\u00f3n s\u00e2n bay: 0 USD</li>\n<li>Ph\u00ed s\u1eed d\u1ee5ng Internet : 0 USD</li>\n<li>Ph\u00f2ng / t\u1ea7ng kh\u00f4ng h\u00fat thu\u1ed1c: Yes</li>\n<li>Qu\u1ea7y ti\u1ebfp t\u00e2n m\u1edf c\u1eeda \u0111\u1ebfn: 12:00 AM</li>\n<li>S\u1ed1 l\u01b0\u1ee3ng nh\u00e0 h\u00e0ng: 1</li>\n<li>S\u1ed1 l\u01b0\u1ee3ng ph\u00f2ng: 323</li>\n<li>S\u1ed1 l\u01b0\u1ee3ng qu\u00e1n bar: 3</li>\n<li>S\u1ed1 t\u1ea7ng kh\u00e1ch s\u1ea1n: 36</li>\n<li>Th\u1eddi gian \u0111\u1ebfn s\u00e2n bay (ph\u00fat): 5</li>\n<li>Tr\u1ea3 ph\u00f2ng \u0111\u1ebfn: 12:00 PM</li>\n</ul>\n",
+                        "order": 0
+                    },
+                    {
+                        "id": "5f7d27d3a6e3b56ccccfe72e",
+                        "type": "article",
+                        "name": "Th\u00f4ng tin gi\u00e1 ph\u00f2ng kh\u00e1ch s\u1ea1n Novotel \u0110\u00e0 N\u1eb5ng",
+                        "content": "<h1>Th\u00f4ng tin gi\u00e1 ph\u00f2ng kh\u00e1ch s\u1ea1n Novotel \u0110\u00e0 N\u1eb5ng</h1>\n<p><a href=\"https://xbuy.vn/author/vnbooking\" target=\"_self\">vnbooking com</a> 11/05/2015 <a href=\"https://xbuy.vn/khach-san-mien-trung/khach-san-da-nang-khach-san-mien-trung\" target=\"_self\">Kh\u00e1ch s\u1ea1n \u0110\u00e0 N\u1eb5ng</a>, <a href=\"https://xbuy.vn/khach-san-mien-trung\" target=\"_self\">Kh\u00e1ch s\u1ea1n Mi\u1ec1n Trung</a> <a href=\"https://xbuy.vn/thong-tin-gia-phong-khach-san-novotel-da-nang.html#respond\" target=\"_self\">Leave a comment</a></p>\n<p><em>\u0110\u1ecba ch\u1ec9: 36 \u0111\u01b0\u1eddng B\u1ea1ch \u0110\u1eb1ng, H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng</em></p>\n<p><em>Ti\u1ec3u chu\u1ea9n: 5 sao</em></p>\n<p><em>S\u1ed1 ph\u00f2ng: 323</em></p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/bookhotel4.png\" alt=\"bookhotel4\" style=\"height: 100;width: 300\"/></p>\n<p><a href=\"http://www.vnbooking.com/hotel/da-nang-hotels/khach-san-novotel-danang-premier-han-river.html\" target=\"_self\">Kh\u00e1ch s\u1ea1n Novotel \u0110\u00e0 N\u1eb5ng</a> n\u1eb1m th\u00e0nh ph\u1ed1 0.1 Km, kh\u00e1ch s\u1ea1n 5 sao n\u00e0y c\u00f3 v\u1ecb tr\u00ed v\u00f4 c\u00f9ng thu\u1eadn l\u1ee3i v\u00e0 d\u1ec5 ti\u1ebfp c\u1eadn c\u00e1c \u0111\u1ecba \u0111i\u1ec3m l\u1edbn c\u1ee7a th\u00e0nh ph\u1ed1 n\u00e0y.</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p>\u0110\u01b0\u1ee3c bi\u1ebft \u0111\u1ebfn nh\u01b0 m\u1ed9t thi\u00ean \u0111\u01b0\u1eddng ngh\u1ec9 d\u01b0\u1ee1ng v\u00e0 th\u01b0 gi\u00e3n, kh\u00e1ch s\u1ea1n mang l\u1ea1i s\u1ef1 \u0111\u1ed5i m\u1edbi ho\u00e0n to\u00e0n so v\u1edbi 37 t\u1ea7ng, Novotel Danang Premier Han River s\u1ebd cho qu\u00fd kh\u00e1ch t\u1ea7m nh\u00ecn tuy\u1ec7t \u0111\u1eb9p xu\u1ed1ng th\u00e0nh ph\u1ed1 v\u00e0 b\u00e3i bi\u1ec3n \u0110\u00e0N\u1eb5ng</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang-1.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p><a href=\"http://www.vnbooking.com/hotel/da-nang-hotels/khach-san-novotel-danang-premier-han-river.html\" target=\"_self\">Novotel Danang Premier Han River</a> g\u1ed3m 323 ph\u00f2ng Novotel th\u1ebf h\u1ec7 m\u1edbi v\u1edbi 3 t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng, trang thi\u1ebft h\u1ed9i ngh\u1ecb hi\u1ec7n \u0111\u1ea1i, sang tr\u1ecdng, \u0111\u1ed3ng th\u1eddi mang \u0111\u1ebfn cho du kh\u00e1ch c\u1ea3m gi\u00e1c \u1ea5m c\u00fang.</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang-231.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p>T\u1ea5t c\u1ea3 c\u00e1c ph\u00f2ng ngh\u1ec9 c\u1ee7a kh\u00e1ch s\u1ea1n 5 sao n\u00e0y \u0111\u1ec1u \u0111\u01b0\u1ee3c trang b\u1ecb v\u00f2i hoa sen, b\u00e0n, ban c\u00f4ng, tivi LCD/Plasma l\u00e0 m\u1ed9t s\u1ed1 thi\u1ebft b\u1ecb m\u00e0 b\u1ea1n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng v\u00e0 h\u00e0i l\u00f2ng. Kh\u00e1ch s\u1ea1n mang l\u1ea1i ph\u01b0\u01a1ng ti\u1ec7n gi\u1ea3i tr\u00ed \u0111a d\u1ea1ng, bao g\u1ed3m b\u1ed3n t\u1eafm, b\u1ec3 b\u01a1i tr\u1ebb em, b\u1ec3 b\u01a1i ngo\u00e0i tr\u1eddi.</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang-12.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p><strong><em>Gi\u00e1 ph\u00f2ng t\u1ea1i Vnbooking ( \u0111\u00e3 bao g\u1ed3m b\u1eefa s\u00e1ng )</em></strong></p>\n<p><strong><em>+ </em></strong>Ph\u00f2ng Superior King/Twin: 3,036,313 VN\u0110</p>\n<p>+ Ph\u00f2ng Deluxe King/Twin: 3,361,635 VN\u0110</p>\n<p>+ Ph\u00f2ng Executive King/Twin: 3,795,400 VN\u0110</p>\n<p>Nh\u00e0 h\u00e0ng qu\u1ed1c t\u1ebf \u201cThe Square\u201d, qu\u1ea7y bar t\u1ea1i ti\u1ec1n s\u1ea3nh v\u00e0 b\u00ean h\u1ed3 b\u01a1i ngo\u00e0i tr\u1eddi, trung t\u00e2m th\u1ec3 h\u00ecnh v\u00e0 Spa th\u01b0\u01a1ng hi\u1ec7u qu\u1ed1c t\u1ebf In|Balance s\u1ebd \u0111em \u0111\u1ebfn cho qu\u00fd kh\u00e1ch nh\u1eefng tr\u1ea3i nghi\u1ec3m, nh\u1eefng d\u1ecbch v\u1ee5 ch\u1ea5t l\u01b0\u1ee3ng \u0111\u00fang v\u1edbi ti\u00eau chu\u1ea9n sao c\u1ee7a kh\u00e1ch s\u1ea1n</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang-1241.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p>Kh\u00e1ch s\u1ea1n Novotel \u0110\u00e0 N\u1eb5ng l\u00e0 n\u01a1i l\u00fd t\u01b0\u1edfng cho doanh nh\u00e2n v\u00e0 kh\u00e1ch du l\u1ecbch ngh\u1ec9 d\u01b0\u1ee1ng</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang-124.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p>\u0110\u1ec3 bi\u1ebft th\u00eam th\u00f4ng tin chi ti\u1ebft v\u1ec1 <a href=\"http://www.vnbooking.com/hotel/da-nang-hotels/khach-san-novotel-danang-premier-han-river.html\" target=\"_self\"><strong>kh\u00e1ch s\u1ea1n Novotel \u0110\u00e0 N\u1eb5ng</strong></a> hay \u0111\u1eb7t ph\u00f2ng <strong>kh\u00e1ch s\u1ea1n \u0110\u00e0 N\u1eb5ng</strong> kh\u00e1c, vui l\u00f2ng truy c\u1eadp <strong>Vnbooking.com.</strong></p>\n<p>Ho\u1eb7c b\u1ea1n c\u00f3 th\u1ec3 li\u00ean h\u1ec7 tr\u1ef1c ti\u1ebfp hotline: <strong>0904 669 196</strong> \u0111\u1ec3 \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3 v\u00e0 t\u01b0 v\u1ea5n t\u1ed1t nh\u1ea5t</p>\n",
+                        "order": 0
+                    },
+                    {
+                        "id": "5f7d27d3a6e3b56ccccfe76b",
+                        "type": "link",
+                        "name": "NOVOTEL DANANG PREMIER HAN RIVER",
+                        "content": "https://www.novotel-danang-premier.com/vi/",
+                        "order": 0
+                    },
+                    {
+                        "id": "5f7d27d3a6e3b56ccccfe76c",
+                        "type": "link",
+                        "name": "T\u1eadn h\u01b0\u1edfng d\u1ecbch v\u1ee5 \u0111\u1ec9nh cao, \u0111\u1eb3ng c\u1ea5p th\u1ebf gi\u1edbi t\u1ea1i Novotel Danang Premier Han River",
+                        "content": "https://www.booking.com/hotel/vn/novotel-danang-premier-han-river.vi.html",
+                        "order": 0
+                    },
+                    {
+                        "id": "5f7d27d3a6e3b56ccccfe798",
+                        "type": "videoLink",
+                        "name": "Novotel Danang Premier Han River by Cham Vietnam",
+                        "content": "https://www.youtube.com/embed/J3DWINJ-X2E",
+                        "order": 0
+                    },
+                    {
+                        "id": "5f7d27d3a6e3b56ccccfe799",
+                        "type": "videoLink",
+                        "name": "Novotel \u0110\u00e0 N\u1eb5ng - T\u00f2a th\u00e1p \u00e1nh s\u00e1ng b\u00ean b\u1edd s\u00f4ng H\u00e0n v\u1edbi chi\u1ebfu s\u00e1ng th\u00f4ng minh Interact Landmark",
+                        "content": "https://www.youtube.com/embed/Bb9FLpFoedA",
+                        "order": 0
+                    },
+                    {
+                        "id": "5f7d27d3a6e3b56ccccfe79a",
+                        "type": "videoLink",
+                        "name": "Novotel Danang Premier Han River",
+                        "content": "https://www.youtube.com/embed/VWl0zFEa5PA",
+                        "order": 0
+                    }
+                ],
+                "mediaFiles": [
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a9.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a9.jpg",
+                        "typeFile": "Image",
+                        "description": "206809501.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534978280
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a9.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a9.jpg",
+                        "typeFile": "Image",
+                        "description": "206809501.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534978280
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a7.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a7.jpg",
+                        "typeFile": "Image",
+                        "description": "206808103.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534978210
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a7.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a7.jpg",
+                        "typeFile": "Image",
+                        "description": "206808103.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534978210
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a5.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a5.jpg",
+                        "typeFile": "Image",
+                        "description": "201220879.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534978160
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a5.jpg",
+                        "name": "5eec27c2a3a6ae49e19e03a5.jpg",
+                        "typeFile": "Image",
+                        "description": "201220879.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534978160
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a3.jpg",
+                        "name": "5eec27c1a3a6ae49e19e03a3.jpg",
+                        "typeFile": "Image",
+                        "description": "201220041.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534978063
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a3.jpg",
+                        "name": "5eec27c1a3a6ae49e19e03a3.jpg",
+                        "typeFile": "Image",
+                        "description": "201220041.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534978063
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a1.jpg",
+                        "name": "5eec27c1a3a6ae49e19e03a1.jpg",
+                        "typeFile": "Image",
+                        "description": "novotel.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534977857
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a1.jpg",
+                        "name": "5eec27c1a3a6ae49e19e03a1.jpg",
+                        "typeFile": "Image",
+                        "description": "novotel.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534977857
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039f.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039f.jpg",
+                        "typeFile": "Image",
+                        "description": "image.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534977732
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039f.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039f.jpg",
+                        "typeFile": "Image",
+                        "description": "image.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534977732
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039d.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039d.jpg",
+                        "typeFile": "Image",
+                        "description": "unnamed_1_10.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534977678
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039d.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039d.jpg",
+                        "typeFile": "Image",
+                        "description": "unnamed_1_10.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534977678
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039b.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039b.jpg",
+                        "typeFile": "Image",
+                        "description": "1498745294.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534977530
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039b.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039b.jpg",
+                        "typeFile": "Image",
+                        "description": "1498745294.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534977530
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039a.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039a.jpg",
+                        "typeFile": "Image",
+                        "description": "63140457.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534977404
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039a.jpg",
+                        "name": "5eec27c1a3a6ae49e19e039a.jpg",
+                        "typeFile": "Image",
+                        "description": "63140457.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534977404
+                    },
+                    {
+                        "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec25627ec192067e4050ec.jpg",
+                        "name": "5eec25627ec192067e4050ec.jpg",
+                        "typeFile": "Image",
+                        "description": "Novotel-Premier-Han-River-Danang-Vietnam-Facade-nkk4ikknzzzhr6cixlq39ae4z9hixe8hovcgl0zmy6.jpg",
+                        "duration": 0,
+                        "createdBy": {
+                            "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                            "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                        },
+                        "createdDate": 1592534370524
+                    }
+                ]
+            },
+            {
+                "id": "645617e24e3b90d4be7753f5",
+                "location": {
+                    "lng": 108.23879703026074,
+                    "lat": 16.061445000000006
+                },
+                "address": "22 M\u1ef9 Kh\u00ea 3, Ph\u01b0\u1edbc M\u1ef9, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Modern Egypt",
+                "objectId": "589ad80436eace2398d47be7",
+                "description": null,
+                "types": [
+                    "taxi"
+                ],
+                "typeInfos": [],
+                "mainType": "taxi",
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "22"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "m\u1ef9 kh\u00ea 3"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "ph\u01b0\u1edbc m\u1ef9"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "s\u01a1n tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "\u0111\u00e0 n\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "vi\u1ec7t nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [],
+                "otherPlaceInObjects": [
+                    {
+                        "id": "5c9845e4814a9df9d67e5a4a",
+                        "location": {
+                            "lng": 108.223633,
+                            "lat": 16.077282
+                        },
+                        "address": "36 B\u1ea1ch \u0110\u1eb1ng, Ph\u01b0\u1eddng Th\u1ea1ch Thang, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                        "name": "Hotel Novotel Danang Premier Han River",
+                        "objectId": "589ad80436eace2398d47be7",
+                        "description": "   NOVOTEL DANANG PREMIER HAN RIVER  \n \u0110\u00e0 N\u1eb5ng l\u00e0 m\u1ed9t trong nh\u1eefng th\u00e0nh ph\u1ed1 s\u00f4i \u0111\u1ed9ng v\u00e0 r\u1ef1c r\u1ee1 s\u1eafc m\u00e0u nh\u1ea5t \u1edf Vi\u1ec7t Nam. N\u01a1i \u0111\u00e2y t\u1ef1 h\u00e0o khi \u0111\u01b0\u1ee3c thi\u00ean nhi\u00ean ban t\u1eb7ng nh\u1eefng b\u00e3i bi\u1ec3n tuy\u1ec7t \u0111\u1eb9p v\u1edbi b\u1edd c\u00e1t m\u1ecbn m\u00e0ng, tinh kh\u00f4i n\u1eb1m tr\u1ea3i d\u00e0i; c\u00f3 c\u1ea3ng h\u00e0ng kh\u00f4ng Qu\u1ed1c t\u1ebf hi\u1ec7n \u0111\u1ea1i v\u00e0 nhi\u1ec1u \u0111\u1ecba \u0111i\u1ec3m v\u0103n h\u00f3a n\u1ed5i ti\u1ebfng n\u1eb1m trong n\u1ed9i th\u00e0nh, \u0111\u1ec3 du kh\u00e1ch c\u00f3 th\u1ec3 di chuy\u1ec3n thu\u1eadn l\u1ee3i. Ch\u00ednh v\u00ec th\u1ebf, s\u1ebd kh\u00f4ng c\u00f3 g\u00ec \u0111\u00e1ng ng\u1ea1c nhi\u00ean khi th\u00e0nh ph\u1ed1 xinh \u0111\u1eb9p n\u00e0y l\u1ea1i thu h\u00fat nhi\u1ec1u m\u1ed1i quan t\u00e2m, c\u0169ng nh\u01b0 s\u1ef1 y\u00eau m\u1ebfn n\u1ed3ng h\u1eadu c\u1ee7a du kh\u00e1ch trong n\u01b0\u1edbc v\u00e0 qu\u1ed1c t\u1ebf \u0111\u1ebfn nh\u01b0 v\u1eady. \n \u0110i\u1ec3m n\u1ed5i b\u1eadt c\u1ee7a th\u00e0nh ph\u1ed1 tr\u1ebb \u0111ang v\u01b0\u01a1n m\u00ecnh \u0111\u1ed5i thay t\u1eebng ng\u00e0y n\u00e0y \u2013 ch\u00ednh l\u00e0 s\u1ef1 giao h\u00f2a gi\u1eefa thi\u00ean nhi\u00ean y\u00ean b\u00ecnh v\u00e0 nh\u1ecbp s\u1ed1ng hi\u1ec7n \u0111\u1ea1i. N\u01a1i \u0111\u00e2y c\u00f3 \u0111\u1ea7y \u0111\u1ee7 c\u01a1 s\u1edf h\u1ea1 t\u1ea7ng v\u00e0 nh\u00e2n l\u1ef1c \u0111\u1ec3 h\u1ed7 tr\u1ee3 b\u1ea1n gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1 kinh doanh quan tr\u1ecdng m\u1ed9t c\u00e1ch k\u1ecbp th\u1eddi, hay t\u1ed5 ch\u1ee9c h\u1ed9i ngh\u1ecb, k\u1ebf ho\u1ea1ch x\u00fac ti\u1ebfn \u0111\u1ea7u t\u01b0 mang t\u1ea7m v\u00f3c qu\u1ed1c t\u1ebf m\u1ed9t c\u00e1ch hi\u1ec7u qu\u1ea3. \u0110\u1ed3ng th\u1eddi v\u1eabn c\u00f3 th\u1ec3 mang \u0111\u1ebfn b\u1ea1n nh\u1eefng ph\u00fat gi\u00e2y th\u01b0 th\u00e1i gi\u1eefa phong c\u1ea3nh non n\u01b0\u1edbc h\u1eefu t\u00ecnh c\u00f9ng gia \u0111\u00ecnh, b\u1ea1n b\u00e8. Ch\u00fang t\u00f4i t\u1ef1 h\u00e0o khi s\u1edf h\u1eefu \u0111\u1ea7y \u0111\u1ee7 nh\u1eefng th\u1ebf m\u1ea1nh \u0111\u1ea7y ti\u1ec1m n\u0103ng \u0111\u00f3 t\u1ea1i kh\u00e1ch s\u1ea1n Novotel Danang Premier Han River. \n T\u1ecda l\u1ea1c b\u00ean b\u1edd T\u00e2y s\u00f4ng H\u00e0n th\u01a1 m\u1ed9ng, li\u1ec1n k\u1ec1 v\u1edbi trung t\u00e2m h\u00e0nh ch\u00ednh c\u1ee7a \u0110\u00e0 N\u1eb5ng, Novotel s\u1edf h\u1eefu v\u1ecb tr\u00ed \u0111\u1eaft \u0111\u1ecba v\u00e0 nhanh ch\u00f3ng tr\u1edf th\u00e0nh \u0111i\u1ec3m \u0111\u1ebfn l\u00fd t\u01b0\u1edfng cho c\u00e1c doanh nh\u00e2n l\u1eabn du kh\u00e1ch. \u0110\u00e2y l\u00e0 kh\u00e1ch s\u1ea1n \u0111\u1ea7u ti\u00ean \u0111\u1ea1t ti\u00eau chu\u1ea9n qu\u1ed1c t\u1ebf c\u1ee7a th\u00e0nh ph\u1ed1, d\u01b0\u1edbi s\u1ef1 qu\u1ea3n l\u00fd b\u1edfi t\u1eadp \u0111o\u00e0n Accor danh ti\u1ebfng \u2013 n\u01a1i lu\u00f4n \u0111\u1ec1 cao s\u1ef1 ph\u1ee5c v\u1ee5 chuy\u00ean nghi\u1ec7p v\u00e0 gi\u00e1m s\u00e1t k\u1ef9 l\u01b0\u1ee1ng trong m\u1ecdi d\u1ecbch v\u1ee5 ti\u1ec7n \u00edch, nh\u1eb1m mang \u0111\u1ebfn ch\u1ea5t l\u01b0\u1ee3ng t\u1ed1t nh\u1ea5t cho du kh\u00e1ch. Kh\u00f4ng nh\u1eefng th\u1ebf, Novotel c\u00f2n l\u00e0 m\u1ed9t trong nh\u1eefng kh\u00e1ch s\u1ea1n cao nh\u1ea5t \u0110\u00e0 N\u1eb5ng, v\u1edbi nhi\u1ec1u \u0111i\u1ec3m \u0111\u1ebfn th\u00fa v\u1ecb nh\u01b0 nh\u00e0 h\u00e0ng \u0111\u1eb3ng c\u1ea5p qu\u1ed1c t\u1ebf, qu\u1ea7y bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng c\u00f3 th\u1ec3 bao qu\u00e1t to\u00e0n c\u1ea3nh th\u00e0nh ph\u1ed1 v\u00e0 l\u00e0 kh\u00e1ch s\u1ea1n ti\u00ean phong trong d\u1ecbch v\u1ee5 c\u0103n h\u1ed9 cao c\u1ea5p. \n V\u00ec v\u1eady, Novotel Danang Premier Han River l\u00e0 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o d\u00f9 b\u1ea1n \u0111i c\u00f4ng t\u00e1c hay ngh\u1ec9 d\u01b0\u1ee1ng. \u0110\u1ed9i ng\u0169 nh\u00e2n vi\u00ean chuy\u00ean nghi\u1ec7p v\u00e0 n\u1ed3ng h\u1eadu c\u1ee7a ch\u00fang t\u00f4i r\u1ea5t mong \u0111\u01b0\u1ee3c ti\u1ebfp \u0111\u00f3n Qu\u00fd kh\u00e1ch. \n C\u00e1ch s\u00e2n bay Qu\u1ed1c t\u1ebf \u0110\u00e0 N\u1eb5ng: 6 km (20 ph\u00fat) C\u00e1ch ga \u0110\u00e0 N\u1eb5ng: 1 km (5 ph\u00fat) C\u00e1ch qu\u1ed1c l\u1ed9 1A: 4 km (10 ph\u00fat) \n",
+                        "types": [
+                            "hotel"
+                        ],
+                        "typeInfos": null,
+                        "tags": null,
+                        "addressComponents": [
+                            {
+                                "types": [
+                                    "housenumber"
+                                ],
+                                "name": "36"
+                            },
+                            {
+                                "types": [
+                                    "street"
+                                ],
+                                "name": "B\u1ea1ch \u0110\u1eb1ng"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_4"
+                                ],
+                                "name": "Ph\u01b0\u1eddng Th\u1ea1ch Thang"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_3"
+                                ],
+                                "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_2"
+                                ],
+                                "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                            },
+                            {
+                                "types": [
+                                    "admin_level_1"
+                                ],
+                                "name": "Vi\u1ec7t Nam"
+                            }
+                        ],
+                        "photos": [
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec25627ec192067e4050ec.jpg",
+                                "name": "5eec25627ec192067e4050ec.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039a.jpg",
+                                "name": "5eec27c1a3a6ae49e19e039a.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039b.jpg",
+                                "name": "5eec27c1a3a6ae49e19e039b.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039d.jpg",
+                                "name": "5eec27c1a3a6ae49e19e039d.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039f.jpg",
+                                "name": "5eec27c1a3a6ae49e19e039f.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a1.jpg",
+                                "name": "5eec27c1a3a6ae49e19e03a1.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a3.jpg",
+                                "name": "5eec27c1a3a6ae49e19e03a3.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a5.jpg",
+                                "name": "5eec27c2a3a6ae49e19e03a5.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a7.jpg",
+                                "name": "5eec27c2a3a6ae49e19e03a7.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a9.jpg",
+                                "name": "5eec27c2a3a6ae49e19e03a9.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039a.jpg",
+                                "name": "5eec27c1a3a6ae49e19e039a.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039b.jpg",
+                                "name": "5eec27c1a3a6ae49e19e039b.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039d.jpg",
+                                "name": "5eec27c1a3a6ae49e19e039d.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e039f.jpg",
+                                "name": "5eec27c1a3a6ae49e19e039f.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a1.jpg",
+                                "name": "5eec27c1a3a6ae49e19e03a1.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c1a3a6ae49e19e03a3.jpg",
+                                "name": "5eec27c1a3a6ae49e19e03a3.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a5.jpg",
+                                "name": "5eec27c2a3a6ae49e19e03a5.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a7.jpg",
+                                "name": "5eec27c2a3a6ae49e19e03a7.jpg",
+                                "description": null,
+                                "createdBy": null
+                            },
+                            {
+                                "url": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/data/images/5eec27c2a3a6ae49e19e03a9.jpg",
+                                "name": "5eec27c2a3a6ae49e19e03a9.jpg",
+                                "description": null,
+                                "createdBy": null
+                            }
+                        ],
+                        "startDate": 975060000000,
+                        "endDate": 4099629600000,
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                108.223633,
+                                16.077282
+                            ]
+                        },
+                        "rank": {
+                            "value": 1000484.5
+                        },
+                        "phoneNumber": "+84 (0)236 392 9999",
+                        "website": "https://www.novotel-danang-premier.com/vi/",
+                        "businessHours": null,
+                        "isDeleted": null,
+                        "object": null,
+                        "metadata": [
+                            {
+                                "id": "5f7d27d3a6e3b56ccccfe72d",
+                                "type": "article",
+                                "name": "Novotel Danang Premier Han River",
+                                "content": "<h1>Novotel Danang Premier Han River</h1>\n<p><img src=\"https://secure.gravatar.com/avatar/bf96561e15d79276443756e50d04bf0e?s=26&r=g\" alt=\"undefined\" style=\"height: undefined;width: undefined\"/>By <a href=\"https://danangfantasticity.com/amp/author/danangfantasticity\" target=\"_self\">Tourism Danang</a> on 20 Th\u00e1ng N\u0103m, 2019</p>\n<p><strong>NOVOTEL DANANG PREMIER HAN RIVER</strong><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/logo-novotelDn-300x185.png\" alt=\"undefined\" style=\"height: undefined;width: undefined\"/></p>\n<ul>\n<li>\u0110\u1ecba \u0111i\u1ec3m: 36 B\u1ea1ch \u0110\u1eb1ng, Qu\u1eadn H\u1ea3i Ch\u00e2u, TP. \u0110\u00e0 N\u1eb5ng</li>\n<li>\u0110i\u1ec7n tho\u1ea1i:\u00a0(+84) 236 392 9999</li>\n<li>Email: H8287@accor.com</li>\n<li>Website:\u00a0www.novotel-danang-premier.com</li>\n<li><a href=\"https://danangfantasticity.com/amp/5-sao/grand-mercure-danang.html\" target=\"_self\">Grand Mercure \u0110\u00e0 N\u1eb5ng</a></li>\n<li><a href=\"https://danangfantasticity.com/amp/5-sao/hyatt-regency-danang-resort-and-spa.html\" target=\"_self\">Hyatt Regency Danang Resort and Spa</a></li>\n<li><a href=\"https://danangfantasticity.com/amp/5-sao/resort-pullman-da-nang.html\" target=\"_self\">Pullman Danang Beach Resort</a></li>\n<li><a href=\"https://danangfantasticity.com/amp/5-sao/grand-tourane-hotel.html\" target=\"_self\">Grand Tourane Hotel</a></li>\n<li><a href=\"https://danangfantasticity.com/amp/5-sao/naman-retreat.html\" target=\"_self\">Naman Retreat</a></li>\n</ul>\n<p><strong>M\u00d4 T\u1ea2</strong></p>\n<p>\u0110\u00e0 N\u1eb5ng l\u00e0 m\u1ed9t trong nh\u1eefng th\u00e0nh ph\u1ed1 s\u00f4i \u0111\u1ed9ng v\u00e0 r\u1ef1c r\u1ee1 s\u1eafc m\u00e0u nh\u1ea5t \u1edf Vi\u1ec7t Nam. N\u01a1i \u0111\u00e2y t\u1ef1 h\u00e0o khi \u0111\u01b0\u1ee3c thi\u00ean nhi\u00ean ban t\u1eb7ng nh\u1eefng b\u00e3i bi\u1ec3n tuy\u1ec7t \u0111\u1eb9p v\u1edbi b\u1edd c\u00e1t m\u1ecbn m\u00e0ng, tinh kh\u00f4i n\u1eb1m tr\u1ea3i d\u00e0i; c\u00f3 c\u1ea3ng h\u00e0ng kh\u00f4ng Qu\u1ed1c t\u1ebf hi\u1ec7n \u0111\u1ea1i v\u00e0 nhi\u1ec1u \u0111\u1ecba \u0111i\u1ec3m v\u0103n h\u00f3a n\u1ed5i ti\u1ebfng n\u1eb1m trong n\u1ed9i th\u00e0nh, \u0111\u1ec3 du kh\u00e1ch c\u00f3 th\u1ec3 di chuy\u1ec3n thu\u1eadn l\u1ee3i.</p>\n<p>Ch\u00ednh v\u00ec th\u1ebf, s\u1ebd kh\u00f4ng c\u00f3 g\u00ec \u0111\u00e1ng ng\u1ea1c nhi\u00ean khi th\u00e0nh ph\u1ed1 xinh \u0111\u1eb9p n\u00e0y l\u1ea1i thu h\u00fat nhi\u1ec1u m\u1ed1i quan t\u00e2m, c\u0169ng nh\u01b0 s\u1ef1 y\u00eau m\u1ebfn n\u1ed3ng h\u1eadu c\u1ee7a du kh\u00e1ch trong n\u01b0\u1edbc v\u00e0 qu\u1ed1c t\u1ebf \u0111\u1ebfn nh\u01b0 v\u1eady.</p>\n<p>\u0110i\u1ec3m n\u1ed5i b\u1eadt c\u1ee7a th\u00e0nh ph\u1ed1 tr\u1ebb \u0111ang v\u01b0\u01a1n m\u00ecnh \u0111\u1ed5i thay t\u1eebng ng\u00e0y n\u00e0y \u2013 ch\u00ednh l\u00e0 s\u1ef1 giao h\u00f2a gi\u1eefa thi\u00ean nhi\u00ean y\u00ean b\u00ecnh v\u00e0 nh\u1ecbp s\u1ed1ng hi\u1ec7n \u0111\u1ea1i. N\u01a1i \u0111\u00e2y c\u00f3 \u0111\u1ea7y \u0111\u1ee7 c\u01a1 s\u1edf h\u1ea1 t\u1ea7ng v\u00e0 nh\u00e2n l\u1ef1c \u0111\u1ec3 h\u1ed7 tr\u1ee3 b\u1ea1n gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1 kinh doanh quan tr\u1ecdng m\u1ed9t c\u00e1ch k\u1ecbp th\u1eddi, hay t\u1ed5 ch\u1ee9c h\u1ed9i ngh\u1ecb, k\u1ebf ho\u1ea1ch x\u00fac ti\u1ebfn \u0111\u1ea7u t\u01b0 mang t\u1ea7m v\u00f3c qu\u1ed1c t\u1ebf m\u1ed9t c\u00e1ch hi\u1ec7u qu\u1ea3.</p>\n<p>\u0110\u1ed3ng th\u1eddi v\u1eabn c\u00f3 th\u1ec3 mang \u0111\u1ebfn b\u1ea1n nh\u1eefng ph\u00fat gi\u00e2y th\u01b0 th\u00e1i gi\u1eefa phong c\u1ea3nh non n\u01b0\u1edbc h\u1eefu t\u00ecnh c\u00f9ng gia \u0111\u00ecnh, b\u1ea1n b\u00e8. Ch\u00fang t\u00f4i t\u1ef1 h\u00e0o khi s\u1edf h\u1eefu \u0111\u1ea7y \u0111\u1ee7 nh\u1eefng th\u1ebf m\u1ea1nh \u0111\u1ea7y ti\u1ec1m n\u0103ng \u0111\u00f3 t\u1ea1i kh\u00e1ch s\u1ea1n Novotel Danang Premier Han River.</p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/06/dem-hoi-ruou-rhum-caribbean-le-hoi-am-nhac-da-nang-2019-tai-novotel-da-nang-01.jpg\" alt=\"Dem Hoi Ruou Rhum Caribbean Le Hoi Am Nhac Da Nang 2019 Tai Novotel Da Nang 01\" style=\"height: undefined;width: undefined\"/></p>\n<p>T\u1ecda l\u1ea1c b\u00ean b\u1edd T\u00e2y s\u00f4ng H\u00e0n th\u01a1 m\u1ed9ng, li\u1ec1n k\u1ec1 v\u1edbi trung t\u00e2m h\u00e0nh ch\u00ednh c\u1ee7a \u0110\u00e0 N\u1eb5ng, Novotel s\u1edf h\u1eefu v\u1ecb tr\u00ed \u0111\u1eaft \u0111\u1ecba v\u00e0 nhanh ch\u00f3ng tr\u1edf th\u00e0nh \u0111i\u1ec3m \u0111\u1ebfn l\u00fd t\u01b0\u1edfng cho c\u00e1c doanh nh\u00e2n l\u1eabn du kh\u00e1ch. \u0110\u00e2y l\u00e0 kh\u00e1ch s\u1ea1n \u0111\u1ea7u ti\u00ean \u0111\u1ea1t ti\u00eau chu\u1ea9n qu\u1ed1c t\u1ebf c\u1ee7a th\u00e0nh ph\u1ed1, d\u01b0\u1edbi s\u1ef1 qu\u1ea3n l\u00fd b\u1edfi t\u1eadp \u0111o\u00e0n Accor danh ti\u1ebfng \u2013 n\u01a1i lu\u00f4n \u0111\u1ec1 cao s\u1ef1 ph\u1ee5c v\u1ee5 chuy\u00ean nghi\u1ec7p v\u00e0 gi\u00e1m s\u00e1t k\u1ef9 l\u01b0\u1ee1ng trong m\u1ecdi d\u1ecbch v\u1ee5 ti\u1ec7n \u00edch, nh\u1eb1m mang \u0111\u1ebfn ch\u1ea5t l\u01b0\u1ee3ng t\u1ed1t nh\u1ea5t cho du kh\u00e1ch.</p>\n<p>Kh\u00f4ng nh\u1eefng th\u1ebf, Novotel c\u00f2n l\u00e0 m\u1ed9t trong nh\u1eefng kh\u00e1ch s\u1ea1n cao nh\u1ea5t \u0110\u00e0 N\u1eb5ng, v\u1edbi nhi\u1ec1u \u0111i\u1ec3m \u0111\u1ebfn th\u00fa v\u1ecb nh\u01b0 nh\u00e0 h\u00e0ng \u0111\u1eb3ng c\u1ea5p qu\u1ed1c t\u1ebf, qu\u1ea7y bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng c\u00f3 th\u1ec3 bao qu\u00e1t to\u00e0n c\u1ea3nh th\u00e0nh ph\u1ed1 v\u00e0 l\u00e0 kh\u00e1ch s\u1ea1n ti\u00ean phong trong d\u1ecbch v\u1ee5 c\u0103n h\u1ed9 cao c\u1ea5p.</p>\n<p>V\u00ec v\u1eady, Novotel Danang Premier Han River l\u00e0 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o d\u00f9 b\u1ea1n \u0111i c\u00f4ng t\u00e1c hay ngh\u1ec9 d\u01b0\u1ee1ng. \u0110\u1ed9i ng\u0169 nh\u00e2n vi\u00ean chuy\u00ean nghi\u1ec7p v\u00e0 n\u1ed3ng h\u1eadu c\u1ee7a ch\u00fang t\u00f4i r\u1ea5t mong \u0111\u01b0\u1ee3c ti\u1ebfp \u0111\u00f3n Qu\u00fd kh\u00e1ch.</p>\n<ul>\n<li><strong><em>C\u00e1ch s\u00e2n bay Qu\u1ed1c t\u1ebf \u0110\u00e0 N\u1eb5ng: 6 km (20 ph\u00fat)</em></strong></li>\n<li><strong><em>C\u00e1ch ga \u0110\u00e0 N\u1eb5ng: 1 km (5 ph\u00fat)</em></strong></li>\n<li><strong><em>C\u00e1ch qu\u1ed1c l\u1ed9 1A: 4 km (10 ph\u00fat)</em></strong></li>\n</ul>\n<p>Kh\u00e1ch s\u1ea1n\u00a0<a href=\"https://danangfantasticity.com/amp/5-sao/novotel-danang-premier-han-river.html\" target=\"_self\">Novotel Danang Premier Han River</a>\u00a0cao 37 t\u1ea7ng, g\u1ed3m 323 ph\u00f2ng Novotel th\u1ebf h\u1ec7 m\u1edbi v\u1edbi 3 t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng, 90 c\u0103n h\u1ed9 d\u1ecbch v\u1ee5, trang thi\u1ebft h\u1ed9i ngh\u1ecb hi\u1ec7n \u0111\u1ea1i, nh\u00e0 h\u00e0ng qu\u1ed1c t\u1ebf The Square, qu\u1ea7y bar t\u1ea1i ti\u1ec1n s\u1ea3nh Pier 36, Premier Executive Lounge d\u00e0nh cho kh\u00e1ch th\u01b0\u1ee3ng \u0111\u1ec9nh, h\u1ed3 b\u01a1i ngo\u00e0i tr\u1eddi, trung t\u00e2m th\u1ec3 h\u00ecnh v\u00e0 Spa mang th\u01b0\u01a1ng hi\u1ec7u qu\u1ed1c t\u1ebf In|Balance.</p>\n<p>V\u1edbi balcony \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng \u1edf h\u1ea7u h\u1ebft c\u00e1c ph\u00f2ng, kh\u00e1ch s\u1ea1n mang l\u1ea1i cho kh\u00e1ch ngh\u1ec9 d\u01b0\u1ee1ng t\u1ea7m nh\u00ecn to\u00e0n c\u1ea3nh th\u00e0nh ph\u1ed1, v\u1edbi nh\u1eefng c\u00e2y c\u1ea7u s\u00e1ng r\u1ef1c v\u1ec1 \u0111\u00eam, nh\u1eefng r\u1eb7ng n\u00fai xa xa v\u00e0 b\u1edd bi\u1ec3n k\u00e9o d\u00e0i t\u01b0\u1edfng v\u00f4 t\u1eadn c\u1ee7a \u0110\u00e0 N\u1eb5ng.</p>\n<p><strong>PH\u00d2NG NGH\u1ec8</strong></p>\n<p>T\u1ea5t c\u1ea3 c\u00e1c ph\u00f2ng ngh\u1ec9 t\u1ea1i Novotel Danang Premier Han River \u0111\u1ec1u \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf \u0111\u1eb7c bi\u1ec7t r\u1ed9ng r\u00e3i v\u1edbi phong c\u00e1ch hi\u1ec7n \u0111\u1ea1i, nh\u1eb1m mang \u0111\u1ebfn cho du kh\u00e1ch m\u1ed9t kh\u00f4ng gian s\u1ed1ng ti\u1ec7n nghi, tho\u1ea3i m\u00e1i v\u00e0 ho\u00e0n to\u00e0n th\u01b0 th\u00e1i.</p>\n<p>B\u1ea5t k\u1ec3 l\u00fd do n\u00e0o, d\u00f9 l\u00e0 du l\u1ecbch ngh\u1ec9 d\u01b0\u1ee1ng hay c\u00f4ng t\u00e1c, th\u00ec ch\u00fang t\u00f4i v\u1eabn tin r\u1eb1ng c\u00e1c trang thi\u1ebft b\u1ecb ti\u1ec7n nghi, sang tr\u1ecdng v\u00e0 nh\u1eefng kh\u00f4ng gian ph\u00f2ng m\u1edf \u0111\u1ea7y tinh t\u1ebf lu\u00f4n \u0111\u00e1p \u1ee9ng v\u1edbi m\u1ecdi nhu c\u1ea7u c\u1ee7a qu\u00fd kh\u00e1ch.</p>\n<p><strong><em>Ph\u00f2ng Superior</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Superior-01-1024x573.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Superior 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Superior-03-1024x545.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Superior 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Superior-02-1024x598.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Superior 02\" style=\"height: undefined;width: undefined\"/></p>\n<p>Ph\u00f2ng ngh\u1ec9 c\u1ef1c k\u1ef3 hi\u1ec7n \u0111\u1ea1i v\u00e0 phong c\u00e1ch n\u00e0y c\u1ee7a ch\u00fang t\u00f4i, mang \u0111\u1ebfn kh\u00f4ng gian ho\u00e0n h\u1ea3o, \u0111\u1ec3 Qu\u00fd kh\u00e1ch ngh\u1ec9 ng\u01a1i th\u01b0 gi\u00e3n sau m\u1ed9t ng\u00e0y l\u00e0m vi\u1ec7c c\u0103ng th\u1eb3ng ho\u1eb7c vui ch\u01a1i h\u1ebft m\u00ecnh.</p>\n<p>Th\u1eadm ch\u00ed ngay c\u1ea3 v\u1edbi ph\u00f2ng ngh\u1ec9 c\u00f3 k\u00edch th\u01b0\u1edbc khi\u00eam t\u1ed1n nh\u1ea5t, th\u00ec c\u00e1c ti\u1ec7n nghi ho\u00e0n h\u1ea3o v\u1eabn s\u1ebd mang l\u1ea1i cho Qu\u00fd kh\u00e1ch c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i, b\u00ecnh y\u00ean v\u00e0 \u1ea5m \u00e1p nh\u01b0 \u0111ang \u1edf trong ch\u00ednh ng\u00f4i nh\u00e0 th\u00e2n y\u00eau c\u1ee7a m\u00ecnh.</p>\n<p>M\u1ed9t s\u1ed1 ph\u00f2ng c\u00f3 ban c\u00f4ng v\u1edbi h\u01b0\u1edbng nh\u00ecn tuy\u1ec7t \u0111\u1eb9p ra s\u00f4ng H\u00e0n ho\u1eb7c c\u1ea7u Thu\u1eadn Ph\u01b0\u1edbc.</p>\n<p><strong><em>Ph\u00f2ng Deluxe</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Deluxe-02-1024x590.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Deluxe 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Deluxe-01-1024x590.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Deluxe 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Deluxe-03-1024x596.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Deluxe 03\" style=\"height: undefined;width: undefined\"/></p>\n<p>D\u00f9 l\u00e0 doanh nh\u00e2n hay du kh\u00e1ch ngh\u1ec9 d\u01b0\u1ee1ng, lo\u1ea1i ph\u00f2ng n\u00e0y c\u00f3 h\u01b0\u1edbng nh\u00ecn tuy\u1ec7t \u0111\u1eb9p c\u00f9ng nhi\u1ec1u ti\u1ec7n nghi v\u01b0\u1ee3t tr\u1ed9i. C\u00e1c ph\u00f2ng n\u00e0y bao g\u1ed3m c\u1ea3 ph\u00f2ng Deluxe Corner, \u0111\u1ec1u c\u00f3 th\u1ec3 nh\u00ecn ng\u1eafm to\u00e0n c\u1ea3nh S\u00f4ng H\u00e0n v\u00e0 C\u1ea7u R\u1ed3ng, c\u0169ng nh\u01b0 c\u00e1c b\u00e3i bi\u1ec3n tuy\u1ec7t \u0111\u1eb9p c\u1ee7a th\u00e0nh ph\u1ed1.</p>\n<p>B\u00ean c\u1ea1nh \u0111\u00f3, m\u1ed9t s\u1ed1 ph\u00f2ng \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf c\u00f3 ban c\u00f4ng, v\u00e0 trang b\u1ecb th\u00eam gi\u01b0\u1eddng \u0111\u00f4i, \u0111\u1ec3 qu\u00fd kh\u00e1ch tho\u1ea3i m\u00e1i l\u1ef1a ch\u1ecdn nh\u1eefng kh\u00f4ng gian ngh\u1ec9 ng\u01a1i l\u00fd t\u01b0\u1edfng nh\u1ea5t.</p>\n<p><strong><em>Ph\u00f2ng Executive</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Executive-01-1024x559.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Executive 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Executive-02-1024x559.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Executive 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Executive-03-1024x580.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Executive 03\" style=\"height: undefined;width: undefined\"/></p>\n<p>Qu\u00fd kh\u00e1ch \u1edf t\u1ea1i ph\u00f2ng Executive c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng mi\u1ec5n ph\u00ed c\u00e1c d\u1ecbch v\u1ee5 t\u1ea1i qu\u1ea7y bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng c\u1ee7a kh\u00e1ch s\u1ea1n. C\u00f3 r\u1ea5t nhi\u1ec1u phong c\u00e1ch v\u00e0 k\u00edch th\u01b0\u1edbc kh\u00e1c nhau cho lo\u1ea1i ph\u00f2ng n\u00e0y, t\u1ea5t c\u1ea3 c\u00e1c thi\u1ebft k\u1ebf \u0111\u1ec1u \u0111\u00e1p \u1ee9ng \u0111\u1ea7y \u0111\u1ee7 nh\u1eefng trang thi\u1ebft b\u1ecb ti\u1ec7n nghi v\u00e0 hi\u1ec7n \u0111\u1ea1i nh\u1ea5t.</p>\n<p>B\u1ea5t k\u1ec3 l\u1ef1a ch\u1ecdn tr\u1ea3i nghi\u1ec7m lo\u1ea1i ph\u00f2ng n\u00e0o, qu\u00fd kh\u00e1ch \u0111\u1ec1u \u0111\u01b0\u1ee3c ph\u1ee5c v\u1ee5 \u0111\u1ed3 u\u1ed1ng ch\u00e0o \u0111\u00f3n khi \u0111\u1ebfn nh\u1eadn ph\u00f2ng, b\u1eefa \u0103n s\u00e1ng mi\u1ec5n ph\u00ed, tho\u1ea3i m\u00e1i th\u01b0\u1edfng th\u1ee9c \u0111\u1ed3 u\u1ed1ng kh\u00f4ng c\u1ed3n trong ng\u00e0y c\u00f9ng cocktail t\u1ed1i mi\u1ebfn ph\u00ed, v\u00e0 nhi\u1ec1u d\u1ecbch v\u1ee5 \u01b0u \u0111\u00e3i \u0111\u1eb7c bi\u1ec7t kh\u00e1c.</p>\n<p>B\u00ean c\u1ea1nh \u0111\u00f3, m\u1ed7i ph\u00f2ng \u0111\u1ec1u \u0111\u01b0\u1ee3c trang b\u1ecb cu\u1ed9c g\u1ecdi trong v\u00f9ng mi\u1ec5n ph\u00ed, ti\u1ec7n nghi VIP v\u00e0 c\u00f3 h\u01b0\u1edbng nh\u00ecn tuy\u1ec7t \u0111\u1eb9p v\u1ec1 ph\u00eda s\u00f4ng H\u00e0n ho\u1eb7c c\u1ea7u Thu\u1eadn Ph\u01b0\u1edbc.</p>\n<p><strong><em>Ph\u00f2ng Suite</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Suite-03-1024x582.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Suite 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Suite-01-1024x595.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Suite 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-Suite-02-1024x565.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Suite 02\" style=\"height: undefined;width: undefined\"/></p>\n<p>Ph\u00f2ng Suite bao g\u1ed3m c\u00e1c khu v\u1ef1c s\u1ea3nh ti\u1ebfp kh\u00e1ch ri\u00eang bi\u1ec7t c\u00f9ng v\u1edbi h\u01b0\u1edbng nh\u00ecn tuy\u1ec7t v\u1eddi bao qu\u00e1t to\u00e0n c\u1ea3nh th\u00e0nh ph\u1ed1 v\u00e0 b\u00e3i bi\u1ec3n \u0110\u00e0 N\u1eb5ng. D\u00f9 du kh\u00e1ch \u0111i c\u00f9ng gia \u0111\u00ecnh ho\u1eb7c c\u00f3 nhu c\u1ea7u thu\u00ea v\u0103n ph\u00f2ng l\u00e0m vi\u1ec7c, ph\u00f2ng suite c\u1ee7a ch\u00fang t\u00f4i \u0111\u00e1p \u1ee9ng t\u1ed1t h\u01a1n c\u1ea3 nh\u1eefng g\u00ec qu\u00fd kh\u00e1ch mong \u0111\u1ee3i.</p>\n<p>Kh\u00e1ch \u1edf l\u1ea1i Ph\u00f2ng Suite c\u0169ng c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng c\u00e1c d\u1ecbch v\u1ee5 t\u1ea1i qu\u1ea7y bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng v\u1edbi t\u1ea5t c\u1ea3 c\u00e1c quy\u1ec1n l\u1ee3i k\u00e8m theo, b\u00e0n l\u00e0m vi\u1ec7c trong ph\u00f2ng kh\u00e1ch, ti\u1ec7n nghi VIP.</p>\n<p><strong><em>C\u0103n H\u1ed9 Studio</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-studio-03-1024x588.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho Studio 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-studio-02-1024x560.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho Studio 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-studio-01-1024x622.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho Studio 01\" style=\"height: undefined;width: undefined\"/></p>\n<p>C\u0103n h\u1ed9 Studio \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf sang tr\u1ecdng v\u00e0 \u0111\u1eb9p m\u1eaft v\u1edbi \u0111\u1ea7y \u0111\u1ee7 trang thi\u1ebft b\u1ecb ti\u1ec7n nghi, hi\u1ec7n \u0111\u1ea1i s\u1ebd mang \u0111\u1ebfn cho Qu\u00fd kh\u00e1ch m\u1ed9t kh\u00f4ng gian v\u00f4 c\u00f9ng tho\u1ea3i m\u00e1i. \u0110\u00e2y l\u00e0 lo\u1ea1i ph\u00f2ng \u0111\u1eb7c bi\u1ec7t ph\u00f9 h\u1ee3p v\u1edbi nhu c\u1ea7u c\u1ee7a c\u00e1c doanh nh\u00e2n b\u1eadn r\u1ed9n.</p>\n<p>M\u1ed7i c\u0103n h\u1ed9 Studio c\u1ee7a ch\u00fang t\u00f4i bao g\u1ed3m 1 ph\u00f2ng ng\u1ee7, ph\u00f2ng kh\u00e1ch \u0111\u01b0\u1ee3c ng\u0103n c\u00e1ch t\u00e1ch bi\u1ec7t v\u1edbi khu v\u1ef1c \u0103n u\u1ed1ng v\u00e0 ph\u00f2ng b\u1ebfp \u0111\u01b0\u1ee3c trang b\u1ecb \u0111\u1ea7y \u0111\u1ee7 v\u1eadt d\u1ee5ng n\u1ea5u n\u01b0\u1edbng.</p>\n<p>\u0110\u01b0\u1ee3c trang b\u1ecb Internet mi\u1ec5n ph\u00ed, TV truy\u1ec1n h\u00ecnh c\u00e1p, t\u1eadp luy\u1ec7n mi\u1ec5n ph\u00ed t\u1ea1i trung t\u00e2m th\u1ec3 h\u00ecnh In|Balance v\u00e0 d\u1ecdn d\u1eb9p ph\u00f2ng m\u1ed7i ng\u00e0y.</p>\n<p><strong><em>C\u0103n h\u1ed9 m\u1ed9t ph\u00f2ng ng\u1ee7</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-1-phong-ngu-02-1024x573.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 1 Phong Ngu 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-1-phong-ngu-01-1024x556.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 1 Phong Ngu 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-1-phong-ngu-03-1024x573.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 1 Phong Ngu 03\" style=\"height: undefined;width: undefined\"/></p>\n<p>Th\u1eadt tuy\u1ec7t v\u1eddi khi v\u1eeba c\u00f3 th\u1ec3 l\u00e0m vi\u1ec7c m\u00ecnh th\u00edch \u1edf n\u01a1i xa, v\u1eeba \u0111\u01b0\u1ee3c t\u1eadn h\u01b0\u1edfng cu\u1ed9c s\u1ed1ng th\u01b0 th\u00e1i \u1edf ch\u00ednh n\u01a1i \u0111\u00f3. C\u0103n h\u1ed9 c\u1ee7a ch\u00fang t\u00f4i mang \u0111\u1ebfn Qu\u00fd kh\u00e1ch m\u1ed9t kh\u00f4ng gian s\u1ed1ng ti\u1ec7n nghi v\u00e0 ho\u00e0n to\u00e0n th\u01b0 gi\u00e3n nh\u01b0 \u0111ang \u1edf nh\u00e0, trong su\u1ed1t th\u1eddi gian d\u00e0i l\u01b0u tr\u00fa t\u1ea1i \u0110\u00e0 N\u1eb5ng.</p>\n<p>M\u1ed7i c\u0103n h\u1ed9 \u0111\u1ec1u c\u00f3 1 gi\u01b0\u1eddng \u0111\u01a1n r\u1ed9ng l\u1edbn, ph\u00f2ng kh\u00e1ch, nh\u00e0 b\u1ebfp v\u00e0 khu \u0103n u\u1ed1ng, ph\u00f2ng t\u1eafm r\u1ed9ng r\u00e3i v\u00e0 2 nh\u00e0 v\u1ec7 sinh tho\u1ea3i m\u00e1i. \u0110\u1ed3ng th\u1eddi trong ph\u00f2ng c\u00f2n trang b\u1ecb 1 tivi HD, v\u1edbi \u0111\u1ed9 ph\u00e2n gi\u1ea3i cao, ch\u1eafc h\u1eb3n s\u1ebd mang \u0111\u1ebfn nh\u1eefng ph\u00fat gi\u00e2y gi\u1ea3i tr\u00ed th\u00fa v\u1ecb nh\u1ea5t.</p>\n<p>\u0110\u01b0\u1ee3c trang b\u1ecb Internet mi\u1ec5n ph\u00ed, TV truy\u1ec1n h\u00ecnh c\u00e1p, t\u1eadp luy\u1ec7n mi\u1ec5n ph\u00ed t\u1ea1i trung t\u00e2m th\u1ec3 h\u00ecnh In|Balance v\u00e0 d\u1ecdn d\u1eb9p ph\u00f2ng m\u1ed7i ng\u00e0y.</p>\n<p><strong><em>C\u0103n h\u1ed9 hai ph\u00f2ng ng\u1ee7</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-2-phong-ngu-01-1024x595.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 2 Phong Ngu 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-2-phong-ngu-03-1024x561.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 2 Phong Ngu 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-2-phong-ngu-02-1024x610.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 2 Phong Ngu 02\" style=\"height: undefined;width: undefined\"/></p>\n<p>T\u1ea1m r\u1eddi xa s\u1ef1 x\u00f4 b\u1ed3, h\u1ed1i h\u1ea3 c\u1ee7a th\u00e0nh ph\u1ed1, nh\u1eefng c\u0103n h\u1ed9 l\u1edbn n\u00e0y lu\u00f4n \u0111\u1ea3m b\u1ea3o s\u1ef1 ri\u00eang t\u01b0 v\u00e0 y\u00ean t\u0129nh cho du kh\u00e1ch. M\u1ed7i c\u0103n h\u1ed9 \u0111\u1ec1u \u0111\u01b0\u1ee3c trang tr\u00ed \u0111\u1eb9p m\u1eaft v\u1edbi nh\u1eefng v\u1eadt d\u1ee5ng sang tr\u1ecdng v\u00e0 cao c\u1ea5p nh\u1ea5t, nh\u1eb1m mang \u0111\u1ebfn s\u1ef1 h\u00e0i l\u00f2ng &amp; tho\u1ea3i m\u00e1i cho kh\u00e1ch l\u01b0u tr\u00fa.</p>\n<p>M\u1ed7i c\u0103n h\u1ed9 \u0111\u1ec1u c\u00f3 2 gi\u01b0\u1eddng \u0111\u01a1n r\u1ed9ng l\u1edbn, 1 ph\u00f2ng kh\u00e1ch, t\u1ee7 \u00e1o qu\u1ea7n, nh\u00e0 b\u1ebfp v\u1edbi \u0111\u1ea7y \u0111\u1ee7 trang thi\u1ebft b\u1ecb v\u00e0 khu \u0103n u\u1ed1ng, ph\u00f2ng t\u1eafm r\u1ed9ng r\u00e3i, c\u00f9ng b\u1ed3n t\u1eafm v\u00e0 3 nh\u00e0 v\u1ec7 sinh tho\u1ea3i m\u00e1i. \u0110\u1ed3ng th\u1eddi trong ph\u00f2ng c\u00f2n trang b\u1ecb 2 tivi HD v\u1edbi \u0111\u1ed9 ph\u00e2n gi\u1ea3i cao, s\u1ebd mang \u0111\u1ebfn nh\u1eefng ph\u00fat gi\u00e2y gi\u1ea3i tr\u00ed th\u00fa v\u1ecb nh\u1ea5t.</p>\n<p>\u0110\u01b0\u1ee3c trang b\u1ecb Internet mi\u1ec5n ph\u00ed, TV truy\u1ec1n h\u00ecnh c\u00e1p, t\u1eadp luy\u1ec7n mi\u1ec5n ph\u00ed t\u1ea1i trung t\u00e2m th\u1ec3 h\u00ecnh In|Balance v\u00e0 d\u1ecdn d\u1eb9p ph\u00f2ng m\u1ed7i ng\u00e0y.</p>\n<p><strong><em>C\u0103n h\u1ed9 ba ph\u00f2ng ng\u1ee7</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-3-phong-ngu-01.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 3 Phong Ngu 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-3-phong-ngu-02-1024x595.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 3 Phong Ngu 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-3-phong-ngu-03-1024x596.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 3 Phong Ngu 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-can-ho-3-phong-ngu-04-1024x571.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Can Ho 3 Phong Ngu 04\" style=\"height: undefined;width: undefined\"/></p>\n<p>\u0110\u1ed1i v\u1edbi nh\u1eefng qu\u00fd kh\u00e1ch c\u1ea7n kh\u00f4ng gian r\u1ed9ng r\u00e3i h\u01a1n, c\u0103n h\u1ed9 3 ph\u00f2ng ng\u1ee7 ch\u00ednh l\u00e0 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o v\u1edbi nhi\u1ec1u ti\u1ec7n nghi v\u01b0\u1ee3t tr\u1ed9i c\u00f9ng trang thi\u1ebft b\u1ecb cao c\u1ea5p.</p>\n<p>C\u0103n h\u1ed9 3 ph\u00f2ng ng\u1ee7 n\u1ed5i b\u1eadt v\u1edbi kh\u00f4ng gian s\u1ed1ng c\u1ef1c k\u1ef3 hi\u1ec7n \u0111\u1ea1i, \u0111\u1eb3ng c\u1ea5p theo ti\u00eau chu\u1ea9n thi\u1ebft k\u1ebf qu\u1ed1c t\u1ebf c\u1ee7a h\u1ec7 th\u1ed1ng Novotel to\u00e0n c\u1ea7u.</p>\n<p>C\u0103n h\u1ed9 g\u1ed3m 3 ph\u00f2ng ng\u1ee7, 2 ph\u00f2ng t\u1eafm v\u1edbi b\u1ed3n t\u1eafm l\u1edbn, hi\u1ec7n \u0111\u1ea1i, nh\u00e0 b\u1ebfp v\u1edbi \u0111\u1ea7y \u0111\u1ee7 ti\u1ec7n nghi v\u00e0 t\u1ea5t nhi\u00ean kh\u00f4ng th\u1ec3 thi\u1ebfu m\u1ed9t g\u00f3c nh\u00ecn tuy\u1ec7t \u0111\u1eb9p.</p>\n<p>\u0110\u01b0\u1ee3c trang b\u1ecb Internet mi\u1ec5n ph\u00ed, TV truy\u1ec1n h\u00ecnh c\u00e1p, t\u1eadp luy\u1ec7n mi\u1ec5n ph\u00ed t\u1ea1i trung t\u00e2m th\u1ec3 h\u00ecnh In|Balance v\u00e0 d\u1ecdn d\u1eb9p ph\u00f2ng m\u1ed7i ng\u00e0y.</p>\n<p><strong><em>Ph\u00f2ng T\u1ed5ng Th\u1ed1ng</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-phong-tong-thong-01-1024x683.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Phong Tong Thong 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-phong-tong-thong-02-1024x683.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Phong Tong Thong 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/novotel-danang-premier-han-river-danang-fantasticity-com-phong-tong-thong-03-1024x683.jpg\" alt=\"Novotel Danang Premier Han River Danang Fantasticity Com Phong Tong Thong 03\" style=\"height: undefined;width: undefined\"/></p>\n<p>T\u1ecda l\u1ea1c t\u1ea1i t\u1ea7ng 31, v\u1edbi l\u1ed1i thi\u1ebft k\u1ebf \u0111\u1ec9nh cao c\u1ee7a \u0111\u1eb3ng c\u1ea5p sang tr\u1ecdng, Ph\u00f2ng T\u1ed5ng Th\u1ed1ng l\u00e0 n\u01a1i l\u00fd t\u01b0\u1edfng \u0111\u1ec3 ng\u1eafm nh\u00ecn \u0110\u00e0 N\u1eb5ng xinh \u0111\u1eb9p m\u1ed9t c\u00e1ch to\u00e0n di\u1ec7n nh\u1ea5t, h\u00f9ng v\u0129 nh\u1ea5t, ngo\u1ea1n muc nh\u1ea5t.</p>\n<p>\u201cB\u1ea3o m\u1eadt tuy\u1ec7t \u0111\u1ed1i, ti\u1ec7n nghi \u0111\u1eb3ng c\u1ea5p, d\u1ecbch v\u1ee5 t\u1ed1i \u01b0u\u201d ch\u00ecnh l\u00e0 nh\u1eefng \u0111\u1eb7c quy\u1ec1n m\u00e0 ch\u00fang t\u00f4i \u0111\u00e3 v\u00e0 \u0111ang cam k\u1ebft \u0111\u1ed1i v\u1edbi Q\u00fay kh\u00e1ch \u1edf ph\u00f2ng T\u1ed5ng Th\u1ed1ng.</p>\n<p>Ph\u00f2ng t\u1ed5ng th\u1ed1ng g\u1ed3m 3 ph\u00f2ng ng\u1ee7 r\u1ed9ng r\u00e3i, 3 ph\u00f2ng t\u1eafm, 1 ph\u00f2ng l\u00e0m vi\u1ec7c v\u00e0 nh\u00e0 b\u1ebfp hi\u1ec7n \u0111\u1ea1i v\u1edbi \u0111\u1ea7y \u0111\u1ee7 trang thi\u1ebft b\u1ecb.</p>\n<p>\u0110\u01b0\u1ee3c trang b\u1ecb Internet mi\u1ec5n ph\u00ed, TV truy\u1ec1n h\u00ecnh c\u00e1p, t\u1eadp luy\u1ec7n mi\u1ec5n ph\u00ed t\u1ea1i trung t\u00e2m th\u1ec3 h\u00ecnh In|Balance v\u00e0 d\u1ecdn d\u1eb9p ph\u00f2ng m\u1ed7i ng\u00e0y</p>\n<p><strong>NH\u00c0 H\u00c0NG V\u00c0 QU\u00c1N BAR</strong></p>\n<p>V\u1edbi v\u1ecb tr\u00ed \u0111\u1eafc \u0111\u1ecba d\u1ecdc theo tuy\u1ebfn \u0111\u01b0\u1eddng B\u1ea1ch \u0110\u1eb1ng \u2013 n\u01a1i c\u00f3 th\u1ec3 r\u1ea3o b\u01b0\u1edbc thong dong t\u1ea3n b\u1ed9 v\u00e0 ng\u1eafm nh\u00ecn khung c\u1ea3nh c\u0169ng d\u00f2ng s\u00f4ng H\u00e0n th\u01a1 m\u1ed9ng. V\u00ec th\u1ebf ch\u1eb3ng c\u00f3 g\u00ec l\u1ea1 khi r\u1ea5t nhi\u1ec1u th\u1ef1c kh\u00e1ch l\u1ef1a ch\u1ecdn Novotel l\u00e0m \u0111i\u1ec3m \u0111\u1ebfn l\u00fd t\u01b0\u1edfng cho nh\u1eefng nhu c\u1ea7u \u1ea9m th\u1ef1c c\u1ee7a b\u1ea3n th\u00e2n v\u00e0 gia \u0111\u00ecnh.</p>\n<p>Ch\u00fang t\u00f4i lu\u00f4n cam k\u1ebft mang \u0111\u1ebfn c\u00e1c d\u1ecbch v\u1ee5 \u0111\u1eb3ng c\u1ea5p qu\u1ed1c t\u1ebf \u2013 d\u01b0\u1edbi s\u1ef1 \u0111\u1ea7u t\u01b0, chu\u1ea9n b\u1ecb k\u1ef9 l\u01b0\u1ee1ng c\u1ee7a nh\u1eefng \u0111\u1ea7u b\u1ebfp v\u00e0 bartender h\u00e0ng \u0111\u1ea7u.</p>\n<p>V\u00ec th\u1ebf, \u201cngon mi\u1ec7ng, h\u1ea5p d\u1eabn, tinh t\u1ebf, h\u00e0i l\u00f2ng\u201d \u1eaft h\u1eb3n s\u1ebd l\u00e0 nh\u1eefng m\u1ef9 t\u1eeb c\u1ea3m nh\u1eadn khi qu\u00fd kh\u00e1ch th\u01b0\u1edfng th\u1ee9c m\u00f3n \u0103n n\u01a1i \u0111\u00e2y.</p>\n<p><strong><em>Nh\u00e0 h\u00e0ng The Square</em></strong></p>\n<p>Nh\u00e0 h\u00e0ng The Square mang \u0111\u1ebfn cho Qu\u00fd kh\u00e1ch m\u1ed9t kh\u00f4ng gian \u1ea9m th\u1ef1c sang tr\u1ecdng, tinh t\u1ebf , d\u00e0nh cho c\u1ea3 b\u1eefa s\u00e1ng, tr\u01b0a l\u1eabn t\u1ed1i.</p>\n<p>Ngo\u00e0i buffet s\u00e1ng th\u1ecbnh so\u1ea1n cho m\u1ed9t ng\u00e0y m\u1edbi tr\u00e0n \u0111\u1ea7y n\u0103ng l\u01b0\u1ee3ng, nh\u00e0 h\u00e0ng The Square c\u00f2n ph\u1ee5c v\u1ee5 c\u1ea3 th\u1ef1c \u0111\u01a1n c\u00e1c m\u00f3n \u00c2u \u2013 \u00c1 h\u1ea5p d\u1eabn c\u0169ng nh\u01b0 nh\u1eefng b\u1eefa ti\u1ec7c t\u1ed1i t\u1ef1 ch\u1ecdn ho\u00e0nh tr\u00e1ng.</p>\n<p>\u0110\u1eb7c bi\u1ec7t v\u1edbi khu b\u1ebfp m\u1edf s\u1ebd mang \u0111\u1ebfn nh\u1eefng tr\u1ea3i nghi\u1ec7m \u1ea9m th\u1ef1c th\u00fa v\u1ecb d\u00e0nh cho c\u00e1c th\u1ef1c kh\u00e1ch, khi v\u1eeba th\u01b0\u1edfng th\u1ee9c c\u00e1c m\u00f3n \u0103n th\u01a1m ngon, v\u1eeba chi\u00eam ng\u01b0\u1ee1ng qu\u00e1 tr\u00ecnh ch\u1ebf bi\u1ebfn \u0111i\u00eau luy\u1ec7n v\u00e0 \u0111\u1eb9p m\u1eaft c\u1ee7a c\u00e1c \u0111\u1ea7u b\u1ebfp \u0111\u1ea7y t\u00e0i n\u0103ng.</p>\n<p>\u0110\u1ed3ng th\u1eddi c\u1ee9 hai tu\u1ea7n m\u1ed9t l\u1ea7n, nh\u1eefng b\u1eefa \u0103n t\u1ed1i tuy\u1ec7t v\u1eddi v\u1edbi h\u1ea3i s\u1ea3n \u0110\u00f4ng Nam \u00c1 \u0111a d\u1ea1ng \u0111\u00e3 tr\u1edf th\u00e0nh th\u01b0\u01a1ng hi\u1ec7u n\u1ed5i ti\u1ebfng, thu h\u00fat \u0111\u00f4ng \u0111\u1ea3o th\u1ef1c kh\u00e1ch t\u1ea1i th\u00e0nh ph\u1ed1. (V\u00e0o t\u1ed1i th\u1ee9 s\u00e1u v\u00e0 th\u1ee9 b\u1ea3y)</p>\n<p>N\u1ebfu qu\u00fd kh\u00e1ch ch\u01b0a c\u00f9ng ch\u00fang t\u00f4i th\u01b0\u1edfng th\u1ee9c nh\u1eefng m\u00f3n ngon t\u1ea1i The Square, h\u00e3y \u0111\u1eb7t b\u00e0n ngay th\u00f4i! \u0110\u00f3 l\u00e0 gi\u1ea5c m\u01a1 c\u00f3 th\u1eadt cho ng\u01b0\u1eddi s\u00e0nh \u0103n!</p>\n<p><em><ins>V\u1ecb tr\u00ed:</ins></em> t\u1ea7ng 4</p>\n<p><em><ins>Gi\u1edd m\u1edf c\u1eeda:</ins></em></p>\n<ul>\n<li>Buffet s\u00e1ng: 6:00 \u2013 10:00 (Th\u1ee9 Hai \u0111\u1ebfn th\u1ee9 S\u00e1u), 6:00 \u2013 11:00 (Th\u1ee9 B\u1ea3y, Ch\u1ee7 Nh\u1eadt)</li>\n<li>A la Carte: 11:00 \u2013 22:00 (H\u1eb1ng ng\u00e0y)</li>\n<li>Ti\u1ec7c n\u01b0\u1edbng BBQ Buffet: 18:00 \u2013 22:00 (Th\u1ee9 S\u00e1u v\u00e0 Th\u1ee9 B\u1ea3y)</li>\n<li>Ti\u1ec7c BBQ buffet t\u1ea1i h\u1ed3 b\u01a1i: 18:00 \u2013 22:00 (Ch\u1ee7 nh\u1eadt)</li>\n</ul>\n<p><strong><em>Qu\u1ea7y Bar h\u1ed3 b\u01a1i The Splash</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-ho-boi-the-splash-novotel-danang-premier-han-river-danang-fantasticity-com.jpg\" alt=\"Quay Bar Ho Boi The Splash Novotel Danang Premier Han River Danang Fantasticity Com\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-ho-boi-the-splash-novotel-danang-premier-han-river-danang-fantasticity-com-1-1024x683.jpg\" alt=\"Quay Bar Ho Boi The Splash Novotel Danang Premier Han River Danang Fantasticity Com 1\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-ho-boi-the-splash-novotel-danang-premier-han-river-danang-fantasticity-com-2-1024x610.jpg\" alt=\"Quay Bar Ho Boi The Splash Novotel Danang Premier Han River Danang Fantasticity Com 2\" style=\"height: undefined;width: undefined\"/></p>\n<p>L\u00e0 m\u1ed9t trong nh\u1eefng \u0111i\u1ec3m \u0111\u1ebfn ban ng\u00e0y c\u0169ng nh\u01b0 ban \u0111\u00eam l\u00fd t\u01b0\u1edfng nh\u1ea5t c\u1ee7a th\u00e0nh ph\u1ed1, The Splash l\u00e0 s\u1ef1 k\u1ebft h\u1ee3p gi\u1eefa vui t\u01b0\u01a1i, n\u0103ng \u0111\u1ed9ng v\u00e0 nh\u1eb9 nh\u00e0ng, th\u01b0 th\u00e1i. Trong b\u1ea7u kh\u00f4ng kh\u00ed tho\u1ea3i m\u00e1i c\u1ee7a qu\u1ea7y bar b\u00ean h\u1ed3 b\u01a1i, qu\u00fd kh\u00e1ch c\u00f3 th\u1ec3 th\u1ecfa th\u00edch b\u01a1i l\u1ed9i trong ti\u1ebfng nh\u1ea1c vui nh\u1ed9n.</p>\n<p>Ho\u1eb7c v\u1eeba \u0111\u1eafm m\u00ecnh v\u00e0o l\u00e0n n\u01b0\u1edbc m\u00e1t l\u1ea1nh xanh trong, v\u1eeba nh\u00e2m nhi nh\u1eefng ly cocktail \u0111\u1ea7y m\u00e0u s\u1eafc. V\u00e0 c\u00f2n g\u00ec th\u00fa v\u1ecb h\u01a1n khi c\u00f9ng v\u1edbi ng\u01b0\u1eddi th\u00e2n y\u00eau c\u01b0\u1eddi \u0111\u00f9a, v\u00e0 ng\u1eafm c\u1ea3nh \u0111\u1eb9p tuy\u1ec7t m\u1ef9 c\u1ee7a th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng v\u00e0o l\u00fac chi\u1ec1u nh\u1ea1t n\u1eafng ho\u1eb7c lung linh \u00e1nh \u0111\u00e8n v\u1ec1 \u0111\u00eam.</p>\n<p>Th\u1ee9c u\u1ed1ng h\u1ea3o h\u1ea1ng, \u00e2m nh\u1ea1c s\u00f4i \u0111\u1ed9ng v\u00e0 b\u1ea7u kh\u00f4ng kh\u00ed tuy\u1ec7t v\u1eddi, ch\u00fang t\u00f4i r\u1ea5t mong \u0111\u01b0\u1ee3c ph\u1ee5c v\u1ee5 Qu\u00fd kh\u00e1ch!</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> T\u1ea7ng\u00a04</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda:</ins></em> 10:00 \u2013 22:00</li>\n</ul>\n<p><strong><em>Qu\u1ea7y Bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-06.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 06\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-01-1024x587.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-02-1024x634.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-03-1024x556.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-05.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 05\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-04-1024x559.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 04\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/quay-bar-tang-thuong-hang-29-novotel-danang-premier-han-river-danang-fantasticity-com-06-1-1024x562.jpg\" alt=\"Quay Bar Tang Thuong Hang 29 Novotel Danang Premier Han River Danang Fantasticity Com 06\" style=\"height: undefined;width: undefined\"/></p>\n<p>H\u00e3y d\u00e0nh tr\u1ecdn th\u1eddi gian \u0111\u1ec3 ngh\u1ec9 ng\u01a1i v\u00e0 th\u01b0 gi\u00e3n, c\u00f2n nh\u1eefng chi ti\u1ebft nh\u1ecf nh\u1eb7t kh\u00e1c h\u00e3y \u0111\u1ec3 ch\u00fang t\u00f4i ch\u0103m s\u00f3c v\u00e0 lo l\u1eafng gi\u00fap qu\u00fd kh\u00e1ch. Lu\u00f4n \u0111\u01b0\u1ee3c \u0111\u00e1nh gi\u00e1 cao v\u1ec1 ch\u1ea5t l\u01b0\u1ee3ng d\u1ecbch v\u1ee5 ho\u00e0n h\u1ea3o, kh\u00e1ch s\u1ea1n Novotel Danang Premier Han River s\u1ebd mang \u0111\u1ebfn cho qu\u00fd kh\u00e1ch nhi\u1ec1u s\u1ef1 tr\u1ea3i nghi\u1ec7m th\u00fa v\u1ecb, v\u00e0 nh\u1eefng ti\u1ec7n nghi \u0111\u1eb3ng c\u1ea5p ho\u00e0n to\u00e0n mi\u1ec5n ph\u00ed.</p>\n<p>Bao g\u1ed3m s\u1ef1 \u0111\u00f3n ti\u1ebfp \u00e2n c\u1ea7n v\u00e0 ph\u1ee5c v\u1ee5 tr\u00e0 khi \u0111\u1ebfn nh\u1eadn ph\u00f2ng, b\u1eefa \u0103n s\u00e1ng mi\u1ec5n ph\u00ed , s\u1eed d\u1ee5ng ph\u00f2ng h\u1ecdp doanh nghi\u1ec7p, th\u01b0\u1edfng th\u1ee9c tho\u1ea3i m\u00e1i \u0111\u1ed3 u\u1ed1ng kh\u00f4ng c\u1ed3n trong ng\u00e0y v\u00e0 cocktail t\u1ed1i t\u1ea1i s\u1ea3nh, trong kh\u00f4ng gian tuy\u1ec7t m\u0129 t\u1eebng \u0111\u01b0\u1ee3c v\u00ed von nh\u01b0 \u201cb\u01b0\u1edbc l\u00ean m\u00e2y\u201d \u1edf \u0110\u00e0 N\u1eb5ng.</p>\n<p>Qu\u00fd kh\u00e1ch s\u1ebd \u0111\u01b0\u1ee3c \u0111\u00f3n ti\u1ebfp n\u1ed3ng h\u1eadu nh\u01b0 m\u1ed9t VIP \u0111\u00edch th\u1ef1c, theo phong c\u00e1ch Novotel.</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed</ins></em>: t\u1ea7ng 29</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda:</ins></em> 06:30 \u2013 22:00</li>\n<li><em><ins>\u0110i\u1ec3m t\u00e2m s\u00e1ng:</ins></em> 06:30 \u2013 10:30 (Th\u1ee9 Hai \u0111\u1ebfn Th\u1ee9 S\u00e1u), 6:30 \u2013 11:00 (Th\u1ee9 B\u1ea3y, Ch\u1ee7 Nh\u1eadt)</li>\n<li><em><ins>Tr\u00e0 chi\u1ec1u:</ins></em> 15:00 \u2013 17:00</li>\n<li><em><ins>Cocktail &amp; Canape\u2019:</ins></em> 18:00 \u2013 20:00</li>\n</ul>\n<p><strong><em>Gourmet Bar</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/Gourmet-Bar-novotel-danang-premier-han-river-danang-fantasticity-com-02.jpg\" alt=\"Gourmet Bar Novotel Danang Premier Han River Danang Fantasticity Com 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/Gourmet-Bar-novotel-danang-premier-han-river-danang-fantasticity-com-03-1024x620.jpg\" alt=\"Gourmet Bar Novotel Danang Premier Han River Danang Fantasticity Com 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/Gourmet-Bar-novotel-danang-premier-han-river-danang-fantasticity-com-02-1024x582.jpg\" alt=\"Gourmet Bar Novotel Danang Premier Han River Danang Fantasticity Com 02\" style=\"height: undefined;width: undefined\"/></p>\n<p>D\u00f9 l\u00e0 cu\u1ed9c h\u1eb9n c\u00f4ng vi\u1ec7c hay bu\u1ed5i g\u1eb7p m\u1eb7t b\u1ea1n b\u00e8,\u00a0Gourmet Bar\u00a0lu\u00f4n l\u00e0 \u0111\u1ecba \u0111i\u1ec3m l\u00fd t\u01b0\u1edfng d\u00e0nh cho b\u1ea1n.</p>\n<p>\u0110\u1ed3 u\u1ed1ng cocktail \u0111\u1eb7c s\u1eafc, b\u00e1nh m\u00ec burger \u0111a d\u1ea1ng, tapas v\u00e0 lo\u1ea1i b\u00e1nh ng\u1ecdt g\u00e2y nghi\u1ec7n \u1eaft h\u1eb3n s\u1ebd kh\u00f4ng l\u00e0m b\u1ea1n th\u1ea5t v\u1ecdng</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> T\u1ea7ng tr\u1ec7t</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda: </ins></em>7:00 \u2013 22:30</li>\n</ul>\n<p><strong>H\u1ed8I H\u1eccP V\u00c0 S\u1ef0 KI\u1ec6N</strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/hoi-hop-va-su-kien-tai-novotel-danang-premier-han-river-danang-fantasticity-com.jpg\" alt=\"Hoi Hop Va Su Kien Tai Novotel Danang Premier Han River Danang Fantasticity Com\" style=\"height: undefined;width: undefined\"/></p>\n<p>T\u1ea1i Novotel Danang Premier Han River, ch\u00fang t\u00f4i t\u1ef1 h\u00e0o lu\u00f4n mang \u0111\u1ebfn nh\u1eefng d\u1ecbch v\u1ee5 t\u1ed1t nh\u1ea5t v\u1edbi ch\u1ea5t l\u01b0\u1ee3ng ho\u00e0n h\u1ea3o. Kh\u00f4ng c\u00f2n nghi ng\u1edd g\u00ec n\u1eefa, hai \u0111i\u1ec1u n\u00e0y \u0111\u00e3 \u0111\u01b0\u1ee3c minh ch\u1ee9ng b\u1edfi s\u1ef1 th\u00e0nh c\u00f4ng c\u1ee7a t\u1ea5t c\u1ea3 c\u00e1c cu\u1ed9c h\u1ecdp trong th\u1eddi gian qua. V\u1edbi phong c\u00e1ch ph\u1ee5c v\u1ee5 chuy\u00ean nghi\u1ec7p v\u00e0 k\u1ef9 l\u01b0\u1ee1ng, ch\u00fang t\u00f4i lu\u00f4n n\u1ed7 l\u1ef1c mang \u0111\u1ebfn s\u1ef1 t\u1ec9 m\u1ec9 trong t\u1eebng chi ti\u1ebft, cho c\u00e1c s\u1ef1 ki\u1ec7n l\u1edbn nh\u1ecf m\u00e0 kh\u00e1ch h\u00e0ng \u0111\u00e3 ho\u00e0n to\u00e0n y\u00ean t\u00e2m g\u1edfi g\u1eafm.</p>\n<p>V\u1edbi m\u1ed9t \u0111\u1ea1i s\u1ea3nh r\u1ed9ng l\u1edbn v\u00e0 b\u1ed1n ph\u00f2ng h\u1ed9i ngh\u1ecb \u0111\u01b0\u1ee3c trang b\u1ecb \u0111\u1ea7y \u0111\u1ee7 c\u00e1c thi\u1ebft b\u1ecb nghe nh\u00ecn t\u1ed1i t\u00e2n, hi\u1ec7n \u0111\u1ea1i. Novotel \u0110\u00e0 N\u1eb5ng t\u1ef1 tin \u0111\u00e3 chu\u1ea9n b\u1ecb s\u1eb5n s\u00e0ng m\u1ecdi th\u1ee9 c\u1ea7n c\u00f3, \u0111\u1ec3 \u0111\u1ea3m b\u1ea3o cho m\u1ecdi s\u1ef1 ki\u1ec7n c\u1ee7a qu\u00fd kh\u00e1ch lu\u00f4n di\u1ec5n ra th\u00e0nh c\u00f4ng m\u1ef9 m\u00e3n.</p>\n<p>\u0110\u1ed9i ng\u0169 nh\u00e2n vi\u00ean chuy\u00ean nghi\u1ec7p \u0111\u01b0\u1ee3c \u0111\u00e0o t\u1ea1o k\u1ef9 c\u00e0ng c\u1ee7a ch\u00fang t\u00f4i s\u1ebd bi\u1ebfn mong mu\u1ed1n v\u00e0 m\u01a1 \u01b0\u1edbc c\u1ee7a qu\u00fd kh\u00e1ch th\u00e0nh hi\u1ec7n th\u1ef1c! B\u1eb1ng c\u00e1ch k\u1ebft h\u1ee3p c\u00e1c \u0111\u1ecba \u0111i\u1ec3m ngo\u00e0i tr\u1eddi r\u1ed9ng r\u00e3i v\u00e0 s\u00e2n v\u01b0\u1eddn tho\u00e1ng m\u00e1t, h\u00e3y \u0111\u1ec3 ch\u00fang t\u00f4i t\u1ea1o ra s\u1ef1 kh\u00e1c bi\u1ec7t v\u00e0 \u0111\u1ed9c \u0111\u00e1o trong m\u1ed7i s\u1ef1 ki\u1ec7n c\u1ee7a qu\u00fd kh\u00e1ch.</p>\n<ul>\n<li>Grand Thuy Son: s\u1ee9c ch\u1ee9a l\u00ean \u0111\u1ebfn 400 kh\u00e1ch</li>\n<li>Qu\u1ea7y Bar Splash: s\u1ee9c ch\u1ee9a l\u00ean \u0111\u1ebfn 250 kh\u00e1ch (ngo\u00e0i tr\u1eddi)</li>\n<li>Gourmet Bar: s\u1ee9c ch\u1ee9a l\u00ean \u0111\u1ebfn 250 kh\u00e1ch (trong ph\u00f2ng v\u00e0 s\u00e2n v\u01b0\u1eddn)</li>\n<li>Qu\u1ea7y Bar t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng: s\u1ee9c ch\u1ee9a t\u1eeb 60-80 kh\u00e1ch.</li>\n</ul>\n<p><strong><em>Ti\u1ec7c c\u01b0\u1edbi</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/wedding-tiec-cuoi-tai-novotel-danang-premier-han-river-danang-fantasticity-com-01.jpg\" alt=\"Wedding Tiec Cuoi Tai Novotel Danang Premier Han River Danang Fantasticity Com 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/wedding-tiec-cuoi-tai-novotel-danang-premier-han-river-danang-fantasticity-com-02-1024x660.jpg\" alt=\"Wedding Tiec Cuoi Tai Novotel Danang Premier Han River Danang Fantasticity Com 02\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/wedding-tiec-cuoi-tai-novotel-danang-premier-han-river-danang-fantasticity-com-03-1024x644.jpg\" alt=\"Wedding Tiec Cuoi Tai Novotel Danang Premier Han River Danang Fantasticity Com 03\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/wedding-tiec-cuoi-tai-novotel-danang-premier-han-river-danang-fantasticity-com.jpg\" alt=\"Wedding Tiec Cuoi Tai Novotel Danang Premier Han River Danang Fantasticity Com\" style=\"height: undefined;width: undefined\"/></p>\n<p>D\u00f9 b\u1ea1n \u0111ang m\u01a1 v\u1ec1 m\u1ed9t ti\u1ec7c c\u01b0\u1edbi ho\u00e0nh tr\u00e1ng, l\u1ed7ng l\u1eaby trong nh\u00e0 nh\u01b0 n\u00e0ng c\u00f4ng ch\u00faa l\u1ecd lem xinh \u0111\u1eb9p; hay m\u1ed9t b\u1eefa ti\u1ec7c l\u00e3ng m\u1ea1n, \u1ea5m c\u00fang d\u01b0\u1edbi v\u00f2m tr\u1eddi \u0111\u1ea7y sao. Ch\u1ec9 c\u1ea7n n\u00f3i l\u1eddi \u0111\u1ed3ng \u00fd, \u0111\u1ed9i ng\u0169 nh\u00e2n vi\u00ean n\u1ed3ng nhi\u1ec7t v\u00e0 chuy\u00ean nghi\u1ec7p c\u1ee7a ch\u00fang t\u00f4i s\u1ebd gi\u00fap qu\u00fd kh\u00e1ch c\u00f3 \u0111\u01b0\u1ee3c m\u1ed9t l\u1ec5 c\u01b0\u1edbi th\u1eadt \u0111\u00e1ng nh\u1edb. Ch\u1eafc ch\u1eafn kh\u00f4ng n\u01a1i n\u00e0o tuy\u1ec7t v\u1eddi h\u01a1n Novotel \u0110\u00e0 N\u1eb5ng \u0111\u1ec3 ghi l\u1ea1i kho\u1ea3nh kh\u1eafc \u0111\u1eb9p nh\u1ea5t trong \u0111\u1eddi c\u1ee7a qu\u00fd kh\u00e1ch.</p>\n<p>Ph\u00f2ng Grand Th\u1ee7y S\u01a1n c\u00f3 s\u1ee9c ch\u1ee9a l\u00ean \u0111\u1ebfn 400 ng\u01b0\u1eddi v\u1edbi kh\u00f4ng gian tinh t\u1ebf v\u00e0 l\u1ecbch l\u00e3m ch\u1eafc ch\u1eafn s\u1ebd mang s\u1ef1 lung linh cho c\u00e1c ti\u1ec7c c\u01b0\u1edbi.</p>\n<p>Nh\u1eefng qu\u1ea3n l\u00ed gi\u00e0u kinh nghi\u1ec7m s\u1ebd lu\u00f4n theo s\u00e1t m\u1ecdi di\u1ec5n bi\u1ebfn t\u1ea1i bu\u1ed5i ti\u1ec7c, \u0111\u1ec3 \u0111\u1ea3m b\u1ea3o t\u1ea5t c\u1ea3 ho\u1ea1t \u0111\u1ed9ng \u0111\u01b0\u1ee3c su\u00f4n s\u1ebb trong ng\u00e0y \u0111\u1eb7c bi\u1ec7t c\u1ee7a qu\u00fd kh\u00e1ch. H\u00e3y an t\u00e2m t\u1eadn h\u01b0\u1edfng nh\u1eefng ph\u00fat gi\u00e2y h\u1ea1nh ph\u00fac, th\u0103ng hoa trong ng\u00e0y vui l\u1ee9a \u0111\u00f4i c\u00f9ng v\u1edbi gia \u0111\u00ecnh v\u00e0 b\u1ea1n b\u00e8.</p>\n<p>Kh\u00f4ng d\u1eebng l\u1ea1i \u1edf \u0111\u00f3, Novotel \u0110\u00e0 N\u1eb5ng c\u00f2n cung c\u1ea5p nh\u1eefng \u0111\u1eb7c quy\u1ec1n m\u00e0 qu\u00fd kh\u00e1ch h\u1eb1ng t\u01b0\u1edfng t\u01b0\u1ee3ng cho \u0111\u00e1m c\u01b0\u1edbi trong m\u01a1:</p>\n<ul>\n<li>C\u1ed5ng hoa t\u01b0\u01a1i</li>\n<li>B\u00e0n l\u1ec5 t\u00e2n v\u1edbi hoa trang tr\u00ed</li>\n<li>S\u1ed5 k\u00ed t\u00ean l\u01b0u ni\u1ec7m, th\u00f9ng \u0111\u1ef1ng ti\u1ec1n m\u1eebng v\u00e0 gi\u00e1 \u0111\u1ec3 \u1ea3nh c\u01b0\u1edbi</li>\n<li>Ph\u00f4ng n\u1ec1n ti\u1ec7c c\u01b0\u1edbi tr\u00ean s\u00e2n kh\u1ea5u c\u00f3 trang tr\u00ed hoa t\u01b0\u01a1i</li>\n<li>Hoa t\u01b0\u01a1i m\u1ed7i b\u00e0n ti\u1ec7c</li>\n<li>Hoa t\u01b0\u01a1i cho l\u1ed1i \u0111i l\u00ean s\u00e2n kh\u1ea5u</li>\n<li>Th\u00e1p s\u00e2m banh v\u1edbi hi\u1ec7u \u1ee9ng \u0111\u00e1 kh\u00f3i v\u00e0 2 chai r\u01b0\u1ee3u vang</li>\n<li>B\u00e1nh c\u01b0\u1edbi 4 t\u1ea7ng trong \u0111\u00f3 c\u00f3 1 t\u1ea7ng th\u1eadt</li>\n<li>\u00c2m thanh \u00e1nh s\u00e1ng s\u00f4i \u0111\u1ed9ng</li>\n<li>\u0110\u1ed9i nghi l\u1ec5 m\u1edf m\u00e0n</li>\n<li>2 vi\u00ean ph\u00e1o kim tuy\u1ebfn cho nghi l\u1ec5</li>\n<li>\u0102n nh\u1eb9 d\u00e0nh cho c\u00f4 d\u00e2u v\u00e0 ch\u00fa r\u1ec3 tr\u01b0\u1edbc khi ti\u1ec7c di\u1ec5n ra</li>\n<li>1 \u0111\u00eam t\u00e2n h\u00f4n v\u1edbi hoa t\u01b0\u01a1i v\u00e0 gi\u1ecf hoa qu\u1ea3 trong ph\u00f2ng</li>\n<li>\u0102n th\u1eed th\u1ef1c \u0111\u01a1n ti\u1ec7c c\u01b0\u1edbi cho 4 ng\u01b0\u1eddi.</li>\n</ul>\n<p>Li\u00ean h\u1ec7 b\u1ed9 ph\u1eadn t\u1ed5 ch\u1ee9c ti\u1ec7c c\u01b0\u1edbi c\u1ee7a ch\u00fang t\u00f4i qua: H8287@accor.com</p>\n<p><strong><em>S\u1ef1 ki\u1ec7n</em></strong></p>\n<p>T\u1eeb c\u00e1c th\u1ef1c \u0111\u01a1n g\u1ecdi m\u00f3n, ti\u1ec7c t\u1ef1 ch\u1ecdn cho \u0111\u1ebfn ti\u1ec7c cocktail canap\u00e9, \u0111\u1ed9i ng\u0169 b\u1ebfp chuy\u00ean nghi\u1ec7p c\u1ee7a ch\u00fang t\u00f4i \u0111\u1ec1u mang \u0111\u1ebfn nh\u1eefng h\u01b0\u01a1ng v\u1ecb \u0111\u00edch th\u1ef1c v\u00e0 \u0111\u1ea7y s\u00e1ng t\u1ea1o. Novotel \u0110\u00e0 N\u1eb5ng t\u1ef1 h\u00e0o cung c\u1ea5p nhi\u1ec1u s\u1ef1 l\u1ef1a ch\u1ecdn, \u0111\u1ec3 t\u1ea1o n\u00ean m\u1ed9t b\u1eefa ti\u1ec7c ho\u00e0nh tr\u00e1ng hay \u1ea5m \u00e1p, theo phong c\u00e1ch ri\u00eang c\u1ee7a qu\u00fd kh\u00e1ch.</p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/su-kien-tai-novotel-danang-premier-han-river-danang-fantasticity-com.jpg\" alt=\"Su Kien Tai Novotel Danang Premier Han River Danang Fantasticity Com\" style=\"height: undefined;width: undefined\"/></p>\n<p>C\u00e1c kh\u00f4ng gian s\u1ef1 ki\u1ec7n c\u0169ng nh\u01b0 c\u00e1c qu\u1ea7y bar v\u00e0 nh\u00e0 h\u00e0ng, n\u1eb1m \u1edf nhi\u1ec1u v\u1ecb tr\u00ed kh\u00e1c nhau, nh\u01b0ng \u0111\u1ec1u c\u00f3 h\u01b0\u1edbng nh\u00ecn tuy\u1ec7t \u0111\u1eb9p v\u1edbi quan c\u1ea3nh \u1ea5n t\u01b0\u1ee3ng. \u0110i\u1ec1u \u0111\u1eb7c bi\u1ec7t \u0111\u00f3 gi\u00fap vi\u1ec7c t\u1ed5 ch\u1ee9c c\u00e1c s\u1ef1 ki\u1ec7n giao l\u01b0u, g\u1eb7p g\u1ee1 c\u1ee7a qu\u00fd kh\u00e1ch tr\u1edf n\u00ean ho\u00e0n h\u1ea3o h\u01a1n. Cho d\u00f9 \u0111\u00f3 l\u00e0 m\u1ed9t b\u1eefa ti\u1ec7c l\u1edbn (l\u00ean t\u1edbi 400 ng\u01b0\u1eddi), hay ch\u1ec9 l\u00e0 m\u1ed9t nh\u00f3m b\u1ea1n th\u00e2n c\u00f9ng nhau t\u1ed5 ch\u1ee9c sinh nh\u1eadt, t\u1ea5t c\u1ea3 \u0111\u1ec1u c\u00f3 th\u1ec3 di\u1ec5n ra t\u1ea1i Novotel \u0110\u00e0 N\u1eb5ng.</p>\n<p><strong><em>H\u1ed9i h\u1ecdp</em></strong></p>\n<p>Qu\u00fd kh\u00e1ch \u0111ang t\u00ecm ki\u1ebfm m\u1ed9t \u0111\u1ecba \u0111i\u1ec3m ho\u00e0n h\u1ea3o \u0111\u1ec3 t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n, h\u1ed9i th\u1ea3o, h\u1ed9i ngh\u1ecb, ra m\u1eaft s\u1ea3n ph\u1ea9m, di\u1ec5n \u0111\u00e0n hay tri\u1ec3n l\u00e3m t\u01b0 v\u1ea5n gi\u00e1o d\u1ee5c? Ch\u1eb3ng c\u1ea7n t\u00ecm \u0111\u00e2u xa, kh\u00f4ng n\u01a1i n\u00e0o t\u1ed1t h\u01a1n Novotel \u0110\u00e0 N\u1eb5ng.</p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/novotel-danang-premier-han-river-danang-fantasticity-meeting.jpg\" alt=\"undefined\" style=\"height: undefined;width: undefined\"/></p>\n<p>H\u1ec7 th\u1ed1ng 5 ph\u00f2ng h\u1ecdp \u0111\u1eb7c bi\u1ec7t c\u00f3 th\u1ec3 ph\u00e2n c\u00e1ch ho\u1eb7c m\u1edf r\u1ed9ng, \u0111\u01b0\u1ee3c l\u1eafp \u0111\u1eb7t \u0111\u1ea7y \u0111\u1ee7 c\u00e1c trang thi\u1ebft b\u1ecb hi\u1ec7n \u0111\u1ea1i, ti\u00ean ti\u1ebfn c\u00f9ng d\u00e0n \u00e2m thanh, m\u00e1y chi\u1ebfu chuy\u00ean nghi\u1ec7p nh\u1ea5t.</p>\n<p>\u0110\u1ed9i ng\u0169 t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n chuy\u00ean nghi\u1ec7p, t\u1ec9 m\u1ec9 trong chi ti\u1ebft c\u1ee7a ch\u00fang t\u00f4i lu\u00f4n lu\u00f4n h\u01b0\u1edbng \u0111\u1ebfn s\u1ef1 th\u00e0nh c\u00f4ng cho h\u1ed9i ngh\u1ecb c\u1ee7a qu\u00fd kh\u00e1ch.</p>\n<p><strong>S\u1ee8C KH\u1eceE V\u00c0 GI\u1ea2I TR\u00cd</strong></p>\n<p><strong><em>InBalance Spa</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/InBalance-Spa-novotel-danang-premier-han-river-danang-fantasticity-com.jpg\" alt=\"Inbalance Spa Novotel Danang Premier Han River Danang Fantasticity Com\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/InBalance-Spa-novotel-danang-premier-han-river-danang-fantasticity-com-01-1024x683.jpg\" alt=\"Inbalance Spa Novotel Danang Premier Han River Danang Fantasticity Com 01\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/InBalance-Spa-novotel-danang-premier-han-river-danang-fantasticity-com-04-1024x683.jpg\" alt=\"Inbalance Spa Novotel Danang Premier Han River Danang Fantasticity Com 04\" style=\"height: undefined;width: undefined\"/></p>\n<p>Spa c\u1ee7a ch\u00fang t\u00f4i \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf hi\u1ec7n \u0111\u1ea1i trong m\u1ed9t kh\u00f4ng gian y\u00ean t\u0129nh, t\u00e1ch bi\u1ec7t ho\u00e0n to\u00e0n kh\u1ecfi th\u1ebf gi\u1edbi b\u00ean ngo\u00e0i. T\u1ea1i n\u01a1i \u0111\u00e2y, Qu\u00fd kh\u00e1ch c\u00f3 th\u1ec3 th\u01b0 gi\u00e3n t\u00e2m tr\u00ed, ph\u1ee5c h\u1ed3i ngu\u1ed3n n\u0103ng l\u01b0\u1ee3ng m\u1edbi, t\u01b0\u01a1i tr\u1ebb c\u01a1 th\u1ec3 v\u00e0 t\u00e2m h\u1ed3n.</p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/InBalance-Spa-novotel-danang-premier-han-river-danang-fantasticity-com-05.jpg\" alt=\"Inbalance Spa Novotel Danang Premier Han River Danang Fantasticity Com 05\" style=\"height: undefined;width: undefined\"/></p>\n<p>T\u1ecda l\u1ea1c t\u1ea1i t\u1ea7ng 6 c\u1ee7a kh\u00e1ch s\u1ea1n, InBalance Spa l\u00e0 kh\u00f4ng gian ho\u00e0n h\u1ea3o, \u0111\u1ec3 tr\u1ea3i nghi\u1ec7m nh\u1eefng d\u1ecbch v\u1ee5 spa \u0111\u1eb3ng c\u1ea5p. N\u01a1i \u0111\u00e2y cung c\u1ea5p nhi\u1ec1u li\u1ec7u ph\u00e1p xoa b\u00f3p tr\u1ecb li\u1ec7u ri\u00eang bi\u1ec7t ho\u1eb7c t\u1ed5ng h\u1ee3p, c\u00f9ng v\u1edbi h\u1ec7 th\u1ed1ng Sauna v\u00e0 Jacuzzi hi\u1ec7n \u0111\u1ea1i. Vi\u1ec7c k\u1ebft h\u1ee3p h\u00e0i h\u00f2a gi\u1eefa nh\u1eefng li\u1ec7u tr\u00ecnh th\u01b0 gi\u00e3n \u0111\u1eb7c tr\u01b0ng t\u1ea1i InBalance Spa v\u1edbi ngu\u1ed3n th\u1ea3o m\u1ed9c qu\u00fd hi\u1ebfm, s\u1ebd mang \u0111\u1ebfn tr\u1ea3i nghi\u1ec7m ho\u00e0n h\u1ea3o cho t\u1eebng gi\u00e1c quan c\u1ee7a b\u1ea1n.</p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2019/05/InBalance-Spa-novotel-danang-premier-han-river-danang-fantasticity-com-06.jpg\" alt=\"Inbalance Spa Novotel Danang Premier Han River Danang Fantasticity Com 06\" style=\"height: undefined;width: undefined\"/></p>\n<p>Nh\u1eefng \u0111\u00f4i b\u00e0n tay kh\u00e9o l\u00e9o, \u0111i\u00eau luy\u1ec7n c\u1ee7a \u0111\u1ed9i ng\u0169 nh\u00e2n vi\u00ean gi\u00e0u kinh nghi\u1ec7m t\u1ea1i \u0111\u00e2y s\u1ebd mang \u0111\u1ebfn cho Qu\u00fd kh\u00e1ch c\u1ea3m gi\u00e1c Th\u01b0 gi\u00e3n, Ph\u1ee5c h\u1ed3i v\u00e0 T\u00e1i sinh.</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> T\u1ea7ng 6</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda: </ins></em>9:00 \u2013 22:00</li>\n</ul>\n<p><strong><em>Trung t\u00e2m th\u1ec3 h\u00ecnh InBalance</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/novotel-danang-premier-han-river-danang-com-InBalance-fitness.jpg\" alt=\"undefined\" style=\"height: undefined;width: undefined\"/></p>\n<p>N\u1eb1m t\u1ea1i khu v\u1ef1c t\u1ea7ng 5 c\u1ee7a kh\u00e1ch s\u1ea1n, v\u1edbi trang thi\u1ebft b\u1ecb hi\u1ec7n \u0111\u1ea1i h\u00e0ng \u0111\u1ea7u v\u00e0 kh\u00f4ng gian s\u1ed1ng \u0111\u1ed9ng lu\u00f4n tr\u00e0n \u0111\u1ea7y n\u0103ng l\u01b0\u1ee3ng \u0111\u00e3 l\u00e0m n\u00ean\u00a0trung t\u00e2m th\u1ec3 h\u00ecnh InBalance\u00a0\u0111\u1eb3ng c\u1ea5p ngay trung t\u00e2m th\u00e0nh ph\u1ed1. N\u01a1i \u0111\u00e2y kh\u00f4ng ch\u1ec9 d\u00e0nh cho kh\u00e1ch l\u01b0u tr\u00fa t\u1ea1i kh\u00e1ch s\u1ea1n \u0111\u1ebfn luy\u1ec7n t\u1eadp , m\u00e0 c\u00f2n ch\u00e0o \u0111\u00f3n c\u00e1c th\u00e0nh vi\u00ean c\u00f3 nhu c\u1ea7u \u0111\u1ebfn s\u1eed d\u1ee5ng v\u00e0 tr\u1ea3i nghi\u1ec7m ch\u1ea5t l\u01b0\u1ee3ng ph\u00f2ng t\u1eadp \u0111\u1eb3ng c\u1ea5p c\u1ee7a Novotel.</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> t\u1ea7ng 5</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda:</ins></em> 6:00 \u2013 22:00</li>\n</ul>\n<p><strong><em>L\u1edbp Yoga</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/novotel-danang-premier-han-river-danang-fantasticity-com-Yoga-Class-Novotel-Danang-Premier-5.jpg\" alt=\"undefined\" style=\"height: undefined;width: undefined\"/></p>\n<p>Nh\u1eefng l\u1edbp h\u1ecdc Yoga \u0111\u1ea7u ti\u00ean \u0111\u01b0\u1ee3c khai gi\u1ea3ng t\u1eeb th\u00e1ng 8 n\u0103m 2014 v\u00e0 nhanh ch\u00f3ng tr\u1edf th\u00e0nh t\u00e2m \u0111i\u1ec3m ch\u00fa \u00fd c\u1ee7a\u00a0Novotel Danang Premier Han River. C\u00e1c l\u1edbp h\u1ecdc Yoga \u1edf \u0111\u00e2y \u0111\u01b0\u1ee3c d\u1eabn d\u1eaft b\u1edfi gi\u00e1o vi\u00ean gi\u00e0u kinh nghi\u1ec7m \u0111\u1ebfn t\u1eeb Nelpan \u2013 c\u00f4 Usha Rijal Adhikari \u2013 ng\u01b0\u1eddi \u0111\u00e3 d\u00e0nh \u0111\u01b0\u1ee3c nhi\u1ec1u danh hi\u1ec7u n\u1ed5i ti\u1ebfng v\u1ec1 Yoga trong khu v\u1ef1c v\u00e0 tr\u00ean th\u1ebf gi\u1edbi.</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> T\u1ea7ng 5</li>\n</ul>\n<p><strong><em>C\u00e2u l\u1ea1c b\u1ed9 Tr\u1ebb em</em></strong></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/novotel-danang-premier-han-river-danang-fantasticity-com-kid-club-1024x683.jpg\" alt=\"novotel-danang-premier-han-river-danang-fantasticity-com-kid-club\" style=\"height: undefined;width: undefined\"/></p>\n<p><img src=\"https://danangfantasticity.com/wp-content/uploads/2016/01/novotel-danang-premier-han-river-danang-fantasticity-com-kid-club-1-1024x683.jpg\" alt=\"novotel-danang-premier-han-river-danang-fantasticity-com-kid-club-1\" style=\"height: undefined;width: undefined\"/></p>\n<p>Nh\u1eefng tr\u1ea3i nghi\u1ec7m c\u1ee7a Qu\u00fd kh\u00e1ch s\u1ebd c\u00e0ng tuy\u1ec7t v\u1eddi h\u01a1n n\u1ebfu nh\u1eefng thi\u00ean th\u1ea7n nh\u1ecf c\u1ee7a b\u1ea1n c\u0169ng \u0111\u01b0\u1ee3c t\u1eadn h\u01b0\u1edfng, v\u00e0 ch\u0103m s\u00f3c k\u1ef9 l\u01b0\u1ee1ng v\u1edbi c\u00e1c d\u1ecbch v\u1ee5 vui ch\u01a1i, gi\u1ea3i tr\u00ed b\u1ed5 \u00edch. \u0110\u00f3 ch\u00ednh l\u00e0 l\u00fd do t\u1ea1i sao ch\u00fang t\u00f4i x\u00e2y d\u1ef1ng n\u00ean C\u00e2u l\u1ea1c b\u1ed9 Tr\u1ebb em \u0111\u1ea7y th\u00fa v\u1ecb, v\u1edbi nhi\u1ec1u tr\u00f2 ch\u01a1i v\u1eadn \u0111\u1ed9ng, tr\u00ed tu\u1ec7, d\u00e0nh cho nhi\u1ec1u l\u1ee9a tu\u1ed5i. B\u00ean c\u1ea1nh c\u00e1c d\u1ecbch v\u1ee5 ho\u00e0n h\u1ea3o kh\u00e1c, Kid\u2019s Club c\u0169ng \u0111\u00e3 g\u00f3p ph\u1ea7n l\u00e0m t\u0103ng th\u00eam gi\u00e1 tr\u1ecb, \u0111\u1ec3 kh\u00e1ch s\u1ea1n\u00a0Novotel Danang Premier Han River\u00a0tr\u1edf th\u00e0nh m\u1ed9t \u0111i\u1ec3m \u0111\u1ebfn l\u00fd t\u01b0\u1edfng, cho c\u00e1c gia \u0111\u00ecnh t\u1eadn h\u01b0\u1edfng k\u00ec ngh\u1ec9 sum v\u1ea7y ho\u00e0n h\u1ea3o.</p>\n<ul>\n<li><em><ins>V\u1ecb tr\u00ed:</ins></em> t\u1ea7ng 5</li>\n<li><em><ins>Gi\u1edd m\u1edf c\u1eeda:</ins></em> 7:00 to 20:00</li>\n</ul>\n<p><strong>Ch\u00ednh s\u00e1ch</strong></p>\n<ul>\n<li>Xin th\u00f4ng b\u00e1o lo\u1ea1i ph\u00f2ng Superior ch\u1ec9 ch\u1ee9a t\u1ed1i \u0111a 2 ng\u01b0\u1eddi bao g\u1ed3m tr\u1ebb em.</li>\n<li>Tr\u1ebb em v\u00e0 gi\u01b0\u1eddng ph\u1ee5</li>\n<li>Em b\u00e9 0-1 tu\u1ed5i: \u1ede mi\u1ec5n ph\u00ed n\u1ebfu s\u1eed d\u1ee5ng gi\u01b0\u1eddng s\u1eb5n c\u00f3. Ch\u00fa \u00fd, n\u1ebfu b\u1ea1n c\u1ea7n c\u0169i th\u00ec c\u00f3 th\u1ec3 ph\u1ea3i tr\u1ea3 th\u00eam ph\u00ed.</li>\n<li>Tr\u1ebb em 2-15 tu\u1ed5i: \u1ede mi\u1ec5n ph\u00ed n\u1ebfu s\u1eed d\u1ee5ng gi\u01b0\u1eddng s\u1eb5n c\u00f3.</li>\n<li>Kh\u00e1ch tr\u00ean 15 tu\u1ed5i \u0111\u01b0\u1ee3c coi l\u00e0 ng\u01b0\u1eddi l\u1edbn. Gi\u01b0\u1eddng ph\u1ee5 t\u00f9y thu\u1ed9c v\u00e0o lo\u1ea1i ph\u00f2ng b\u1ea1n ch\u1ecdn, xin vui l\u00f2ng ki\u1ec3m tra th\u00f4ng tin ph\u00f2ng \u0111\u1ec3 bi\u1ebft th\u00eam chi ti\u1ebft.</li>\n<li>Khi \u0111\u1eb7t tr\u00ean 5 ph\u00f2ng, ch\u00ednh s\u00e1ch v\u00e0 \u0111i\u1ec1u kho\u1ea3n b\u1ed5 sung c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c \u00e1p d\u1ee5ng.</li>\n</ul>\n<p><strong>Th\u00f4ng tin h\u1eefu \u00edch</strong></p>\n<ul>\n<li>Kh\u00e1ch s\u1ea1n \u0111\u01b0\u1ee3c x\u00e2y v\u00e0o n\u0103m: 2013</li>\n<li>Kho\u1ea3ng c\u00e1ch t\u1edbi s\u00e2n bay: 2 Km</li>\n<li>Kho\u1ea3ng c\u00e1ch t\u1eeb trung t\u00e2m th\u00e0nh ph\u1ed1: 0.1 Km</li>\n<li>Nh\u1eadn ph\u00f2ng t\u1eeb: 02:00 PM</li>\n<li>Ph\u00ed b\u1eefa s\u00e1ng (\u00e1p d\u1ee5ng khi kh\u00f4ng bao g\u1ed3m trong gi\u00e1 ph\u00f2ng): 17.33 USD</li>\n<li>Ph\u00ed \u0111\u01b0a \u0111\u00f3n s\u00e2n bay: 0 USD</li>\n<li>Ph\u00ed s\u1eed d\u1ee5ng Internet : 0 USD</li>\n<li>Ph\u00f2ng / t\u1ea7ng kh\u00f4ng h\u00fat thu\u1ed1c: Yes</li>\n<li>Qu\u1ea7y ti\u1ebfp t\u00e2n m\u1edf c\u1eeda \u0111\u1ebfn: 12:00 AM</li>\n<li>S\u1ed1 l\u01b0\u1ee3ng nh\u00e0 h\u00e0ng: 1</li>\n<li>S\u1ed1 l\u01b0\u1ee3ng ph\u00f2ng: 323</li>\n<li>S\u1ed1 l\u01b0\u1ee3ng qu\u00e1n bar: 3</li>\n<li>S\u1ed1 t\u1ea7ng kh\u00e1ch s\u1ea1n: 36</li>\n<li>Th\u1eddi gian \u0111\u1ebfn s\u00e2n bay (ph\u00fat): 5</li>\n<li>Tr\u1ea3 ph\u00f2ng \u0111\u1ebfn: 12:00 PM</li>\n</ul>\n",
+                                "order": 0
+                            },
+                            {
+                                "id": "5f7d27d3a6e3b56ccccfe72e",
+                                "type": "article",
+                                "name": "Th\u00f4ng tin gi\u00e1 ph\u00f2ng kh\u00e1ch s\u1ea1n Novotel \u0110\u00e0 N\u1eb5ng",
+                                "content": "<h1>Th\u00f4ng tin gi\u00e1 ph\u00f2ng kh\u00e1ch s\u1ea1n Novotel \u0110\u00e0 N\u1eb5ng</h1>\n<p><a href=\"https://xbuy.vn/author/vnbooking\" target=\"_self\">vnbooking com</a> 11/05/2015 <a href=\"https://xbuy.vn/khach-san-mien-trung/khach-san-da-nang-khach-san-mien-trung\" target=\"_self\">Kh\u00e1ch s\u1ea1n \u0110\u00e0 N\u1eb5ng</a>, <a href=\"https://xbuy.vn/khach-san-mien-trung\" target=\"_self\">Kh\u00e1ch s\u1ea1n Mi\u1ec1n Trung</a> <a href=\"https://xbuy.vn/thong-tin-gia-phong-khach-san-novotel-da-nang.html#respond\" target=\"_self\">Leave a comment</a></p>\n<p><em>\u0110\u1ecba ch\u1ec9: 36 \u0111\u01b0\u1eddng B\u1ea1ch \u0110\u1eb1ng, H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng</em></p>\n<p><em>Ti\u1ec3u chu\u1ea9n: 5 sao</em></p>\n<p><em>S\u1ed1 ph\u00f2ng: 323</em></p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/bookhotel4.png\" alt=\"bookhotel4\" style=\"height: 100;width: 300\"/></p>\n<p><a href=\"http://www.vnbooking.com/hotel/da-nang-hotels/khach-san-novotel-danang-premier-han-river.html\" target=\"_self\">Kh\u00e1ch s\u1ea1n Novotel \u0110\u00e0 N\u1eb5ng</a> n\u1eb1m th\u00e0nh ph\u1ed1 0.1 Km, kh\u00e1ch s\u1ea1n 5 sao n\u00e0y c\u00f3 v\u1ecb tr\u00ed v\u00f4 c\u00f9ng thu\u1eadn l\u1ee3i v\u00e0 d\u1ec5 ti\u1ebfp c\u1eadn c\u00e1c \u0111\u1ecba \u0111i\u1ec3m l\u1edbn c\u1ee7a th\u00e0nh ph\u1ed1 n\u00e0y.</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p>\u0110\u01b0\u1ee3c bi\u1ebft \u0111\u1ebfn nh\u01b0 m\u1ed9t thi\u00ean \u0111\u01b0\u1eddng ngh\u1ec9 d\u01b0\u1ee1ng v\u00e0 th\u01b0 gi\u00e3n, kh\u00e1ch s\u1ea1n mang l\u1ea1i s\u1ef1 \u0111\u1ed5i m\u1edbi ho\u00e0n to\u00e0n so v\u1edbi 37 t\u1ea7ng, Novotel Danang Premier Han River s\u1ebd cho qu\u00fd kh\u00e1ch t\u1ea7m nh\u00ecn tuy\u1ec7t \u0111\u1eb9p xu\u1ed1ng th\u00e0nh ph\u1ed1 v\u00e0 b\u00e3i bi\u1ec3n \u0110\u00e0N\u1eb5ng</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang-1.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p><a href=\"http://www.vnbooking.com/hotel/da-nang-hotels/khach-san-novotel-danang-premier-han-river.html\" target=\"_self\">Novotel Danang Premier Han River</a> g\u1ed3m 323 ph\u00f2ng Novotel th\u1ebf h\u1ec7 m\u1edbi v\u1edbi 3 t\u1ea7ng th\u01b0\u1ee3ng h\u1ea1ng, trang thi\u1ebft h\u1ed9i ngh\u1ecb hi\u1ec7n \u0111\u1ea1i, sang tr\u1ecdng, \u0111\u1ed3ng th\u1eddi mang \u0111\u1ebfn cho du kh\u00e1ch c\u1ea3m gi\u00e1c \u1ea5m c\u00fang.</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang-231.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p>T\u1ea5t c\u1ea3 c\u00e1c ph\u00f2ng ngh\u1ec9 c\u1ee7a kh\u00e1ch s\u1ea1n 5 sao n\u00e0y \u0111\u1ec1u \u0111\u01b0\u1ee3c trang b\u1ecb v\u00f2i hoa sen, b\u00e0n, ban c\u00f4ng, tivi LCD/Plasma l\u00e0 m\u1ed9t s\u1ed1 thi\u1ebft b\u1ecb m\u00e0 b\u1ea1n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng v\u00e0 h\u00e0i l\u00f2ng. Kh\u00e1ch s\u1ea1n mang l\u1ea1i ph\u01b0\u01a1ng ti\u1ec7n gi\u1ea3i tr\u00ed \u0111a d\u1ea1ng, bao g\u1ed3m b\u1ed3n t\u1eafm, b\u1ec3 b\u01a1i tr\u1ebb em, b\u1ec3 b\u01a1i ngo\u00e0i tr\u1eddi.</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang-12.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p><strong><em>Gi\u00e1 ph\u00f2ng t\u1ea1i Vnbooking ( \u0111\u00e3 bao g\u1ed3m b\u1eefa s\u00e1ng )</em></strong></p>\n<p><strong><em>+ </em></strong>Ph\u00f2ng Superior King/Twin: 3,036,313 VN\u0110</p>\n<p>+ Ph\u00f2ng Deluxe King/Twin: 3,361,635 VN\u0110</p>\n<p>+ Ph\u00f2ng Executive King/Twin: 3,795,400 VN\u0110</p>\n<p>Nh\u00e0 h\u00e0ng qu\u1ed1c t\u1ebf \u201cThe Square\u201d, qu\u1ea7y bar t\u1ea1i ti\u1ec1n s\u1ea3nh v\u00e0 b\u00ean h\u1ed3 b\u01a1i ngo\u00e0i tr\u1eddi, trung t\u00e2m th\u1ec3 h\u00ecnh v\u00e0 Spa th\u01b0\u01a1ng hi\u1ec7u qu\u1ed1c t\u1ebf In|Balance s\u1ebd \u0111em \u0111\u1ebfn cho qu\u00fd kh\u00e1ch nh\u1eefng tr\u1ea3i nghi\u1ec3m, nh\u1eefng d\u1ecbch v\u1ee5 ch\u1ea5t l\u01b0\u1ee3ng \u0111\u00fang v\u1edbi ti\u00eau chu\u1ea9n sao c\u1ee7a kh\u00e1ch s\u1ea1n</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang-1241.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p>Kh\u00e1ch s\u1ea1n Novotel \u0110\u00e0 N\u1eb5ng l\u00e0 n\u01a1i l\u00fd t\u01b0\u1edfng cho doanh nh\u00e2n v\u00e0 kh\u00e1ch du l\u1ecbch ngh\u1ec9 d\u01b0\u1ee1ng</p>\n<p><img src=\"https://xbuy.vn/wp-content/uploads/2015/05/Novotel-Da-Nang-124.jpg\" alt=\"Novotel Da Nang\" style=\"height: 342;width: 600\"/></p>\n<p>\u0110\u1ec3 bi\u1ebft th\u00eam th\u00f4ng tin chi ti\u1ebft v\u1ec1 <a href=\"http://www.vnbooking.com/hotel/da-nang-hotels/khach-san-novotel-danang-premier-han-river.html\" target=\"_self\"><strong>kh\u00e1ch s\u1ea1n Novotel \u0110\u00e0 N\u1eb5ng</strong></a> hay \u0111\u1eb7t ph\u00f2ng <strong>kh\u00e1ch s\u1ea1n \u0110\u00e0 N\u1eb5ng</strong> kh\u00e1c, vui l\u00f2ng truy c\u1eadp <strong>Vnbooking.com.</strong></p>\n<p>Ho\u1eb7c b\u1ea1n c\u00f3 th\u1ec3 li\u00ean h\u1ec7 tr\u1ef1c ti\u1ebfp hotline: <strong>0904 669 196</strong> \u0111\u1ec3 \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3 v\u00e0 t\u01b0 v\u1ea5n t\u1ed1t nh\u1ea5t</p>\n",
+                                "order": 0
+                            },
+                            {
+                                "id": "5f7d27d3a6e3b56ccccfe76b",
+                                "type": "link",
+                                "name": "NOVOTEL DANANG PREMIER HAN RIVER",
+                                "content": "https://www.novotel-danang-premier.com/vi/",
+                                "order": 0
+                            },
+                            {
+                                "id": "5f7d27d3a6e3b56ccccfe76c",
+                                "type": "link",
+                                "name": "T\u1eadn h\u01b0\u1edfng d\u1ecbch v\u1ee5 \u0111\u1ec9nh cao, \u0111\u1eb3ng c\u1ea5p th\u1ebf gi\u1edbi t\u1ea1i Novotel Danang Premier Han River",
+                                "content": "https://www.booking.com/hotel/vn/novotel-danang-premier-han-river.vi.html",
+                                "order": 0
+                            },
+                            {
+                                "id": "5f7d27d3a6e3b56ccccfe798",
+                                "type": "videoLink",
+                                "name": "Novotel Danang Premier Han River by Cham Vietnam",
+                                "content": "https://www.youtube.com/embed/J3DWINJ-X2E",
+                                "order": 0
+                            },
+                            {
+                                "id": "5f7d27d3a6e3b56ccccfe799",
+                                "type": "videoLink",
+                                "name": "Novotel \u0110\u00e0 N\u1eb5ng - T\u00f2a th\u00e1p \u00e1nh s\u00e1ng b\u00ean b\u1edd s\u00f4ng H\u00e0n v\u1edbi chi\u1ebfu s\u00e1ng th\u00f4ng minh Interact Landmark",
+                                "content": "https://www.youtube.com/embed/Bb9FLpFoedA",
+                                "order": 0
+                            },
+                            {
+                                "id": "5f7d27d3a6e3b56ccccfe79a",
+                                "type": "videoLink",
+                                "name": "Novotel Danang Premier Han River",
+                                "content": "https://www.youtube.com/embed/VWl0zFEa5PA",
+                                "order": 0
+                            }
+                        ],
+                        "mediaFiles": null,
+                        "ratingReport": null,
+                        "createdBy": {
+                            "userId": "5ee20471a3a6ae49e19e0088",
+                            "displayName": "Ngh\u0129a Nguy\u1ec5n"
+                        },
+                        "updatedBy": {
+                            "userId": "eac21a18-552c-46b7-b11a-e0fb88e9c3c5",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1622286720390,
+                        "updatedDate": 1675764435436
+                    }
+                ],
+                "object": {
+                    "id": "589ad80436eace2398d47be7",
+                    "name": "Hotel Novotel Danang Premier Han River",
+                    "location": {
+                        "lng": 108.22362616197097,
+                        "lat": 16.077261695615036
+                    },
+                    "scale": 1,
+                    "bearing": 96,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 17,
+                        "bearing": -64.96466743818264,
+                        "tilt": 81,
+                        "target": {
+                            "lng": 108.21961967473139,
+                            "lat": 16.07901132878867
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "589ad80436eace2398d47be7",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/589ad80436eace2398d47be7",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.223457,
+                                "lat": 16.077672
+                            },
+                            {
+                                "lng": 108.223969,
+                                "lat": 16.077733
+                            },
+                            {
+                                "lng": 108.223544,
+                                "lat": 16.076991
+                            },
+                            {
+                                "lng": 108.224056,
+                                "lat": 16.077052
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "032bdeadf7704adca415445c3ce0bb4f.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/032bdeadf7704adca415445c3ce0bb4f.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 17,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Th\u1ea1ch Thang",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n Ph\u00fa",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "582546120ec6af4457a68494",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1553483236163,
+                    "updatedDate": 1623224135631
+                },
+                "tags": null,
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.23879703026074,
+                        16.061445000000006
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22362616197097,
+            "lat": 16.077261695615036
+        },
+        "scale": 1,
+        "bearing": 96,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17,
+            "bearing": -64.96466743818264,
+            "tilt": 81,
+            "target": {
+                "lng": 108.21961967473139,
+                "lat": 16.07901132878867
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "589ad80436eace2398d47be7",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/589ad80436eace2398d47be7",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.223457,
+                    "lat": 16.077672
+                },
+                {
+                    "lng": 108.223969,
+                    "lat": 16.077733
+                },
+                {
+                    "lng": 108.223544,
+                    "lat": 16.076991
+                },
+                {
+                    "lng": 108.224056,
+                    "lat": 16.077052
+                }
+            ],
+            "height": 0,
+            "textureName": "032bdeadf7704adca415445c3ce0bb4f.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/032bdeadf7704adca415445c3ce0bb4f.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 17,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Th\u1ea1ch Thang"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Ph\u00fa"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

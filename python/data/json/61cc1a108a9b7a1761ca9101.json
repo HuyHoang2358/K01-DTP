@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61cc1a108a9b7a1761ca9101",
+        "name": "La Khe Metro Station - Ray",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.77092097149017,
+            "lat": 20.96703885230704
+        },
+        "scale": 1.05,
+        "bearing": 36.275,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 8.700000000000125,
+            "tilt": 67.5,
+            "target": {
+                "lng": 105.76876898575345,
+                "lat": 20.96611800118351
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61cc19fa8a9b7a1761ca90fc.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cc19fa8a9b7a1761ca90fc.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.77096907218649,
+                    "lat": 20.9670837680645
+                },
+                {
+                    "lng": 105.7709690721576,
+                    "lat": 20.96699393653609
+                },
+                {
+                    "lng": 105.77087287082274,
+                    "lat": 20.96699393653609
+                },
+                {
+                    "lng": 105.77087287079385,
+                    "lat": 20.9670837680645
+                },
+                {
+                    "lng": 105.77096907218649,
+                    "lat": 20.9670837680645
+                }
+            ],
+            "height": null,
+            "textureName": "61cc19fa8a9b7a1761ca90fe.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cc19fa8a9b7a1761ca90fe.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Quang Trung"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u00f4 Hi\u1ec7u"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "T\u00f4 Hi\u1ec7u, Ph\u01b0\u1eddng Quang Trung, Qu\u1eadn H\u00e0 \u0110\u00f4ng, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

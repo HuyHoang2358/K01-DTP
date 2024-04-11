@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60e511898cc62a0a6cd167a2",
+        "name": "Chalcedony Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.84689985980374,
+            "lat": 21.04212483360625
+        },
+        "scale": 1,
+        "bearing": -7,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 26.5349340241566,
+            "tilt": 76,
+            "target": {
+                "lng": 105.8472162630275,
+                "lat": 21.04275693273049
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60e511788cc62a0a6cd1679d.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60e511788cc62a0a6cd1679d.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8469479847092,
+                    "lat": 21.042169749363683
+                },
+                {
+                    "lng": 105.84694798468017,
+                    "lat": 21.04207991783527
+                },
+                {
+                    "lng": 105.84685173492731,
+                    "lat": 21.04207991783527
+                },
+                {
+                    "lng": 105.8468517348983,
+                    "lat": 21.042169749363683
+                },
+                {
+                    "lng": 105.8469479847092,
+                    "lat": 21.042169749363683
+                }
+            ],
+            "height": null,
+            "textureName": "60e511798cc62a0a6cd1679f.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60e511798cc62a0a6cd1679f.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Trung Tr\u1ef1c"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Tr\u01b0\u1eddng T\u1ed9"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

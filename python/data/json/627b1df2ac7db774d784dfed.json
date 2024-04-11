@@ -1,0 +1,383 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627b1df2ac7db774d784dfed",
+        "name": "C\u00f4ng An Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60dd39a5f81cb14bc8a9b066",
+                "location": {
+                    "lng": 105.7712173,
+                    "lat": 21.0201862
+                },
+                "address": "2QCC+3FG, Nam, \u0110\u00ecnh Th\u00f4n, T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "C\u00f4ng An Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                "objectId": "627b1df2ac7db774d784dfed",
+                "description": null,
+                "types": [
+                    "government",
+                    "police",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "government",
+                        "name": "Li\u00ean quan \u0111\u1ebfn ch\u00ednh quy\u1ec1n, \u0111\u1ecba ph\u01b0\u01a1ng",
+                        "group": "government"
+                    },
+                    {
+                        "id": "police",
+                        "name": "\u0110\u1ed3n/C\u1ee5c c\u1ea3nh s\u00e1t",
+                        "group": "government"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "government",
+                "mainTypeInfos": {
+                    "id": "government",
+                    "name": "Li\u00ean quan \u0111\u1ebfn ch\u00ednh quy\u1ec1n, \u0111\u1ecba ph\u01b0\u01a1ng",
+                    "group": "government"
+                },
+                "auxiliaryTypes": [
+                    "police",
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "police",
+                        "name": "\u0110\u1ed3n/C\u1ee5c c\u1ea3nh s\u00e1t",
+                        "group": "government"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Nam"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0110\u00ecnh Th\u00f4n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "government",
+                        "name": "Li\u00ean quan \u0111\u1ebfn ch\u00ednh quy\u1ec1n, \u0111\u1ecba ph\u01b0\u01a1ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "government",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "police",
+                        "name": "\u0110\u1ed3n/C\u1ee5c c\u1ea3nh s\u00e1t",
+                        "description": "",
+                        "minZoom": 13,
+                        "group": "government",
+                        "minRank": 1000000,
+                        "maxRank": 2000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "627b1df2ac7db774d784dfed",
+                    "name": "C\u00f4ng An Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                    "location": {
+                        "lng": 105.77122900187084,
+                        "lat": 21.02015515115194
+                    },
+                    "scale": 1,
+                    "bearing": 179,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 22,
+                        "bearing": -154.04894920959168,
+                        "tilt": 69.5,
+                        "target": {
+                            "lng": 105.77123802846248,
+                            "lat": 21.020146130356274
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "627b1731ac7db774d784df95.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627b1731ac7db774d784df95.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.77127711968177,
+                                "lat": 21.020200066909382
+                            },
+                            {
+                                "lng": 105.7712771196528,
+                                "lat": 21.02011023538097
+                            },
+                            {
+                                "lng": 105.77118088408888,
+                                "lat": 21.02011023538097
+                            },
+                            {
+                                "lng": 105.7711808840599,
+                                "lat": 21.020200066909382
+                            },
+                            {
+                                "lng": 105.77127711968177,
+                                "lat": 21.020200066909382
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "627b1732ac7db774d784df97.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627b1732ac7db774d784df97.jpg"
+                    },
+                    "types": [
+                        "police"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1652235762318,
+                    "updatedDate": 1652235762318
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.7712173,
+                        21.0201862
+                    ]
+                },
+                "rank": {
+                    "value": 1000000
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.77122900187084,
+            "lat": 21.02015515115194
+        },
+        "scale": 1,
+        "bearing": 179,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -154.04894920959168,
+            "tilt": 69.5,
+            "target": {
+                "lng": 105.77123802846248,
+                "lat": 21.020146130356274
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "627b1731ac7db774d784df95.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627b1731ac7db774d784df95.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.77127711968177,
+                    "lat": 21.020200066909382
+                },
+                {
+                    "lng": 105.7712771196528,
+                    "lat": 21.02011023538097
+                },
+                {
+                    "lng": 105.77118088408888,
+                    "lat": 21.02011023538097
+                },
+                {
+                    "lng": 105.7711808840599,
+                    "lat": 21.020200066909382
+                },
+                {
+                    "lng": 105.77127711968177,
+                    "lat": 21.020200066909382
+                }
+            ],
+            "height": null,
+            "textureName": "627b1732ac7db774d784df97.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627b1732ac7db774d784df97.jpg"
+        },
+        "types": [
+            "police"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "police": "\u0110\u1ed3n/C\u1ee5c c\u1ea3nh s\u00e1t"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 180 \u0110\u00ecnh Th\u00f4n, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

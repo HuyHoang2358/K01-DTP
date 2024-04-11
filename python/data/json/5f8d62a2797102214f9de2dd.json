@@ -1,0 +1,332 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d62a2797102214f9de2dd",
+        "name": "Hotel Kuretakeso",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5f3c2787c2e7d438384ca175",
+                "location": {
+                    "lng": 105.8481216,
+                    "lat": 21.0229759
+                },
+                "address": "84 Th\u1ee3 Nhu\u1ed9m, Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Hotel Kuretakeso Tho Nhuom 84",
+                "objectId": "5f8d62a2797102214f9de2dd",
+                "description": "84 Th\u1ee3 Nhu\u1ed9m, Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "types": [
+                    "house"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "house",
+                        "name": "Nh\u00e0 ri\u00eang",
+                        "group": "object"
+                    }
+                ],
+                "mainType": "house",
+                "mainTypeInfos": {
+                    "id": "house",
+                    "name": "Nh\u00e0 ri\u00eang",
+                    "group": "object"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "84"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Th\u1ee3 Nhu\u1ed9m"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "house",
+                        "name": "Nh\u00e0 ri\u00eang",
+                        "description": "",
+                        "minZoom": null,
+                        "group": "object",
+                        "minRank": null,
+                        "maxRank": null,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828345135,
+                        "updatedDate": 1658828345135
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5f8d62a2797102214f9de2dd",
+                    "name": "Hotel Kuretakeso",
+                    "location": {
+                        "lng": 105.84815390085828,
+                        "lat": 21.02299373169471
+                    },
+                    "scale": 1,
+                    "bearing": 141,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -115.05289773249264,
+                        "tilt": 71,
+                        "target": {
+                            "lng": 105.84788769685292,
+                            "lat": 21.022923214435423
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5f8d629264df97299cfcb651.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d629264df97299cfcb651.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84820201958534,
+                                "lat": 21.02303864745215
+                            },
+                            {
+                                "lng": 105.84820201955635,
+                                "lat": 21.02294881592374
+                            },
+                            {
+                                "lng": 105.8481057821602,
+                                "lat": 21.02294881592374
+                            },
+                            {
+                                "lng": 105.84810578213121,
+                                "lat": 21.02303864745215
+                            },
+                            {
+                                "lng": 105.84820201958534,
+                                "lat": 21.02303864745215
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "5f8d62931a51f33b96956194.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d62931a51f33b96956194.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Th\u1ee3 Nhu\u1ed9m",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "84",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1603101346075,
+                    "updatedDate": 1623224248311
+                },
+                "tags": [
+                    "mw"
+                ],
+                "phoneNumber": "84 24 3784 7777",
+                "website": "http://www.kuretake-inn.com",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8481216,
+                        21.0229759
+                    ]
+                },
+                "rank": {
+                    "value": 1001
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84815390085828,
+            "lat": 21.02299373169471
+        },
+        "scale": 1,
+        "bearing": 141,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -115.05289773249264,
+            "tilt": 71,
+            "target": {
+                "lng": 105.84788769685292,
+                "lat": 21.022923214435423
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d629264df97299cfcb651.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d629264df97299cfcb651.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84820201958534,
+                    "lat": 21.02303864745215
+                },
+                {
+                    "lng": 105.84820201955635,
+                    "lat": 21.02294881592374
+                },
+                {
+                    "lng": 105.8481057821602,
+                    "lat": 21.02294881592374
+                },
+                {
+                    "lng": 105.84810578213121,
+                    "lat": 21.02303864745215
+                },
+                {
+                    "lng": 105.84820201958534,
+                    "lat": 21.02303864745215
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d62931a51f33b96956194.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d62931a51f33b96956194.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Th\u1ee3 Nhu\u1ed9m"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "84"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60360859a473a052791f4573",
+        "name": "Mandarin Garden",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79889166871664,
+            "lat": 21.005246894174746
+        },
+        "scale": 1,
+        "bearing": 127.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -46.41882880718921,
+            "tilt": 0.6666643917560577,
+            "target": {
+                "lng": 105.79889166871664,
+                "lat": 21.005246894174746
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "603607d5a473a052791f4570.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/603607d5a473a052791f4570.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79893978171857,
+                    "lat": 21.005291809932192
+                },
+                {
+                    "lng": 105.79893978168961,
+                    "lat": 21.00520197840378
+                },
+                {
+                    "lng": 105.79884355574366,
+                    "lat": 21.00520197840378
+                },
+                {
+                    "lng": 105.7988435557147,
+                    "lat": 21.005291809932192
+                },
+                {
+                    "lng": 105.79893978171857,
+                    "lat": 21.005291809932192
+                }
+            ],
+            "height": 1,
+            "textureName": "603607d68cb1bd4067fe2826.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/603607d68cb1bd4067fe2826.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ho\u00e0ng Minh Gi\u00e1m"
+            }
+        ],
+        "startDate": 1384275600000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "Ho\u00e0ng Minh Gi\u00e1m, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

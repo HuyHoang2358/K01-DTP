@@ -1,0 +1,138 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6279c881ac7db774d784dc87",
+        "name": "Aquaria Cafe",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76791574282608,
+            "lat": 21.021259395201774
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -5.8,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76770684179911,
+                "lat": 21.021634541508277
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76838047582362,
+                    "lat": 21.021236297958666
+                },
+                {
+                    "lng": 105.76837329757927,
+                    "lat": 21.020980183156
+                },
+                {
+                    "lng": 105.76821127007196,
+                    "lat": 21.02099501944818
+                },
+                {
+                    "lng": 105.76801116407665,
+                    "lat": 21.02103770270874
+                },
+                {
+                    "lng": 105.76788724542769,
+                    "lat": 21.021086351457754
+                },
+                {
+                    "lng": 105.7677615649227,
+                    "lat": 21.021151190989045
+                },
+                {
+                    "lng": 105.76764409783289,
+                    "lat": 21.02125204152857
+                },
+                {
+                    "lng": 105.76754767602023,
+                    "lat": 21.021376278433763
+                },
+                {
+                    "lng": 105.76751342266931,
+                    "lat": 21.021430912191164
+                },
+                {
+                    "lng": 105.76760115903693,
+                    "lat": 21.021473204929677
+                },
+                {
+                    "lng": 105.76773435079599,
+                    "lat": 21.02134553386746
+                },
+                {
+                    "lng": 105.76778864230761,
+                    "lat": 21.021397867609366
+                },
+                {
+                    "lng": 105.76783792515215,
+                    "lat": 21.021452872165227
+                },
+                {
+                    "lng": 105.76798635087283,
+                    "lat": 21.0213524405482
+                },
+                {
+                    "lng": 105.76809303360824,
+                    "lat": 21.021316628034157
+                },
+                {
+                    "lng": 105.76828020901917,
+                    "lat": 21.02126579820242
+                }
+            ],
+            "height": 12,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "cafe"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "cafe": "C\u00e0 ph\u00ea"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

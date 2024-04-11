@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff6cfd49ed19823c2a9d047",
+        "name": "A6C Nam Trung Y\u00ean",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78631060712978,
+            "lat": 21.0156111643
+        },
+        "scale": 1,
+        "bearing": -52,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.75,
+            "bearing": -34.36177377406724,
+            "tilt": 0,
+            "target": {
+                "lng": 105.786448853239,
+                "lat": 21.015638227048797
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff6cfcb380f725a8751daa7.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff6cfcb380f725a8751daa7.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7863587234745,
+                    "lat": 21.015656080057443
+                },
+                {
+                    "lng": 105.78635872344553,
+                    "lat": 21.01556624852903
+                },
+                {
+                    "lng": 105.78626249081404,
+                    "lat": 21.01556624852903
+                },
+                {
+                    "lng": 105.78626249078506,
+                    "lat": 21.015656080057443
+                },
+                {
+                    "lng": 105.7863587234745,
+                    "lat": 21.015656080057443
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff6cfcb79d2dd5e3be164d3.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff6cfcb79d2dd5e3be164d3.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "M\u1ea1c Th\u00e1i T\u1ed5"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "A6"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "A6 M\u1ea1c Th\u00e1i T\u1ed5, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

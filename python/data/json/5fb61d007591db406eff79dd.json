@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fb61d007591db406eff79dd",
+        "name": "Reyna Hotel Hanoi",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.77817,
+            "lat": 21.014366
+        },
+        "scale": 1,
+        "bearing": -110,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 136.0882419081727,
+            "tilt": 74,
+            "target": {
+                "lng": 105.77837135504498,
+                "lat": 21.01405488585519
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fb61ce372a5c52114cdc6c1.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb61ce372a5c52114cdc6c1.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.77821811594302,
+                    "lat": 21.01441091575744
+                },
+                {
+                    "lng": 105.77821811591404,
+                    "lat": 21.014321084229028
+                },
+                {
+                    "lng": 105.77812188408596,
+                    "lat": 21.014321084229028
+                },
+                {
+                    "lng": 105.77812188405697,
+                    "lat": 21.01441091575744
+                },
+                {
+                    "lng": 105.77821811594302,
+                    "lat": 21.01441091575744
+                }
+            ],
+            "height": 1,
+            "textureName": "5fb61ce472a5c52114cdc6c3.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb61ce472a5c52114cdc6c3.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ed1 M\u1ec5 Tr\u00ec"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "39"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

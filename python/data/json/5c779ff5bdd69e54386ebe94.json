@@ -1,0 +1,98 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c779ff5bdd69e54386ebe94",
+        "name": "Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc B\u00e1ch Khoa - \u0110\u1ea1i h\u1ecdc \u0110\u00e0 N\u1eb5ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.15098838836536,
+            "lat": 16.076244148356793
+        },
+        "scale": 1,
+        "bearing": 112,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 124.17052440055699,
+            "tilt": 75,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c779ff5bdd69e54386ebe94",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c779ff5bdd69e54386ebe94",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.150626,
+                    "lat": 16.076503
+                },
+                {
+                    "lng": 108.150904,
+                    "lat": 16.076606
+                },
+                {
+                    "lng": 108.150922,
+                    "lat": 16.075762
+                },
+                {
+                    "lng": 108.1512,
+                    "lat": 16.075865
+                }
+            ],
+            "height": 0,
+            "textureName": "490be1b4fc4f46ecaadefcbf26ec8c4a.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/490be1b4fc4f46ecaadefcbf26ec8c4a.jpg"
+        },
+        "types": [
+            "university"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 949363200000,
+        "endDate": 2529619200000,
+        "source": null,
+        "typeInfos": {
+            "university": "Tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc"
+        },
+        "metadata": null,
+        "address": "Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng, Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc, Qu\u1eadn Li\u00ean Chi\u1ec3u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

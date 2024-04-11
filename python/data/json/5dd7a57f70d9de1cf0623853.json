@@ -1,0 +1,83 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5dd7a57f70d9de1cf0623853",
+        "name": "B\u1ea3o t\u00e0ng L\u1ecbch s\u1eed Qu\u1ed1c gia",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.858614437378,
+            "lat": 21.0252962810321
+        },
+        "scale": 1,
+        "bearing": -74,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -53.400901870459315,
+            "tilt": 75,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5dd7a57f97c70c18602d3d6e.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5dd7a57f97c70c18602d3d6e.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "5dd7a57f97c70c18602d3d6c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5dd7a57f97c70c18602d3d6c.jpg"
+        },
+        "types": [
+            "museum"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Tr\u00e0ng Ti\u1ec1n"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Quang Kh\u1ea3i"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "216"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "museum": "B\u1ea3o t\u00e0ng"
+        },
+        "metadata": null,
+        "address": "216 Tr\u1ea7n Quang Kh\u1ea3i, Tr\u00e0ng Ti\u1ec1n, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+    }
+}

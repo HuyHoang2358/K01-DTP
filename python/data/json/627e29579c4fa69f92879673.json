@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e29579c4fa69f92879673",
+        "name": "T\u00f2a nh\u00e0 B4",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76453621991809,
+            "lat": 21.034622458264085
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.5,
+            "bearing": -4.6000000000000005,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76442685867875,
+                "lat": 21.034605365891494
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76435387906656,
+                    "lat": 21.03476771248259
+                },
+                {
+                    "lng": 105.76429149220513,
+                    "lat": 21.034608519939994
+                },
+                {
+                    "lng": 105.76471429083193,
+                    "lat": 21.03447155546769
+                },
+                {
+                    "lng": 105.76478521756871,
+                    "lat": 21.034642045166066
+                }
+            ],
+            "height": 48,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0m Nghi"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "H\u00e0m Nghi, Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

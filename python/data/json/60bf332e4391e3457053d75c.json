@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60bf332e4391e3457053d75c",
+        "name": "Carlsberg - Tuborg",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85182009169802,
+            "lat": 21.03561890557789
+        },
+        "scale": 1,
+        "bearing": 106,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -31.82994490503706,
+            "tilt": 66,
+            "target": {
+                "lng": 105.85183680828317,
+                "lat": 21.035617553675525
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60bf332617cf4702bf30dd85.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60bf332617cf4702bf30dd85.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85186405747766,
+                    "lat": 21.035718440603734
+                },
+                {
+                    "lng": 105.85186405744864,
+                    "lat": 21.035628609075324
+                },
+                {
+                    "lng": 105.85176781186422,
+                    "lat": 21.035628609075324
+                },
+                {
+                    "lng": 105.8517678118352,
+                    "lat": 21.035718440603734
+                },
+                {
+                    "lng": 105.85186405747766,
+                    "lat": 21.035718440603734
+                }
+            ],
+            "height": 1,
+            "textureName": "60bf33264391e3457053d75a.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60bf33264391e3457053d75a.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "2c"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "2c T\u1ea1 Hi\u1ec7n, H\u00e0ng Bu\u1ed3m, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+    }
+}

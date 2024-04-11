@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f923be436b67c491b3c3670",
+        "name": "T\u00f2a nh\u00e0 CT1 - A10 Nam Trung Y\u00ean",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.787965,
+            "lat": 21.018101
+        },
+        "scale": 1,
+        "bearing": -144,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -37.46667115688327,
+            "tilt": 0,
+            "target": {
+                "lng": 105.787965,
+                "lat": 21.018101
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f92576ebdf12e78b55a5776.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f92576ebdf12e78b55a5776.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78801311714808,
+                    "lat": 21.018145915757444
+                },
+                {
+                    "lng": 105.78801311711909,
+                    "lat": 21.018056084229034
+                },
+                {
+                    "lng": 105.78791688288091,
+                    "lat": 21.018056084229034
+                },
+                {
+                    "lng": 105.78791688285193,
+                    "lat": 21.018145915757444
+                },
+                {
+                    "lng": 105.78801311714808,
+                    "lat": 21.018145915757444
+                }
+            ],
+            "height": null,
+            "textureName": "5f92576eb74da65b0686ef06.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f92576eb74da65b0686ef06.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Ch\u00e1nh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "148"
+            }
+        ],
+        "startDate": 1555606800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "148 Nguy\u1ec5n Ch\u00e1nh, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

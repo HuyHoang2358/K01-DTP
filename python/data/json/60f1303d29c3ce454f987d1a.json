@@ -1,0 +1,324 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60f1303d29c3ce454f987d1a",
+        "name": "Havana Vietnam",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "608a1d1113454c447c4b77b6",
+                "location": {
+                    "lng": 105.8477614,
+                    "lat": 21.0185722
+                },
+                "address": "T\u1ea7ng 17, Prime Centre, 53 Ph\u1ed1 Quang Trung, P, Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i 10000, Vi\u1ec7t Nam",
+                "name": "Havana Vietnam",
+                "objectId": "60f1303d29c3ce454f987d1a",
+                "description": "Havana Vietnam",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "T\u1ea7ng 17, Prime Centre"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "53"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Du"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60f1303d29c3ce454f987d1a",
+                    "name": "Havana Vietnam",
+                    "location": {
+                        "lng": 105.84772039880824,
+                        "lat": 21.018559565531078
+                    },
+                    "scale": 1,
+                    "bearing": 164,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 56.46869993878704,
+                        "tilt": 83.25,
+                        "target": {
+                            "lng": 105.84900329413043,
+                            "lat": 21.01976059525247
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60f1303629c3ce454f987d15.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f1303629c3ce454f987d15.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.84776851610428,
+                                "lat": 21.01860448128852
+                            },
+                            {
+                                "lng": 105.8477685160753,
+                                "lat": 21.018514649760107
+                            },
+                            {
+                                "lng": 105.84767228154118,
+                                "lat": 21.018514649760107
+                            },
+                            {
+                                "lng": 105.84767228151219,
+                                "lat": 21.01860448128852
+                            },
+                            {
+                                "lng": 105.84776851610428,
+                                "lat": 21.01860448128852
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "60f1303729c3ce454f987d17.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f1303729c3ce454f987d17.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Du",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Quang Trung",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1626419261366,
+                    "updatedDate": 1626419261366
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8477614,
+                        21.0185722
+                    ]
+                },
+                "rank": null,
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.84772039880824,
+            "lat": 21.018559565531078
+        },
+        "scale": 1,
+        "bearing": 164,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 56.46869993878704,
+            "tilt": 83.25,
+            "target": {
+                "lng": 105.84900329413043,
+                "lat": 21.01976059525247
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60f1303629c3ce454f987d15.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f1303629c3ce454f987d15.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84776851610428,
+                    "lat": 21.01860448128852
+                },
+                {
+                    "lng": 105.8477685160753,
+                    "lat": 21.018514649760107
+                },
+                {
+                    "lng": 105.84767228154118,
+                    "lat": 21.018514649760107
+                },
+                {
+                    "lng": 105.84767228151219,
+                    "lat": 21.01860448128852
+                },
+                {
+                    "lng": 105.84776851610428,
+                    "lat": 21.01860448128852
+                }
+            ],
+            "height": null,
+            "textureName": "60f1303729c3ce454f987d17.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f1303729c3ce454f987d17.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Du"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Quang Trung"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

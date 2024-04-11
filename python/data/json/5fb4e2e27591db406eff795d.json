@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fb4e2e27591db406eff795d",
+        "name": "O'Gallery Premier Hotel & Spa",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.84565497515814,
+            "lat": 21.029679898862156
+        },
+        "scale": 1,
+        "bearing": 31,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -45.8441467082744,
+            "tilt": 72.5,
+            "target": {
+                "lng": 105.84537425997068,
+                "lat": 21.029898649068127
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fb4e2b87591db406eff795b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb4e2b87591db406eff795b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84570309604372,
+                    "lat": 21.029724814619595
+                },
+                {
+                    "lng": 105.84570309601472,
+                    "lat": 21.029634983091178
+                },
+                {
+                    "lng": 105.84560685430156,
+                    "lat": 21.029634983091178
+                },
+                {
+                    "lng": 105.84560685427256,
+                    "lat": 21.029724814619595
+                },
+                {
+                    "lng": 105.84570309604372,
+                    "lat": 21.029724814619595
+                }
+            ],
+            "height": 1,
+            "textureName": "5fb4e2b988977d3476acbb10.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb4e2b988977d3476acbb10.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00f4ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0ng B\u00f4ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "122"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

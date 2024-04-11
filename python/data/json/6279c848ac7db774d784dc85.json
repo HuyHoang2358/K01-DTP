@@ -1,0 +1,122 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6279c848ac7db774d784dc85",
+        "name": "B\u1ea3o T\u00e0ng H\u1eadu C\u1ea7n",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.77300319068304,
+            "lat": 21.018885200317857
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17,
+            "bearing": -5.8,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76975452478388,
+                "lat": 21.019920335896828
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.77284809812824,
+                    "lat": 21.019135683755437
+                },
+                {
+                    "lng": 105.77285467820991,
+                    "lat": 21.018951336115293
+                },
+                {
+                    "lng": 105.77283333039998,
+                    "lat": 21.018949311967333
+                },
+                {
+                    "lng": 105.77283742893343,
+                    "lat": 21.018812544657933
+                },
+                {
+                    "lng": 105.77286011098147,
+                    "lat": 21.01881469531709
+                },
+                {
+                    "lng": 105.77286707661261,
+                    "lat": 21.018639192030136
+                },
+                {
+                    "lng": 105.7731231568676,
+                    "lat": 21.01863956504205
+                },
+                {
+                    "lng": 105.77312413357083,
+                    "lat": 21.018853570750537
+                },
+                {
+                    "lng": 105.77322515011855,
+                    "lat": 21.01885434072244
+                },
+                {
+                    "lng": 105.77322651472633,
+                    "lat": 21.018916127359162
+                },
+                {
+                    "lng": 105.77312122441032,
+                    "lat": 21.018917468781098
+                },
+                {
+                    "lng": 105.77311738523747,
+                    "lat": 21.01913856731582
+                }
+            ],
+            "height": 12,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "museum"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "museum": "B\u1ea3o t\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

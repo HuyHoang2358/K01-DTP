@@ -1,0 +1,94 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61cbd9568a9b7a1761ca8fdd",
+        "name": "Thai Ha  Metro Station - Ray",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.82254514436158,
+            "lat": 21.017024977628765
+        },
+        "scale": 1,
+        "bearing": 35.25,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -16.421476675219964,
+            "tilt": 43.5,
+            "target": {
+                "lng": 105.8216020287389,
+                "lat": 21.016884092972624
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61cbd9478a9b7a1761ca8fd8.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cbd9478a9b7a1761ca8fd8.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82259326116247,
+                    "lat": 21.017069893386207
+                },
+                {
+                    "lng": 105.82259326113348,
+                    "lat": 21.016980061857794
+                },
+                {
+                    "lng": 105.82249702758968,
+                    "lat": 21.016980061857794
+                },
+                {
+                    "lng": 105.8224970275607,
+                    "lat": 21.017069893386207
+                },
+                {
+                    "lng": 105.82259326116247,
+                    "lat": 21.017069893386207
+                }
+            ],
+            "height": null,
+            "textureName": "61cbd9488a9b7a1761ca8fda.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cbd9488a9b7a1761ca8fda.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng \u00d4 Ch\u1ee3 D\u1eeba"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng \u00d4 Ch\u1ee3 D\u1eeba, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

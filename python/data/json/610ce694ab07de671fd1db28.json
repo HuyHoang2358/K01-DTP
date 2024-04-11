@@ -1,0 +1,326 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "610ce694ab07de671fd1db28",
+        "name": "Luckful Hotel",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60dd392bf81cb14bc89b579d",
+                "location": {
+                    "lng": 105.79521629999999,
+                    "lat": 21.0107051
+                },
+                "address": "S\u1ed1 7, \u0111\u01b0\u1eddng P.T\u00fa M\u1ee1, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Luckful Hotel",
+                "objectId": "610ce694ab07de671fd1db28",
+                "description": " S\u1ed1 7, \u0111\u01b0\u1eddng T\u00fa M\u1ee1 ,  Trung Ho\u00e0 ,  C\u1ea7u Gi\u1ea5y ,  H\u00e0 N\u1ed9i ,  Vi\u1ec7t Nam ",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "T\u00fa M\u1ee1"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "S\u1ed1 7"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0111\u01b0\u1eddng P"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "610ce694ab07de671fd1db28",
+                    "name": "Luckful Hotel",
+                    "location": {
+                        "lng": 105.79512803929543,
+                        "lat": 21.010594357438265
+                    },
+                    "scale": 1,
+                    "bearing": 206,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": 133.90223034598802,
+                        "tilt": 67.5,
+                        "target": {
+                            "lng": 105.79535312792692,
+                            "lat": 21.010483419242608
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "610ce68fab07de671fd1db23.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/610ce68fab07de671fd1db23.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.79517615402185,
+                                "lat": 21.01063927319571
+                            },
+                            {
+                                "lng": 105.79517615399287,
+                                "lat": 21.010549441667294
+                            },
+                            {
+                                "lng": 105.79507992459801,
+                                "lat": 21.010549441667294
+                            },
+                            {
+                                "lng": 105.79507992456904,
+                                "lat": 21.01063927319571
+                            },
+                            {
+                                "lng": 105.79517615402185,
+                                "lat": 21.01063927319571
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "610ce691ab07de671fd1db25.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/610ce691ab07de671fd1db25.jpg"
+                    },
+                    "types": [
+                        "hotel"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Trung Ho\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "T\u00fa M\u1ee1",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1628235412928,
+                    "updatedDate": 1628235412928
+                },
+                "tags": [],
+                "phoneNumber": "02438647888",
+                "website": null,
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.79521629999999,
+                        21.0107051
+                    ]
+                },
+                "rank": {
+                    "value": 1235
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.79512803929543,
+            "lat": 21.010594357438265
+        },
+        "scale": 1,
+        "bearing": 206,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 133.90223034598802,
+            "tilt": 67.5,
+            "target": {
+                "lng": 105.79535312792692,
+                "lat": 21.010483419242608
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "610ce68fab07de671fd1db23.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/610ce68fab07de671fd1db23.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79517615402185,
+                    "lat": 21.01063927319571
+                },
+                {
+                    "lng": 105.79517615399287,
+                    "lat": 21.010549441667294
+                },
+                {
+                    "lng": 105.79507992459801,
+                    "lat": 21.010549441667294
+                },
+                {
+                    "lng": 105.79507992456904,
+                    "lat": 21.01063927319571
+                },
+                {
+                    "lng": 105.79517615402185,
+                    "lat": 21.01063927319571
+                }
+            ],
+            "height": null,
+            "textureName": "610ce691ab07de671fd1db25.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/610ce691ab07de671fd1db25.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u00fa M\u1ee1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

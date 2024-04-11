@@ -1,0 +1,315 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b73952e368c3649cc33515f",
+        "name": "Chung C\u01b0 Vicoland A3",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e7814a9df9d67e5e99",
+                "location": {
+                    "lng": 108.230711,
+                    "lat": 16.088783
+                },
+                "address": "D\u01b0\u01a1ng V\u00e2n Nga, N\u1ea1i Hi\u00ean \u0110\u00f4ng, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng 550000 D\u01b0\u01a1ng V\u0103n Nga, Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Chung C\u01b0 Vicoland A3",
+                "objectId": "5b73952e368c3649cc33515f",
+                "description": " &nbsp; ",
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "D\u01b0\u01a1ng V\u00e2n Nga, N\u1ea1i Hi\u00ean \u0110\u00f4ng, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "D\u01b0\u01a1ng V\u0103n Nga"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b73952e368c3649cc33515f",
+                    "name": "Chung C\u01b0 Vicoland A3",
+                    "location": {
+                        "lng": 108.230711,
+                        "lat": 16.088783
+                    },
+                    "scale": 0.6,
+                    "bearing": 90,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 2.1562500000000093,
+                        "tilt": 9.607635206786902,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "58259dcdafaa6a101c47fd29",
+                        "objName": "58259dcdafaa6a101c47fd29",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/58259dcdafaa6a101c47fd29",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.230595,
+                                "lat": 16.088997
+                            },
+                            {
+                                "lng": 108.230826,
+                                "lat": 16.088997
+                            },
+                            {
+                                "lng": 108.230595,
+                                "lat": 16.088569
+                            },
+                            {
+                                "lng": 108.230826,
+                                "lat": 16.088569
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "b2ca27a871d844ab8d5c4389ba05a65c.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/b2ca27a871d844ab8d5c4389ba05a65c.jpg"
+                    },
+                    "types": [
+                        "apartments"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 975060000000,
+                    "endDate": 4099629600000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "D\u01b0\u01a1ng V\u0103n Nga",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "D\u01b0\u01a1ng V\u0103n Nga, Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5b6bb512f2258810b82d60c3",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5b6bb512f2258810b82d60c3",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1534301486430,
+                    "updatedDate": 1623224196535
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.230711,
+                        16.088783
+                    ]
+                },
+                "rank": {
+                    "value": 1000001
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.230711,
+            "lat": 16.088783
+        },
+        "scale": 0.6,
+        "bearing": 90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 2.1562500000000093,
+            "tilt": 9.607635206786902,
+            "target": null
+        },
+        "model": {
+            "id": "58259dcdafaa6a101c47fd29",
+            "name": "Chung C\u01b0 12 T\u1ea7ng",
+            "objName": "58259dcdafaa6a101c47fd29",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/58259dcdafaa6a101c47fd29",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.230595,
+                    "lat": 16.088997
+                },
+                {
+                    "lng": 108.230826,
+                    "lat": 16.088997
+                },
+                {
+                    "lng": 108.230595,
+                    "lat": 16.088569
+                },
+                {
+                    "lng": 108.230826,
+                    "lat": 16.088569
+                }
+            ],
+            "height": 1,
+            "textureName": "b2ca27a871d844ab8d5c4389ba05a65c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/b2ca27a871d844ab8d5c4389ba05a65c.jpg"
+        },
+        "types": [
+            "apartments"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "D\u01b0\u01a1ng V\u0103n Nga"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 975060000000,
+        "endDate": 4099629600000,
+        "source": null,
+        "typeInfos": {},
+        "metadata": null,
+        "address": "D\u01b0\u01a1ng V\u0103n Nga, Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

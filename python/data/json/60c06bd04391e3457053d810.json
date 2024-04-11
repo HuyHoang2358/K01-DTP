@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60c06bd04391e3457053d810",
+        "name": "HaNoi 1982",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85204108378855,
+            "lat": 21.034309023313682
+        },
+        "scale": 0.9,
+        "bearing": 83,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -75.27892287823659,
+            "tilt": 57.5,
+            "target": {
+                "lng": 105.85195846507861,
+                "lat": 21.034353490514356
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c06bc946969f2a68879729.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c06bc946969f2a68879729.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8520872239818,
+                    "lat": 21.034346041648654
+                },
+                {
+                    "lng": 105.8520872239528,
+                    "lat": 21.034256210120247
+                },
+                {
+                    "lng": 105.85199097925491,
+                    "lat": 21.034256210120247
+                },
+                {
+                    "lng": 105.8519909792259,
+                    "lat": 21.034346041648654
+                },
+                {
+                    "lng": 105.8520872239818,
+                    "lat": 21.034346041648654
+                }
+            ],
+            "height": 1,
+            "textureName": "60c06bca4391e3457053d80e.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c06bca4391e3457053d80e.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            },
+            {
+                "types": [],
+                "name": "24"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

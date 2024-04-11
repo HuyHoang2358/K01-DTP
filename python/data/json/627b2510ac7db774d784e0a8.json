@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627b2510ac7db774d784e0a8",
+        "name": "To\u00e0 Nh\u00e0 MHDI",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.77171310516593,
+            "lat": 21.018516267096686
+        },
+        "scale": 1,
+        "bearing": 35,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 17,
+            "bearing": -34.666667759418516,
+            "tilt": 0,
+            "target": {
+                "lng": 105.77418727888143,
+                "lat": 21.019345829817297
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "627b2501ac7db774d784e0a3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627b2501ac7db774d784e0a3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.771761222448,
+                    "lat": 21.01856118285413
+                },
+                {
+                    "lng": 105.77176122241903,
+                    "lat": 21.018471351325722
+                },
+                {
+                    "lng": 105.77166498791284,
+                    "lat": 21.018471351325722
+                },
+                {
+                    "lng": 105.77166498788385,
+                    "lat": 21.01856118285413
+                },
+                {
+                    "lng": 105.771761222448,
+                    "lat": 21.01856118285413
+                }
+            ],
+            "height": null,
+            "textureName": "627b2502ac7db774d784e0a5.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627b2502ac7db774d784e0a5.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "M\u1ef9 \u0110\u00ecnh 2"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u00ecnh Th\u00f4n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "Ng\u00f5 180 "
+            }
+        ],
+        "startDate": 1500224400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 180  \u0110\u00ecnh Th\u00f4n, M\u1ef9 \u0110\u00ecnh 2, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

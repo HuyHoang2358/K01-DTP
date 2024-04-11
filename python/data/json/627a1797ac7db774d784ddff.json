@@ -1,0 +1,284 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627a1797ac7db774d784ddff",
+        "name": "Trung t\u00e2m Doping v\u00e0 Y h\u1ecdc th\u1ec3 thao - VADA",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "627a17e2ac7db774d784de02",
+                "location": {
+                    "lng": 105.76140841845586,
+                    "lat": 21.024060061669232
+                },
+                "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                "name": "Trung t\u00e2m Doping v\u00e0 Y h\u1ecdc th\u1ec3 thao - VADA",
+                "objectId": "627a1797ac7db774d784ddff",
+                "description": null,
+                "types": [
+                    "health"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "group": "health"
+                    }
+                ],
+                "mainType": "health",
+                "mainTypeInfos": {
+                    "id": "health",
+                    "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                    "group": "health"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "health",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "627a1797ac7db774d784ddff",
+                    "name": "Trung t\u00e2m Doping v\u00e0 Y h\u1ecdc th\u1ec3 thao - VADA",
+                    "location": {
+                        "lng": 105.76138063734294,
+                        "lat": 21.024023854470244
+                    },
+                    "scale": 1,
+                    "bearing": 0,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": -134.6332731294716,
+                        "tilt": 82.5,
+                        "target": {
+                            "lng": 105.76140869697765,
+                            "lat": 21.023638850800424
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "627a1783ac7db774d784ddfa.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627a1783ac7db774d784ddfa.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.76142875640251,
+                                "lat": 21.024068770227682
+                            },
+                            {
+                                "lng": 105.76142875637352,
+                                "lat": 21.023978938699273
+                            },
+                            {
+                                "lng": 105.76133251831236,
+                                "lat": 21.023978938699273
+                            },
+                            {
+                                "lng": 105.76133251828337,
+                                "lat": 21.024068770227682
+                            },
+                            {
+                                "lng": 105.76142875640251,
+                                "lat": 21.024068770227682
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "627a1784ac7db774d784ddfc.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627a1784ac7db774d784ddfc.jpg"
+                    },
+                    "types": [
+                        "health"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1652168599442,
+                    "updatedDate": 1652168599442
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.76140841845586,
+                        21.024060061669232
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.76138063734294,
+            "lat": 21.024023854470244
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -134.6332731294716,
+            "tilt": 82.5,
+            "target": {
+                "lng": 105.76140869697765,
+                "lat": 21.023638850800424
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "627a1783ac7db774d784ddfa.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627a1783ac7db774d784ddfa.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.76142875640251,
+                    "lat": 21.024068770227682
+                },
+                {
+                    "lng": 105.76142875637352,
+                    "lat": 21.023978938699273
+                },
+                {
+                    "lng": 105.76133251831236,
+                    "lat": 21.023978938699273
+                },
+                {
+                    "lng": 105.76133251828337,
+                    "lat": 21.024068770227682
+                },
+                {
+                    "lng": 105.76142875640251,
+                    "lat": 21.024068770227682
+                }
+            ],
+            "height": null,
+            "textureName": "627a1784ac7db774d784ddfc.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627a1784ac7db774d784ddfc.jpg"
+        },
+        "types": [
+            "health"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "health": "S\u1ee9c kh\u1ecfe, y t\u1ebf"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

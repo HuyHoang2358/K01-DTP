@@ -1,0 +1,97 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "582594d3afaa6a101c47fd21",
+        "name": "C\u1ea7u S\u00f4ng H\u00e0n (C\u1ea7u Quay)",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.2269650542342,
+            "lat": 16.07215734082908
+        },
+        "scale": 0.85,
+        "bearing": 7.25,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": 12.609917891646063,
+            "tilt": 72,
+            "target": {
+                "lng": 108.22620361861962,
+                "lat": 16.072544383788234
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8578e9f729c2567e3ee855.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8578e9f729c2567e3ee855.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22697799425117,
+                    "lat": 16.072206398745077
+                },
+                {
+                    "lng": 108.22697799423007,
+                    "lat": 16.072116567216668
+                },
+                {
+                    "lng": 108.22688450872705,
+                    "lat": 16.072116567216668
+                },
+                {
+                    "lng": 108.22688450870595,
+                    "lat": 16.072206398745077
+                },
+                {
+                    "lng": 108.22697799425117,
+                    "lat": 16.072206398745077
+                }
+            ],
+            "height": null,
+            "textureName": "5f8578eb1c4c2163577d43d1.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8578eb1c4c2163577d43d1.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "An H\u1ea3i B\u1eafc"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "C\u1ea7u S\u00f4ng H\u00e0n"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "C\u1ea7u S\u00f4ng H\u00e0n, An H\u1ea3i B\u1eafc, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng"
+    }
+}

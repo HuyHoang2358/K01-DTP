@@ -1,0 +1,389 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "616fd300a413da116f57d155",
+        "name": "Ng\u00e2n h\u00e0ng Nh\u00e0 n\u01b0\u1edbc Vi\u1ec7t Nam",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5ee0ef3880c85009a41ea1c8",
+                "location": {
+                    "lng": 105.8308251,
+                    "lat": 21.0177977
+                },
+                "address": "504 P. X\u00e3 \u0110\u00e0n, Nam \u0110\u1ed3ng, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Ng\u00e2n h\u00e0ng Nh\u00e0 n\u01b0\u1edbc Vi\u1ec7t Nam",
+                "objectId": "616fd300a413da116f57d155",
+                "description": "Ng\u00e2n h\u00e0ng Nh\u00e0 n\u01b0\u1edbc Vi\u1ec7t Nam",
+                "types": [
+                    "bank",
+                    "finance",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "group": "finance"
+                    },
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "group": "finance"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "bank",
+                "mainTypeInfos": {
+                    "id": "bank",
+                    "name": "Ng\u00e2n h\u00e0ng",
+                    "group": "finance"
+                },
+                "auxiliaryTypes": [
+                    "finance",
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "group": "finance"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "P"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "504"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "X\u00e3 \u0110\u00e0n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Nam \u0110\u1ed3ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "bank",
+                        "name": "Ng\u00e2n h\u00e0ng",
+                        "description": "",
+                        "minZoom": 14,
+                        "group": "finance",
+                        "minRank": 50000,
+                        "maxRank": 1500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "finance",
+                        "name": "T\u00e0i ch\u00ednh",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "finance",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "616fd300a413da116f57d155",
+                    "name": "Ng\u00e2n h\u00e0ng Nh\u00e0 n\u01b0\u1edbc Vi\u1ec7t Nam",
+                    "location": {
+                        "lng": 105.8308566791005,
+                        "lat": 21.017818640052162
+                    },
+                    "scale": 1,
+                    "bearing": -43,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 69.48189240146023,
+                        "tilt": 72,
+                        "target": {
+                            "lng": 105.83134366830303,
+                            "lat": 21.01804101375846
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "616fd2f1a413da116f57d150.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/616fd2f1a413da116f57d150.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.83090479615747,
+                                "lat": 21.01786355580961
+                            },
+                            {
+                                "lng": 105.8309047961285,
+                                "lat": 21.017773724281195
+                            },
+                            {
+                                "lng": 105.83080856207252,
+                                "lat": 21.017773724281195
+                            },
+                            {
+                                "lng": 105.83080856204353,
+                                "lat": 21.01786355580961
+                            },
+                            {
+                                "lng": 105.83090479615747,
+                                "lat": 21.01786355580961
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "616fd2f2a413da116f57d152.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/616fd2f2a413da116f57d152.jpg"
+                    },
+                    "types": [
+                        "bank"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Nam \u0110\u1ed3ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "\u0110\u00ea La Th\u00e0nh",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1634718464845,
+                    "updatedDate": 1634718464845
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8308251,
+                        21.0177977
+                    ]
+                },
+                "rank": {
+                    "value": 50000
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.8308566791005,
+            "lat": 21.017818640052162
+        },
+        "scale": 1,
+        "bearing": -43,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 69.48189240146023,
+            "tilt": 72,
+            "target": {
+                "lng": 105.83134366830303,
+                "lat": 21.01804101375846
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "616fd2f1a413da116f57d150.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/616fd2f1a413da116f57d150.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.83090479615747,
+                    "lat": 21.01786355580961
+                },
+                {
+                    "lng": 105.8309047961285,
+                    "lat": 21.017773724281195
+                },
+                {
+                    "lng": 105.83080856207252,
+                    "lat": 21.017773724281195
+                },
+                {
+                    "lng": 105.83080856204353,
+                    "lat": 21.01786355580961
+                },
+                {
+                    "lng": 105.83090479615747,
+                    "lat": 21.01786355580961
+                }
+            ],
+            "height": null,
+            "textureName": "616fd2f2a413da116f57d152.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/616fd2f2a413da116f57d152.jpg"
+        },
+        "types": [
+            "bank"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nam \u0110\u1ed3ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u00ea La Th\u00e0nh"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bank": "Ng\u00e2n h\u00e0ng"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

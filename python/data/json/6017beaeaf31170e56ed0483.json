@@ -1,0 +1,94 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6017beaeaf31170e56ed0483",
+        "name": "MarinaComplex02 - 1612168826649",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22591930419964,
+            "lat": 16.094187464382458
+        },
+        "scale": 1,
+        "bearing": 47,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": 107.39712703045308,
+            "tilt": 61.7394594594594,
+            "target": {
+                "lng": 108.22591930419964,
+                "lat": 16.094187464382458
+            }
+        },
+        "model": {
+            "id": "5b18dfac6d5397473cef3caf",
+            "name": "MarinaComplex02",
+            "objName": "5e7870c5454a8c1618194ad6.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5e7870c5454a8c1618194ad6.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.22596605215337,
+                    "lat": 16.094232380141587
+                },
+                {
+                    "lng": 108.22596605213222,
+                    "lat": 16.094142548613174
+                },
+                {
+                    "lng": 108.22587255626706,
+                    "lat": 16.094142548613174
+                },
+                {
+                    "lng": 108.22587255624592,
+                    "lat": 16.094232380141587
+                },
+                {
+                    "lng": 108.22596605215337,
+                    "lat": 16.094232380141587
+                }
+            ],
+            "height": 1,
+            "textureName": "5e7870c5454a8c1618194ad8.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5e7870c5454a8c1618194ad8.jpg"
+        },
+        "types": [
+            "decoration"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "124"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u01b0\u1eddng 7m5"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "decoration": "C\u00e1c \u0111\u1ed1i t\u01b0\u1ee3ng 3D \u0111\u1ec3 trang tr\u00ed"
+        },
+        "metadata": null,
+        "address": "124 \u0110\u01b0\u1eddng 7m5, Qu\u1eadn S\u01a1n Tr\u00e0"
+    }
+}

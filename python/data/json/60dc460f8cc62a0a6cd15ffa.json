@@ -1,0 +1,90 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60dc460f8cc62a0a6cd15ffa",
+        "name": "Made in Viet Nam",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85421034325236,
+            "lat": 21.034765207424883
+        },
+        "scale": 1,
+        "bearing": 181,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 204.10700303596926,
+            "tilt": 66,
+            "target": {
+                "lng": 105.8542052844313,
+                "lat": 21.034593945977452
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60dc46018cc62a0a6cd15ff5.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60dc46018cc62a0a6cd15ff5.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8542584657802,
+                    "lat": 21.03481012318232
+                },
+                {
+                    "lng": 105.85425846575119,
+                    "lat": 21.03472029165391
+                },
+                {
+                    "lng": 105.85416222075355,
+                    "lat": 21.03472029165391
+                },
+                {
+                    "lng": 105.85416222072453,
+                    "lat": 21.03481012318232
+                },
+                {
+                    "lng": 105.8542584657802,
+                    "lat": 21.03481012318232
+                }
+            ],
+            "height": null,
+            "textureName": "60dc46028cc62a0a6cd15ff7.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60dc46028cc62a0a6cd15ff7.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": null
+    }
+}

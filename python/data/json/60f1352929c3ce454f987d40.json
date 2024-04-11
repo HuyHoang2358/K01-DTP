@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60f1352929c3ce454f987d40",
+        "name": "Bloom Spa - 75 B\u00e0 Tri\u1ec7u",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8494231077338,
+            "lat": 21.018382532620663
+        },
+        "scale": 1,
+        "bearing": -96,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 78.83695772381112,
+            "tilt": 75.75,
+            "target": {
+                "lng": 105.84936786210048,
+                "lat": 21.018467352344416
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60f1352229c3ce454f987d3b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f1352229c3ce454f987d3b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84947451721368,
+                    "lat": 21.018450974398746
+                },
+                {
+                    "lng": 105.84947451718469,
+                    "lat": 21.018361142870337
+                },
+                {
+                    "lng": 105.84937828274964,
+                    "lat": 21.018361142870337
+                },
+                {
+                    "lng": 105.84937828272065,
+                    "lat": 21.018450974398746
+                },
+                {
+                    "lng": 105.84947451721368,
+                    "lat": 21.018450974398746
+                }
+            ],
+            "height": null,
+            "textureName": "60f1352329c3ce454f987d3d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f1352329c3ce454f987d3d.jpg"
+        },
+        "types": [
+            "spa"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Du"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "B\u00e0 Tri\u1ec7u"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "spa": "D\u1ecbch v\u1ee5 Spa/massage"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

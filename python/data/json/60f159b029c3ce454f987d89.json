@@ -1,0 +1,313 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60f159b029c3ce454f987d89",
+        "name": "To\u00e0 nh\u00e0 Corner Stone Building",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60a613cd32f6973c7dd3a6ef",
+                "location": {
+                    "lng": 105.8549523,
+                    "lat": 21.0213487
+                },
+                "address": "T\u00f2a nh\u00e0 Corner Stone Building, 16 P. Phan Chu Trinh, Phan Chu Trinh, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "T\u00f2a nh\u00e0 Corner Stone Building",
+                "objectId": "60f159b029c3ce454f987d89",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "T\u00f2a nh\u00e0 Corner Stone Building"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "16"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Phan Chu Trinh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Phan Chu Trinh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": null,
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "60f159b029c3ce454f987d89",
+                    "name": "To\u00e0 nh\u00e0 Corner Stone Building",
+                    "location": {
+                        "lng": 105.85528261882462,
+                        "lat": 21.02120786858447
+                    },
+                    "scale": 1,
+                    "bearing": 73,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": -98.76147931859542,
+                        "tilt": 75.75,
+                        "target": {
+                            "lng": 105.85496459365854,
+                            "lat": 21.02029697692797
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "60f159a929c3ce454f987d84.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f159a929c3ce454f987d84.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.8553307369753,
+                                "lat": 21.021252784341915
+                            },
+                            {
+                                "lng": 105.85533073694631,
+                                "lat": 21.0211629528135
+                            },
+                            {
+                                "lng": 105.85523450070293,
+                                "lat": 21.0211629528135
+                            },
+                            {
+                                "lng": 105.85523450067394,
+                                "lat": 21.021252784341915
+                            },
+                            {
+                                "lng": 105.8553307369753,
+                                "lat": 21.021252784341915
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "60f159aa29c3ce454f987d86.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f159aa29c3ce454f987d86.jpg"
+                    },
+                    "types": [
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Phan Chu Trinh",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1626429872288,
+                    "updatedDate": 1626429872288
+                },
+                "tags": [],
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.8549523,
+                        21.0213487
+                    ]
+                },
+                "rank": {
+                    "value": 12345
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.85528261882462,
+            "lat": 21.02120786858447
+        },
+        "scale": 1,
+        "bearing": 73,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -98.76147931859542,
+            "tilt": 75.75,
+            "target": {
+                "lng": 105.85496459365854,
+                "lat": 21.02029697692797
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60f159a929c3ce454f987d84.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f159a929c3ce454f987d84.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8553307369753,
+                    "lat": 21.021252784341915
+                },
+                {
+                    "lng": 105.85533073694631,
+                    "lat": 21.0211629528135
+                },
+                {
+                    "lng": 105.85523450070293,
+                    "lat": 21.0211629528135
+                },
+                {
+                    "lng": 105.85523450067394,
+                    "lat": 21.021252784341915
+                },
+                {
+                    "lng": 105.8553307369753,
+                    "lat": 21.021252784341915
+                }
+            ],
+            "height": null,
+            "textureName": "60f159aa29c3ce454f987d86.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f159aa29c3ce454f987d86.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Phan Chu Trinh"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

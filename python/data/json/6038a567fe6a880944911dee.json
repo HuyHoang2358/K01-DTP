@@ -1,0 +1,75 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6038a567fe6a880944911dee",
+        "name": "B\u1ea3o t\u00e0ng Ph\u00e1o binh",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80808023992455,
+            "lat": 21.0384832398
+        },
+        "scale": 1,
+        "bearing": 91,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -76.20856364340085,
+            "tilt": 78.5,
+            "target": {
+                "lng": 105.80776656505542,
+                "lat": 21.038578479329985
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6038a55a166eb075143e11d9.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6038a55a166eb075143e11d9.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80812836365342,
+                    "lat": 21.038528155557437
+                },
+                {
+                    "lng": 105.8081283636244,
+                    "lat": 21.038438324029027
+                },
+                {
+                    "lng": 105.80803211622471,
+                    "lat": 21.038438324029027
+                },
+                {
+                    "lng": 105.80803211619569,
+                    "lat": 21.038528155557437
+                },
+                {
+                    "lng": 105.80812836365342,
+                    "lat": 21.038528155557437
+                }
+            ],
+            "height": 1,
+            "textureName": "6038a55c1895d02afa9298b4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6038a55c1895d02afa9298b4.jpg"
+        },
+        "types": [
+            "museum"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "museum": "B\u1ea3o t\u00e0ng"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

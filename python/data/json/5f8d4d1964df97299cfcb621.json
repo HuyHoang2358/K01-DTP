@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d4d1964df97299cfcb621",
+        "name": " Libra Hotel Residence",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78693538147087,
+            "lat": 21.032225348242022
+        },
+        "scale": 1,
+        "bearing": 60,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -28.583778979231717,
+            "tilt": 71,
+            "target": {
+                "lng": 105.78671385304351,
+                "lat": 21.032627489042415
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d4d0c1a51f33b96956163.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d4d0c1a51f33b96956163.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78698350317842,
+                    "lat": 21.032270263999465
+                },
+                {
+                    "lng": 105.78698350314941,
+                    "lat": 21.032180432471048
+                },
+                {
+                    "lng": 105.78688725979232,
+                    "lat": 21.032180432471048
+                },
+                {
+                    "lng": 105.78688725976332,
+                    "lat": 21.032270263999465
+                },
+                {
+                    "lng": 105.78698350317842,
+                    "lat": 21.032270263999465
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d4d0c64df97299cfcb61e.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d4d0c64df97299cfcb61e.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ed1 D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "26"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

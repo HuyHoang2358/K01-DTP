@@ -1,0 +1,92 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60c06a6946969f2a68879728",
+        "name": "ThuyNga Hotel - Tiger",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85202916210989,
+            "lat": 21.03434814490447
+        },
+        "scale": 0.8,
+        "bearing": 82.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -76.30511328025017,
+            "tilt": 32,
+            "target": {
+                "lng": 105.85204615838411,
+                "lat": 21.034360721987557
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60c06a5c46969f2a68879724.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60c06a5c46969f2a68879724.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85206709973704,
+                    "lat": 21.034384266532278
+                },
+                {
+                    "lng": 105.85206709970802,
+                    "lat": 21.034294435003865
+                },
+                {
+                    "lng": 105.85197085498545,
+                    "lat": 21.034294435003865
+                },
+                {
+                    "lng": 105.85197085495643,
+                    "lat": 21.034384266532278
+                },
+                {
+                    "lng": 105.85206709973704,
+                    "lat": 21.034384266532278
+                }
+            ],
+            "height": 1,
+            "textureName": "60c06a5d46969f2a68879726.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60c06a5d46969f2a68879726.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [],
+                "name": "24C"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

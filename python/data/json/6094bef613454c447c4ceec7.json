@@ -1,0 +1,435 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6094bef613454c447c4ceec7",
+        "name": "B\u1ec7nh vi\u1ec7n Giao Th\u00f4ng V\u1eadn T\u1ea3i \u0110\u00e0 N\u1eb5ng",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5ca1bddc0298effba4be665f",
+                "location": {
+                    "lng": 108.1621113,
+                    "lat": 16.0557757
+                },
+                "address": "Q, 68 Ho\u00e0ng V\u0103n Th\u00e1i, Ho\u00e0 Minh, Li\u00ean Chi\u1ec3u, \u0110\u00e0 N\u1eb5ng 550000, Vi\u1ec7t Nam",
+                "name": "B\u1ec7nh vi\u1ec7n Giao Th\u00f4ng V\u1eadn T\u1ea3i \u0110\u00e0 N\u1eb5ng",
+                "objectId": "6094bef613454c447c4ceec7",
+                "description": "B\u1ec7nh vi\u1ec7n Giao Th\u00f4ng V\u1eadn T\u1ea3i \u0110\u00e0 N\u1eb5ng",
+                "types": [
+                    "hospital",
+                    "establishment",
+                    "health",
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "hospital",
+                        "name": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf",
+                        "group": "health"
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "group": "health"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "hospital",
+                "mainTypeInfos": {
+                    "id": "hospital",
+                    "name": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf",
+                    "group": "health"
+                },
+                "auxiliaryTypes": [
+                    "establishment",
+                    "health",
+                    "point",
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "group": "establishment"
+                    },
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "group": "health"
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "Q"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "68"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Ho\u00e0ng V\u0103n Th\u00e1i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u00f2a Minh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "hospital",
+                        "name": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "health",
+                        "minRank": 1000000,
+                        "maxRank": 2500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "establishment",
+                        "name": "C\u00f4ng ty, t\u1ed5 ch\u1ee9c, hi\u1ec7p h\u1ed9i",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "establishment",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "health",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "6094bef613454c447c4ceec7",
+                    "name": "B\u1ec7nh vi\u1ec7n Giao Th\u00f4ng V\u1eadn T\u1ea3i \u0110\u00e0 N\u1eb5ng",
+                    "location": {
+                        "lng": 108.16228502799333,
+                        "lat": 16.055790561863304
+                    },
+                    "scale": 1,
+                    "bearing": 21,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 7.757284626582817,
+                        "tilt": 77.5,
+                        "target": {
+                            "lng": 108.16240979080982,
+                            "lat": 16.05634551849964
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "6094bd0413454c447c4ceec5.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6094bd0413454c447c4ceec5.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 108.16233176692029,
+                                "lat": 16.055835477622445
+                            },
+                            {
+                                "lng": 108.1623317668992,
+                                "lat": 16.05574564609403
+                            },
+                            {
+                                "lng": 108.16223828908748,
+                                "lat": 16.05574564609403
+                            },
+                            {
+                                "lng": 108.1622382890664,
+                                "lat": 16.055835477622445
+                            },
+                            {
+                                "lng": 108.16233176692029,
+                                "lat": 16.055835477622445
+                            }
+                        ],
+                        "height": 1,
+                        "textureName": "6094bd0510b9793609a911f4.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6094bd0510b9793609a911f4.jpg"
+                    },
+                    "types": [
+                        "hospital"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng H\u00f2a Minh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Th\u00edch Qu\u1ea3ng \u0110\u1ee9c",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "68",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "68 Th\u00edch Qu\u1ea3ng \u0110\u1ee9c, Ph\u01b0\u1eddng H\u00f2a Minh, Qu\u1eadn Li\u00ean Chi\u1ec3u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1620360950214,
+                    "updatedDate": 1623224268277
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.1621113,
+                        16.0557757
+                    ]
+                },
+                "rank": {
+                    "value": 1000003.5
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.16228502799333,
+            "lat": 16.055790561863304
+        },
+        "scale": 1,
+        "bearing": 21,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 7.757284626582817,
+            "tilt": 77.5,
+            "target": {
+                "lng": 108.16240979080982,
+                "lat": 16.05634551849964
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "6094bd0413454c447c4ceec5.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/6094bd0413454c447c4ceec5.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.16233176692029,
+                    "lat": 16.055835477622445
+                },
+                {
+                    "lng": 108.1623317668992,
+                    "lat": 16.05574564609403
+                },
+                {
+                    "lng": 108.16223828908748,
+                    "lat": 16.05574564609403
+                },
+                {
+                    "lng": 108.1622382890664,
+                    "lat": 16.055835477622445
+                },
+                {
+                    "lng": 108.16233176692029,
+                    "lat": 16.055835477622445
+                }
+            ],
+            "height": 1,
+            "textureName": "6094bd0510b9793609a911f4.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/6094bd0510b9793609a911f4.jpg"
+        },
+        "types": [
+            "hospital"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00f2a Minh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Th\u00edch Qu\u1ea3ng \u0110\u1ee9c"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "68"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hospital": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf"
+        },
+        "metadata": null,
+        "address": "68 Th\u00edch Qu\u1ea3ng \u0110\u1ee9c, Ph\u01b0\u1eddng H\u00f2a Minh, Qu\u1eadn Li\u00ean Chi\u1ec3u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+    }
+}

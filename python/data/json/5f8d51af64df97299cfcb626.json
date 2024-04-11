@@ -1,0 +1,95 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d51af64df97299cfcb626",
+        "name": "The Palmy Hotel & Spa",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85013436790155,
+            "lat": 21.030641639231277
+        },
+        "scale": 1,
+        "bearing": 127,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -100.39053024341571,
+            "tilt": 62,
+            "target": {
+                "lng": 105.84988567677541,
+                "lat": 21.030579670432328
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d51a164df97299cfcb624.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d51a164df97299cfcb624.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85018248909768,
+                    "lat": 21.030686554988716
+                },
+                {
+                    "lng": 105.85018248906867,
+                    "lat": 21.030596723460302
+                },
+                {
+                    "lng": 105.85008624673442,
+                    "lat": 21.030596723460302
+                },
+                {
+                    "lng": 105.85008624670542,
+                    "lat": 21.030686554988716
+                },
+                {
+                    "lng": 105.85018248909768,
+                    "lat": 21.030686554988716
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d51a21a51f33b96956172.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d51a21a51f33b96956172.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

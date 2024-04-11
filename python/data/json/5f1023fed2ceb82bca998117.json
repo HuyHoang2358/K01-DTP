@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f1023fed2ceb82bca998117",
+        "name": "Fortuna Hotel Hanoi",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.81771104735662,
+            "lat": 21.021459690409372
+        },
+        "scale": 1.5,
+        "bearing": 56,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -19.6,
+            "tilt": 74.5,
+            "target": {
+                "lng": 105.81755719912563,
+                "lat": 21.021989758524207
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f1023fdd2ceb82bca998113.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f1023fdd2ceb82bca998113.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.81775916558858,
+                    "lat": 21.02150460616681
+                },
+                {
+                    "lng": 105.8177591655596,
+                    "lat": 21.0214147746384
+                },
+                {
+                    "lng": 105.81766292915367,
+                    "lat": 21.0214147746384
+                },
+                {
+                    "lng": 105.81766292912468,
+                    "lat": 21.02150460616681
+                },
+                {
+                    "lng": 105.81775916558858,
+                    "lat": 21.02150460616681
+                }
+            ],
+            "height": 1,
+            "textureName": "5f1023fed2ceb82bca998115.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f1023fed2ceb82bca998115.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u00e0nh C\u00f4ng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00e1ng H\u1ea1"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "15"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

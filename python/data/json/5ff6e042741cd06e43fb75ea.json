@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff6e042741cd06e43fb75ea",
+        "name": "Chung c\u01b0 Luxury Park View",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.7912245488,
+            "lat": 21.0256282265
+        },
+        "scale": 1,
+        "bearing": -48,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -47.41382777364779,
+            "tilt": 0,
+            "target": {
+                "lng": 105.79060784126641,
+                "lat": 21.02482432050379
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff6e033f75190676b001160.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff6e033f75190676b001160.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79127266837747,
+                    "lat": 21.02567314225744
+                },
+                {
+                    "lng": 105.79127266834847,
+                    "lat": 21.025583310729026
+                },
+                {
+                    "lng": 105.79117642925155,
+                    "lat": 21.025583310729026
+                },
+                {
+                    "lng": 105.79117642922253,
+                    "lat": 21.02567314225744
+                },
+                {
+                    "lng": 105.79127266837747,
+                    "lat": 21.02567314225744
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff6e033741cd06e43fb75e7.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff6e033741cd06e43fb75e7.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "D\u01b0\u01a1ng \u0110\u00ecnh ngh\u1ec7"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "L\u1ed1 32"
+            }
+        ],
+        "startDate": 1574096400000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "L\u1ed1 32 D\u01b0\u01a1ng \u0110\u00ecnh ngh\u1ec7, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

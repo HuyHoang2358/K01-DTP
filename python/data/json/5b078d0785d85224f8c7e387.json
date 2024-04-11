@@ -1,0 +1,269 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b078d0785d85224f8c7e387",
+        "name": "B\u1ed9 Ngo\u1ea1i Giao",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e7814a9df9d67e5d9a",
+                "location": {
+                    "lng": 105.837015,
+                    "lat": 21.035598
+                },
+                "address": "T\u00f4n Th\u1ee9c \u0110\u1ea3m, Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "B\u1ed9 Ngo\u1ea1i Giao",
+                "objectId": "5b078d0785d85224f8c7e387",
+                "description": " &nbsp; ",
+                "types": [
+                    "goverment"
+                ],
+                "typeInfos": [],
+                "mainType": "goverment",
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "T\u00f4n Th\u1ee9c \u0110\u1ea3m"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b078d0785d85224f8c7e387",
+                    "name": "B\u1ed9 Ngo\u1ea1i Giao",
+                    "location": {
+                        "lng": 105.837015,
+                        "lat": 21.035598
+                    },
+                    "scale": 1.2,
+                    "bearing": -11,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": 55.44058158319878,
+                        "tilt": 61.705774376893636,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5b078d0785d85224f8c7e387",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b078d0785d85224f8c7e387",
+                        "color": "FFFFFF",
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.837404,
+                                "lat": 21.035691
+                            },
+                            {
+                                "lng": 105.83731,
+                                "lat": 21.035274
+                            },
+                            {
+                                "lng": 105.836694,
+                                "lat": 21.035832
+                            },
+                            {
+                                "lng": 105.836599,
+                                "lat": 21.035415
+                            }
+                        ],
+                        "height": 0,
+                        "textureName": "e47457a6abf246ca933b8b364e9a8854.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/e47457a6abf246ca933b8b364e9a8854.jpg"
+                    },
+                    "types": null,
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 975060000000,
+                    "endDate": 4099629600000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "T\u00f4n Th\u1ee9c \u0110\u1ea3m",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Ba \u0110\u00ecnh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "T\u00f4n Th\u1ee9c \u0110\u1ea3m, Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "createdDate": 1527221511306,
+                    "updatedDate": 1623224189451
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.837015,
+                        21.035598
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.837015,
+            "lat": 21.035598
+        },
+        "scale": 1.2,
+        "bearing": -11,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 55.44058158319878,
+            "tilt": 61.705774376893636,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5b078d0785d85224f8c7e387",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5b078d0785d85224f8c7e387",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.837404,
+                    "lat": 21.035691
+                },
+                {
+                    "lng": 105.83731,
+                    "lat": 21.035274
+                },
+                {
+                    "lng": 105.836694,
+                    "lat": 21.035832
+                },
+                {
+                    "lng": 105.836599,
+                    "lat": 21.035415
+                }
+            ],
+            "height": 0,
+            "textureName": "e47457a6abf246ca933b8b364e9a8854.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/e47457a6abf246ca933b8b364e9a8854.jpg"
+        },
+        "types": null,
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u00f4n Th\u1ee9c \u0110\u1ea3m"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 975060000000,
+        "endDate": 4099629600000,
+        "source": null,
+        "typeInfos": null,
+        "metadata": null,
+        "address": "T\u00f4n Th\u1ee9c \u0110\u1ea3m, Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam"
+    }
+}

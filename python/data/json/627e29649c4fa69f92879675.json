@@ -1,0 +1,112 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e29649c4fa69f92879675",
+        "name": "B2 H\u00e0m Nghi",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76343165280701,
+            "lat": 21.03493094866044
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20.25,
+            "bearing": -4.6000000000000005,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76335952804726,
+                "lat": 21.034988363385366
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76338916146148,
+                    "lat": 21.034893966272747
+                },
+                {
+                    "lng": 105.76323009502744,
+                    "lat": 21.034941156016785
+                },
+                {
+                    "lng": 105.76329467290378,
+                    "lat": 21.03511073889814
+                },
+                {
+                    "lng": 105.76350752810146,
+                    "lat": 21.03504330095329
+                },
+                {
+                    "lng": 105.76348144110312,
+                    "lat": 21.034965311141576
+                },
+                {
+                    "lng": 105.76362674701437,
+                    "lat": 21.03492025598854
+                },
+                {
+                    "lng": 105.76356189780938,
+                    "lat": 21.03475382046865
+                },
+                {
+                    "lng": 105.76336167903497,
+                    "lat": 21.034819039543763
+                }
+            ],
+            "height": 48,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00f5 15 H\u00e0m Nghi"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 15 H\u00e0m Nghi, Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

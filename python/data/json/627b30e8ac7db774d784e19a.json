@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627b30e8ac7db774d784e19a",
+        "name": "To\u00e0 Nh\u00e0 Sudico",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.77947037087324,
+            "lat": 21.01643848710208
+        },
+        "scale": 1,
+        "bearing": 127,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -38.80565240191028,
+            "tilt": 0,
+            "target": {
+                "lng": 105.78022396976276,
+                "lat": 21.016797832485235
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "627b30d2ac7db774d784e195.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627b30d2ac7db774d784e195.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.7795184874849,
+                    "lat": 21.01648340285952
+                },
+                {
+                    "lng": 105.77951848745592,
+                    "lat": 21.016393571331108
+                },
+                {
+                    "lng": 105.77942225429058,
+                    "lat": 21.016393571331108
+                },
+                {
+                    "lng": 105.77942225426159,
+                    "lat": 21.01648340285952
+                },
+                {
+                    "lng": 105.7795184874849,
+                    "lat": 21.01648340285952
+                }
+            ],
+            "height": null,
+            "textureName": "627b30d2ac7db774d784e197.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627b30d2ac7db774d784e197.jpg"
+        },
+        "types": [
+            "coworking_space"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "M\u1ef9 \u0110\u00ecnh 2"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "M\u1ec5 Tr\u00ec"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "coworking_space": "V\u0103n ph\u00f2ng cho thu\u00ea"
+        },
+        "metadata": null,
+        "address": "M\u1ec5 Tr\u00ec, M\u1ef9 \u0110\u00ecnh 2, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8d61a41a51f33b96956193",
+        "name": "Skylark Hotel",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.84550372210316,
+            "lat": 21.03983116063577
+        },
+        "scale": 1,
+        "bearing": 166,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -135.46799341718938,
+            "tilt": 71.5,
+            "target": {
+                "lng": 105.84527623006487,
+                "lat": 21.03960839679495
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8d618a797102214f9de2d8.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8d618a797102214f9de2d8.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84555184626751,
+                    "lat": 21.039876076393206
+                },
+                {
+                    "lng": 105.84555184623848,
+                    "lat": 21.039786244864793
+                },
+                {
+                    "lng": 105.84545559796784,
+                    "lat": 21.039786244864793
+                },
+                {
+                    "lng": 105.84545559793881,
+                    "lat": 21.039876076393206
+                },
+                {
+                    "lng": 105.84555184626751,
+                    "lat": 21.039876076393206
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8d618a797102214f9de2da.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8d618a797102214f9de2da.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Qu\u00e1n Th\u00e1nh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ho\u00e8 Nhai"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "15"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

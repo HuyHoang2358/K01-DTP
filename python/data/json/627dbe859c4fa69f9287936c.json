@@ -1,0 +1,104 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627dbe859c4fa69f9287936c",
+        "name": "Dingtea",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76904113027183,
+            "lat": 21.01411446598949
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21.75,
+            "bearing": 0,
+            "tilt": 0,
+            "target": {
+                "lng": 105.76901210429605,
+                "lat": 21.014130932221377
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76899736109215,
+                    "lat": 21.014155267298435
+                },
+                {
+                    "lng": 105.76904473758447,
+                    "lat": 21.01415204525341
+                },
+                {
+                    "lng": 105.76904161628426,
+                    "lat": 21.014117049764934
+                },
+                {
+                    "lng": 105.76908865073432,
+                    "lat": 21.01411383867554
+                },
+                {
+                    "lng": 105.76908460692738,
+                    "lat": 21.01406975176654
+                },
+                {
+                    "lng": 105.76898980900847,
+                    "lat": 21.014078843178083
+                }
+            ],
+            "height": 8,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "cafe"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "cafe": "C\u00e0 ph\u00ea"
+        },
+        "metadata": null,
+        "address": "L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,313 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b837f200b0b092bb84ad873",
+        "name": "B\u1ec7nh Vi\u1ec7n Da Li\u1ec5u TP \u0110\u00e0 N\u1eb5ng",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845e8814a9df9d67e5edc",
+                "location": {
+                    "lng": 108.176483,
+                    "lat": 16.074164
+                },
+                "address": "91 D\u0169ng S\u0129 Thanh Kh\u00ea, Ph\u01b0\u1eddng Thanh Kh\u00ea T\u00e2y, Qu\u1eadn Thanh Kh\u00ea, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "B\u1ec7nh Vi\u1ec7n Da Li\u1ec5u TP \u0110\u00e0 N\u1eb5ng",
+                "objectId": "5b837f200b0b092bb84ad873",
+                "description": " &nbsp; ",
+                "types": [
+                    "hospital",
+                    "health"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "hospital",
+                        "name": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf",
+                        "group": "health"
+                    },
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "group": "health"
+                    }
+                ],
+                "mainType": "hospital",
+                "mainTypeInfos": {
+                    "id": "hospital",
+                    "name": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf",
+                    "group": "health"
+                },
+                "auxiliaryTypes": [
+                    "health"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "group": "health"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "91"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "D\u0169ng S\u0129 Thanh Kh\u00ea"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea T\u00e2y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Thanh Kh\u00ea"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "hospital",
+                        "name": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "health",
+                        "minRank": 1000000,
+                        "maxRank": 2500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "health",
+                        "name": "S\u1ee9c kh\u1ecfe, y t\u1ebf",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "health",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5b837f200b0b092bb84ad873",
+                    "name": "B\u1ec7nh Vi\u1ec7n Da Li\u1ec5u TP \u0110\u00e0 N\u1eb5ng",
+                    "location": {
+                        "lng": 108.17643032087994,
+                        "lat": 16.07410787012722
+                    },
+                    "scale": 0.4,
+                    "bearing": 129,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19,
+                        "bearing": 92.96874999999996,
+                        "tilt": 68.41357370095439,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "58588d3f786d515b08f3c267",
+                        "objName": "58588d3f786d515b08f3c267",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/58588d3f786d515b08f3c267",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": null,
+                        "height": 1,
+                        "textureName": "d1f79cf743d14dde80369094c3f0b992.png",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/d1f79cf743d14dde80369094c3f0b992.png"
+                    },
+                    "types": [
+                        "hospital"
+                    ],
+                    "minZoom": null,
+                    "maxZoom": null,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": null,
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "D\u0169ng S\u0129 Thanh Kh\u00ea",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea T\u00e2y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Thanh Kh\u00ea",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_1"
+                            ],
+                            "name": "Vi\u1ec7t Nam",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "D\u0169ng S\u0129 Thanh Kh\u00ea, Ph\u01b0\u1eddng Thanh Kh\u00ea T\u00e2y, Qu\u1eadn Thanh Kh\u00ea, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                    "createdBy": {
+                        "userId": "5b6bb512f2258810b82d60c3",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "d9842deb-64ba-4331-afa4-a4313a3631a5",
+                        "displayName": ""
+                    },
+                    "createdDate": 1535344416913,
+                    "updatedDate": 1623224197381
+                },
+                "tags": null,
+                "phoneNumber": "+842363756951",
+                "website": "http://dalieudanang.com/",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.176483,
+                        16.074164
+                    ]
+                },
+                "rank": {
+                    "value": 1000000
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.17643032087994,
+            "lat": 16.07410787012722
+        },
+        "scale": 0.4,
+        "bearing": 129,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 92.96874999999996,
+            "tilt": 68.41357370095439,
+            "target": null
+        },
+        "model": {
+            "id": "58588d3f786d515b08f3c267",
+            "name": "B\u1ec7nh Vi\u1ec7n",
+            "objName": "58588d3f786d515b08f3c267",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/58588d3f786d515b08f3c267",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "d1f79cf743d14dde80369094c3f0b992.png",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/d1f79cf743d14dde80369094c3f0b992.png"
+        },
+        "types": [
+            "hospital"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "D\u0169ng S\u0129 Thanh Kh\u00ea"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Thanh Kh\u00ea T\u00e2y"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Thanh Kh\u00ea"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": null,
+        "typeInfos": {
+            "hospital": "B\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf"
+        },
+        "metadata": null,
+        "address": "D\u0169ng S\u0129 Thanh Kh\u00ea, Ph\u01b0\u1eddng Thanh Kh\u00ea T\u00e2y, Qu\u1eadn Thanh Kh\u00ea, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

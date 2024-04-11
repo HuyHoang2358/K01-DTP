@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61cbd43c8a9b7a1761ca8fcf",
+        "name": "La Thanh Metro Station - Ray",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8268858698163,
+            "lat": 21.023556108467332
+        },
+        "scale": 1,
+        "bearing": 35.65,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -68.75994679250502,
+            "tilt": 12,
+            "target": {
+                "lng": 105.82534686836915,
+                "lat": 21.021042218761337
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61cbd42e8a9b7a1761ca8fca.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cbd42e8a9b7a1761ca8fca.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.826930734769,
+                    "lat": 21.02363562492695
+                },
+                {
+                    "lng": 105.82693073473999,
+                    "lat": 21.023545793398537
+                },
+                {
+                    "lng": 105.82683449695847,
+                    "lat": 21.023545793398537
+                },
+                {
+                    "lng": 105.82683449692948,
+                    "lat": 21.02363562492695
+                },
+                {
+                    "lng": 105.826930734769,
+                    "lat": 21.02363562492695
+                }
+            ],
+            "height": null,
+            "textureName": "61cbd42e8a9b7a1761ca8fcc.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cbd42e8a9b7a1761ca8fcc.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng \u00d4 Ch\u1ee3 D\u1eeba"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "H\u00e0o Nam"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "H\u00e0o Nam, Ph\u01b0\u1eddng \u00d4 Ch\u1ee3 D\u1eeba, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

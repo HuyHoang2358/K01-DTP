@@ -1,0 +1,120 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627e310e9c4fa69f92879701",
+        "name": "Tr\u00e0 S\u00e2m D\u1ee9a - Ng\u1ecdc Quang",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76882924077361,
+            "lat": 21.011964110447206
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -5.4,
+            "tilt": 0.5,
+            "target": {
+                "lng": 105.76881235958615,
+                "lat": 21.011957301436126
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76876441656475,
+                    "lat": 21.01194309861586
+                },
+                {
+                    "lng": 105.76877765033822,
+                    "lat": 21.011971942443722
+                },
+                {
+                    "lng": 105.76878704538137,
+                    "lat": 21.01196899688358
+                },
+                {
+                    "lng": 105.76881236961333,
+                    "lat": 21.012021579653336
+                },
+                {
+                    "lng": 105.76885361082623,
+                    "lat": 21.012006962992317
+                },
+                {
+                    "lng": 105.76884180771242,
+                    "lat": 21.011980435050845
+                },
+                {
+                    "lng": 105.76891907576186,
+                    "lat": 21.01195234420672
+                },
+                {
+                    "lng": 105.76890282367742,
+                    "lat": 21.011919792193297
+                },
+                {
+                    "lng": 105.76882337549324,
+                    "lat": 21.011949559024075
+                },
+                {
+                    "lng": 105.76881023236723,
+                    "lat": 21.011926393408316
+                }
+            ],
+            "height": 12,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00e1ch 8/11 L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "store": "C\u1eeda h\u00e0ng"
+        },
+        "metadata": null,
+        "address": "Ng\u00e1ch 8/11 L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

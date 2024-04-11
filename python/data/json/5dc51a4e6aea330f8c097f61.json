@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5dc51a4e6aea330f8c097f61",
+        "name": "Trung T\u00e2m H\u1ed9i Ngh\u1ecb Qu\u1ed1c Gia Vi\u1ec7t Nam",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.787006420744,
+            "lat": 21.0064743140117
+        },
+        "scale": 1,
+        "bearing": 37,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 103.83487433777489,
+            "tilt": 63,
+            "target": {
+                "lng": 105.787006420744,
+                "lat": 21.0064743140117
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5dc51a4e8a491811d46b4b86.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5dc51a4e8a491811d46b4b86.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78705453414172,
+                    "lat": 21.006519229769147
+                },
+                {
+                    "lng": 105.78705453411276,
+                    "lat": 21.006429398240737
+                },
+                {
+                    "lng": 105.78695830737526,
+                    "lat": 21.006429398240737
+                },
+                {
+                    "lng": 105.7869583073463,
+                    "lat": 21.006519229769147
+                },
+                {
+                    "lng": 105.78705453414172,
+                    "lat": 21.006519229769147
+                }
+            ],
+            "height": 1,
+            "textureName": "5dc51a4d8a491811d46b4b84.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5dc51a4d8a491811d46b4b84.jpg"
+        },
+        "types": [
+            "committee"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m H\u00f9ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "57"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "M\u1ec5 Tr\u00ec"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": null,
+        "address": "57 Ph\u1ea1m H\u00f9ng, M\u1ec5 Tr\u00ec, Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i"
+    }
+}

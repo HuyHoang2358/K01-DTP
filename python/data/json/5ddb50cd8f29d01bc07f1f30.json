@@ -1,0 +1,71 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ddb50cd8f29d01bc07f1f30",
+        "name": "\u0110\u1ed3ng Xu\u00e2n",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.849404425605,
+            "lat": 21.0380570941781
+        },
+        "scale": 1,
+        "bearing": -65,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -102.88942969290375,
+            "tilt": 75.5,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ddb50cda477921914ff383f.JPG",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ddb50cda477921914ff383f.JPG",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "5ddb50cca477921914ff383d.JPG",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ddb50cca477921914ff383d.JPG"
+        },
+        "types": [
+            "local_market"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "\u0110\u1ed3ng Xu\u00e2n"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "local_market": "Ch\u1ee3"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60e6b18f8cc62a0a6cd169a0",
+        "name": "\u0110\u1ee9c Long Doner - Kebab",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8536343602903,
+            "lat": 21.034789483159486
+        },
+        "scale": 1.2,
+        "bearing": 180,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -166.23235958325407,
+            "tilt": 66,
+            "target": {
+                "lng": 105.85361769932098,
+                "lat": 21.034665792997316
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60e6b17f8cc62a0a6cd1699b.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60e6b17f8cc62a0a6cd1699b.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85368248282599,
+                    "lat": 21.034834398916928
+                },
+                {
+                    "lng": 105.85368248279698,
+                    "lat": 21.03474456738851
+                },
+                {
+                    "lng": 105.85358623778363,
+                    "lat": 21.03474456738851
+                },
+                {
+                    "lng": 105.85358623775463,
+                    "lat": 21.034834398916928
+                },
+                {
+                    "lng": 105.85368248282599,
+                    "lat": 21.034834398916928
+                }
+            ],
+            "height": null,
+            "textureName": "60e6b17f8cc62a0a6cd1699d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60e6b17f8cc62a0a6cd1699d.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

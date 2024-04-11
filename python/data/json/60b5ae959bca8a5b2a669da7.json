@@ -1,0 +1,75 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60b5ae959bca8a5b2a669da7",
+        "name": "B\u1ea3o t\u00e0ng C\u00f4ng an nh\u00e2n d\u00e2n",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8455383567,
+            "lat": 21.022533089469352
+        },
+        "scale": 1,
+        "bearing": -107,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 125.6914802868098,
+            "tilt": 69,
+            "target": {
+                "lng": 105.84573428445222,
+                "lat": 21.022385272179292
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60b5ae8a10b9793609aab0a4.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60b5ae8a10b9793609aab0a4.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.8455864752784,
+                    "lat": 21.022578005226794
+                },
+                {
+                    "lng": 105.8455864752494,
+                    "lat": 21.02248817369838
+                },
+                {
+                    "lng": 105.8454902381506,
+                    "lat": 21.02248817369838
+                },
+                {
+                    "lng": 105.84549023812161,
+                    "lat": 21.022578005226794
+                },
+                {
+                    "lng": 105.8455864752784,
+                    "lat": 21.022578005226794
+                }
+            ],
+            "height": 1,
+            "textureName": "60b5ae8b10b9793609aab0a6.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60b5ae8b10b9793609aab0a6.jpg"
+        },
+        "types": [
+            "museum"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "museum": "B\u1ea3o t\u00e0ng"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

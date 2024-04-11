@@ -1,0 +1,95 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5f8e578864df97299cfcb68e",
+        "name": "Grande Collection Hotel & Spa",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.84754942200618,
+            "lat": 21.034574561507128
+        },
+        "scale": 1,
+        "bearing": -100,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": 124.5613514435272,
+            "tilt": 63.5,
+            "target": {
+                "lng": 105.84767451828802,
+                "lat": 21.03447096307966
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5f8e57781a51f33b969561be.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5f8e57781a51f33b969561be.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.84759754447245,
+                    "lat": 21.034619477264563
+                },
+                {
+                    "lng": 105.84759754444343,
+                    "lat": 21.034529645736153
+                },
+                {
+                    "lng": 105.84750129956893,
+                    "lat": 21.034529645736153
+                },
+                {
+                    "lng": 105.84750129953991,
+                    "lat": 21.034619477264563
+                },
+                {
+                    "lng": 105.84759754447245,
+                    "lat": 21.034619477264563
+                }
+            ],
+            "height": 1,
+            "textureName": "5f8e5778797102214f9de2fb.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5f8e5778797102214f9de2fb.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ed3"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

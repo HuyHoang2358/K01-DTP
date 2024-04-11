@@ -1,0 +1,102 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "6036241a8cb1bd4067fe2d96",
+        "name": "Ki\u1ec3m to\u00e1n Nh\u00e0 n\u01b0\u1edbc Vi\u1ec7t Nam",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.80016748405785,
+            "lat": 21.010231813359
+        },
+        "scale": 1,
+        "bearing": -46,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -42.687858106919506,
+            "tilt": 3.999997913837433,
+            "target": {
+                "lng": 105.80016748405785,
+                "lat": 21.010231813359
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "603624138cb1bd4067fe2d91.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/603624138cb1bd4067fe2d91.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.80021559866732,
+                    "lat": 21.01027672911645
+                },
+                {
+                    "lng": 105.80021559863835,
+                    "lat": 21.01018689758803
+                },
+                {
+                    "lng": 105.80011936947734,
+                    "lat": 21.01018689758803
+                },
+                {
+                    "lng": 105.80011936944838,
+                    "lat": 21.01027672911645
+                },
+                {
+                    "lng": 105.80021559866732,
+                    "lat": 21.01027672911645
+                }
+            ],
+            "height": 1,
+            "textureName": "603624148cb1bd4067fe2d93.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/603624148cb1bd4067fe2d93.jpg"
+        },
+        "types": [],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "19, ng\u00f5 109"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Duy H\u01b0ng"
+            },
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Trung Ho\u00e0"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "19, ng\u00f5 109 Tr\u1ea7n Duy H\u01b0ng, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i"
+    }
+}

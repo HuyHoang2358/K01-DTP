@@ -1,0 +1,269 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5bc074b36a924a18dc0ee785",
+        "name": "Nh\u00e0 S\u00e1ch \u0110\u00e0 N\u0103\u0303ng",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9845ea814a9df9d67e629c",
+                "location": {
+                    "lng": 108.224752,
+                    "lat": 16.069483
+                },
+                "address": "76-78 H\u00f9ng V\u01b0\u01a1ng, Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u 1, Qu\u1eadn H\u1ea3i Ch\u00e2u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam",
+                "name": "Nh\u00e0 S\u00e1ch \u0110\u00e0 N\u0103\u0303ng",
+                "objectId": "5bc074b36a924a18dc0ee785",
+                "description": " &nbsp; ",
+                "types": [
+                    "book_store"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "book_store",
+                        "name": "Nh\u00e0 s\u00e1ch",
+                        "group": "store"
+                    }
+                ],
+                "mainType": "book_store",
+                "mainTypeInfos": {
+                    "id": "book_store",
+                    "name": "Nh\u00e0 s\u00e1ch",
+                    "group": "store"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "76-78"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "H\u00f9ng V\u01b0\u01a1ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 975060000000,
+                "endDate": 4099629600000,
+                "placeTypes": [
+                    {
+                        "id": "book_store",
+                        "name": "Nh\u00e0 s\u00e1ch",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "store",
+                        "minRank": 500000,
+                        "maxRank": 2000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5bc074b36a924a18dc0ee785",
+                    "name": "Nh\u00e0 S\u00e1ch \u0110\u00e0 N\u0103\u0303ng",
+                    "location": {
+                        "lng": 108.22478268913846,
+                        "lat": 16.0695378344126
+                    },
+                    "scale": 1,
+                    "bearing": 85,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 20,
+                        "bearing": 92.56093220027958,
+                        "tilt": 84.5,
+                        "target": null
+                    },
+                    "model": {
+                        "id": "",
+                        "objName": "5cd286c7b8bbab4b10f5a2ae.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cd286c7b8bbab4b10f5a2ae.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [],
+                        "height": 0,
+                        "textureName": "5cd286c7b8bbab4b10f5a2b0.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cd286c7b8bbab4b10f5a2b0.jpg"
+                    },
+                    "types": [
+                        "book_store"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": 973036800000,
+                    "endDate": 4099680000000,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "H\u1ea3i Ch\u00e2u",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "H\u1ea3i Ch\u00e2u 1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "B\u1ea1ch \u0110\u1eb1ng",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "5a56dc17d34a2e0efc97c4f6",
+                        "displayName": "admin"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1539339443877,
+                    "updatedDate": 1623224198325
+                },
+                "tags": null,
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.224752,
+                        16.069483
+                    ]
+                },
+                "rank": {
+                    "value": 1000017
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22478268913846,
+            "lat": 16.0695378344126
+        },
+        "scale": 1,
+        "bearing": 85,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": 92.56093220027958,
+            "tilt": 84.5,
+            "target": null
+        },
+        "model": {
+            "id": "",
+            "name": null,
+            "objName": "5cd286c7b8bbab4b10f5a2ae.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5cd286c7b8bbab4b10f5a2ae.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [],
+            "height": 0,
+            "textureName": "5cd286c7b8bbab4b10f5a2b0.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5cd286c7b8bbab4b10f5a2b0.jpg"
+        },
+        "types": [
+            "book_store"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "H\u1ea3i Ch\u00e2u"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "H\u1ea3i Ch\u00e2u 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "B\u1ea1ch \u0110\u1eb1ng"
+            }
+        ],
+        "startDate": 973036800000,
+        "endDate": 4099680000000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "book_store": "Nh\u00e0 s\u00e1ch"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

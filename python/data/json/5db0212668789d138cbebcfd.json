@@ -1,0 +1,71 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5db0212668789d138cbebcfd",
+        "name": "L\u0103ng \u00d4ng ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.22913,
+            "lat": 16.082471
+        },
+        "scale": 1,
+        "bearing": -90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -105.09209995359215,
+            "tilt": 63.5,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5db0212668789d138cbebcfb.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5db0212668789d138cbebcfb.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "5db0212568789d138cbebcf9.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5db0212568789d138cbebcf9.jpg"
+        },
+        "types": [
+            "worship"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "worship": "N\u01a1i th\u1edd c\u00fang, trang nghi\u00eam"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

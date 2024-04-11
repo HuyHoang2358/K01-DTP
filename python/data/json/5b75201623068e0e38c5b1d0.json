@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5b75201623068e0e38c5b1d0",
+        "name": "Chung C\u01b0",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 108.167591,
+            "lat": 16.078699
+        },
+        "scale": 1,
+        "bearing": 57,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": 0,
+            "tilt": 6.935312831389197,
+            "target": null
+        },
+        "model": {
+            "id": "58259dcdafaa6a101c47fd29",
+            "name": "Chung C\u01b0 12 T\u1ea7ng",
+            "objName": "58259dcdafaa6a101c47fd29",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/58259dcdafaa6a101c47fd29",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 108.167631,
+                    "lat": 16.079099
+                },
+                {
+                    "lng": 108.167954,
+                    "lat": 16.078897
+                },
+                {
+                    "lng": 108.167227,
+                    "lat": 16.078502
+                },
+                {
+                    "lng": 108.16755,
+                    "lat": 16.0783
+                }
+            ],
+            "height": 1,
+            "textureName": "b2ca27a871d844ab8d5c4389ba05a65c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/b2ca27a871d844ab8d5c4389ba05a65c.jpg"
+        },
+        "types": [
+            "apartments"
+        ],
+        "minZoom": null,
+        "maxZoom": null,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Anh T\u00f4ng"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng H\u00f2a Minh"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 975060000000,
+        "endDate": 4099629600000,
+        "source": null,
+        "typeInfos": {},
+        "metadata": null,
+        "address": "Tr\u1ea7n Anh T\u00f4ng, Ph\u01b0\u1eddng H\u00f2a Minh, Qu\u1eadn Li\u00ean Chi\u1ec3u, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, Vi\u1ec7t Nam"
+    }
+}

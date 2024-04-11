@@ -1,0 +1,327 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "611b384f9606bf7229c5c9af",
+        "name": "THANG LONG TLE GROUP (TLE - TRAN THAI TONG)",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "606489cb78f66105494f5686",
+                "location": {
+                    "lng": 105.79068063434045,
+                    "lat": 21.03275551734933
+                },
+                "address": "Ng\u00f5 75 Tr\u1ea7n Th\u00e1i T\u00f4ng, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                "name": "THANG LONG TLE GROUP (TLE - TRAN THAI TONG)",
+                "objectId": "611b384f9606bf7229c5c9af",
+                "description": null,
+                "types": [
+                    "point",
+                    "other"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "other"
+                ],
+                "auxiliaryTypesInfos": [],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "Ng\u00f5 75"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n Th\u00e1i T\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "611b384f9606bf7229c5c9af",
+                    "name": "THANG LONG TLE GROUP (TLE - TRAN THAI TONG)",
+                    "location": {
+                        "lng": 105.79073766448901,
+                        "lat": 21.032681385664475
+                    },
+                    "scale": 1,
+                    "bearing": 167,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -125.09999999999991,
+                        "tilt": 62.25,
+                        "target": {
+                            "lng": 105.79060658395784,
+                            "lat": 21.032667614363653
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "611b38049606bf7229c5c9aa.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/611b38049606bf7229c5c9aa.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.79078578634383,
+                                "lat": 21.032726301421913
+                            },
+                            {
+                                "lng": 105.79078578631483,
+                                "lat": 21.032636469893504
+                            },
+                            {
+                                "lng": 105.7906895426632,
+                                "lat": 21.032636469893504
+                            },
+                            {
+                                "lng": 105.7906895426342,
+                                "lat": 21.032726301421913
+                            },
+                            {
+                                "lng": 105.79078578634383,
+                                "lat": 21.032726301421913
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "611b38059606bf7229c5c9ac.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/611b38059606bf7229c5c9ac.jpg"
+                    },
+                    "types": [
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Tr\u1ea7n Th\u00e1i T\u00f4ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "Ng\u00f5 75",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1629173839148,
+                    "updatedDate": 1629173839148
+                },
+                "tags": [],
+                "phoneNumber": "",
+                "website": "",
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.79068063434045,
+                        21.03275551734933
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.79073766448901,
+            "lat": 21.032681385664475
+        },
+        "scale": 1,
+        "bearing": 167,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -125.09999999999991,
+            "tilt": 62.25,
+            "target": {
+                "lng": 105.79060658395784,
+                "lat": 21.032667614363653
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "611b38049606bf7229c5c9aa.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/611b38049606bf7229c5c9aa.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79078578634383,
+                    "lat": 21.032726301421913
+                },
+                {
+                    "lng": 105.79078578631483,
+                    "lat": 21.032636469893504
+                },
+                {
+                    "lng": 105.7906895426632,
+                    "lat": 21.032636469893504
+                },
+                {
+                    "lng": 105.7906895426342,
+                    "lat": 21.032726301421913
+                },
+                {
+                    "lng": 105.79078578634383,
+                    "lat": 21.032726301421913
+                }
+            ],
+            "height": null,
+            "textureName": "611b38059606bf7229c5c9ac.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/611b38059606bf7229c5c9ac.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Tr\u1ea7n Th\u00e1i T\u00f4ng"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "Ng\u00f5 75"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

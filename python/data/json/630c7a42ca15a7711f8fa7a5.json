@@ -1,0 +1,328 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "630c7a42ca15a7711f8fa7a5",
+        "name": "Lotteria Trung K\u00ednh",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "60a74ab1b4e1e72f1899f9fc",
+                "location": {
+                    "lng": 105.79095609999999,
+                    "lat": 21.0212653
+                },
+                "address": "299 Trung Kinh, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i, Vi\u1ec7t Nam",
+                "name": "Lotteria Trung K\u00ednh",
+                "objectId": "630c7a42ca15a7711f8fa7a5",
+                "description": null,
+                "types": [
+                    "point"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "addressComponents": [
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "299"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Trung Kinh"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "630c7a42ca15a7711f8fa7a5",
+                    "name": "Lotteria Trung K\u00ednh",
+                    "location": {
+                        "lng": 105.79093731566883,
+                        "lat": 21.021169165632287
+                    },
+                    "scale": 1,
+                    "bearing": -202,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 21,
+                        "bearing": -138.20000000000047,
+                        "tilt": 62,
+                        "target": {
+                            "lng": 105.79099850652125,
+                            "lat": 21.021168998244804
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "630c7a33ca15a7711f8fa7a0.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/630c7a33ca15a7711f8fa7a0.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.79098543380702,
+                                "lat": 21.02121408138973
+                            },
+                            {
+                                "lng": 105.79098543377803,
+                                "lat": 21.021124249861312
+                            },
+                            {
+                                "lng": 105.79088919755964,
+                                "lat": 21.021124249861312
+                            },
+                            {
+                                "lng": 105.79088919753065,
+                                "lat": 21.02121408138973
+                            },
+                            {
+                                "lng": 105.79098543380702,
+                                "lat": 21.02121408138973
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "630c7a33ca15a7711f8fa7a2.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/630c7a33ca15a7711f8fa7a2.jpg"
+                    },
+                    "types": [
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "Trung K\u00ednh",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "housenumber"
+                            ],
+                            "name": "299",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "299 Trung K\u00ednh, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1661762115392,
+                    "updatedDate": 1661762115392
+                },
+                "tags": [],
+                "phoneNumber": "+842437824705",
+                "website": "http://www.lotteria.vn/",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.79095609999999,
+                        21.0212653
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.79093731566883,
+            "lat": 21.021169165632287
+        },
+        "scale": 1,
+        "bearing": -202,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -138.20000000000047,
+            "tilt": 62,
+            "target": {
+                "lng": 105.79099850652125,
+                "lat": 21.021168998244804
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "630c7a33ca15a7711f8fa7a0.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/630c7a33ca15a7711f8fa7a0.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79098543380702,
+                    "lat": 21.02121408138973
+                },
+                {
+                    "lng": 105.79098543377803,
+                    "lat": 21.021124249861312
+                },
+                {
+                    "lng": 105.79088919755964,
+                    "lat": 21.021124249861312
+                },
+                {
+                    "lng": 105.79088919753065,
+                    "lat": 21.02121408138973
+                },
+                {
+                    "lng": 105.79098543380702,
+                    "lat": 21.02121408138973
+                }
+            ],
+            "height": null,
+            "textureName": "630c7a33ca15a7711f8fa7a2.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/630c7a33ca15a7711f8fa7a2.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Trung K\u00ednh"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "299"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "299 Trung K\u00ednh, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

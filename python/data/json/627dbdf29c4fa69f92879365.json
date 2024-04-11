@@ -1,0 +1,96 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627dbdf29c4fa69f92879365",
+        "name": "Tr\u01b0\u1eddng THCS Ph\u00fa \u0110\u00f4 2",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76967094350579,
+            "lat": 21.012129626013326
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21.5,
+            "bearing": 0.4,
+            "tilt": 0.5,
+            "target": {
+                "lng": 105.76974152819429,
+                "lat": 21.012174871327616
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": null,
+            "objUrl": null,
+            "color": null,
+            "type": "Polygon",
+            "coordinates": [
+                {
+                    "lng": 105.76953145696757,
+                    "lat": 21.012224159732483
+                },
+                {
+                    "lng": 105.76960399903663,
+                    "lat": 21.012276889762063
+                },
+                {
+                    "lng": 105.76981265599335,
+                    "lat": 21.01203885567348
+                },
+                {
+                    "lng": 105.7697356620256,
+                    "lat": 21.01197859888528
+                }
+            ],
+            "height": 16,
+            "textureName": null,
+            "textureUrl": null
+        },
+        "types": [
+            "secondary_school"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ng\u00e1ch 56/2 L\u00ea Quang \u0110\u1ea1o"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "secondary_school": "Tr\u01b0\u1eddng trung h\u1ecdc c\u01a1 s\u1edf (THCS)"
+        },
+        "metadata": null,
+        "address": "Ng\u00e1ch 56/2 L\u00ea Quang \u0110\u1ea1o, Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

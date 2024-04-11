@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5ff7c062f75190676b001977",
+        "name": "Vi\u1ec7n Huy\u1ebft h\u1ecdc - Truy\u1ec1n m\u00e1u Trung \u01b0\u01a1ng",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78834095550906,
+            "lat": 21.02472306276036
+        },
+        "scale": 1,
+        "bearing": 32,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -32.889861801489275,
+            "tilt": 0,
+            "target": {
+                "lng": 105.7880761149658,
+                "lat": 21.02425069448458
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5ff7c022beee3c4c5c5bb918.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5ff7c022beee3c4c5c5bb918.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78838907479432,
+                    "lat": 21.0247679785178
+                },
+                {
+                    "lng": 105.78838907476532,
+                    "lat": 21.024678146989384
+                },
+                {
+                    "lng": 105.78829283625278,
+                    "lat": 21.024678146989384
+                },
+                {
+                    "lng": 105.78829283622379,
+                    "lat": 21.0247679785178
+                },
+                {
+                    "lng": 105.78838907479432,
+                    "lat": 21.0247679785178
+                }
+            ],
+            "height": 1,
+            "textureName": "5ff7c023f75190676b001975.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5ff7c023f75190676b001975.jpg"
+        },
+        "types": [
+            "health"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ea1m V\u0103n B\u1ea1ch"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "health": "S\u1ee9c kh\u1ecfe, y t\u1ebf"
+        },
+        "metadata": null,
+        "address": "Ph\u1ea1m V\u0103n B\u1ea1ch, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5c47e490f65c2edf3c7c96b6",
+        "name": "Ch\u00f9a B\u1ed9c",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.82765776029885,
+            "lat": 21.008752424767692
+        },
+        "scale": 1.25,
+        "bearing": -52,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -14.632941105363635,
+            "tilt": 56.5,
+            "target": {
+                "lng": 105.8274550052846,
+                "lat": 21.008965920756438
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5c47e490f65c2edf3c7c96b6",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5c47e490f65c2edf3c7c96b6",
+            "color": "FFFFFF",
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.828044,
+                    "lat": 21.008437
+                },
+                {
+                    "lng": 105.827635,
+                    "lat": 21.008298
+                },
+                {
+                    "lng": 105.827875,
+                    "lat": 21.00887
+                },
+                {
+                    "lng": 105.827466,
+                    "lat": 21.008731
+                }
+            ],
+            "height": 0,
+            "textureName": "cb84cd807da24f66a724fa716cec97c6.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/cb84cd807da24f66a724fa716cec97c6.jpg"
+        },
+        "types": [
+            "worship"
+        ],
+        "minZoom": 17,
+        "maxZoom": 17,
+        "addressComponents": [
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "12 Ch\u00f9a B\u1ed9c"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Quang Trung"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_1"
+                ],
+                "name": "Vi\u1ec7t Nam"
+            }
+        ],
+        "startDate": 946659600000,
+        "endDate": 2524582800000,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "worship": "N\u01a1i th\u1edd c\u00fang, trang nghi\u00eam"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

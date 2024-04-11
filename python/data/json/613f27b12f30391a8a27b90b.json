@@ -1,0 +1,106 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "613f27b12f30391a8a27b90b",
+        "name": "Richy Tower",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79075998251841,
+            "lat": 21.017133788331577
+        },
+        "scale": 1,
+        "bearing": -150,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20,
+            "bearing": -30.72447443388886,
+            "tilt": 0,
+            "target": {
+                "lng": 105.79075998251841,
+                "lat": 21.01713378833159
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "613f27a32f30391a8a27b906.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/613f27a32f30391a8a27b906.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79080809935441,
+                    "lat": 21.01717870408902
+                },
+                {
+                    "lng": 105.79080809932542,
+                    "lat": 21.01708887256061
+                },
+                {
+                    "lng": 105.79071186571142,
+                    "lat": 21.01708887256061
+                },
+                {
+                    "lng": 105.79071186568241,
+                    "lat": 21.01717870408902
+                },
+                {
+                    "lng": 105.79080809935441,
+                    "lat": 21.01717870408902
+                }
+            ],
+            "height": null,
+            "textureName": "613f27a32f30391a8a27b908.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/613f27a32f30391a8a27b908.jpg"
+        },
+        "types": [
+            "apartment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Ph\u1ed1 M\u1ea1c Th\u00e1i T\u1ed5"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "Ng\u00f5 35 "
+            }
+        ],
+        "startDate": 1436893200000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "apartment": "Chung c\u01b0, c\u0103n h\u1ed9"
+        },
+        "metadata": null,
+        "address": "Ng\u00f5 35  Ph\u1ed1 M\u1ea1c Th\u00e1i T\u1ed5, Ph\u01b0\u1eddng Y\u00ean Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

@@ -1,0 +1,297 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5da831cae709220790fd1e0b",
+        "name": "Vinmart+",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "5c9ef59352f201ddf4469f2e",
+                "location": {
+                    "lng": 108.2290066,
+                    "lat": 16.0805457
+                },
+                "address": "K8, K09 \u0110. Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, N\u1ea1i Hi\u00ean \u0110\u00f4ng, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng 50411, Vi\u1ec7t Nam",
+                "name": "VinMart+",
+                "objectId": "5da831cae709220790fd1e0b",
+                "description": " Vinmart+ ",
+                "types": [
+                    "local_market",
+                    "store"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "local_market",
+                        "name": "Ch\u1ee3",
+                        "group": "store"
+                    },
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "group": "store"
+                    }
+                ],
+                "mainType": "local_market",
+                "mainTypeInfos": {
+                    "id": "local_market",
+                    "name": "Ch\u1ee3",
+                    "group": "store"
+                },
+                "auxiliaryTypes": [
+                    "store"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "group": "store"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "extra"
+                        ],
+                        "name": "K8"
+                    },
+                    {
+                        "types": [
+                            "housenumber"
+                        ],
+                        "name": "K09"
+                    },
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn S\u01a1n Tr\u00e0"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng"
+                    },
+                    {
+                        "types": [
+                            "admin_level_1"
+                        ],
+                        "name": "Vi\u1ec7t Nam"
+                    }
+                ],
+                "photos": [],
+                "startDate": 1072915200000,
+                "endDate": 3978806400000,
+                "placeTypes": [
+                    {
+                        "id": "local_market",
+                        "name": "Ch\u1ee3",
+                        "description": "",
+                        "minZoom": 12,
+                        "group": "store",
+                        "minRank": 1500000,
+                        "maxRank": 2500000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "store",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "5da831cae709220790fd1e0b",
+                    "name": "Vinmart+",
+                    "location": {
+                        "lng": 108.22906784904137,
+                        "lat": 16.080538360353586
+                    },
+                    "scale": 1,
+                    "bearing": -90,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 22,
+                        "bearing": -85.2521817653237,
+                        "tilt": 67,
+                        "target": null
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "5da831cae709220790fd1e09.jpg",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5da831cae709220790fd1e09.jpg",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": null,
+                        "height": 1,
+                        "textureName": "5da831c9e709220790fd1e07.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5da831c9e709220790fd1e07.jpg"
+                    },
+                    "types": [
+                        "supermarket"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "city",
+                                "admin_level_2"
+                            ],
+                            "name": "\u0110\u00e0 N\u1eb5ng",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "S\u01a1n Tr\u00e0",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "N\u1ea1i Hi\u00ean \u0110\u00f4ng",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": null,
+                    "createdBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "7a1a72c5-abbe-406b-a464-a7b31c39eaf8",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1571303851207,
+                    "updatedDate": 1623224220470
+                },
+                "tags": [],
+                "phoneNumber": null,
+                "website": null,
+                "businessHours": [],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        108.2290066,
+                        16.0805457
+                    ]
+                },
+                "rank": {
+                    "value": 1500000
+                },
+                "metadata": null,
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 108.22906784904137,
+            "lat": 16.080538360353586
+        },
+        "scale": 1,
+        "bearing": -90,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -85.2521817653237,
+            "tilt": 67,
+            "target": null
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5da831cae709220790fd1e09.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5da831cae709220790fd1e09.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": null,
+            "height": 1,
+            "textureName": "5da831c9e709220790fd1e07.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5da831c9e709220790fd1e07.jpg"
+        },
+        "types": [
+            "supermarket"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "\u0110\u00e0 N\u1eb5ng"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "S\u01a1n Tr\u00e0"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "N\u1ea1i Hi\u00ean \u0110\u00f4ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "supermarket": "Si\u00eau th\u1ecb"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

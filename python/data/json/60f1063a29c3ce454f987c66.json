@@ -1,0 +1,101 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60f1063a29c3ce454f987c66",
+        "name": "V\u0103n ph\u00f2ng Qu\u1ed1c h\u1ed9i N\u01b0\u1edbc CHXHCN Vi\u1ec7t Nam",
+        "places": [],
+        "placeDetails": [],
+        "location": {
+            "lng": 105.83385262584363,
+            "lat": 21.032876781580413
+        },
+        "scale": 1,
+        "bearing": 79,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -19.762976160947318,
+            "tilt": 70.5,
+            "target": {
+                "lng": 105.83385262584363,
+                "lat": 21.032876781580413
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60f1063029c3ce454f987c61.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60f1063029c3ce454f987c61.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.83390074776156,
+                    "lat": 21.03292169733785
+                },
+                {
+                    "lng": 105.83390074773256,
+                    "lat": 21.03283186580944
+                },
+                {
+                    "lng": 105.83380450395471,
+                    "lat": 21.03283186580944
+                },
+                {
+                    "lng": 105.8338045039257,
+                    "lat": 21.03292169733785
+                },
+                {
+                    "lng": 105.83390074776156,
+                    "lat": 21.03292169733785
+                }
+            ],
+            "height": null,
+            "textureName": "60f1063129c3ce454f987c63.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60f1063129c3ce454f987c63.jpg"
+        },
+        "types": [
+            "committee",
+            "goverment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u00d4ng \u00cdch Ki\u00eam"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "committee": "UBND, Trung t\u00e2m h\u00e0nh ch\u00ednh"
+        },
+        "metadata": [],
+        "address": "\u00d4ng \u00cdch Ki\u00eam, Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

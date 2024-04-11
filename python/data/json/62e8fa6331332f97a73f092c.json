@@ -1,0 +1,338 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "62e8fa6331332f97a73f092c",
+        "name": "shop Villa - The manor",
+        "places": null,
+        "placeDetails": [
+            {
+                "id": "609c124d34025a4d53ecf27c",
+                "location": {
+                    "lng": 105.776453,
+                    "lat": 21.0150133
+                },
+                "address": "\u0110\u1ed7 \u0110\u00ecnh Thi\u1ec7n, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                "name": "\ud50c\ub809\uc2a4\uc0f5 FLEX SHOP",
+                "objectId": "62e8fa6331332f97a73f092c",
+                "description": null,
+                "types": [
+                    "point",
+                    "store"
+                ],
+                "typeInfos": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "group": "other"
+                    },
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "group": "store"
+                    }
+                ],
+                "mainType": "point",
+                "mainTypeInfos": {
+                    "id": "point",
+                    "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                    "group": "other"
+                },
+                "auxiliaryTypes": [
+                    "store"
+                ],
+                "auxiliaryTypesInfos": [
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "group": "store"
+                    }
+                ],
+                "addressComponents": [
+                    {
+                        "types": [
+                            "street"
+                        ],
+                        "name": "\u0110\u1ed7 \u0110\u00ecnh Thi\u1ec7n"
+                    },
+                    {
+                        "types": [
+                            "admin_level_4"
+                        ],
+                        "name": "Ph\u01b0\u1eddng I"
+                    },
+                    {
+                        "types": [
+                            "admin_level_3"
+                        ],
+                        "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+                    },
+                    {
+                        "types": [
+                            "admin_level_2"
+                        ],
+                        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+                    }
+                ],
+                "photos": [],
+                "startDate": null,
+                "endDate": null,
+                "placeTypes": [
+                    {
+                        "id": "point",
+                        "name": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "other",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    },
+                    {
+                        "id": "store",
+                        "name": "C\u1eeda h\u00e0ng",
+                        "description": "",
+                        "minZoom": 15,
+                        "group": "store",
+                        "minRank": 0,
+                        "maxRank": 1000000,
+                        "createdBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "updatedBy": {
+                            "userId": "admin",
+                            "displayName": "admin"
+                        },
+                        "createdDate": 1658828342882,
+                        "updatedDate": 1658828342882
+                    }
+                ],
+                "otherPlaceInObjects": [],
+                "object": {
+                    "id": "62e8fa6331332f97a73f092c",
+                    "name": "shop Villa - The manor",
+                    "location": {
+                        "lng": 105.77585360369198,
+                        "lat": 21.01501439056834
+                    },
+                    "scale": 1,
+                    "bearing": 37,
+                    "elevation": 0,
+                    "heightScale": 1,
+                    "camera": {
+                        "zoom": 19.75,
+                        "bearing": -141.96424729051148,
+                        "tilt": 60,
+                        "target": {
+                            "lng": 105.77594079731125,
+                            "lat": 21.014981699199495
+                        }
+                    },
+                    "model": {
+                        "id": null,
+                        "objName": "62e8fa3831332f97a73f0927.obj",
+                        "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/62e8fa3831332f97a73f0927.obj",
+                        "color": null,
+                        "type": "Object",
+                        "coordinates": [
+                            {
+                                "lng": 105.77590171984417,
+                                "lat": 21.015059306325785
+                            },
+                            {
+                                "lng": 105.7759017198152,
+                                "lat": 21.014969474797372
+                            },
+                            {
+                                "lng": 105.77580548756877,
+                                "lat": 21.014969474797372
+                            },
+                            {
+                                "lng": 105.7758054875398,
+                                "lat": 21.015059306325785
+                            },
+                            {
+                                "lng": 105.77590171984417,
+                                "lat": 21.015059306325785
+                            }
+                        ],
+                        "height": null,
+                        "textureName": "62e8fa3931332f97a73f0929.jpg",
+                        "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/62e8fa3931332f97a73f0929.jpg"
+                    },
+                    "types": [
+                        "point"
+                    ],
+                    "minZoom": 17,
+                    "maxZoom": 19,
+                    "startDate": null,
+                    "endDate": null,
+                    "isVerified": false,
+                    "isDeleted": false,
+                    "source": {
+                        "name": "vmp"
+                    },
+                    "addressComponents": [
+                        {
+                            "types": [
+                                "admin_level_2"
+                            ],
+                            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_3"
+                            ],
+                            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "admin_level_4"
+                            ],
+                            "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                            "searchName": null
+                        },
+                        {
+                            "types": [
+                                "street"
+                            ],
+                            "name": "\u0110\u1ed7 \u0110\u00ecnh Thi\u1ec7n",
+                            "searchName": null
+                        }
+                    ],
+                    "typeInfos": null,
+                    "metadata": null,
+                    "address": "\u0110\u1ed7 \u0110\u00ecnh Thi\u1ec7n, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+                    "createdBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "updatedBy": {
+                        "userId": "b4e22d30-feb2-442c-aea8-814ed6e5e8e7",
+                        "displayName": "Th\u00e0nh Nguy\u1ec5n"
+                    },
+                    "createdDate": 1659435619628,
+                    "updatedDate": 1659435619628
+                },
+                "tags": [],
+                "phoneNumber": "0339544304",
+                "website": "",
+                "businessHours": null,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        105.776453,
+                        21.0150133
+                    ]
+                },
+                "rank": {
+                    "value": 0
+                },
+                "metadata": [],
+                "mediaFiles": []
+            }
+        ],
+        "location": {
+            "lng": 105.77585360369198,
+            "lat": 21.01501439056834
+        },
+        "scale": 1,
+        "bearing": 37,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.75,
+            "bearing": -141.96424729051148,
+            "tilt": 60,
+            "target": {
+                "lng": 105.77594079731125,
+                "lat": 21.014981699199495
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "62e8fa3831332f97a73f0927.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/62e8fa3831332f97a73f0927.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.77590171984417,
+                    "lat": 21.015059306325785
+                },
+                {
+                    "lng": 105.7759017198152,
+                    "lat": 21.014969474797372
+                },
+                {
+                    "lng": 105.77580548756877,
+                    "lat": 21.014969474797372
+                },
+                {
+                    "lng": 105.7758054875398,
+                    "lat": 21.015059306325785
+                },
+                {
+                    "lng": 105.77590171984417,
+                    "lat": 21.015059306325785
+                }
+            ],
+            "height": null,
+            "textureName": "62e8fa3931332f97a73f0929.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/62e8fa3931332f97a73f0929.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "\u0110\u1ed7 \u0110\u00ecnh Thi\u1ec7n"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "\u0110\u1ed7 \u0110\u00ecnh Thi\u1ec7n, Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

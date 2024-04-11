@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5fb5e66188977d3476acbb4c",
+        "name": "Spring Hotel Hanoi",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.78575994411352,
+            "lat": 21.02876395188413
+        },
+        "scale": 1,
+        "bearing": -9,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 20.7261,
+            "bearing": -33.309976550684404,
+            "tilt": 44.5,
+            "target": {
+                "lng": 105.78555732805302,
+                "lat": 21.028842964039335
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5fb5e64388977d3476acbb4a.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5fb5e64388977d3476acbb4a.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.78580806470335,
+                    "lat": 21.02880886764157
+                },
+                {
+                    "lng": 105.78580806467434,
+                    "lat": 21.028719036113156
+                },
+                {
+                    "lng": 105.7857118235527,
+                    "lat": 21.028719036113156
+                },
+                {
+                    "lng": 105.7857118235237,
+                    "lat": 21.02880886764157
+                },
+                {
+                    "lng": 105.78580806470335,
+                    "lat": 21.02880886764157
+                }
+            ],
+            "height": 1,
+            "textureName": "5fb5e64472a5c52114cdc68f.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5fb5e64472a5c52114cdc68f.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "D\u1ecbch V\u1ecdng H\u1eadu"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "100"
+            }
+        ],
+        "startDate": 1480525200000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": "100 D\u1ecbch V\u1ecdng H\u1eadu, Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

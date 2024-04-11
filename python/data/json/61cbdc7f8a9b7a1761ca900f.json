@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "61cbdc7f8a9b7a1761ca900f",
+        "name": " Lang Metro Station - Ray",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.81680155325853,
+            "lat": 21.011575421588148
+        },
+        "scale": 1.05,
+        "bearing": 35.25,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 18,
+            "bearing": -50.286235279594976,
+            "tilt": 42,
+            "target": {
+                "lng": 105.81695253751738,
+                "lat": 21.008137376489298
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "61cbdc758a9b7a1761ca900a.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/61cbdc758a9b7a1761ca900a.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.81684966830137,
+                    "lat": 21.011620337345597
+                },
+                {
+                    "lng": 105.8168496682724,
+                    "lat": 21.01153050581718
+                },
+                {
+                    "lng": 105.81675343824466,
+                    "lat": 21.01153050581718
+                },
+                {
+                    "lng": 105.8167534382157,
+                    "lat": 21.011620337345597
+                },
+                {
+                    "lng": 105.81684966830137,
+                    "lat": 21.011620337345597
+                }
+            ],
+            "height": null,
+            "textureName": "61cbdc758a9b7a1761ca900c.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/61cbdc758a9b7a1761ca900c.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Th\u1ecbnh Quang"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Y\u00ean L\u00e3ng"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "Y\u00ean L\u00e3ng, Ph\u01b0\u1eddng Th\u1ecbnh Quang, Qu\u1eadn \u0110\u1ed1ng \u0110a, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

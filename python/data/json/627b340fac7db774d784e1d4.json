@@ -1,0 +1,94 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "627b340fac7db774d784e1d4",
+        "name": "S\u00e2n T\u1eadp S\u1ed1 1",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.76320256766888,
+            "lat": 21.023856646304225
+        },
+        "scale": 1,
+        "bearing": 0,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": 20.79414130196306,
+            "tilt": 61,
+            "target": {
+                "lng": 105.76319744189928,
+                "lat": 21.023998193599127
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "627b6777ac7db774d784e350.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/627b6777ac7db774d784e350.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.76325068667448,
+                    "lat": 21.023901562061663
+                },
+                {
+                    "lng": 105.76325068664548,
+                    "lat": 21.02381173053325
+                },
+                {
+                    "lng": 105.76315444869229,
+                    "lat": 21.02381173053325
+                },
+                {
+                    "lng": 105.7631544486633,
+                    "lat": 21.023901562061663
+                },
+                {
+                    "lng": 105.76325068667448,
+                    "lat": 21.023901562061663
+                }
+            ],
+            "height": null,
+            "textureName": "627b6777ac7db774d784e352.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/627b6777ac7db774d784e352.jpg"
+        },
+        "types": [
+            "sports"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "sports": "Li\u00ean quan \u0111\u1ebfn th\u1ec3 d\u1ee5c th\u1ec3 thao"
+        },
+        "metadata": null,
+        "address": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

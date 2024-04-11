@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "5dc50fc68a491811d46b4b83",
+        "name": "Kh\u00e1ch s\u1ea1n H\u00e0 N\u1ed9i Daewoo",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.8115775308172,
+            "lat": 21.03082978087528
+        },
+        "scale": 1,
+        "bearing": -14,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19,
+            "bearing": -74.05940283894498,
+            "tilt": 75.5,
+            "target": {
+                "lng": 105.81199737981906,
+                "lat": 21.030703648574153
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "5dc50fc66aea330f8c097f1f.jpg",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/5dc50fc66aea330f8c097f1f.jpg",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.81162565207408,
+                    "lat": 21.030874696632715
+                },
+                {
+                    "lng": 105.81162565204508,
+                    "lat": 21.030784865104305
+                },
+                {
+                    "lng": 105.81152940958934,
+                    "lat": 21.030784865104305
+                },
+                {
+                    "lng": 105.81152940956034,
+                    "lat": 21.030874696632715
+                },
+                {
+                    "lng": 105.81162565207408,
+                    "lat": 21.030874696632715
+                }
+            ],
+            "height": 1,
+            "textureName": "5dc50fc56aea330f8c097f1d.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/5dc50fc56aea330f8c097f1d.jpg"
+        },
+        "types": [
+            "hotel"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ng\u1ecdc Kh\u00e1nh"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Kim M\u00e3"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "360"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "hotel": "Kh\u00e1ch s\u1ea1n"
+        },
+        "metadata": null,
+        "address": null
+    }
+}

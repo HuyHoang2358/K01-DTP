@@ -1,0 +1,107 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "60bf37d24391e3457053d766",
+        "name": "B\u00e1nh M\u00ec c\u00f4 Nga,B\u00fan M\u1ecdc B\u00e0 Gi\u00e0",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.85186082448195,
+            "lat": 21.035484428828
+        },
+        "scale": 1.2,
+        "bearing": 105.5,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 22,
+            "bearing": -60.37193880817968,
+            "tilt": 35,
+            "target": {
+                "lng": 105.85188333858197,
+                "lat": 21.035477198716023
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "60bf37c746969f2a68879688.obj",
+            "objUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/60bf37c746969f2a68879688.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.85190208762808,
+                    "lat": 21.03560326555036
+                },
+                {
+                    "lng": 105.85190208759906,
+                    "lat": 21.035513434021947
+                },
+                {
+                    "lng": 105.85180584208905,
+                    "lat": 21.035513434021947
+                },
+                {
+                    "lng": 105.85180584206003,
+                    "lat": 21.03560326555036
+                },
+                {
+                    "lng": 105.85190208762808,
+                    "lat": 21.03560326555036
+                }
+            ],
+            "height": 1,
+            "textureName": "60bf37ca4391e3457053d764.jpg",
+            "textureUrl": "https://sw-hcm-1.vinadata.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/60bf37ca4391e3457053d764.jpg"
+        },
+        "types": [
+            "point"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "city",
+                    "admin_level_2"
+                ],
+                "name": "H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Ho\u00e0n Ki\u1ebfm"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "H\u00e0ng Bu\u1ed3m"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "T\u1ea1 Hi\u1ec7n"
+            },
+            {
+                "types": [
+                    "housenumber"
+                ],
+                "name": "2"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "point": "\u0110\u1ecba \u0111i\u1ec3m n\u00f3i chung"
+        },
+        "metadata": null,
+        "address": "2 T\u1ea1 Hi\u1ec7n, H\u00e0ng Bu\u1ed3m, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i"
+    }
+}

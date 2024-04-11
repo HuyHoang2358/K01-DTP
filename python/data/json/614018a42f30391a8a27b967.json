@@ -1,0 +1,98 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "614018a42f30391a8a27b967",
+        "name": "Institute of Agricultural Engineering & Technology After Harvest",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.79586627964788,
+            "lat": 21.014942138423546
+        },
+        "scale": 1,
+        "bearing": -50,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 19.75,
+            "bearing": -36.3332956712297,
+            "tilt": 0,
+            "target": {
+                "lng": 105.79611909363001,
+                "lat": 21.01453144861469
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "614018902f30391a8a27b962.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/614018902f30391a8a27b962.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.79591439577678,
+                    "lat": 21.014987054180992
+                },
+                {
+                    "lng": 105.79591439574779,
+                    "lat": 21.01489722265258
+                },
+                {
+                    "lng": 105.79581816354799,
+                    "lat": 21.01489722265258
+                },
+                {
+                    "lng": 105.795818163519,
+                    "lat": 21.014987054180992
+                },
+                {
+                    "lng": 105.79591439577678,
+                    "lat": 21.014987054180992
+                }
+            ],
+            "height": null,
+            "textureName": "614018912f30391a8a27b964.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/614018912f30391a8a27b964.jpg"
+        },
+        "types": [
+            "goverment"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Trung Ho\u00e0"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "P. Trung K\u00ednh"
+            }
+        ],
+        "startDate": 1223398800000,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {},
+        "metadata": null,
+        "address": "P. Trung K\u00ednh, Ph\u01b0\u1eddng Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}

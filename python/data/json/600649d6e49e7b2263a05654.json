@@ -1,0 +1,100 @@
+{
+    "code": "ok",
+    "result": {
+        "id": "600649d6e49e7b2263a05654",
+        "name": "B\u1ebfn Xe Kim M\u00e3",
+        "places": null,
+        "placeDetails": [],
+        "location": {
+            "lng": 105.82945413551754,
+            "lat": 21.0321047388
+        },
+        "scale": 1,
+        "bearing": 165,
+        "elevation": 0,
+        "heightScale": 1,
+        "camera": {
+            "zoom": 21,
+            "bearing": -147.31246803202038,
+            "tilt": 69.5,
+            "target": {
+                "lng": 105.82946886935224,
+                "lat": 21.03212946156077
+            }
+        },
+        "model": {
+            "id": null,
+            "name": null,
+            "objName": "600648cfe49e7b2263a055c3.obj",
+            "objUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/models/600648cfe49e7b2263a055c3.obj",
+            "color": null,
+            "type": "Object",
+            "coordinates": [
+                {
+                    "lng": 105.82950225718614,
+                    "lat": 21.032149654557443
+                },
+                {
+                    "lng": 105.82950225715713,
+                    "lat": 21.032059823029027
+                },
+                {
+                    "lng": 105.82940601387796,
+                    "lat": 21.032059823029027
+                },
+                {
+                    "lng": 105.82940601384895,
+                    "lat": 21.032149654557443
+                },
+                {
+                    "lng": 105.82950225718614,
+                    "lat": 21.032149654557443
+                }
+            ],
+            "height": 1,
+            "textureName": "600648cf461fac04fec5b7ee.jpg",
+            "textureUrl": "https://hcm01.vstorage.vngcloud.vn/v1/AUTH_4486f66f671c41bab0d3dea1904626d4/sdk/textures/600648cf461fac04fec5b7ee.jpg"
+        },
+        "types": [
+            "bus_station"
+        ],
+        "minZoom": 17,
+        "maxZoom": 19,
+        "addressComponents": [
+            {
+                "types": [
+                    "admin_level_2"
+                ],
+                "name": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+            },
+            {
+                "types": [
+                    "admin_level_3"
+                ],
+                "name": "Qu\u1eadn Ba \u0110\u00ecnh"
+            },
+            {
+                "types": [
+                    "admin_level_4"
+                ],
+                "name": "Ph\u01b0\u1eddng Kim M\u00e3"
+            },
+            {
+                "types": [
+                    "street"
+                ],
+                "name": "Nguy\u1ec5n Th\u00e1i H\u1ecdc"
+            }
+        ],
+        "startDate": null,
+        "endDate": null,
+        "source": {
+            "name": "vmp"
+        },
+        "typeInfos": {
+            "bus_station": "B\u1ebfn xe"
+        },
+        "metadata": null,
+        "address": "Nguy\u1ec5n Th\u00e1i H\u1ecdc, Ph\u01b0\u1eddng Kim M\u00e3, Qu\u1eadn Ba \u0110\u00ecnh, Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i"
+    }
+}
