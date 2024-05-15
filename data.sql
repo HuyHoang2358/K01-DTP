@@ -14,11 +14,6 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
-
--- Dumping database structure for k01
-CREATE DATABASE IF NOT EXISTS `k01` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `k01`;
-
 -- Dumping structure for table k01.address
 CREATE TABLE IF NOT EXISTS `address` (
   `id` bigint unsigned NOT NULL AUTO_INCREMENT,
@@ -28,7 +23,7 @@ CREATE TABLE IF NOT EXISTS `address` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=848 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
--- Dumping data for table k01.address: ~808 rows (approximately)
+-- Dumping data for table k01.address: ~847 rows (approximately)
 INSERT INTO `address` (`id`, `name`, `created_at`, `updated_at`) VALUES
 	(1, '83A Lý Thường Kiệt, Cửa Nam, Hoàn Kiếm, Hà Nội 100000, Việt Nam', '2024-04-21 14:11:17', '2024-04-21 14:11:17'),
 	(2, 'P. 14.6 Phạm Hùng, Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội', '2024-04-21 14:11:18', '2024-04-21 14:11:18'),
