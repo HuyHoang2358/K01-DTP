@@ -1,7 +1,11 @@
 <IfModule mod_rewrite.c>
+
     <IfModule mod_negotiation.c>
         Options -MultiViews -Indexes
     </IfModule>
+    <ifModule mod_headers.c>
+        Header set Access-Control-Allow-Origin: *
+    </ifModule>
 
     RewriteEngine On
 
@@ -18,4 +22,5 @@
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
+
 </IfModule>

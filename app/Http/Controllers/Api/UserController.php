@@ -5,14 +5,18 @@ namespace App\Http\Controllers\Api;
 use App\Http\Controllers\Controller;
 use App\Models\Position;
 use App\Models\User;
+use App\Traits\RespondsWithHttpStatus;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
+    use RespondsWithHttpStatus;
+
     public function index(): JsonResponse
     {
-        return response()->json(User::all(), 200);
+        return $this->success("", User::with('position')->get(), 200);
+
     }
 
     public function store(Request $request): JsonResponse
@@ -26,10 +30,11 @@ class UserController extends Controller
         $user = User::create([
             'name' => $input['name'],
             'email' => $input['email'],
-            'avatar_path' => $input['avatar_path'] ?? "/images/BCA/ca.png",
+            'avatar_path' => $input['avatar_path'] ?? "/images/BCA/police.jpg",
             'position_id' => $position->id,
             'password' => bcrypt($input['password']) ?? bcrypt('123456'),
-            'status' => 'active'
+            'status' => 'active',
+            'code' => $input['code']
         ]);
         return response()->json($user, 200);
     }
@@ -51,7 +56,8 @@ class UserController extends Controller
         $user->update([
             'name' => $input['name'] ?? $user->name,
             'avatar_path' => $input['avatar_path'] ?? $user->avatar_path,
-            'status' => $input['status'] ?? $user->status
+            'status' => $input['status'] ?? $user->status,
+            'code' => $input['code'] ?? $user->code
         ]);
 
         return response()->json($user, 200);

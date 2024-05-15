@@ -7,15 +7,20 @@ use App\Models\address;
 use App\Models\cityModel;
 use App\Models\CityObject;
 use App\Models\Position;
+use App\Traits\RespondsWithHttpStatus;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
 
 class CityObjectController extends Controller
 {
-    public function index(): JsonResponse
-    {
+    use RespondsWithHttpStatus;
 
-        return response()->json(CityObject::all(), 200);
+    public function index($city_id): JsonResponse
+    {
+        $cityObjects = CityObject::where('city_id','=', $city_id)
+            ->with('address')->with('position')->with('cityModel')
+            ->get()->toArray();
+        return $this->success("", $cityObjects/*array_slice($cityObjects,0, 20)*/, 200);
     }
 
     public function store(Request $request): JsonResponse
@@ -48,9 +53,10 @@ class CityObjectController extends Controller
             'start_date'=> null,
             'end_date' => null,
             'city_model_id' => $cityModel->id,
-            'is_show_name' => $input['is_show_name'],
-            'name_height' => $input['name_height'],
+            'is_show_name' => $input['is_show_name'] ?? 0,
+            'name_height' => $input['name_height'] ?? 30,
         ]);
-        return response()->json($cityObject, 200);
+
+        return $this->success("", $cityObject, 200);
     }
 }

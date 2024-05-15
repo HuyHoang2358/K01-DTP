@@ -16,6 +16,7 @@ return new class extends Migration
             $table->foreignId('position_id')->constrained('position')->cascadeOnDelete();
             $table->foreignId('task_id')->constrained('task')->cascadeOnDelete();
             $table->foreignId('position_type_id')->constrained('position_type')->cascadeOnDelete();
+            $table->foreignId('user_id')->constrained('users')->cascadeOnDelete();
             $table->string('status');
             $table->longText('description')->nullable();
             $table->string('documents')->nullable();

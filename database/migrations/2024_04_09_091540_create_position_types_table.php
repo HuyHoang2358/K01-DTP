@@ -15,6 +15,8 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('icon_path');
+            $table->string('color');
+            $table->string('cesium_icon');
             $table->timestamps();
         });
     }

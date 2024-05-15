@@ -13,4 +13,10 @@ class Position extends Model
     use HasFactory;
     protected $table = 'position';
     protected $fillable = ['latitude', 'longitude', 'height'];
+
+    protected $hidden = [
+        'created_at',
+        'updated_at',
+    ];
+
 }

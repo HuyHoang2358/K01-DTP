@@ -27,7 +27,8 @@ class User extends Authenticatable
         'avatar_path',
         'position_id',
         'password',
-        'status'
+        'status',
+        'code'
     ];
 
     /**
@@ -38,6 +39,9 @@ class User extends Authenticatable
     protected $hidden = [
         'password',
         'remember_token',
+        'email_verified_at',
+        'created_at',
+        'updated_at',
     ];
 
     /**
@@ -61,4 +65,10 @@ class User extends Authenticatable
     {
         return $this->hasOne(Position::class, 'id', 'position_id');
     }
+
+    public function tasks(): \Illuminate\Database\Eloquent\Relations\BelongsToMany
+    {
+        return $this->belongsToMany(Task::class, 'user_task', 'user_id', 'task_id');
+    }
+
 }

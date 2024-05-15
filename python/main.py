@@ -39,8 +39,8 @@ def main():
         else:
             placeDetail = placeDetail[0]
 
-        if placeDetail["address"] and placeDetail["address"].find("Đà Nẵng") != -1: 
-            continue
+        #if placeDetail["address"] is not None and placeDetail["address"].find("Đà Nẵng") != -1: 
+        #    continue
 
         bodyRequest["description"] = placeDetail["description"]
         bodyRequest["city_id"] = "ha_noi"
@@ -63,7 +63,7 @@ def main():
         
         print(bodyRequest)
 
-        response = sendRequest('http://k01.th/api/city-object/store', bodyRequest)
+        response = sendRequest('http://127.0.0.1:8000/api/city-objects/store', bodyRequest)
         if response.status_code != 200:
             print("Error ------------")
             print(response.text)

@@ -23,4 +23,8 @@ class CityModel extends Model
         'heading',
         'roll',
     ];
+    protected $hidden = [
+        'created_at',
+        'updated_at',
+    ];
 }
