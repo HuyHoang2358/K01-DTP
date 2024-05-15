@@ -23,7 +23,7 @@ CREATE TABLE IF NOT EXISTS `address` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=848 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
--- Dumping data for table k01.address: ~847 rows (approximately)
+-- Dumping data for table k01.address: ~808 rows (approximately)
 INSERT INTO `address` (`id`, `name`, `created_at`, `updated_at`) VALUES
 	(1, '83A Lý Thường Kiệt, Cửa Nam, Hoàn Kiếm, Hà Nội 100000, Việt Nam', '2024-04-21 14:11:17', '2024-04-21 14:11:17'),
 	(2, 'P. 14.6 Phạm Hùng, Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội', '2024-04-21 14:11:18', '2024-04-21 14:11:18'),
@@ -3878,18 +3878,18 @@ INSERT INTO `task` (`id`, `name`, `description`, `type`, `start_date`, `end_date
 -- Dumping structure for table k01.users
 CREATE TABLE IF NOT EXISTS `users` (
   `id` bigint unsigned NOT NULL AUTO_INCREMENT,
-  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `phone` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `avatar_path` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `name` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `phone` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
+  `avatar_path` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
   `birthday` date DEFAULT NULL,
-  `function` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `function` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
   `position_id` bigint DEFAULT NULL,
-  `email` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `email` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',
   `email_verified_at` timestamp NULL DEFAULT NULL,
-  `password` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `status` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `code` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `remember_token` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `password` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `status` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
+  `code` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `remember_token` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`),
